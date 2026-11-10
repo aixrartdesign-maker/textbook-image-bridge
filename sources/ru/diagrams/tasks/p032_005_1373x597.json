@@ -1,0 +1,114 @@
+{
+ "stem": "p032_005_1373x597",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p032_005_1373x597.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Birth of film",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 43,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "1",
+   "en": "Nonlinear editing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 52,
+    "chars_per_line_if_shrunk": 63,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "2",
+   "en": "Generative AI",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "DSLR video",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 41,
+    "chars_per_line_if_shrunk": 50,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "4",
+   "en": "Widescreen",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 44,
+    "chars_per_line_if_shrunk": 54,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "14",
+   "en": "Sound film",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 52,
+    "chars_per_line_if_shrunk": 63,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "15",
+   "en": "Videotape",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 48,
+    "chars_per_line_if_shrunk": 58,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "16",
+   "en": "Short-form",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 41,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "17",
+   "en": "YouTube",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 44,
+    "chars_per_line_if_shrunk": 54,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

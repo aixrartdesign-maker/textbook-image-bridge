@@ -1,0 +1,374 @@
+[
+{
+"key": "templates.html#402",
+"ru": "0° фронт"
+},
+{
+"key": "templates.html#403",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#404",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#405",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#406",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#407",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#408",
+"ru": "CUT 06"
+},
+{
+"key": "templates.html#409",
+"ru": "0° фронт"
+},
+{
+"key": "templates.html#410",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#411",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#412",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#413",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#414",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#415",
+"ru": "CUT 07"
+},
+{
+"key": "templates.html#416",
+"ru": "0° фронт"
+},
+{
+"key": "templates.html#417",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#418",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#419",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#420",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#421",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#422",
+"ru": "CUT 08"
+},
+{
+"key": "templates.html#423",
+"ru": "0° фронт"
+},
+{
+"key": "templates.html#424",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#425",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#426",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#427",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#428",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#429",
+"ru": "Бордовая рамка = фронт 90° (поле зрения шлема). События держите в пределах ±30°, а то, что сзади, обозначайте звуком. Рядом нарисуйте карту обзора."
+},
+{
+"key": "templates.html#430",
+"ru": "Шаблон раскадровки · изогнутый·круговой LED"
+},
+{
+"key": "templates.html#431",
+"ru": "Цилиндрическая развёртка — иммерсивный зал · длина дуги : высота (напр. 9400×2000)"
+},
+{
+"key": "templates.html#432",
+"ru": "Проект ____________  Сцена ____  Стр. ___/___"
+},
+{
+"key": "templates.html#433",
+"ru": "Режиссёр ________  Дата ________  Версия v___"
+},
+{
+"key": "templates.html#434",
+"ru": "CUT 01"
+},
+{
+"key": "templates.html#435",
+"ru": "Уровень глаз"
+},
+{
+"key": "templates.html#436",
+"ru": "Л. край"
+},
+{
+"key": "templates.html#437",
+"ru": "Фронт"
+},
+{
+"key": "templates.html#438",
+"ru": "П. край"
+},
+{
+"key": "templates.html#439",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#440",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#441",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#442",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#443",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#444",
+"ru": "CUT 02"
+},
+{
+"key": "templates.html#445",
+"ru": "Уровень глаз"
+},
+{
+"key": "templates.html#446",
+"ru": "Л. край"
+},
+{
+"key": "templates.html#447",
+"ru": "Фронт"
+},
+{
+"key": "templates.html#448",
+"ru": "П. край"
+},
+{
+"key": "templates.html#449",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#450",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#451",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#452",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#453",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#454",
+"ru": "CUT 03"
+},
+{
+"key": "templates.html#455",
+"ru": "Уровень глаз"
+},
+{
+"key": "templates.html#456",
+"ru": "Л. край"
+},
+{
+"key": "templates.html#457",
+"ru": "Фронт"
+},
+{
+"key": "templates.html#458",
+"ru": "П. край"
+},
+{
+"key": "templates.html#459",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#460",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#461",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#462",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#463",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#464",
+"ru": "CUT 04"
+},
+{
+"key": "templates.html#465",
+"ru": "Уровень глаз"
+},
+{
+"key": "templates.html#466",
+"ru": "Л. край"
+},
+{
+"key": "templates.html#467",
+"ru": "Фронт"
+},
+{
+"key": "templates.html#468",
+"ru": "П. край"
+},
+{
+"key": "templates.html#469",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#470",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#471",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#472",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#473",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#474",
+"ru": "CUT 05"
+},
+{
+"key": "templates.html#475",
+"ru": "Уровень глаз"
+},
+{
+"key": "templates.html#476",
+"ru": "Л. край"
+},
+{
+"key": "templates.html#477",
+"ru": "Фронт"
+},
+{
+"key": "templates.html#478",
+"ru": "П. край"
+},
+{
+"key": "templates.html#479",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#480",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#481",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#482",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#483",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#484",
+"ru": "CUT 06"
+},
+{
+"key": "templates.html#485",
+"ru": "Уровень глаз"
+},
+{
+"key": "templates.html#486",
+"ru": "Л. край"
+},
+{
+"key": "templates.html#487",
+"ru": "Фронт"
+},
+{
+"key": "templates.html#488",
+"ru": "П. край"
+},
+{
+"key": "templates.html#489",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#490",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#491",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#492",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#493",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#494",
+"ru": "Пунктир = стыки модулей (без текста). Текст·лица — только в полосе уровня глаз (1,4–1,8 м от пола)."
+}
+]

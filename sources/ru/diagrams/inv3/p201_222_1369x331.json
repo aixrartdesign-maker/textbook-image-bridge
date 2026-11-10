@@ -1,0 +1,574 @@
+{
+ "stem": "p201_222_1369x331",
+ "size": [
+  3065,
+  700
+ ],
+ "elements": [
+  {
+   "kind": "token",
+   "en": "3",
+   "lines": [
+    [
+     1135,
+     270,
+     1150,
+     295
+    ]
+   ],
+   "ocr": "3",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.8,
+   "id": 0,
+   "box": [
+    1135,
+    270,
+    1150,
+    295
+   ],
+   "ltexts": [
+    "3"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    126,
+    129,
+    132
+   ],
+   "weight": "Regular",
+   "size": 34.78,
+   "baselines": [
+    295
+   ],
+   "xs": [
+    1134
+   ],
+   "inkboxes": [
+    [
+     1135,
+     269,
+     1151,
+     296
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.7,
+   "align": "left",
+   "room": {
+    "left": 36,
+    "right": 350,
+    "up": 31,
+    "down": 134,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Garbage matte",
+   "en": "Garbage matte",
+   "lines": [
+    [
+     234,
+     316,
+     505,
+     357
+    ]
+   ],
+   "ocr": "Garbage matte",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    234,
+    316,
+    505,
+    357
+   ],
+   "ltexts": [
+    "Garbage matte"
+   ],
+   "bg": [
+    240,
+    241,
+    243
+   ],
+   "bgstd": 1.3,
+   "color": [
+    19,
+    24,
+    28
+   ],
+   "weight": "Regular",
+   "size": 39.54,
+   "baselines": [
+    347
+   ],
+   "xs": [
+    232
+   ],
+   "inkboxes": [
+    [
+     234,
+     316,
+     505,
+     357
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.61,
+   "align": "center",
+   "room": {
+    "left": 69,
+    "right": 63,
+    "up": 78,
+    "down": 72,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "1st keying",
+   "en": "1st keying",
+   "lines": [
+    [
+     746,
+     316,
+     928,
+     357
+    ]
+   ],
+   "ocr": "1st keying",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 2,
+   "box": [
+    746,
+    316,
+    928,
+    357
+   ],
+   "ltexts": [
+    "1st keying"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    19,
+    24,
+    29
+   ],
+   "weight": "Regular",
+   "size": 39.78,
+   "baselines": [
+    347
+   ],
+   "xs": [
+    743
+   ],
+   "inkboxes": [
+    [
+     746,
+     316,
+     929,
+     357
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.72,
+   "align": "center",
+   "room": {
+    "left": 112,
+    "right": 107,
+    "up": 77,
+    "down": 72,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Matte cleanup",
+   "en": "Matte cleanup",
+   "lines": [
+    [
+     1173,
+     316,
+     1432,
+     356
+    ]
+   ],
+   "ocr": "Matte cleanup",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    1173,
+    316,
+    1432,
+    356
+   ],
+   "ltexts": [
+    "Matte cleanup"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    20,
+    25,
+    31
+   ],
+   "weight": "Regular",
+   "size": 39.53,
+   "baselines": [
+    347
+   ],
+   "xs": [
+    1169
+   ],
+   "inkboxes": [
+    [
+     1173,
+     316,
+     1432,
+     356
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.3,
+   "align": "center",
+   "room": {
+    "left": 74,
+    "right": 68,
+    "up": 77,
+    "down": 73,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Despill",
+   "en": "Despill",
+   "lines": [
+    [
+     1707,
+     316,
+     1828,
+     356
+    ]
+   ],
+   "ocr": "Despill",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 4,
+   "box": [
+    1707,
+    316,
+    1828,
+    356
+   ],
+   "ltexts": [
+    "Despill"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    18,
+    24,
+    28
+   ],
+   "weight": "Regular",
+   "size": 39.38,
+   "baselines": [
+    347
+   ],
+   "xs": [
+    1703
+   ],
+   "inkboxes": [
+    [
+     1707,
+     316,
+     1828,
+     356
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.68,
+   "align": "center",
+   "room": {
+    "left": 143,
+    "right": 139,
+    "up": 77,
+    "down": 73,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Edge work",
+   "en": "Edge work",
+   "lines": [
+    [
+     2140,
+     316,
+     2330,
+     357
+    ]
+   ],
+   "ocr": "Edge work",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 5,
+   "box": [
+    2140,
+    316,
+    2330,
+    357
+   ],
+   "ltexts": [
+    "Edge work"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    19,
+    24,
+    29
+   ],
+   "weight": "Regular",
+   "size": 39.48,
+   "baselines": [
+    347
+   ],
+   "xs": [
+    2136
+   ],
+   "inkboxes": [
+    [
+     2140,
+     316,
+     2330,
+     357
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.46,
+   "align": "center",
+   "room": {
+    "left": 110,
+    "right": 101,
+    "up": 77,
+    "down": 72,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Color match",
+   "en": "Color match",
+   "lines": [
+    [
+     2586,
+     316,
+     2808,
+     348
+    ]
+   ],
+   "ocr": "Color match",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 6,
+   "box": [
+    2586,
+    316,
+    2808,
+    348
+   ],
+   "ltexts": [
+    "Color match"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    20,
+    25,
+    31
+   ],
+   "weight": "Regular",
+   "size": 39.72,
+   "baselines": [
+    348
+   ],
+   "xs": [
+    2584
+   ],
+   "inkboxes": [
+    [
+     2586,
+     316,
+     2808,
+     348
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.72,
+   "align": "center",
+   "room": {
+    "left": 91,
+    "right": 89,
+    "up": 77,
+    "down": 81,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Watch the alpha in B&W as you work. Color alone misses translucent areas",
+   "en": "Watch the alpha in B&W as you work. Color alone misses translucent areas",
+   "lines": [
+    [
+     851,
+     530,
+     2216,
+     571
+    ]
+   ],
+   "ocr": "Watch the alpha in B&W as you work. Color alone misses translucent areas",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    851,
+    530,
+    2216,
+    571
+   ],
+   "ltexts": [
+    "Watch the alpha in B&W as you work. Color alone misses translucent areas"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    89,
+    93,
+    98
+   ],
+   "weight": "Regular",
+   "size": 39.83,
+   "baselines": [
+    562
+   ],
+   "xs": [
+    850
+   ],
+   "inkboxes": [
+    [
+     851,
+     530,
+     2217,
+     571
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.45,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 851,
+    "right": 849,
+    "up": 89,
+    "down": 129,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "AL",
+   "box": [
+    203,
+    270,
+    217,
+    295
+   ],
+   "conf": 29.3
+  }
+ ]
+}

@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#102",
+"ru": "CUT 05"
+},
+{
+"key": "templates.html#103",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#104",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#105",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#106",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#107",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#108",
+"ru": "CUT 06"
+},
+{
+"key": "templates.html#109",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#110",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#111",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#112",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#113",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#114",
+"ru": "CUT 07"
+},
+{
+"key": "templates.html#115",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#116",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#117",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#118",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#119",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#120",
+"ru": "CUT 08"
+},
+{
+"key": "templates.html#121",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#122",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#123",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#124",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#125",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#126",
+"ru": "CUT 09"
+},
+{
+"key": "templates.html#127",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#128",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#129",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#130",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#131",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#132",
+"ru": "Сдача в 16:9 — с полосами. Двое в одном кадре; историю рассказывает пустота по ширине."
+},
+{
+"key": "templates.html#133",
+"ru": "Шаблон раскадровки · 9:16"
+},
+{
+"key": "templates.html#134",
+"ru": "Reels·Shorts·TikTok — вертикальный стандарт · 1080×1920"
+},
+{
+"key": "templates.html#135",
+"ru": "Проект ____________  Сцена ____  Стр. ___/___"
+},
+{
+"key": "templates.html#136",
+"ru": "Режиссёр ________  Дата ________  Версия v___"
+},
+{
+"key": "templates.html#137",
+"ru": "CUT 01"
+},
+{
+"key": "templates.html#138",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#139",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#140",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#141",
+"ru": "SE"
+},
+{
+"key": "templates.html#142",
+"ru": "CUT 02"
+},
+{
+"key": "templates.html#143",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#144",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#145",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#146",
+"ru": "SE"
+},
+{
+"key": "templates.html#147",
+"ru": "CUT 03"
+},
+{
+"key": "templates.html#148",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#149",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#150",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#151",
+"ru": "SE"
+},
+{
+"key": "templates.html#152",
+"ru": "CUT 04"
+},
+{
+"key": "templates.html#153",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#154",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#155",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#156",
+"ru": "SE"
+},
+{
+"key": "templates.html#157",
+"ru": "CUT 05"
+},
+{
+"key": "templates.html#158",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#159",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#160",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#161",
+"ru": "SE"
+},
+{
+"key": "templates.html#162",
+"ru": "CUT 06"
+},
+{
+"key": "templates.html#163",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#164",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#165",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#166",
+"ru": "SE"
+},
+{
+"key": "templates.html#167",
+"ru": "CUT 07"
+},
+{
+"key": "templates.html#168",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#169",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#170",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#171",
+"ru": "SE"
+},
+{
+"key": "templates.html#172",
+"ru": "CUT 08"
+},
+{
+"key": "templates.html#173",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#174",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#175",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#176",
+"ru": "SE"
+},
+{
+"key": "templates.html#177",
+"ru": "CUT 09"
+},
+{
+"key": "templates.html#178",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#179",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#180",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#181",
+"ru": "SE"
+},
+{
+"key": "templates.html#182",
+"ru": "Серое = интерфейс платформы (верх 14 %·низ 25 %·кнопки справа). Лица — в верхней 1/3, титры — в средней полосе."
+},
+{
+"key": "templates.html#183",
+"ru": "Шаблон раскадровки · 9:21"
+},
+{
+"key": "templates.html#184",
+"ru": "Вертикальные LED·вывески — колонна · 1080×2520"
+},
+{
+"key": "templates.html#185",
+"ru": "Проект ____________  Сцена ____  Стр. ___/___"
+},
+{
+"key": "templates.html#186",
+"ru": "Режиссёр ________  Дата ________  Версия v___"
+},
+{
+"key": "templates.html#187",
+"ru": "CUT 01"
+},
+{
+"key": "templates.html#188",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#189",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#190",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#191",
+"ru": "SE"
+},
+{
+"key": "templates.html#192",
+"ru": "CUT 02"
+},
+{
+"key": "templates.html#193",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#194",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#195",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#196",
+"ru": "SE"
+},
+{
+"key": "templates.html#197",
+"ru": "CUT 03"
+},
+{
+"key": "templates.html#198",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#199",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#200",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#201",
+"ru": "SE"
+},
+{
+"key": "templates.html#202",
+"ru": "CUT 04"
+},
+{
+"key": "templates.html#203",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#204",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#205",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#206",
+"ru": "SE"
+},
+{
+"key": "templates.html#207",
+"ru": "CUT 05"
+},
+{
+"key": "templates.html#208",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#209",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#210",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#211",
+"ru": "SE"
+},
+{
+"key": "templates.html#212",
+"ru": "CUT 06"
+},
+{
+"key": "templates.html#213",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#214",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#215",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#216",
+"ru": "SE"
+},
+{
+"key": "templates.html#217",
+"ru": "CUT 07"
+},
+{
+"key": "templates.html#218",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#219",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#220",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#221",
+"ru": "SE"
+},
+{
+"key": "templates.html#222",
+"ru": "CUT 08"
+},
+{
+"key": "templates.html#223",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#224",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#225",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#226",
+"ru": "SE"
+},
+{
+"key": "templates.html#227",
+"ru": "CUT 09"
+},
+{
+"key": "templates.html#228",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#229",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#230",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#231",
+"ru": "SE"
+},
+{
+"key": "templates.html#232",
+"ru": "Действие идёт сверху→вниз. Просмотр с 2 м и дальше → текст не меньше 60 px."
+},
+{
+"key": "templates.html#233",
+"ru": "Шаблон раскадровки · 1:1 карусель"
+},
+{
+"key": "templates.html#234",
+"ru": "Лента·карусель — квадрат · 1080×1080"
+},
+{
+"key": "templates.html#235",
+"ru": "Проект ____________  Сцена ____  Стр. ___/___"
+},
+{
+"key": "templates.html#236",
+"ru": "Режиссёр ________  Дата ________  Версия v___"
+},
+{
+"key": "templates.html#237",
+"ru": "CUT 01"
+},
+{
+"key": "templates.html#238",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#239",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#240",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#241",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#242",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#243",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#244",
+"ru": "CUT 02"
+},
+{
+"key": "templates.html#245",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#246",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#247",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#248",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#249",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#250",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#251",
+"ru": "CUT 03"
+}
+]

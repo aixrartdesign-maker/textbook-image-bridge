@@ -1,0 +1,358 @@
+{
+ "stem": "p322_316_1831x681",
+ "size": [
+  3075,
+  1025
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Line of action: one curve through the body — an axis makes the pose read",
+   "en": "Line of action: one curve through the body — an axis makes the pose read",
+   "lines": [
+    [
+     580,
+     34,
+     2493,
+     89
+    ]
+   ],
+   "ocr": "Line of action: one curve through the body an axis makes the pose read",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    580,
+    34,
+    2493,
+    89
+   ],
+   "ltexts": [
+    "Line of action: one curve through the body — an axis makes the pose read"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    61,
+    62,
+    67
+   ],
+   "weight": "Bold",
+   "size": 52.68,
+   "baselines": [
+    77
+   ],
+   "xs": [
+    575
+   ],
+   "inkboxes": [
+    [
+     580,
+     34,
+     2493,
+     89
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.33,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 580,
+    "right": 582,
+    "up": 34,
+    "down": 35,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "C curve — one force",
+   "en": "C curve — one force",
+   "lines": [
+    [
+     1294,
+     892,
+     1780,
+     931
+    ]
+   ],
+   "ocr": "C curve one force",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    1294,
+    892,
+    1780,
+    931
+   ],
+   "ltexts": [
+    "C curve — one force"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    128,
+    20,
+    40
+   ],
+   "weight": "Bold",
+   "size": 51.27,
+   "baselines": [
+    932
+   ],
+   "xs": [
+    1291
+   ],
+   "inkboxes": [
+    [
+     1294,
+     892,
+     1780,
+     931
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.61,
+   "align": "left",
+   "room": {
+    "left": 1294,
+    "right": 1295,
+    "up": 25,
+    "down": 94,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Weak pose — no axis",
+   "en": "Weak pose — no axis",
+   "lines": [
+    [
+     316,
+     893,
+     837,
+     941
+    ]
+   ],
+   "ocr": "Weak pose no axis",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    316,
+    893,
+    837,
+    941
+   ],
+   "ltexts": [
+    "Weak pose — no axis"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    63,
+    64,
+    69
+   ],
+   "weight": "Bold",
+   "size": 52.1,
+   "baselines": [
+    932
+   ],
+   "xs": [
+    315
+   ],
+   "inkboxes": [
+    [
+     316,
+     893,
+     837,
+     941
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.42,
+   "align": "left",
+   "room": {
+    "left": 316,
+    "right": 2238,
+    "up": 26,
+    "down": 84,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "S curve — balance & rhythm",
+   "en": "S curve — balance & rhythm",
+   "lines": [
+    [
+     2156,
+     893,
+     2848,
+     941
+    ]
+   ],
+   "ocr": "S curve balance rhythm",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    2156,
+    893,
+    2848,
+    941
+   ],
+   "ltexts": [
+    "S curve — balance & rhythm"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    129,
+    21,
+    40
+   ],
+   "weight": "Bold",
+   "size": 50.88,
+   "baselines": [
+    931
+   ],
+   "xs": [
+    2154
+   ],
+   "inkboxes": [
+    [
+     2156,
+     893,
+     2847,
+     941
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.5,
+   "align": "left",
+   "room": {
+    "left": 2156,
+    "right": 227,
+    "up": 26,
+    "down": 84,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "a",
+   "box": [
+    542,
+    253,
+    581,
+    288
+   ],
+   "conf": 3.9
+  },
+  {
+   "text": "AG",
+   "box": [
+    509,
+    283,
+    590,
+    336
+   ],
+   "conf": 2.7
+  },
+  {
+   "text": "ME",
+   "box": [
+    1693,
+    339,
+    1746,
+    370
+   ],
+   "conf": 61.5
+  },
+  {
+   "text": "Re",
+   "box": [
+    2500,
+    373,
+    2569,
+    425
+   ],
+   "conf": 30.2
+  },
+  {
+   "text": "dy",
+   "box": [
+    491,
+    521,
+    535,
+    584
+   ],
+   "conf": 34.5
+  },
+  {
+   "text": "yy",
+   "box": [
+    1555,
+    682,
+    1687,
+    790
+   ],
+   "conf": 17.5
+  },
+  {
+   "text": "a‘",
+   "box": [
+    545,
+    791,
+    549,
+    795
+   ],
+   "conf": 11.2
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "stem": "p165_193_1831x1043",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p165_193_1831x1043.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Chroma key is all lighting — light screen and subject separately",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 64,
+    "chars_per_line_max": 102,
+    "chars_per_line_if_shrunk": 124,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Overhead studio layout",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 46,
+    "chars_per_line_if_shrunk": 56,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "3-step compositing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 49,
+    "chars_per_line_if_shrunk": 60,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Green screen",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 43,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "BG light",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 9,
+    "chars_per_line_if_shrunk": 11,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "BG light",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 11,
+    "chars_per_line_if_shrunk": 13,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "2m or more",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 10,
+    "chars_per_line_if_shrunk": 12,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "8",
+   "en": "Subject",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 10,
+    "chars_per_line_if_shrunk": 12,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Key (subject)",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "10",
+   "en": "① Shooting",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "③ Composite",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "② Matte",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "Evenly lit green",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 31,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "White = what stays",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "15",
+   "en": "New BG goes behind",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 25,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "Camera",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "23",
+   "en": "Even BG lighting",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 31,
+    "chars_per_line_if_shrunk": 38,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "24",
+   "en": "Separate subject light",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 38,
+    "chars_per_line_if_shrunk": 46,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "25",
+   "en": "Exposure check",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 34,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "26",
+   "en": "On-set test keying",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "27",
+   "en": "BG separation",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "28",
+   "en": "Spill suppression",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 36,
+    "chars_per_line_if_shrunk": 44,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "29",
+   "en": "If the subject is near the screen, green bounce tints the hair — distance is the surest fix",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 91,
+    "chars_per_line_max": 160,
+    "chars_per_line_if_shrunk": 195,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

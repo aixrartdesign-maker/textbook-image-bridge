@@ -1,0 +1,78 @@
+{
+ "stem": "p064_049_1829x1022",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p064_049_1829x1022.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Shot-size crop lines on body proportions make framing measurable",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 64,
+    "chars_per_line_max": 93,
+    "chars_per_line_if_shrunk": 114,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Head units",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 116,
+    "chars_per_line_if_shrunk": 142,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Crop lines to avoid",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 32,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "8",
+   "en": "× Elbows",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "10",
+   "en": "× Wrists",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "12",
+   "en": "× Knees",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

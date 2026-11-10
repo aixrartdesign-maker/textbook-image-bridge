@@ -1,0 +1,1341 @@
+{
+ "stem": "p395_336_1373x597",
+ "size": [
+  2689,
+  1128
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Your first role isn't who you'll be — lateral moves are common",
+   "en": "Your first role isn't who you'll be — lateral moves are common",
+   "lines": [
+    [
+     721,
+     77,
+     1933,
+     119
+    ]
+   ],
+   "ocr": "Your first role isn't who you'll be lateral moves are common",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    721,
+    77,
+    1933,
+    119
+   ],
+   "ltexts": [
+    "Your first role isn't who you'll be — lateral moves are common"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    130,
+    33,
+    47
+   ],
+   "weight": "Regular",
+   "size": 41.7,
+   "baselines": [
+    109
+   ],
+   "xs": [
+    721
+   ],
+   "inkboxes": [
+    [
+     721,
+     77,
+     1933,
+     119
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.28,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 721,
+    "right": 756,
+    "up": 77,
+    "down": 112,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "manual",
+   "en": "Operations",
+   "lines": [
+    [
+     2269,
+     267,
+     2474,
+     310
+    ]
+   ],
+   "ocr": "",
+   "ratio": null,
+   "src": [
+    "manual"
+   ],
+   "id": 1,
+   "box": [
+    2269,
+    267,
+    2474,
+    310
+   ],
+   "ltexts": [
+    "Operations"
+   ],
+   "bg": [
+    32,
+    33,
+    34
+   ],
+   "bgstd": 1.0,
+   "color": [
+    251,
+    251,
+    251
+   ],
+   "weight": "Bold",
+   "size": 38.02,
+   "baselines": [
+    300
+   ],
+   "xs": [
+    2267
+   ],
+   "inkboxes": [
+    [
+     2269,
+     269,
+     2474,
+     308
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.69,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 168,
+    "right": 169,
+    "up": 29,
+    "down": 25,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Shooting",
+   "en": "Shooting",
+   "lines": [
+    [
+     1002,
+     269,
+     1170,
+     308
+    ]
+   ],
+   "ocr": "Shooting",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 2,
+   "box": [
+    1002,
+    269,
+    1170,
+    308
+   ],
+   "ltexts": [
+    "Shooting"
+   ],
+   "bg": [
+    32,
+    33,
+    34
+   ],
+   "bgstd": 1.5,
+   "color": [
+    251,
+    251,
+    252
+   ],
+   "weight": "Bold",
+   "size": 37.71,
+   "baselines": [
+    299
+   ],
+   "xs": [
+    1000
+   ],
+   "inkboxes": [
+    [
+     1002,
+     269,
+     1170,
+     308
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.4,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 184,
+    "right": 188,
+    "up": 31,
+    "down": 27,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "manual",
+   "en": "Post-production",
+   "lines": [
+    [
+     1577,
+     269,
+     1882,
+     308
+    ]
+   ],
+   "ocr": "",
+   "ratio": null,
+   "src": [
+    "manual"
+   ],
+   "id": 3,
+   "box": [
+    1577,
+    269,
+    1882,
+    308
+   ],
+   "ltexts": [
+    "Post-production"
+   ],
+   "bg": [
+    118,
+    29,
+    41
+   ],
+   "bgstd": 1.4,
+   "color": [
+    253,
+    251,
+    251
+   ],
+   "weight": "Bold",
+   "size": 38.46,
+   "baselines": [
+    300
+   ],
+   "xs": [
+    1574
+   ],
+   "inkboxes": [
+    [
+     1577,
+     269,
+     1882,
+     308
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.31,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 119,
+    "right": 120,
+    "up": 31,
+    "down": 27,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Planning",
+   "en": "Planning",
+   "lines": [
+    [
+     368,
+     270,
+     530,
+     308
+    ]
+   ],
+   "ocr": "Planning",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 4,
+   "box": [
+    368,
+    270,
+    530,
+    308
+   ],
+   "ltexts": [
+    "Planning"
+   ],
+   "bg": [
+    31,
+    33,
+    34
+   ],
+   "bgstd": 1.3,
+   "color": [
+    252,
+    252,
+    252
+   ],
+   "weight": "Bold",
+   "size": 37.45,
+   "baselines": [
+    299
+   ],
+   "xs": [
+    365
+   ],
+   "inkboxes": [
+    [
+     368,
+     269,
+     530,
+     308
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.65,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 190,
+    "right": 189,
+    "up": 32,
+    "down": 27,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Editor",
+   "en": "Editor",
+   "lines": [
+    [
+     1686,
+     400,
+     1774,
+     426
+    ]
+   ],
+   "ocr": "Editor",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 5,
+   "box": [
+    1686,
+    400,
+    1774,
+    426
+   ],
+   "ltexts": [
+    "Editor"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    34,
+    35,
+    37
+   ],
+   "weight": "Regular",
+   "size": 31.37,
+   "baselines": [
+    425
+   ],
+   "xs": [
+    1684
+   ],
+   "inkboxes": [
+    [
+     1687,
+     401,
+     1774,
+     426
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.48,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 175,
+    "right": 174,
+    "up": 33,
+    "down": 37,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Channel producer",
+   "en": "Channel producer",
+   "lines": [
+    [
+     2235,
+     400,
+     2510,
+     433
+    ]
+   ],
+   "ocr": "Channel producer",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 6,
+   "box": [
+    2235,
+    400,
+    2510,
+    433
+   ],
+   "ltexts": [
+    "Channel producer"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    36,
+    37,
+    38
+   ],
+   "weight": "Regular",
+   "size": 33.05,
+   "baselines": [
+    426
+   ],
+   "xs": [
+    2233
+   ],
+   "inkboxes": [
+    [
+     2235,
+     401,
+     2509,
+     433
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.49,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 80,
+    "right": 79,
+    "up": 33,
+    "down": 30,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Video producer",
+   "en": "Video producer",
+   "lines": [
+    [
+     331,
+     401,
+     566,
+     433
+    ]
+   ],
+   "ocr": "Video producer",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 7,
+   "box": [
+    331,
+    401,
+    566,
+    433
+   ],
+   "ltexts": [
+    "Video producer"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    38,
+    39,
+    40
+   ],
+   "weight": "Regular",
+   "size": 33.05,
+   "baselines": [
+    426
+   ],
+   "xs": [
+    331
+   ],
+   "inkboxes": [
+    [
+     331,
+     401,
+     566,
+     433
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.57,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 100,
+    "right": 99,
+    "up": 34,
+    "down": 30,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "DP",
+   "en": "DP",
+   "lines": [
+    [
+     1065,
+     402,
+     1106,
+     426
+    ]
+   ],
+   "ocr": "DP",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 8,
+   "box": [
+    1065,
+    402,
+    1106,
+    426
+   ],
+   "ltexts": [
+    "DP"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    37,
+    38,
+    39
+   ],
+   "weight": "Regular",
+   "size": 35.04,
+   "baselines": [
+    427
+   ],
+   "xs": [
+    1062
+   ],
+   "inkboxes": [
+    [
+     1065,
+     402,
+     1106,
+     426
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.74,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 194,
+    "right": 198,
+    "up": 35,
+    "down": 37,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Content marketer",
+   "en": "Content marketer",
+   "lines": [
+    [
+     316,
+     534,
+     582,
+     560
+    ]
+   ],
+   "ocr": "Content marketer",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 9,
+   "box": [
+    316,
+    534,
+    582,
+    560
+   ],
+   "ltexts": [
+    "Content marketer"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    35,
+    36,
+    36
+   ],
+   "weight": "Medium",
+   "size": 31.27,
+   "baselines": [
+    559
+   ],
+   "xs": [
+    314
+   ],
+   "inkboxes": [
+    [
+     316,
+     535,
+     582,
+     560
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.23,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 85,
+    "right": 83,
+    "up": 31,
+    "down": 38,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Commerce video",
+   "en": "Commerce video",
+   "lines": [
+    [
+     2243,
+     534,
+     2500,
+     560
+    ]
+   ],
+   "ocr": "Commerce video",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 10,
+   "box": [
+    2243,
+    534,
+    2500,
+    560
+   ],
+   "ltexts": [
+    "Commerce video"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    36,
+    37,
+    38
+   ],
+   "weight": "Regular",
+   "size": 33.16,
+   "baselines": [
+    560
+   ],
+   "xs": [
+    2241
+   ],
+   "inkboxes": [
+    [
+     2243,
+     535,
+     2500,
+     560
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.61,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 88,
+    "right": 89,
+    "up": 31,
+    "down": 38,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Lighting",
+   "en": "Lighting",
+   "lines": [
+    [
+     1026,
+     535,
+     1144,
+     567
+    ]
+   ],
+   "ocr": "Lighting",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 11,
+   "box": [
+    1026,
+    535,
+    1144,
+    567
+   ],
+   "ltexts": [
+    "Lighting"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 2.0,
+   "color": [
+    4,
+    4,
+    4
+   ],
+   "weight": "Medium",
+   "size": 30.87,
+   "baselines": [
+    559
+   ],
+   "xs": [
+    1023
+   ],
+   "inkboxes": [
+    [
+     1026,
+     535,
+     1144,
+     567
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.41,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 155,
+    "right": 160,
+    "up": 32,
+    "down": 31,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Motion designer",
+   "en": "Motion designer",
+   "lines": [
+    [
+     1607,
+     535,
+     1854,
+     567
+    ]
+   ],
+   "ocr": "Motion designer",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 12,
+   "box": [
+    1607,
+    535,
+    1854,
+    567
+   ],
+   "ltexts": [
+    "Motion designer"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    7,
+    7,
+    7
+   ],
+   "weight": "Regular",
+   "size": 33.24,
+   "baselines": [
+    560
+   ],
+   "xs": [
+    1604
+   ],
+   "inkboxes": [
+    [
+     1607,
+     535,
+     1854,
+     567
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 96,
+    "right": 94,
+    "up": 32,
+    "down": 31,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "XR planner",
+   "en": "XR planner",
+   "lines": [
+    [
+     364,
+     671,
+     532,
+     703
+    ]
+   ],
+   "ocr": "XR planner",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 13,
+   "box": [
+    364,
+    671,
+    532,
+    703
+   ],
+   "ltexts": [
+    "XR planner"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    4,
+    4,
+    4
+   ],
+   "weight": "Medium",
+   "size": 31.9,
+   "baselines": [
+    696
+   ],
+   "xs": [
+    363
+   ],
+   "inkboxes": [
+    [
+     364,
+     671,
+     532,
+     703
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.18,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 133,
+    "right": 133,
+    "up": 32,
+    "down": 33,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Sound",
+   "en": "Sound",
+   "lines": [
+    [
+     1032,
+     671,
+     1126,
+     697
+    ]
+   ],
+   "ocr": "Sound",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 14,
+   "box": [
+    1032,
+    671,
+    1126,
+    697
+   ],
+   "ltexts": [
+    "Sound"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    3,
+    4,
+    4
+   ],
+   "weight": "Regular",
+   "size": 32.43,
+   "baselines": [
+    696
+   ],
+   "xs": [
+    1030
+   ],
+   "inkboxes": [
+    [
+     1032,
+     671,
+     1127,
+     697
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.5,
+   "align": "center",
+   "room": {
+    "left": 162,
+    "right": 178,
+    "up": 32,
+    "down": 39,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Colorist",
+   "en": "Colorist",
+   "lines": [
+    [
+     1671,
+     671,
+     1788,
+     697
+    ]
+   ],
+   "ocr": "Colorist",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 15,
+   "box": [
+    1671,
+    671,
+    1788,
+    697
+   ],
+   "ltexts": [
+    "Colorist"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.5,
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "weight": "Regular",
+   "size": 32.43,
+   "baselines": [
+    696
+   ],
+   "xs": [
+    1669
+   ],
+   "inkboxes": [
+    [
+     1671,
+     671,
+     1787,
+     697
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.44,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 160,
+    "right": 160,
+    "up": 33,
+    "down": 39,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "AD·assistant director",
+   "en": "AD·assistant director",
+   "lines": [
+    [
+     2206,
+     671,
+     2536,
+     697
+    ]
+   ],
+   "ocr": "AD -assistant director",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 16,
+   "box": [
+    2206,
+    671,
+    2536,
+    697
+   ],
+   "ltexts": [
+    "AD·assistant director"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "weight": "Medium",
+   "size": 32.49,
+   "baselines": [
+    696
+   ],
+   "xs": [
+    2206
+   ],
+   "inkboxes": [
+    [
+     2206,
+     671,
+     2536,
+     697
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.29,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 51,
+    "right": 53,
+    "up": 32,
+    "down": 39,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "VFX",
+   "lines": [
+    [
+     1698,
+     812,
+     1759,
+     837
+    ]
+   ],
+   "ocr": "VFX",
+   "ratio": null,
+   "src": [
+    "crop"
+   ],
+   "conf": 95.8,
+   "id": 17,
+   "box": [
+    1698,
+    812,
+    1759,
+    837
+   ],
+   "ltexts": [
+    "VFX"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.7,
+   "color": [
+    4,
+    4,
+    4
+   ],
+   "weight": "Regular",
+   "size": 36.97,
+   "baselines": [
+    838
+   ],
+   "xs": [
+    1698
+   ],
+   "inkboxes": [
+    [
+     1698,
+     812,
+     1759,
+     837
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.65,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 187,
+    "right": 189,
+    "up": 35,
+    "down": 39,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "New hires cluster in post-production and operations",
+   "en": "New hires cluster in post-production and operations",
+   "lines": [
+    [
+     927,
+     1019,
+     1768,
+     1053
+    ]
+   ],
+   "ocr": "New hires cluster in post-production and operations",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 18,
+   "box": [
+    927,
+    1019,
+    1768,
+    1053
+   ],
+   "ltexts": [
+    "New hires cluster in post-production and operations"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    102,
+    102,
+    103
+   ],
+   "weight": "Regular",
+   "size": 35.06,
+   "baselines": [
+    1046
+   ],
+   "xs": [
+    924
+   ],
+   "inkboxes": [
+    [
+     927,
+     1019,
+     1768,
+     1053
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.3,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 927,
+    "right": 921,
+    "up": 62,
+    "down": 75,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "os oe",
+   "box": [
+    1649,
+    179,
+    2652,
+    383
+   ],
+   "conf": 29.2
+  },
+  {
+   "text": "Post",
+   "box": [
+    1577,
+    271,
+    1659,
+    300
+   ],
+   "conf": 96.4
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "stem": "p336_321_1828x734",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p336_321_1828x734.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "15s = 0s  seamless",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "1",
+   "en": "0s  eye-catching motion",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 23,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "2",
+   "en": "Silent",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 25,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "15s loop",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Big, short text",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "3s  brand · one line",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "6",
+   "en": "12s  logo hold",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 20,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "7",
+   "en": "8s  visual proof",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 52,
+    "chars_per_line_if_shrunk": 63,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "8",
+   "en": "Viewing distance 20–80m · red-light wait 30–90s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 47,
+    "chars_per_line_max": 55,
+    "chars_per_line_if_shrunk": 67,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

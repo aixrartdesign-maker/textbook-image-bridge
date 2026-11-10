@@ -1,0 +1,602 @@
+[
+{
+"key": "part14b.html#806",
+"ru": "Два применения взгляда — стыковка встречных взглядов и связка следования за взглядом"
+},
+{
+"key": "part14b.html#807",
+"ru": "Проекционное расстояние и размер изображения"
+},
+{
+"key": "part14b.html#808",
+"ru": "Время истории и экранное время — шесть сдвигов во времени и пространстве"
+},
+{
+"key": "part14b.html#809",
+"ru": "Сравнение четырёх XR-устройств"
+},
+{
+"key": "part14b.html#810",
+"ru": "Сравнение размеров матриц"
+},
+{
+"key": "part14b.html#811",
+"ru": "Бинокулярная запись пространственного видео"
+},
+{
+"key": "part14b.html#812",
+"ru": "Угол обзора при разных фокусных расстояниях"
+},
+{
+"key": "part14b.html#813",
+"ru": "Измерения формы — движение добавляет по одному измерению"
+},
+{
+"key": "part14b.html#814",
+"ru": "Треугольник экспозиции — как диафрагма, выдержка и ISO компенсируют друг друга"
+},
+{
+"key": "part14b.html#815",
+"ru": "Стандартная структура 15-секундного ролика"
+},
+{
+"key": "part14b.html#816",
+"ru": "Глубина резкости при разной диафрагме — та же сцена, другой фон"
+},
+{
+"key": "part14b.html#817",
+"ru": "Шесть приёмов 3-секундного хука"
+},
+{
+"key": "part14b.html#818",
+"ru": "Сравнение стандартов разрешения"
+},
+{
+"key": "part14b.html#819",
+"ru": "Форматы видео и маркетинговая воронка"
+},
+{
+"key": "part14b.html#820",
+"ru": "Сравнение основных соотношений сторон"
+},
+{
+"key": "part14b.html#821",
+"ru": "Линия действия — единая кривая через позу"
+},
+{
+"key": "part14b.html#822",
+"ru": "Сравнение частот кадров — на сколько картинок делить 1 секунду"
+},
+{
+"key": "part14b.html#823",
+"ru": "8 поз одного цикла шага"
+},
+{
+"key": "part14b.html#824",
+"ru": "Угол затвора и время экспозиции (при 24 кадр/с)"
+},
+{
+"key": "part14b.html#825",
+"ru": "Форматы видео по длине: короче — одно сообщение, длиннее — глубже персонажи"
+},
+{
+"key": "part14b.html#826",
+"ru": "Шкала цветовой температуры по источникам света"
+},
+{
+"key": "part14b.html#827",
+"ru": "Повторные хуки в минутном ролике — зацепить зрителя снова за миг до того, как он уйдёт"
+},
+{
+"key": "part14b.html#828",
+"ru": "Баланс белого и источники света: эталон — белая бумага"
+},
+{
+"key": "part14b.html#829",
+"ru": "15-секундный цикл для уличного LED-экрана — без звука, издалека, бесшовный повтор"
+},
+{
+"key": "part14b.html#830",
+"ru": "Закон обратных квадратов — вдвое дальше, вчетверо темнее"
+},
+{
+"key": "part14b.html#831",
+"ru": "Производственный цикл с ИИ"
+},
+{
+"key": "part14b.html#832",
+"ru": "Трёхточечная схема — план и эффект каждого шага"
+},
+{
+"key": "part14b.html#833",
+"ru": "Карта генеративных инструментов"
+},
+{
+"key": "part14b.html#834",
+"ru": "6 схем портретного света в зависимости от положения рисующего"
+},
+{
+"key": "part14b.html#835",
+"ru": "Порядок чтения метрик эффективности"
+},
+{
+"key": "part14b.html#836",
+"ru": "Как соотношение освещённости меняет контраст"
+},
+{
+"key": "part14b.html#837",
+"ru": "Карьерные пути по ролям"
+},
+{
+"key": "part14b.html#838",
+"ru": "Схема хромакей-студии и 3 этапа композитинга"
+},
+{
+"key": "part14b.html#839",
+"ru": "Карта профессий в видео"
+},
+{
+"key": "part14b.html#840",
+"ru": "Безопасный диапазон уровней записи"
+},
+{
+"key": "part14b.html#841",
+"ru": "Стандартная вёрстка страницы портфолио"
+},
+{
+"key": "part14b.html#842",
+"ru": "4 диаграммы направленности микрофонов"
+},
+{
+"key": "part14b.html#843",
+"ru": "Матрица подготовки к работе по ролям"
+},
+{
+"key": "part14b.html#844",
+"ru": "Звуковой таймлайн 15-секундного ролика в 4 слоя"
+},
+{
+"key": "part14b.html#845",
+"ru": "План портфолио на 6 месяцев"
+},
+{
+"key": "part14b.html#846",
+"ru": "Анатомия монтажного таймлайна"
+},
+{
+"key": "part14b.html#847",
+"ru": "Послесловие"
+},
+{
+"key": "part14b.html#848",
+"ru": "15 секунд — это немало"
+},
+{
+"key": "part14b.html#849",
+"ru": "Хорошее видео рождается не из техники. Его делает тот, кто решил, что показать."
+},
+{
+"key": "part14b.html#850",
+"ru": "Каждая схема, таблица и чек-лист в этой книге — инструмент, сокращающий время на решение. Чем быстрее вы решаете, тем больше пробуете, а растёте ровно настолько, насколько пробуете."
+},
+{
+"key": "part14b.html#851",
+"ru": "Прочитанное забывается, сделанное остаётся. Снимите сегодня хотя бы один кадр."
+},
+{
+"key": "part14b.html#852",
+"ru": "Кто сделал первые 3 секунды, тот заслужил право на остальные 12."
+},
+{
+"key": "part14b.html#853",
+"ru": "Кто сделал первые 3 секунды, тот заслужил право на остальные 12.<small>Ан Джиа</small>"
+},
+{
+"key": "templates.html#0",
+"ru": "<b>Приложение</b>Шаблоны"
+},
+{
+"key": "templates.html#1",
+"ru": "8 шаблонов раскадровки"
+},
+{
+"key": "templates.html#2",
+"ru": "Шаблоны на 9 кадров (или на 8 · 6) для каждого соотношения сторон. Копируйте их на A4 или увеличьте до A3 и повесьте на стену. Пять строк вне кадров одинаковы во всех шаблонах: параметры, движение, ремарка, слова, звук."
+},
+{
+"key": "templates.html#3",
+"ru": "<small>Как пользоваться</small>Первый кадр — легенда"
+},
+{
+"key": "templates.html#4",
+"ru": "Соотношение · разрешение · версия · дата — в первом кадре"
+},
+{
+"key": "templates.html#5",
+"ru": "Стрелки: чёрные — люди, бордовые — камера"
+},
+{
+"key": "templates.html#6",
+"ru": "Время: длительность в секундах + сквозной таймкод"
+},
+{
+"key": "templates.html#7",
+"ru": "<small>Вертикальные шаблоны</small>Обходите зоны интерфейса"
+},
+{
+"key": "templates.html#8",
+"ru": "Никаких титров · логотипов в серых полосах"
+},
+{
+"key": "templates.html#9",
+"ru": "Лица — в верхней 1/3, товары — в центре"
+},
+{
+"key": "templates.html#10",
+"ru": "Кадров на 20–30 % больше, чем в горизонтали"
+},
+{
+"key": "templates.html#11",
+"ru": "<small>360 · изогнутые</small>Развёртка + карта обзора"
+},
+{
+"key": "templates.html#12",
+"ru": "Указывайте угол фронта в каждом кадре"
+},
+{
+"key": "templates.html#13",
+"ru": "Суммарный поворот за сцену — меньше 180°"
+},
+{
+"key": "templates.html#14",
+"ru": "Стыки · пол · потолок оставляйте пустыми"
+},
+{
+"key": "templates.html#15",
+"ru": "Шаблон раскадровки · 16:9"
+},
+{
+"key": "templates.html#16",
+"ru": "Горизонтальный стандарт — YouTube·ТВ·презентации · 1920×1080 · 3840×2160"
+},
+{
+"key": "templates.html#17",
+"ru": "Проект ____________  Сцена ____  Стр. ___/___"
+},
+{
+"key": "templates.html#18",
+"ru": "Режиссёр ________  Дата ________  Версия v___"
+},
+{
+"key": "templates.html#19",
+"ru": "CUT 01"
+},
+{
+"key": "templates.html#20",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#21",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#22",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#23",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#24",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#25",
+"ru": "CUT 02"
+},
+{
+"key": "templates.html#26",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#27",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#28",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#29",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#30",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#31",
+"ru": "CUT 03"
+},
+{
+"key": "templates.html#32",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#33",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#34",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#35",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#36",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#37",
+"ru": "CUT 04"
+},
+{
+"key": "templates.html#38",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#39",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#40",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#41",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#42",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#43",
+"ru": "CUT 05"
+},
+{
+"key": "templates.html#44",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#45",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#46",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#47",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#48",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#49",
+"ru": "CUT 06"
+},
+{
+"key": "templates.html#50",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#51",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#52",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#53",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#54",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#55",
+"ru": "CUT 07"
+},
+{
+"key": "templates.html#56",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#57",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#58",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#59",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#60",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#61",
+"ru": "CUT 08"
+},
+{
+"key": "templates.html#62",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#63",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#64",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#65",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#66",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#67",
+"ru": "CUT 09"
+},
+{
+"key": "templates.html#68",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#69",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#70",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#71",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#72",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#73",
+"ru": "Пунктир = зона действия 90 % · тонкие линии = трети. Пять строк вне каждого кадра: SIZE/ANGLE/LENS · MOVE/TR · ремарка · слова · звук."
+},
+{
+"key": "templates.html#74",
+"ru": "Шаблон раскадровки · 21:9"
+},
+{
+"key": "templates.html#75",
+"ru": "CinemaScope — бренд-фильмы·кино · 2048×858 · 3840×1608"
+},
+{
+"key": "templates.html#76",
+"ru": "Проект ____________  Сцена ____  Стр. ___/___"
+},
+{
+"key": "templates.html#77",
+"ru": "Режиссёр ________  Дата ________  Версия v___"
+},
+{
+"key": "templates.html#78",
+"ru": "CUT 01"
+},
+{
+"key": "templates.html#79",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#80",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#81",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#82",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#83",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#84",
+"ru": "CUT 02"
+},
+{
+"key": "templates.html#85",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#86",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#87",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#88",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#89",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#90",
+"ru": "CUT 03"
+},
+{
+"key": "templates.html#91",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#92",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#93",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#94",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#95",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#96",
+"ru": "CUT 04"
+},
+{
+"key": "templates.html#97",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#98",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#99",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#100",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#101",
+"ru": "M · SE"
+}
+]

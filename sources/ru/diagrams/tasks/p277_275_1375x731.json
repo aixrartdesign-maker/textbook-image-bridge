@@ -1,0 +1,138 @@
+{
+ "stem": "p277_275_1375x731",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p277_275_1375x731.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "AR · MR · VR lie between real and virtual",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 41,
+    "chars_per_line_max": 80,
+    "chars_per_line_if_shrunk": 98,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Overlays info on reality",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 44,
+    "chars_per_line_if_shrunk": 54,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "Virtual content senses real space",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 33,
+    "chars_per_line_max": 51,
+    "chars_per_line_if_shrunk": 63,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Virtual space, reality blocked",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 49,
+    "chars_per_line_if_shrunk": 60,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Smartphone · glasses",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 59,
+    "chars_per_line_if_shrunk": 72,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Passthrough headset",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 57,
+    "chars_per_line_if_shrunk": 69,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "10",
+   "en": "Immersive headset",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 51,
+    "chars_per_line_if_shrunk": 63,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "Real environment",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "Virtual environment",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "XR — umbrella term for all three",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 32,
+    "chars_per_line_max": 107,
+    "chars_per_line_if_shrunk": 131,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "Defined by the real/virtual mix, not the device",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 47,
+    "chars_per_line_max": 131,
+    "chars_per_line_if_shrunk": 160,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "stem": "p207_228_1370x384",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p207_228_1370x384.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Speed curves between keyframes matter more",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 42,
+    "chars_per_line_max": 130,
+    "chars_per_line_if_shrunk": 159,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "1",
+   "en": "Overshoot",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 25,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "2",
+   "en": "Linear",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 31,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "Ease in",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 46,
+    "chars_per_line_if_shrunk": 56,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Ease in-out",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 43,
+    "chars_per_line_if_shrunk": 52,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "5",
+   "en": "Ease out",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

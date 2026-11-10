@@ -1,0 +1,138 @@
+{
+ "stem": "p203_225_1372x747",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p203_225_1372x747.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Correct first, then apply the look",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 34,
+    "chars_per_line_max": 87,
+    "chars_per_line_if_shrunk": 106,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "① Original log",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 37,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "② Correction",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 39,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "③ Look",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Low contrast, washed out",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 41,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Exposure · white balance · cut match",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 36,
+    "chars_per_line_max": 45,
+    "chars_per_line_if_shrunk": 55,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Apply intended tone",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Bunched in the middle",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 21,
+    "chars_per_line_max": 48,
+    "chars_per_line_if_shrunk": 58,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "10",
+   "en": "Spans end to end",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 70,
+    "chars_per_line_if_shrunk": 85,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "11",
+   "en": "Skewed on purpose",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 41,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "12",
+   "en": "Keep the order. Apply the look first and every exposure fix breaks the color",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 76,
+    "chars_per_line_max": 148,
+    "chars_per_line_if_shrunk": 181,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "stem": "p249_259_1831x888",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p249_259_1831x888.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Tension",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 43,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "1",
+   "en": "Build",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 5,
+    "chars_per_line_if_shrunk": 6,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Set up cast & world",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Problem grows",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Direction flips",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "New balance",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "End",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 3,
+    "chars_per_line_if_shrunk": 3,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Intro",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 5,
+    "chars_per_line_if_shrunk": 6,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Turn",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 4,
+    "chars_per_line_if_shrunk": 4,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "9",
+   "en": "Routine · desire · setup",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "10",
+   "en": "Try · fail · bonds shift",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "11",
+   "en": "Twist · choice · payoff",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 23,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "12",
+   "en": "Changed hero · resonance",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "13",
+   "en": "Act 1 end — the threshold",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 25,
+    "chars_per_line_max": 65,
+    "chars_per_line_if_shrunk": 79,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "14",
+   "en": "Act 2 end — low point / pre-climax",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 34,
+    "chars_per_line_max": 46,
+    "chars_per_line_if_shrunk": 57,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "15",
+   "en": "Payoff — reap",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "Setup — sow",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "17",
+   "en": "Time",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "18",
+   "en": "East Asia's 4-part gi-seung-jeon-gyeol and Hollywood's 3-act design — both curves of 'change'",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 93,
+    "chars_per_line_max": 147,
+    "chars_per_line_if_shrunk": 179,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

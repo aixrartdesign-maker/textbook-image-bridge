@@ -1,0 +1,1991 @@
+{
+ "stem": "p287_288_1375x661",
+ "size": [
+  2818,
+  1336
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "The surface sets resolution · brightness · viewing distance",
+   "en": "The surface sets resolution · brightness · viewing distance",
+   "lines": [
+    [
+     555,
+     35,
+     2268,
+     104
+    ]
+   ],
+   "ocr": "The surface sets resolution brightness viewing distance",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    555,
+    35,
+    2268,
+    104
+   ],
+   "ltexts": [
+    "The surface sets resolution · brightness · viewing distance"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    33,
+    40,
+    47
+   ],
+   "weight": "Bold",
+   "size": 64.15,
+   "baselines": [
+    88
+   ],
+   "xs": [
+    554
+   ],
+   "inkboxes": [
+    [
+     556,
+     35,
+     2268,
+     103
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.31,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 555,
+    "right": 550,
+    "up": 35,
+    "down": 420,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Areas show relative screen size",
+   "en": "Areas show relative screen size",
+   "lines": [
+    [
+     1060,
+     131,
+     1760,
+     170
+    ]
+   ],
+   "ocr": "Areas show relative screen size",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    1060,
+    131,
+    1760,
+    170
+   ],
+   "ltexts": [
+    "Areas show relative screen size"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.2,
+   "color": [
+    125,
+    134,
+    140
+   ],
+   "weight": "Regular",
+   "size": 49.36,
+   "baselines": [
+    170
+   ],
+   "xs": [
+    1060
+   ],
+   "inkboxes": [
+    [
+     1060,
+     131,
+     1761,
+     171
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.5,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1060,
+    "right": 1058,
+    "up": 131,
+    "down": 363,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Cinema screen",
+   "en": "Cinema screen",
+   "lines": [
+    [
+     337,
+     713,
+     631,
+     747
+    ]
+   ],
+   "ocr": "Cinema screen",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    337,
+    713,
+    631,
+    747
+   ],
+   "ltexts": [
+    "Cinema screen"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    33,
+    40,
+    48
+   ],
+   "weight": "Bold",
+   "size": 41.47,
+   "baselines": [
+    746
+   ],
+   "xs": [
+    335
+   ],
+   "inkboxes": [
+    [
+     337,
+     713,
+     631,
+     747
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.79,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 337,
+    "right": 2187,
+    "up": 40,
+    "down": 300,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Phone",
+   "en": "Phone",
+   "lines": [
+    [
+     1957,
+     713,
+     2072,
+     747
+    ]
+   ],
+   "ocr": "Phone",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    1957,
+    713,
+    2072,
+    747
+   ],
+   "ltexts": [
+    "Phone"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.8,
+   "color": [
+    32,
+    40,
+    48
+   ],
+   "weight": "Bold",
+   "size": 42.5,
+   "baselines": [
+    747
+   ],
+   "xs": [
+    1953
+   ],
+   "inkboxes": [
+    [
+     1957,
+     713,
+     2072,
+     747
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.38,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1957,
+    "right": 746,
+    "up": 40,
+    "down": 300,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Outdoor LED",
+   "en": "Outdoor LED",
+   "lines": [
+    [
+     2334,
+     713,
+     2580,
+     747
+    ]
+   ],
+   "ocr": "Outdoor LED",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    2334,
+    713,
+    2580,
+    747
+   ],
+   "ltexts": [
+    "Outdoor LED"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    32,
+    41,
+    49
+   ],
+   "weight": "Bold",
+   "size": 42.5,
+   "baselines": [
+    746
+   ],
+   "xs": [
+    2332
+   ],
+   "inkboxes": [
+    [
+     2334,
+     713,
+     2580,
+     747
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.34,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 2334,
+    "right": 238,
+    "up": 40,
+    "down": 300,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Monitor",
+   "en": "Monitor",
+   "lines": [
+    [
+     1608,
+     714,
+     1754,
+     747
+    ]
+   ],
+   "ocr": "Monitor",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    1608,
+    714,
+    1754,
+    747
+   ],
+   "ltexts": [
+    "Monitor"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.9,
+   "color": [
+    31,
+    39,
+    47
+   ],
+   "weight": "Bold",
+   "size": 39.33,
+   "baselines": [
+    746
+   ],
+   "xs": [
+    1604
+   ],
+   "inkboxes": [
+    [
+     1608,
+     714,
+     1754,
+     747
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.44,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1608,
+    "right": 1064,
+    "up": 41,
+    "down": 300,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Home TV",
+   "en": "Home TV",
+   "lines": [
+    [
+     1084,
+     715,
+     1260,
+     747
+    ]
+   ],
+   "ocr": "Home TV",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    1084,
+    715,
+    1260,
+    747
+   ],
+   "ltexts": [
+    "Home TV"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    31,
+    39,
+    48
+   ],
+   "weight": "Bold",
+   "size": 41.75,
+   "baselines": [
+    747
+   ],
+   "xs": [
+    1080
+   ],
+   "inkboxes": [
+    [
+     1084,
+     715,
+     1260,
+     747
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.37,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1084,
+    "right": 1558,
+    "up": 42,
+    "down": 300,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "4K standard",
+   "en": "4K standard",
+   "lines": [
+    [
+     1060,
+     788,
+     1280,
+     820
+    ]
+   ],
+   "ocr": "AK standard",
+   "ratio": 0.9,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    1060,
+    788,
+    1280,
+    820
+   ],
+   "ltexts": [
+    "4K standard"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    160,
+    22,
+    59
+   ],
+   "weight": "Regular",
+   "size": 39.86,
+   "baselines": [
+    821
+   ],
+   "xs": [
+    1059
+   ],
+   "inkboxes": [
+    [
+     1060,
+     788,
+     1280,
+     820
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.39,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1060,
+    "right": 1538,
+    "up": 115,
+    "down": 227,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "By pixel pitch",
+   "en": "By pixel pitch",
+   "lines": [
+    [
+     2339,
+     788,
+     2575,
+     829
+    ]
+   ],
+   "ocr": "By pixel pitch",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    2339,
+    788,
+    2575,
+    829
+   ],
+   "ltexts": [
+    "By pixel pitch"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    160,
+    25,
+    61
+   ],
+   "weight": "Regular",
+   "size": 39.5,
+   "baselines": [
+    820
+   ],
+   "xs": [
+    2335
+   ],
+   "inkboxes": [
+    [
+     2339,
+     788,
+     2575,
+     829
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.6,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 2339,
+    "right": 243,
+    "up": 115,
+    "down": 218,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "AK",
+   "lines": [
+    [
+     413,
+     790,
+     557,
+     820
+    ]
+   ],
+   "ocr": "AK",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 86.6,
+   "id": 9,
+   "box": [
+    413,
+    790,
+    557,
+    820
+   ],
+   "ltexts": [
+    "AK"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    164,
+    23,
+    63
+   ],
+   "weight": "Regular",
+   "size": 115.2,
+   "baselines": [
+    877
+   ],
+   "xs": [
+    412
+   ],
+   "inkboxes": [
+    [
+     413,
+     790,
+     557,
+     820
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.08,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 413,
+    "right": 2261,
+    "up": 117,
+    "down": 227,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "8K",
+   "lines": [
+    [
+     515,
+     790,
+     557,
+     820
+    ]
+   ],
+   "ocr": "8K",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 95.2,
+   "id": 10,
+   "box": [
+    515,
+    790,
+    557,
+    820
+   ],
+   "ltexts": [
+    "8K"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 26.8,
+   "color": [
+    162,
+    23,
+    62
+   ],
+   "weight": "Regular",
+   "size": 40.27,
+   "baselines": [
+    820
+   ],
+   "xs": [
+    509
+   ],
+   "inkboxes": [
+    [
+     511,
+     790,
+     557,
+     820
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.7,
+   "align": "left",
+   "room": {
+    "left": 515,
+    "right": 2261,
+    "up": 117,
+    "down": 227,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "QHD 4K",
+   "lines": [
+    [
+     1587,
+     790,
+     1772,
+     826
+    ]
+   ],
+   "ocr": "QHD 4K",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 94.4,
+   "id": 11,
+   "box": [
+    1587,
+    790,
+    1772,
+    826
+   ],
+   "ltexts": [
+    "QHD 4K"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    161,
+    26,
+    62
+   ],
+   "weight": "Regular",
+   "size": 52.56,
+   "baselines": [
+    829
+   ],
+   "xs": [
+    1584
+   ],
+   "inkboxes": [
+    [
+     1587,
+     790,
+     1772,
+     826
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.16,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1587,
+    "right": 1046,
+    "up": 117,
+    "down": 221,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "FHD+",
+   "lines": [
+    [
+     1964,
+     790,
+     2064,
+     820
+    ]
+   ],
+   "ocr": "FHD+",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 92.2,
+   "id": 12,
+   "box": [
+    1964,
+    790,
+    2064,
+    820
+   ],
+   "ltexts": [
+    "FHD+"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    157,
+    30,
+    62
+   ],
+   "weight": "Regular",
+   "size": 41.47,
+   "baselines": [
+    820
+   ],
+   "xs": [
+    1960
+   ],
+   "inkboxes": [
+    [
+     1964,
+     790,
+     2064,
+     820
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.63,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1964,
+    "right": 754,
+    "up": 117,
+    "down": 227,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "14 fL",
+   "en": "14 fL",
+   "lines": [
+    [
+     446,
+     840,
+     531,
+     873
+    ]
+   ],
+   "ocr": "14fL",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 13,
+   "box": [
+    446,
+    840,
+    531,
+    873
+   ],
+   "ltexts": [
+    "14 fL"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.0,
+   "color": [
+    90,
+    93,
+    97
+   ],
+   "weight": "Regular",
+   "size": 41.06,
+   "baselines": [
+    873
+   ],
+   "xs": [
+    442
+   ],
+   "inkboxes": [
+    [
+     446,
+     840,
+     531,
+     873
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.95,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 446,
+    "right": 2287,
+    "up": 167,
+    "down": 174,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "5000 nit+",
+   "en": "5000 nit+",
+   "lines": [
+    [
+     2370,
+     843,
+     2544,
+     874
+    ]
+   ],
+   "ocr": "5000 nit+",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 14,
+   "box": [
+    2370,
+    843,
+    2544,
+    874
+   ],
+   "ltexts": [
+    "5000 nit+"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    93,
+    95,
+    98
+   ],
+   "weight": "Regular",
+   "size": 40.59,
+   "baselines": [
+    873
+   ],
+   "xs": [
+    2369
+   ],
+   "inkboxes": [
+    [
+     2370,
+     843,
+     2544,
+     874
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.51,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 2370,
+    "right": 274,
+    "up": 170,
+    "down": 173,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "10-20m",
+   "lines": [
+    [
+     414,
+     897,
+     557,
+     927
+    ]
+   ],
+   "ocr": "10-20m",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 85.7,
+   "id": 15,
+   "box": [
+    414,
+    897,
+    557,
+    927
+   ],
+   "ltexts": [
+    "10-20m"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    150,
+    156,
+    162
+   ],
+   "weight": "Regular",
+   "size": 42.63,
+   "baselines": [
+    927
+   ],
+   "xs": [
+    409
+   ],
+   "inkboxes": [
+    [
+     413,
+     897,
+     557,
+     928
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.22,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 414,
+    "right": 2261,
+    "up": 224,
+    "down": 120,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "2-3m",
+   "lines": [
+    [
+     1121,
+     897,
+     1221,
+     927
+    ]
+   ],
+   "ocr": "2-3m",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 90.3,
+   "id": 16,
+   "box": [
+    1121,
+    897,
+    1221,
+    927
+   ],
+   "ltexts": [
+    "2-3m"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    149,
+    155,
+    160
+   ],
+   "weight": "Regular",
+   "size": 44.69,
+   "baselines": [
+    928
+   ],
+   "xs": [
+    1118
+   ],
+   "inkboxes": [
+    [
+     1120,
+     897,
+     1221,
+     927
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.28,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1121,
+    "right": 1597,
+    "up": 224,
+    "down": 120,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "50-70cm",
+   "lines": [
+    [
+     1597,
+     897,
+     1762,
+     927
+    ]
+   ],
+   "ocr": "50-70cm",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 90.3,
+   "id": 17,
+   "box": [
+    1597,
+    897,
+    1762,
+    927
+   ],
+   "ltexts": [
+    "50-70cm"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    148,
+    155,
+    160
+   ],
+   "weight": "Regular",
+   "size": 42.28,
+   "baselines": [
+    927
+   ],
+   "xs": [
+    1595
+   ],
+   "inkboxes": [
+    [
+     1596,
+     897,
+     1762,
+     928
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.29,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1597,
+    "right": 1056,
+    "up": 224,
+    "down": 120,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "25-35cm",
+   "lines": [
+    [
+     1929,
+     897,
+     2096,
+     927
+    ]
+   ],
+   "ocr": "25-35cm",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 91.5,
+   "id": 18,
+   "box": [
+    1929,
+    897,
+    2096,
+    927
+   ],
+   "ltexts": [
+    "25-35cm"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    147,
+    153,
+    159
+   ],
+   "weight": "Regular",
+   "size": 42.6,
+   "baselines": [
+    927
+   ],
+   "xs": [
+    1927
+   ],
+   "inkboxes": [
+    [
+     1929,
+     897,
+     2097,
+     928
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.27,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1929,
+    "right": 722,
+    "up": 224,
+    "down": 120,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "30m+",
+   "en": "30m+",
+   "lines": [
+    [
+     2405,
+     897,
+     2508,
+     927
+    ]
+   ],
+   "ocr": "30m+",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 19,
+   "box": [
+    2405,
+    897,
+    2508,
+    927
+   ],
+   "ltexts": [
+    "30m+"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    150,
+    156,
+    162
+   ],
+   "weight": "Regular",
+   "size": 40.82,
+   "baselines": [
+    927
+   ],
+   "xs": [
+    2403
+   ],
+   "inkboxes": [
+    [
+     2404,
+     897,
+     2508,
+     927
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.6,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 2405,
+    "right": 310,
+    "up": 224,
+    "down": 120,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "What planners check first",
+   "en": "What planners check first",
+   "lines": [
+    [
+     157,
+     1077,
+     684,
+     1121
+    ]
+   ],
+   "ocr": "What planners check first",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 20,
+   "box": [
+    157,
+    1077,
+    684,
+    1121
+   ],
+   "ltexts": [
+    "What planners check first"
+   ],
+   "bg": [
+    246,
+    232,
+    236
+   ],
+   "bgstd": 1.1,
+   "color": [
+    151,
+    35,
+    66
+   ],
+   "weight": "Bold",
+   "size": 42.4,
+   "baselines": [
+    1112
+   ],
+   "xs": [
+    156
+   ],
+   "inkboxes": [
+    [
+     157,
+     1077,
+     684,
+     1121
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.58,
+   "align": "left",
+   "room": {
+    "left": 70,
+    "right": 2050,
+    "up": 25,
+    "down": 22,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "① Final surface and resolution",
+   "en": "Final surface and resolution",
+   "lines": [
+    [
+     214,
+     1148,
+     675,
+     1179
+    ]
+   ],
+   "ocr": "Final surface and resolution",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 21,
+   "box": [
+    214,
+    1148,
+    675,
+    1179
+   ],
+   "ltexts": [
+    "Final surface and resolution"
+   ],
+   "bg": [
+    246,
+    232,
+    236
+   ],
+   "bgstd": 1.6,
+   "color": [
+    83,
+    95,
+    101
+   ],
+   "weight": "Regular",
+   "size": 37.29,
+   "baselines": [
+    1178
+   ],
+   "xs": [
+    210
+   ],
+   "inkboxes": [
+    [
+     214,
+     1148,
+     675,
+     1179
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.2,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 16,
+    "right": 772,
+    "up": 96,
+    "down": 101,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "② Ambient light and needed luminance",
+   "en": "Ambient light and needed luminance",
+   "lines": [
+    [
+     1504,
+     1149,
+     2123,
+     1187
+    ]
+   ],
+   "ocr": "Ambient light and needed luminance",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 22,
+   "box": [
+    1504,
+    1149,
+    2123,
+    1187
+   ],
+   "ltexts": [
+    "Ambient light and needed luminance"
+   ],
+   "bg": [
+    246,
+    233,
+    237
+   ],
+   "bgstd": 1.2,
+   "color": [
+    83,
+    96,
+    101
+   ],
+   "weight": "Regular",
+   "size": 36.14,
+   "baselines": [
+    1179
+   ],
+   "xs": [
+    1504
+   ],
+   "inkboxes": [
+    [
+     1504,
+     1149,
+     2123,
+     1187
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.57,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 13,
+    "right": 611,
+    "up": 97,
+    "down": 93,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "③ Closest viewing distance",
+   "en": "Closest viewing distance",
+   "lines": [
+    [
+     212,
+     1210,
+     627,
+     1248
+    ]
+   ],
+   "ocr": "Closest viewing distance",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 23,
+   "box": [
+    212,
+    1210,
+    627,
+    1248
+   ],
+   "ltexts": [
+    "Closest viewing distance"
+   ],
+   "bg": [
+    246,
+    232,
+    237
+   ],
+   "bgstd": 1.2,
+   "color": [
+    85,
+    97,
+    103
+   ],
+   "weight": "Regular",
+   "size": 36.57,
+   "baselines": [
+    1239
+   ],
+   "xs": [
+    210
+   ],
+   "inkboxes": [
+    [
+     212,
+     1210,
+     627,
+     1248
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.33,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 14,
+    "right": 820,
+    "up": 158,
+    "down": 32,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "④ Can you use sound?",
+   "en": "Can you use sound?",
+   "lines": [
+    [
+     1505,
+     1210,
+     1839,
+     1248
+    ]
+   ],
+   "ocr": "Can you use sound?",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 24,
+   "box": [
+    1505,
+    1210,
+    1839,
+    1248
+   ],
+   "ltexts": [
+    "Can you use sound?"
+   ],
+   "bg": [
+    246,
+    232,
+    236
+   ],
+   "bgstd": 1.1,
+   "color": [
+    84,
+    97,
+    103
+   ],
+   "weight": "Regular",
+   "size": 36.78,
+   "baselines": [
+    1240
+   ],
+   "xs": [
+    1503
+   ],
+   "inkboxes": [
+    [
+     1505,
+     1210,
+     1839,
+     1248
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.54,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 14,
+    "right": 895,
+    "up": 159,
+    "down": 32,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "manual",
+   "en": "250–400 nit",
+   "lines": [
+    [
+     1061,
+     843,
+     1280,
+     874
+    ]
+   ],
+   "ocr": "",
+   "ratio": null,
+   "src": [
+    "manual"
+   ],
+   "id": 25,
+   "box": [
+    1061,
+    843,
+    1280,
+    874
+   ],
+   "ltexts": [
+    "250–400 nit"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    93,
+    95,
+    98
+   ],
+   "weight": "Regular",
+   "size": 40.53,
+   "baselines": [
+    873
+   ],
+   "xs": [
+    1059
+   ],
+   "inkboxes": [
+    [
+     1061,
+     843,
+     1280,
+     874
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.21,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1061,
+    "right": 1538,
+    "up": 170,
+    "down": 173,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "manual",
+   "en": "300 nit",
+   "lines": [
+    [
+     1618,
+     843,
+     1742,
+     874
+    ]
+   ],
+   "ocr": "",
+   "ratio": null,
+   "src": [
+    "manual"
+   ],
+   "id": 26,
+   "box": [
+    1618,
+    843,
+    1742,
+    874
+   ],
+   "ltexts": [
+    "300 nit"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    94,
+    97,
+    100
+   ],
+   "weight": "Regular",
+   "size": 39.87,
+   "baselines": [
+    872
+   ],
+   "xs": [
+    1617
+   ],
+   "inkboxes": [
+    [
+     1618,
+     843,
+     1742,
+     874
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.42,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1618,
+    "right": 1076,
+    "up": 170,
+    "down": 173,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "manual",
+   "en": "600–1200 nit",
+   "lines": [
+    [
+     1894,
+     843,
+     2135,
+     874
+    ]
+   ],
+   "ocr": "",
+   "ratio": null,
+   "src": [
+    "manual"
+   ],
+   "id": 27,
+   "box": [
+    1894,
+    843,
+    2135,
+    874
+   ],
+   "ltexts": [
+    "600–1200 nit"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    93,
+    94,
+    95
+   ],
+   "weight": "Regular",
+   "size": 40.51,
+   "baselines": [
+    873
+   ],
+   "xs": [
+    1892
+   ],
+   "inkboxes": [
+    [
+     1894,
+     843,
+     2135,
+     874
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.19,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1894,
+    "right": 683,
+    "up": 170,
+    "down": 173,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "ee eee",
+   "box": [
+    140,
+    523,
+    2722,
+    691
+   ],
+   "conf": 39.8
+  },
+  {
+   "text": "ee eee",
+   "box": [
+    1718,
+    523,
+    2726,
+    691
+   ],
+   "conf": 37.5
+  },
+  {
+   "text": "250-400 nit",
+   "box": [
+    1061,
+    843,
+    1280,
+    874
+   ],
+   "conf": 96.1
+  },
+  {
+   "text": "300 nit",
+   "box": [
+    1618,
+    843,
+    1742,
+    874
+   ],
+   "conf": 96.6
+  },
+  {
+   "text": "600-1200 nit",
+   "box": [
+    1894,
+    843,
+    2135,
+    874
+   ],
+   "conf": 96.2
+  }
+ ]
+}

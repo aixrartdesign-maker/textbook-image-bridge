@@ -1,0 +1,102 @@
+{
+ "stem": "p049_031_1831x681",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p049_031_1831x681.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Thaumatrope (1825)",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Phenakistiscope (1832)",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 40,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Zoetrope (1834)",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 32,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Flipbook (1868)",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Flip two images fast to see them as one",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 41,
+    "chars_per_line_if_shrunk": 50,
+    "lines_now": 2,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "5",
+   "en": "Through slits, in a mirror, watch the disc as you spin",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 27,
+    "chars_per_line_max": 51,
+    "chars_per_line_if_shrunk": 63,
+    "lines_now": 2,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "6",
+   "en": "Spin the drum; via slits, see the inner strip",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 45,
+    "chars_per_line_if_shrunk": 55,
+    "lines_now": 2,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "7",
+   "en": "Flip the pages and the images move",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 32,
+    "chars_per_line_if_shrunk": 39,
+    "lines_now": 2,
+    "lines_max": 3
+   }
+  }
+ ]
+}

@@ -1,0 +1,602 @@
+[
+{
+"key": "part14a.html#497",
+"ru": "Движение"
+},
+{
+"key": "part14a.html#498",
+"ru": "Движение камеры"
+},
+{
+"key": "part14a.html#499",
+"ru": "Движение, поехали"
+},
+{
+"key": "part14a.html#500",
+"ru": "Плотнее"
+},
+{
+"key": "part14a.html#501",
+"ru": "Кадр крупнее"
+},
+{
+"key": "part14a.html#502",
+"ru": "Команда по кадру"
+},
+{
+"key": "part14a.html#503",
+"ru": "Свободнее"
+},
+{
+"key": "part14a.html#504",
+"ru": "Кадр шире"
+},
+{
+"key": "part14a.html#505",
+"ru": "Команда по кадру"
+},
+{
+"key": "part14a.html#506",
+"ru": "Линия взгляда"
+},
+{
+"key": "part14a.html#507",
+"ru": "Высота и направление взгляда героя"
+},
+{
+"key": "part14a.html#508",
+"ru": "Выровняйте взгляд, пожалуйста"
+},
+{
+"key": "part14a.html#509",
+"ru": "Воздух"
+},
+{
+"key": "part14a.html#510",
+"ru": "Пространство над головой"
+},
+{
+"key": "part14a.html#511",
+"ru": "Слишком много воздуха"
+},
+{
+"key": "part14a.html#512",
+"ru": "Удочка в кадре"
+},
+{
+"key": "part14a.html#513",
+"ru": "Микрофон виден в кадре"
+},
+{
+"key": "part14a.html#514",
+"ru": "Сразу переснять"
+},
+{
+"key": "part14a.html#515",
+"ru": "Петличка"
+},
+{
+"key": "part14a.html#516",
+"ru": "Петличный микрофон"
+},
+{
+"key": "part14a.html#517",
+"ru": "Прицепите петличку, пожалуйста"
+},
+{
+"key": "part14a.html#518",
+"ru": "Отбить свет"
+},
+{
+"key": "part14a.html#519",
+"ru": "Отражённый свет на объект"
+},
+{
+"key": "part14a.html#520",
+"ru": "Смягчает тени"
+},
+{
+"key": "part14a.html#521",
+"ru": "Погасить"
+},
+{
+"key": "part14a.html#522",
+"ru": "Выключить прибор"
+},
+{
+"key": "part14a.html#523",
+"ru": "Погасите этот прибор"
+},
+{
+"key": "part14a.html#524",
+"ru": "Покрытие"
+},
+{
+"key": "part14a.html#525",
+"ru": "Сколько крупностей уже снято"
+},
+{
+"key": "part14a.html#526",
+"ru": "Покрытия не хватает"
+},
+{
+"key": "part14a.html#527",
+"ru": "Снимем инсерт"
+},
+{
+"key": "part14a.html#528",
+"ru": "Снять деталь крупным планом"
+},
+{
+"key": "part14a.html#529",
+"ru": "Даёт свободу монтажу"
+},
+{
+"key": "part14a.html#530",
+"ru": "Ещё один"
+},
+{
+"key": "part14a.html#531",
+"ru": "Ещё раз"
+},
+{
+"key": "part14a.html#532",
+"ru": "Добавить дубль"
+},
+{
+"key": "part14a.html#533",
+"ru": "Проверка"
+},
+{
+"key": "part14a.html#534",
+"ru": "Просмотр отснятого"
+},
+{
+"key": "part14a.html#535",
+"ru": "Воспроизведение на мониторе"
+},
+{
+"key": "part14a.html#536",
+"ru": "Сворачиваемся"
+},
+{
+"key": "part14a.html#537",
+"ru": "Собрать технику и прибраться"
+},
+{
+"key": "part14a.html#538",
+"ru": "Включая уборку локации"
+},
+{
+"key": "part14a.html#539",
+"ru": "<b>Приложение</b>Документы для площадки"
+},
+{
+"key": "part14a.html#540",
+"ru": "Корейско-английская таблица терминов"
+},
+{
+"key": "part14a.html#541",
+"ru": "Базовая таблица, чтобы читать зарубежные источники и составлять резюме и шоурил на английском."
+},
+{
+"key": "part14a.html#542",
+"ru": "Корейский"
+},
+{
+"key": "part14a.html#543",
+"ru": "Английский"
+},
+{
+"key": "part14a.html#544",
+"ru": "Корейский"
+},
+{
+"key": "part14a.html#545",
+"ru": "Английский"
+},
+{
+"key": "part14a.html#546",
+"ru": "Кихвек"
+},
+{
+"key": "part14a.html#547",
+"ru": "Planning / Development"
+},
+{
+"key": "part14a.html#548",
+"ru": "Ёнчхуль"
+},
+{
+"key": "part14a.html#549",
+"ru": "Directing"
+},
+{
+"key": "part14a.html#550",
+"ru": "Кихвек ыйдо"
+},
+{
+"key": "part14a.html#551",
+"ru": "Concept Statement"
+},
+{
+"key": "part14a.html#552",
+"ru": "Синопсисы"
+},
+{
+"key": "part14a.html#553",
+"ru": "Synopsis"
+},
+{
+"key": "part14a.html#554",
+"ru": "Синарио"
+},
+{
+"key": "part14a.html#555",
+"ru": "Screenplay / Script"
+},
+{
+"key": "part14a.html#556",
+"ru": "Кхонтхи"
+},
+{
+"key": "part14a.html#557",
+"ru": "Continuity"
+},
+{
+"key": "part14a.html#558",
+"ru": "Сытхорибоды"
+},
+{
+"key": "part14a.html#559",
+"ru": "Storyboard"
+},
+{
+"key": "part14a.html#560",
+"ru": "Энимэтхик"
+},
+{
+"key": "part14a.html#561",
+"ru": "Animatic"
+},
+{
+"key": "part14a.html#562",
+"ru": "Чхварён камдок"
+},
+{
+"key": "part14a.html#563",
+"ru": "Director of Photography"
+},
+{
+"key": "part14a.html#564",
+"ru": "Чоёнчхуль"
+},
+{
+"key": "part14a.html#565",
+"ru": "Assistant Director"
+},
+{
+"key": "part14a.html#566",
+"ru": "Чомён камдок"
+},
+{
+"key": "part14a.html#567",
+"ru": "Gaffer"
+},
+{
+"key": "part14a.html#568",
+"ru": "Чхварён поджо"
+},
+{
+"key": "part14a.html#569",
+"ru": "Camera Assistant"
+},
+{
+"key": "part14a.html#570",
+"ru": "Мисуль камдок"
+},
+{
+"key": "part14a.html#571",
+"ru": "Production Designer"
+},
+{
+"key": "part14a.html#572",
+"ru": "Сопхум"
+},
+{
+"key": "part14a.html#573",
+"ru": "Props"
+},
+{
+"key": "part14a.html#574",
+"ru": "Пхёнджипча"
+},
+{
+"key": "part14a.html#575",
+"ru": "Editor"
+},
+{
+"key": "part14a.html#576",
+"ru": "Сэкподжон"
+},
+{
+"key": "part14a.html#577",
+"ru": "Color Grading"
+},
+{
+"key": "part14a.html#578",
+"ru": "Хапсон"
+},
+{
+"key": "part14a.html#579",
+"ru": "Compositing"
+},
+{
+"key": "part14a.html#580",
+"ru": "Мосён кырэпхик"
+},
+{
+"key": "part14a.html#581",
+"ru": "Motion Graphics"
+},
+{
+"key": "part14a.html#582",
+"ru": "Сёт саиджы"
+},
+{
+"key": "part14a.html#583",
+"ru": "Shot Size"
+},
+{
+"key": "part14a.html#584",
+"ru": "Кхыллоджыоп"
+},
+{
+"key": "part14a.html#585",
+"ru": "Close Up"
+},
+{
+"key": "part14a.html#586",
+"ru": "Пугам"
+},
+{
+"key": "part14a.html#587",
+"ru": "High Angle"
+},
+{
+"key": "part14a.html#588",
+"ru": "Ангак"
+},
+{
+"key": "part14a.html#589",
+"ru": "Low Angle"
+},
+{
+"key": "part14a.html#590",
+"ru": "Ёккван"
+},
+{
+"key": "part14a.html#591",
+"ru": "Backlight"
+},
+{
+"key": "part14a.html#592",
+"ru": "Чугван"
+},
+{
+"key": "part14a.html#593",
+"ru": "Key Light"
+},
+{
+"key": "part14a.html#594",
+"ru": "Поджогван"
+},
+{
+"key": "part14a.html#595",
+"ru": "Fill Light"
+},
+{
+"key": "part14a.html#596",
+"ru": "Пансапхан"
+},
+{
+"key": "part14a.html#597",
+"ru": "Reflector"
+},
+{
+"key": "part14a.html#598",
+"ru": "Симдо"
+},
+{
+"key": "part14a.html#599",
+"ru": "Depth of Field"
+},
+{
+"key": "part14a.html#600",
+"ru": "Ночхуль"
+},
+{
+"key": "part14a.html#601",
+"ru": "Exposure"
+},
+{
+"key": "part14a.html#602",
+"ru": "Хваитхы пэллонсы"
+},
+{
+"key": "part14a.html#603",
+"ru": "White Balance"
+},
+{
+"key": "part14a.html#604",
+"ru": "Сэгондо"
+},
+{
+"key": "part14a.html#605",
+"ru": "Color Temperature"
+},
+{
+"key": "part14a.html#606",
+"ru": "Пхыреим реитхы"
+},
+{
+"key": "part14a.html#607",
+"ru": "Frame Rate"
+},
+{
+"key": "part14a.html#608",
+"ru": "Хэсандо"
+},
+{
+"key": "part14a.html#609",
+"ru": "Resolution"
+},
+{
+"key": "part14a.html#610",
+"ru": "Хвамёнби"
+},
+{
+"key": "part14a.html#611",
+"ru": "Aspect Ratio"
+},
+{
+"key": "part14a.html#612",
+"ru": "Анджон ёнъёк"
+},
+{
+"key": "part14a.html#613",
+"ru": "Safe Area"
+},
+{
+"key": "part14a.html#614",
+"ru": "Капхёнджип"
+},
+{
+"key": "part14a.html#615",
+"ru": "Rough Cut"
+},
+{
+"key": "part14a.html#616",
+"ru": "Чхведжонбон"
+},
+{
+"key": "part14a.html#617",
+"ru": "Final Cut / Master"
+},
+{
+"key": "part14a.html#618",
+"ru": "Наппхум"
+},
+{
+"key": "part14a.html#619",
+"ru": "Delivery"
+},
+{
+"key": "part14a.html#620",
+"ru": "Суджон"
+},
+{
+"key": "part14a.html#621",
+"ru": "Revision"
+},
+{
+"key": "part14a.html#622",
+"ru": "Йесан"
+},
+{
+"key": "part14a.html#623",
+"ru": "Budget"
+},
+{
+"key": "part14a.html#624",
+"ru": "Кёнджок"
+},
+{
+"key": "part14a.html#625",
+"ru": "Quotation"
+},
+{
+"key": "part14a.html#626",
+"ru": "Собве"
+},
+{
+"key": "part14a.html#627",
+"ru": "Casting / Booking"
+},
+{
+"key": "part14a.html#628",
+"ru": "Рокхеисён хонтхин"
+},
+{
+"key": "part14a.html#629",
+"ru": "Location Scouting"
+},
+{
+"key": "part14a.html#630",
+"ru": "Чхварён ильчонпхё"
+},
+{
+"key": "part14a.html#631",
+"ru": "Call Sheet"
+},
+{
+"key": "part14a.html#632",
+"ru": "Хёнджан"
+},
+{
+"key": "part14a.html#633",
+"ru": "On Set"
+},
+{
+"key": "part14a.html#634",
+"ru": "Чхурён тонъыйсо"
+},
+{
+"key": "part14a.html#635",
+"ru": "Talent Release"
+},
+{
+"key": "part14a.html#636",
+"ru": "Чоджакквон"
+},
+{
+"key": "part14a.html#637",
+"ru": "Copyright"
+},
+{
+"key": "part14a.html#638",
+"ru": "Пхотхыпхоллио"
+},
+{
+"key": "part14a.html#639",
+"ru": "Portfolio"
+},
+{
+"key": "part14a.html#640",
+"ru": "Риль"
+},
+{
+"key": "part14a.html#641",
+"ru": "Showreel / Demo Reel"
+},
+{
+"key": "part14a.html#642",
+"ru": "<b>Приложение</b>Документы для площадки"
+},
+{
+"key": "part14a.html#643",
+"ru": "Типовые шаблоны производственного графика"
+},
+{
+"key": "part14a.html#644",
+"ru": "График — это инструмент, а не обещание. Его составляют, чтобы, когда всё пойдёт не по плану, понять, что именно сорвалось."
+},
+{
+"key": "part14a.html#645",
+"ru": "<b>СОВЕТ</b>"
+},
+{
+"key": "part14a.html#646",
+"ru": "Записывайте, сколько времени на самом деле уходит на каждый этап, — и смета следующего проекта будет точнее."
+}
+]

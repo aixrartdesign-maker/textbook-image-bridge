@@ -1,0 +1,1391 @@
+{
+ "stem": "p364_326_1373x650",
+ "size": [
+  2851,
+  1344
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Generative tool map — know the categories to place any new tool",
+   "en": "Generative tool map — know the categories to place any new tool",
+   "lines": [
+    [
+     757,
+     71,
+     2049,
+     113
+    ]
+   ],
+   "ocr": "Generative tool map know the categories to place any new tool",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    757,
+    71,
+    2049,
+    113
+   ],
+   "ltexts": [
+    "Generative tool map — know the categories to place any new tool"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    115,
+    28,
+    43
+   ],
+   "weight": "Bold",
+   "size": 39.82,
+   "baselines": [
+    103
+   ],
+   "xs": [
+    755
+   ],
+   "inkboxes": [
+    [
+     757,
+     71,
+     2049,
+     112
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.39,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 757,
+    "right": 802,
+    "up": 71,
+    "down": 46,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Text·planning",
+   "en": "Text·planning",
+   "lines": [
+    [
+     251,
+     221,
+     519,
+     261
+    ]
+   ],
+   "ocr": "Text: planning",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    251,
+    221,
+    519,
+    261
+   ],
+   "ltexts": [
+    "Text·planning"
+   ],
+   "bg": [
+    241,
+    240,
+    243
+   ],
+   "bgstd": 1.1,
+   "color": [
+    28,
+    28,
+    29
+   ],
+   "weight": "Bold",
+   "size": 38.23,
+   "baselines": [
+    251
+   ],
+   "xs": [
+    250
+   ],
+   "inkboxes": [
+    [
+     251,
+     221,
+     518,
+     261
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.6,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 98,
+    "right": 95,
+    "up": 52,
+    "down": 51,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Chat language model",
+   "en": "Chat language model",
+   "lines": [
+    [
+     760,
+     223,
+     1105,
+     259
+    ]
+   ],
+   "ocr": "Chat language model",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    760,
+    223,
+    1105,
+    259
+   ],
+   "ltexts": [
+    "Chat language model"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    95,
+    95,
+    96
+   ],
+   "weight": "Regular",
+   "size": 34.74,
+   "baselines": [
+    251
+   ],
+   "xs": [
+    758
+   ],
+   "inkboxes": [
+    [
+     760,
+     223,
+     1105,
+     259
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.31,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 59,
+    "right": 55,
+    "up": 54,
+    "down": 53,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Image",
+   "en": "Image",
+   "lines": [
+    [
+     330,
+     426,
+     444,
+     464
+    ]
+   ],
+   "ocr": "Image",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 3,
+   "box": [
+    330,
+    426,
+    444,
+    464
+   ],
+   "ltexts": [
+    "Image"
+   ],
+   "bg": [
+    241,
+    240,
+    243
+   ],
+   "bgstd": 1.3,
+   "color": [
+    27,
+    27,
+    29
+   ],
+   "weight": "Bold",
+   "size": 38.8,
+   "baselines": [
+    455
+   ],
+   "xs": [
+    327
+   ],
+   "inkboxes": [
+    [
+     330,
+     426,
+     443,
+     464
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.63,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 177,
+    "right": 170,
+    "up": 55,
+    "down": 51,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Image editing",
+   "en": "Image editing",
+   "lines": [
+    [
+     1332,
+     426,
+     1551,
+     462
+    ]
+   ],
+   "ocr": "Image editing",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    1332,
+    426,
+    1551,
+    462
+   ],
+   "ltexts": [
+    "Image editing"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    97,
+    96,
+    98
+   ],
+   "weight": "Regular",
+   "size": 34.61,
+   "baselines": [
+    454
+   ],
+   "xs": [
+    1329
+   ],
+   "inkboxes": [
+    [
+     1332,
+     426,
+     1551,
+     462
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.37,
+   "align": "center",
+   "room": {
+    "left": 123,
+    "right": 121,
+    "up": 56,
+    "down": 54,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Upscale·BG removal",
+   "en": "Upscale·BG removal",
+   "lines": [
+    [
+     1788,
+     427,
+     2118,
+     462
+    ]
+   ],
+   "ocr": "Upscale BG removal",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    1788,
+    427,
+    2118,
+    462
+   ],
+   "ltexts": [
+    "Upscale·BG removal"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    97,
+    97,
+    98
+   ],
+   "weight": "Regular",
+   "size": 34.36,
+   "baselines": [
+    454
+   ],
+   "xs": [
+    1785
+   ],
+   "inkboxes": [
+    [
+     1788,
+     427,
+     2118,
+     462
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 68,
+    "right": 69,
+    "up": 57,
+    "down": 54,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Text→image",
+   "en": "Text→image",
+   "lines": [
+    [
+     831,
+     428,
+     1032,
+     462
+    ]
+   ],
+   "ocr": "Textimage",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    831,
+    428,
+    1032,
+    462
+   ],
+   "ltexts": [
+    "Text→image"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    96,
+    96,
+    97
+   ],
+   "weight": "Regular",
+   "size": 34.27,
+   "baselines": [
+    454
+   ],
+   "xs": [
+    830
+   ],
+   "inkboxes": [
+    [
+     831,
+     428,
+     1032,
+     462
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.4,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 130,
+    "right": 128,
+    "up": 58,
+    "down": 54,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Video",
+   "en": "Video",
+   "lines": [
+    [
+     331,
+     626,
+     440,
+     657
+    ]
+   ],
+   "ocr": "Video",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    331,
+    626,
+    440,
+    657
+   ],
+   "ltexts": [
+    "Video"
+   ],
+   "bg": [
+    123,
+    29,
+    44
+   ],
+   "bgstd": 2.2,
+   "color": [
+    255,
+    252,
+    253
+   ],
+   "weight": "Bold",
+   "size": 39.48,
+   "baselines": [
+    657
+   ],
+   "xs": [
+    331
+   ],
+   "inkboxes": [
+    [
+     331,
+     626,
+     440,
+     658
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.74,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 178,
+    "right": 174,
+    "up": 53,
+    "down": 60,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Text→video",
+   "en": "Text→video",
+   "lines": [
+    [
+     835,
+     626,
+     1027,
+     654
+    ]
+   ],
+   "ocr": "Text video",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    835,
+    626,
+    1027,
+    654
+   ],
+   "ltexts": [
+    "Text→video"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.1,
+   "color": [
+    99,
+    99,
+    100
+   ],
+   "weight": "Regular",
+   "size": 35.03,
+   "baselines": [
+    654
+   ],
+   "xs": [
+    834
+   ],
+   "inkboxes": [
+    [
+     835,
+     626,
+     1027,
+     654
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.56,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 134,
+    "right": 133,
+    "up": 53,
+    "down": 63,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Image→video",
+   "en": "Image→video",
+   "lines": [
+    [
+     1330,
+     626,
+     1554,
+     662
+    ]
+   ],
+   "ocr": "Image—video",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    1330,
+    626,
+    1554,
+    662
+   ],
+   "ltexts": [
+    "Image→video"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    100,
+    100,
+    101
+   ],
+   "weight": "Regular",
+   "size": 34.89,
+   "baselines": [
+    654
+   ],
+   "xs": [
+    1327
+   ],
+   "inkboxes": [
+    [
+     1330,
+     626,
+     1554,
+     662
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.36,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 121,
+    "right": 118,
+    "up": 53,
+    "down": 55,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Motion control",
+   "en": "Motion control",
+   "lines": [
+    [
+     1834,
+     626,
+     2072,
+     654
+    ]
+   ],
+   "ocr": "Motion control",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 10,
+   "box": [
+    1834,
+    626,
+    2072,
+    654
+   ],
+   "ltexts": [
+    "Motion control"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    99,
+    99,
+    100
+   ],
+   "weight": "Regular",
+   "size": 35.07,
+   "baselines": [
+    654
+   ],
+   "xs": [
+    1831
+   ],
+   "inkboxes": [
+    [
+     1834,
+     626,
+     2072,
+     654
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.14,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 114,
+    "right": 115,
+    "up": 53,
+    "down": 63,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Reframe·dubbing",
+   "en": "Reframe·dubbing",
+   "lines": [
+    [
+     2331,
+     626,
+     2617,
+     662
+    ]
+   ],
+   "ocr": "Reframe: dubbing",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 11,
+   "box": [
+    2331,
+    626,
+    2617,
+    662
+   ],
+   "ltexts": [
+    "Reframe·dubbing"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    98,
+    98,
+    99
+   ],
+   "weight": "Medium",
+   "size": 33.86,
+   "baselines": [
+    654
+   ],
+   "xs": [
+    2328
+   ],
+   "inkboxes": [
+    [
+     2331,
+     626,
+     2617,
+     662
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.69,
+   "align": "center",
+   "room": {
+    "left": 95,
+    "right": 93,
+    "up": 52,
+    "down": 54,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Voice·music",
+   "en": "Voice·music",
+   "lines": [
+    [
+     267,
+     829,
+     504,
+     860
+    ]
+   ],
+   "ocr": "Voice music",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 12,
+   "box": [
+    267,
+    829,
+    504,
+    860
+   ],
+   "ltexts": [
+    "Voice·music"
+   ],
+   "bg": [
+    241,
+    240,
+    243
+   ],
+   "bgstd": 1.1,
+   "color": [
+    27,
+    27,
+    29
+   ],
+   "weight": "Bold",
+   "size": 38.36,
+   "baselines": [
+    860
+   ],
+   "xs": [
+    267
+   ],
+   "inkboxes": [
+    [
+     267,
+     829,
+     504,
+     860
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.41,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 114,
+    "right": 110,
+    "up": 53,
+    "down": 60,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Voice cloning",
+   "en": "Voice cloning",
+   "lines": [
+    [
+     1333,
+     829,
+     1548,
+     865
+    ]
+   ],
+   "ocr": "Voice cloning",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 13,
+   "box": [
+    1333,
+    829,
+    1548,
+    865
+   ],
+   "ltexts": [
+    "Voice cloning"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    97,
+    97,
+    98
+   ],
+   "weight": "Regular",
+   "size": 34.15,
+   "baselines": [
+    857
+   ],
+   "xs": [
+    1333
+   ],
+   "inkboxes": [
+    [
+     1333,
+     830,
+     1548,
+     865
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.23,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 124,
+    "right": 124,
+    "up": 54,
+    "down": 56,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Voice synthesis",
+   "en": "Voice synthesis",
+   "lines": [
+    [
+     807,
+     830,
+     1053,
+     866
+    ]
+   ],
+   "ocr": "Voice synthesis",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 14,
+   "box": [
+    807,
+    830,
+    1053,
+    866
+   ],
+   "ltexts": [
+    "Voice synthesis"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    96,
+    96,
+    98
+   ],
+   "weight": "Regular",
+   "size": 35.02,
+   "baselines": [
+    857
+   ],
+   "xs": [
+    807
+   ],
+   "inkboxes": [
+    [
+     807,
+     830,
+     1053,
+     866
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.54,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 106,
+    "right": 107,
+    "up": 55,
+    "down": 55,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Music generation",
+   "en": "Music generation",
+   "lines": [
+    [
+     1816,
+     830,
+     2094,
+     865
+    ]
+   ],
+   "ocr": "Music generation",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 15,
+   "box": [
+    1816,
+    830,
+    2094,
+    865
+   ],
+   "ltexts": [
+    "Music generation"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    97,
+    97,
+    98
+   ],
+   "weight": "Regular",
+   "size": 35.07,
+   "baselines": [
+    857
+   ],
+   "xs": [
+    1813
+   ],
+   "inkboxes": [
+    [
+     1816,
+     830,
+     2094,
+     865
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.19,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 96,
+    "right": 93,
+    "up": 55,
+    "down": 56,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "3D·space",
+   "en": "3D·space",
+   "lines": [
+    [
+     295,
+     1035,
+     477,
+     1073
+    ]
+   ],
+   "ocr": "3D-space",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 16,
+   "box": [
+    295,
+    1035,
+    477,
+    1073
+   ],
+   "ltexts": [
+    "3D·space"
+   ],
+   "bg": [
+    241,
+    240,
+    243
+   ],
+   "bgstd": 1.1,
+   "color": [
+    27,
+    28,
+    29
+   ],
+   "weight": "Bold",
+   "size": 38.97,
+   "baselines": [
+    1064
+   ],
+   "xs": [
+    294
+   ],
+   "inkboxes": [
+    [
+     295,
+     1035,
+     477,
+     1072
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.73,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 142,
+    "right": 137,
+    "up": 56,
+    "down": 53,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Spatial scan",
+   "en": "Spatial scan",
+   "lines": [
+    [
+     1857,
+     1036,
+     2047,
+     1072
+    ]
+   ],
+   "ocr": "Spatial scan",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 17,
+   "box": [
+    1857,
+    1036,
+    2047,
+    1072
+   ],
+   "ltexts": [
+    "Spatial scan"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    97,
+    97,
+    99
+   ],
+   "weight": "Regular",
+   "size": 34.81,
+   "baselines": [
+    1064
+   ],
+   "xs": [
+    1855
+   ],
+   "inkboxes": [
+    [
+     1857,
+     1036,
+     2047,
+     1072
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.6,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 137,
+    "right": 140,
+    "up": 57,
+    "down": 55,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Image→3D",
+   "en": "Image→3D",
+   "lines": [
+    [
+     840,
+     1037,
+     1022,
+     1072
+    ]
+   ],
+   "ocr": "Image>3D",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 18,
+   "box": [
+    840,
+    1037,
+    1022,
+    1072
+   ],
+   "ltexts": [
+    "Image→3D"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    97,
+    96,
+    98
+   ],
+   "weight": "Regular",
+   "size": 36.17,
+   "baselines": [
+    1064
+   ],
+   "xs": [
+    836
+   ],
+   "inkboxes": [
+    [
+     840,
+     1037,
+     1022,
+     1072
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.56,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 139,
+    "right": 138,
+    "up": 58,
+    "down": 55,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Rigging·animation",
+   "en": "Rigging·animation",
+   "lines": [
+    [
+     1289,
+     1037,
+     1593,
+     1072
+    ]
+   ],
+   "ocr": "Rigging: animation",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 19,
+   "box": [
+    1289,
+    1037,
+    1593,
+    1072
+   ],
+   "ltexts": [
+    "Rigging·animation"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    97,
+    97,
+    99
+   ],
+   "weight": "Medium",
+   "size": 33.94,
+   "baselines": [
+    1064
+   ],
+   "xs": [
+    1286
+   ],
+   "inkboxes": [
+    [
+     1289,
+     1037,
+     1593,
+     1072
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.4,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 80,
+    "right": 79,
+    "up": 58,
+    "down": 55,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  }
+ ],
+ "missing": [],
+ "noise": []
+}

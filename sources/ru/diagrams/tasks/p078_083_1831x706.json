@@ -1,0 +1,114 @@
+{
+ "stem": "p078_083_1831x706",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p078_083_1831x706.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Headroom",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 8,
+    "chars_per_line_if_shrunk": 9,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Noseroom",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 10,
+    "chars_per_line_if_shrunk": 12,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Lead room",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 12,
+    "chars_per_line_if_shrunk": 15,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Space ahead of gaze",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Space ahead of motion",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 21,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Space above head",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 35,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "Too much sinks, too little cramps",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 33,
+    "chars_per_line_max": 39,
+    "chars_per_line_if_shrunk": 48,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Leave room where they look",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 26,
+    "chars_per_line_max": 37,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Leave room where they go",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 37,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

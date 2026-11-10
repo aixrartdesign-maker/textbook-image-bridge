@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_lighting.html#76",
+"ru": "Ambient↓ / маска из тёмного солида"
+},
+{
+"key": "feature_lighting.html#77",
+"ru": "Прежде чем смотреть на название прибора, проверьте: жёсткий или мягкий, узкий или широкий, сколько кельвинов. В последнем столбце — 3D-свет After Effects, который воссоздаёт тот же свет."
+},
+{
+"key": "feature_lighting.html#78",
+"ru": "<small>РАЗВОРОТ 02</small>От пинспота до общего света — пять типов по углу луча"
+},
+{
+"key": "feature_lighting.html#79",
+"ru": "От пинспота до общего света — пять типов по углу луча"
+},
+{
+"key": "feature_lighting.html#80",
+"ru": "<b>ПИНСПОТ</b><span class=\"deg\">4–10° · очень узкий</span><span>Только одно лицо — соло на сцене, акцент на товаре</span>"
+},
+{
+"key": "feature_lighting.html#81",
+"ru": "<b>СПОТ</b><span class=\"deg\">15–30° · узкий</span><span>Круг с видимым краем — френель, профильный прожектор · акцент и отделение</span>"
+},
+{
+"key": "feature_lighting.html#82",
+"ru": "<b>ФЛУД</b><span class=\"deg\">45–70° · широкий</span><span>Широко и ровно — открытый прибор, LED-панель · базовое освещение</span>"
+},
+{
+"key": "feature_lighting.html#83",
+"ru": "<b>МЯГКИЙ</b><span class=\"deg\">рассеянный · без края</span><span>Обволакивающий свет — софтбокс, «книжка» · кожа · интервью</span>"
+},
+{
+"key": "feature_lighting.html#84",
+"ru": "<b>ОБЩИЙ</b><span class=\"deg\">ненаправленный · со всех сторон</span><span>Бестеневая база — отражение от потолка, пасмурный день</span>"
+},
+{
+"key": "feature_lighting.html#85",
+"ru": "<span>← узкий · жёсткий · чёткий край · драматичный</span><span>широкий · мягкий · без края · общий →</span>"
+},
+{
+"key": "feature_lighting.html#86",
+"ru": "<b>Схема LT-2</b> Пять типов света по углу луча — тот же человек на том же месте; меняется только то, что стоит перед прибором. Слева решают, «что показать», справа — «насколько светло»."
+},
+{
+"key": "feature_lighting.html#87",
+"ru": "Луч"
+},
+{
+"key": "feature_lighting.html#88",
+"ru": "Угол"
+},
+{
+"key": "feature_lighting.html#89",
+"ru": "Край тени"
+},
+{
+"key": "feature_lighting.html#90",
+"ru": "Для чего"
+},
+{
+"key": "feature_lighting.html#91",
+"ru": "Типичные приборы · насадки"
+},
+{
+"key": "feature_lighting.html#92",
+"ru": "Настройки 3D-света в AE"
+},
+{
+"key": "feature_lighting.html#93",
+"ru": "Частая ошибка"
+},
+{
+"key": "feature_lighting.html#94",
+"ru": "Пинспот"
+},
+{
+"key": "feature_lighting.html#95",
+"ru": "Очень резкий"
+},
+{
+"key": "feature_lighting.html#96",
+"ru": "Акцент на одном товаре, блик в глазах, рисунок гобо"
+},
+{
+"key": "feature_lighting.html#97",
+"ru": "Dedolight, тубус, проекционная насадка"
+},
+{
+"key": "feature_lighting.html#98",
+"ru": "Spot · конус 5–10 · растушёвка 10"
+},
+{
+"key": "feature_lighting.html#99",
+"ru": "Пинспот на лицо → пятнами"
+},
+{
+"key": "feature_lighting.html#100",
+"ru": "Спот"
+},
+{
+"key": "feature_lighting.html#101",
+"ru": "Чёткий"
+},
+{
+"key": "feature_lighting.html#102",
+"ru": "Рисующий в портрете (драматичный), сцена, контровой"
+},
+{
+"key": "feature_lighting.html#103",
+"ru": "Френель в режиме спот, COB со стандартным рефлектором, шторки"
+},
+{
+"key": "feature_lighting.html#104",
+"ru": "Spot · конус 30 · растушёвка 40"
+},
+{
+"key": "feature_lighting.html#105",
+"ru": "Без шторок свет заливает стену"
+},
+{
+"key": "feature_lighting.html#106",
+"ru": "Флуд"
+},
+{
+"key": "feature_lighting.html#107",
+"ru": "Размытый"
+},
+{
+"key": "feature_lighting.html#108",
+"ru": "Фоны · стена хромакея · группы"
+},
+{
+"key": "feature_lighting.html#109",
+"ru": "Открытый прибор, LED-панель, френель в режиме флуд"
+},
+{
+"key": "feature_lighting.html#110",
+"ru": "Spot · конус 70 · растушёвка 80"
+},
+{
+"key": "feature_lighting.html#111",
+"ru": "Объект и фон одинаково яркие"
+},
+{
+"key": "feature_lighting.html#112",
+"ru": "Мягкий"
+},
+{
+"key": "feature_lighting.html#113",
+"ru": "Площадной источник"
+},
+{
+"key": "feature_lighting.html#114",
+"ru": "Почти нет"
+},
+{
+"key": "feature_lighting.html#115",
+"ru": "Рисующий · заполняющий в портрете, бьюти, матовые товары"
+},
+{
+"key": "feature_lighting.html#116",
+"ru": "Софтбокс 60–120, диффузия 216/250, отражатель"
+},
+{
+"key": "feature_lighting.html#117",
+"ru": "Spot · конус 90 · растушёвка 100 · рассеивание тени 20+"
+},
+{
+"key": "feature_lighting.html#118",
+"ru": "Источник слишком далеко — свет снова жёсткий"
+},
+{
+"key": "feature_lighting.html#119",
+"ru": "Общий"
+},
+{
+"key": "feature_lighting.html#120",
+"ru": "Ненаправленный"
+},
+{
+"key": "feature_lighting.html#121",
+"ru": "Нет"
+},
+{
+"key": "feature_lighting.html#122",
+"ru": "База экспозиции, вид пасмурного дня"
+},
+{
+"key": "feature_lighting.html#123",
+"ru": "Отражение от потолка, большая «книжка», окно с диффузией"
+},
+{
+"key": "feature_lighting.html#124",
+"ru": "Ambient · интенсивность 10–30 %"
+},
+{
+"key": "feature_lighting.html#125",
+"ru": "Ставят один общий свет — и удивляются, почему «плоско»"
+},
+{
+"key": "feature_lighting.html#126",
+"ru": "<small>РАЗВОРОТ 03</small>Чем меняют свет — размер · расстояние · направление · интенсивность · цвет: пять ручек управления"
+},
+{
+"key": "feature_lighting.html#127",
+"ru": "Мягкость = видимый размер источника"
+},
+{
+"key": "feature_lighting.html#128",
+"ru": "<b>Слева жёсткий · справа мягкий</b><span>То же лицо, та же экспозиция. Слева — одна голая лампа, справа — софтбокс 2 м</span>"
+},
+{
+"key": "feature_lighting.html#129",
+"ru": "Малый источник · далеко → жёстко"
+},
+{
+"key": "feature_lighting.html#130",
+"ru": "Очень резкий край тени"
+},
+{
+"key": "feature_lighting.html#131",
+"ru": "Большой источник · близко → мягко"
+},
+{
+"key": "feature_lighting.html#132",
+"ru": "Тень расплывается и тает"
+},
+{
+"key": "feature_lighting.html#133",
+"ru": "<b>Что отличает жёсткий свет от мягкого</b><span>Не тип лампы, а <b>размер</b> источника с точки зрения объекта. Увеличьте его (диффузия · отражение) или приблизьте — и свет смягчится</span>"
+},
+{
+"key": "feature_lighting.html#134",
+"ru": "<b>Модификаторы — что чем управляет</b><span>Софтбокс · диффузия → размер (мягкость)</span><span>Отражение (потолок · стена · пенокартон) → размер + направление</span><span>Соты · шторки → срезают паразитный свет</span><span>Флаг → перекрывает свет</span><span>Гель (CTO · CTB) → цвет</span><span>ND → только яркость</span>"
+},
+{
+"key": "feature_lighting.html#135",
+"ru": "<b>Схема LT-3</b> Жёсткость и мягкость задаются «видимым размером» источника и расстоянием. Модификаторы — это ручки, которые меняют эти два параметра."
+},
+{
+"key": "feature_lighting.html#136",
+"ru": "<b>2<em>×</em></b>Расстояние → 1/4 яркости (−2 ступени)"
+},
+{
+"key": "feature_lighting.html#137",
+"ru": "<b>216<em>/ 250</em></b>Полная / половинная диффузия — ок. −1,5 / −0,8 ступени"
+},
+{
+"key": "feature_lighting.html#138",
+"ru": "<b>5600<em>К</em></b>Дневной · <b>3200<em>К</em></b>галоген · CTO = 5600→3200"
+},
+{
+"key": "feature_lighting.html#139",
+"ru": "<b>1<em> только</em></b>Направление теней в кадре"
+},
+{
+"key": "feature_lighting.html#140",
+"ru": "<small>РАЗВОРОТ 04</small>Восемь световых схем — учите их как планы сверху"
+},
+{
+"key": "feature_lighting.html#141",
+"ru": "Восемь схем — вид сверху"
+},
+{
+"key": "feature_lighting.html#142",
+"ru": "<b>01 Базовая трёхточечная</b><span>Рисующий 45° + заполняющий + контровой · с неё начинаются интервью</span>"
+},
+{
+"key": "feature_lighting.html#143",
+"ru": "<b>02 Рембрандт</b><span>Рисующий 45° сверху + чёрный щит · световой треугольник на щеке</span>"
+},
+{
+"key": "feature_lighting.html#144",
+"ru": "<b>03 Бабочка</b><span>Рисующий спереди сверху + отражатель под подбородком · бьюти</span>"
+},
+{
+"key": "feature_lighting.html#145",
+"ru": "<b>04 Сплит</b><span>Один рисующий под 90° · лицо разделено пополам</span>"
+},
+{
+"key": "feature_lighting.html#146",
+"ru": "<b>05 Петля</b><span>Рисующий 35° + слабый заполняющий · самый надёжный выбор</span>"
+},
+{
+"key": "feature_lighting.html#147",
+"ru": "<b>06 «Книжка»</b><span>Рисующий → отражатель → диффузия · самый мягкий свет</span>"
+},
+{
+"key": "feature_lighting.html#148",
+"ru": "<b>07 Контровой · контур</b><span>Два прибора сзади по бокам + отражатель спереди · только контур</span>"
+},
+{
+"key": "feature_lighting.html#149",
+"ru": "<b>08 Верхний свет для товара</b><span>Большой мягкий сверху + стрипбокс сзади + белые щиты по бокам</span>"
+},
+{
+"key": "feature_lighting.html#150",
+"ru": "<b>Схема LT-4</b> Восемь световых схем — та же студия и тот же объект на том же месте; в этой 3D-сцене меняется только расстановка приборов. На фото схемы запоминаются как «настроение», на планах — как «углы»."
+},
+{
+"key": "feature_lighting.html#151",
+"ru": "<small>РАЗВОРОТ 05</small>Свет в программах — четыре 3D-источника After Effects и световые эффекты"
+},
+{
+"key": "feature_lighting.html#152",
+"ru": "3D-свет в After Effects — уменьшенная модель света на площадке. Тот же словарь (Spot · Point · Ambient) и те же свойства (интенсивность · цвет · угол конуса · спад · тень). Если вы умеете работать со светом на площадке, в программе вы примете те же решения."
+},
+{
+"key": "feature_lighting.html#153",
+"ru": "Свет в программах — четыре источника"
+},
+{
+"key": "feature_lighting.html#154",
+"ru": "<b>Parallel</b><span class=\"deg\">На площадке · солнце · HMI</span><span>Параллельный и ровный — все тени падают в одну сторону, независимо от расстояния</span>"
+},
+{
+"key": "feature_lighting.html#155",
+"ru": "<b>Spot</b><span class=\"deg\">На площадке · френель · софтбокс</span><span>Конус — основной рисующий. Угол конуса · растушёвка · спад</span>"
+},
+{
+"key": "feature_lighting.html#156",
+"ru": "<b>Point</b><span class=\"deg\">На площадке · лампочка · свеча · трубка</span><span>Во все стороны — слабеет с расстоянием (Falloff)</span>"
+},
+{
+"key": "feature_lighting.html#157",
+"ru": "<b>Ambient</b><span class=\"deg\">На площадке · отражение от потолка · пасмурный день</span><span>Бестеневая база — только 10–30 %, больше — и всё плоско</span>"
+},
+{
+"key": "feature_lighting.html#158",
+"ru": "<b>Порядок настройки</b><span>① Ambient на 10–20 % — базовый уровень</span><span>② Один Spot — рисующий (тени вкл.)</span><span>③ Point или слабый Spot — заполняющий (тени выкл.)</span><span>④ Spot сзади — контровой</span><span>⑤ Параметры материала: Accepts Shadows · Casts Shadows</span>"
+},
+{
+"key": "feature_lighting.html#159",
+"ru": "<b>Схема LT-5</b> Четыре 3D-источника After Effects и их аналоги на площадке — одни и те же сфера и коробка, освещённые каждым из четырёх источников по отдельности. Свет в программе — уменьшенная модель света на площадке."
+},
+{
+"key": "feature_lighting.html#160",
+"ru": "Задача на площадке"
+},
+{
+"key": "feature_lighting.html#161",
+"ru": "В After Effects"
+},
+{
+"key": "feature_lighting.html#162",
+"ru": "В Premiere Pro / Resolve"
+},
+{
+"key": "feature_lighting.html#163",
+"ru": "Ключевые параметры · советы"
+},
+{
+"key": "feature_lighting.html#164",
+"ru": "Высветить одну точку спотом"
+},
+{
+"key": "feature_lighting.html#165",
+"ru": "3D Spot Light · или белый солид с маской и растушёвкой, режим Add/Overlay"
+},
+{
+"key": "feature_lighting.html#166",
+"ru": "Lumetri Vignette (инверсия) · кривые с маской"
+},
+{
+"key": "feature_lighting.html#167",
+"ru": "Растушёвка маски 200+ · непрозрачность 20–40 % · немного тёплого цвета по краю"
+},
+{
+"key": "feature_lighting.html#168",
+"ru": "Гобо: оконный переплёт · листва"
+},
+{
+"key": "feature_lighting.html#169",
+"ru": "Fractal Noise → Уровни → трек-матт / Light Transmission"
+},
+{
+"key": "feature_lighting.html#170",
+"ru": "2 Lumetri с масками (светлее/темнее)"
+},
+{
+"key": "feature_lighting.html#171",
+"ru": "Медленно анимируйте Evolution — получатся «тени, качающиеся на ветру»"
+},
+{
+"key": "feature_lighting.html#172",
+"ru": "Контровой контур · свечение"
+},
+{
+"key": "feature_lighting.html#173",
+"ru": "Light Wrap (с Keylight) · Glow (порог 70–85) · CC Light Rays"
+},
+{
+"key": "feature_lighting.html#174",
+"ru": "Lumetri: света↑ + Glow (плагин)"
+},
+{
+"key": "feature_lighting.html#175",
+"ru": "В Glow выставьте Composite Original в «Behind» — будет деликатнее · Light Rays — в точку источника"
+},
+{
+"key": "feature_lighting.html#176",
+"ru": "Блик объектива"
+},
+{
+"key": "feature_lighting.html#177",
+"ru": "Lens Flare (встроенный) · Optical Flares (плагин) · CC Light Burst 2.5"
+},
+{
+"key": "feature_lighting.html#178",
+"ru": "Lens Flare (встроенный)"
+},
+{
+"key": "feature_lighting.html#179",
+"ru": "Позицию источника привяжите к трекингу · яркость 60–80 % · режим Screen"
+},
+{
+"key": "feature_lighting.html#180",
+"ru": "Блик, пробегающий по логотипу"
+},
+{
+"key": "feature_lighting.html#181",
+"ru": "CC Light Sweep · Shine (Trapcode)"
+},
+{
+"key": "feature_lighting.html#182",
+"ru": "Light Sweep (Legacy) · анимация маски"
+},
+{
+"key": "feature_lighting.html#183",
+"ru": "Ширина 30–60 · интенсивность 20–40 · один проход за 1 секунду, без повторов"
+},
+{
+"key": "feature_lighting.html#184",
+"ru": "Отбросить тень (композитинг)"
+},
+{
+"key": "feature_lighting.html#185",
+"ru": "Drop Shadow (2D) · Radial Shadow · Casts Shadows у 3D-света · Shadow Catcher"
+},
+{
+"key": "feature_lighting.html#186",
+"ru": "Drop Shadow (встроенный)"
+},
+{
+"key": "feature_lighting.html#187",
+"ru": "Мягкость 20–40 · непрозрачность 40–60 · направление — как у рисующего"
+},
+{
+"key": "feature_lighting.html#188",
+"ru": "Доработать общую экспозицию · контраст"
+},
+{
+"key": "feature_lighting.html#189",
+"ru": "Lumetri Color · Кривые · Экспозиция · Уровни"
+},
+{
+"key": "feature_lighting.html#190",
+"ru": "Lumetri Basic: экспозиция · контраст · света · тени · белые · чёрные"
+},
+{
+"key": "feature_lighting.html#191",
+"ru": "Порядок: экспозиция → WB → контраст → света/тени → и только потом «лук»"
+},
+{
+"key": "feature_lighting.html#192",
+"ru": "Негативное заполнение (затемнить)"
+},
+{
+"key": "feature_lighting.html#193",
+"ru": "Чёрный солид + маска + Multiply · виньетка"
+},
+{
+"key": "feature_lighting.html#194",
+"ru": "Lumetri Vignette: сила от −1 до −2 · кривые с маской"
+},
+{
+"key": "feature_lighting.html#195",
+"ru": "Затемните края на 1 ступень — и взгляд уйдёт в центр"
+},
+{
+"key": "feature_lighting.html#196",
+"ru": "Гель цветовой температуры"
+},
+{
+"key": "feature_lighting.html#197",
+"ru": "Tint · цветовой баланс · температура в Lumetri"
+},
+{
+"key": "feature_lighting.html#198",
+"ru": "Lumetri: температура / оттенок"
+},
+{
+"key": "feature_lighting.html#199",
+"ru": "Эффект CTO: температура +10–20 · тёплые света / холодные тени через цветовые круги"
+},
+{
+"key": "feature_lighting.html#200",
+"ru": "Мерцание практикала · свет свечи"
+},
+{
+"key": "feature_lighting.html#201",
+"ru": "Выражение wiggle(4, 20) на интенсивность Point Light"
+},
+{
+"key": "feature_lighting.html#202",
+"ru": "Ключи непрозрачности · плагины"
+},
+{
+"key": "feature_lighting.html#203",
+"ru": "Частота 2–5 Гц, амплитуда 10–20 % — больше уже похоже на сломанную люминесцентную лампу"
+},
+{
+"key": "feature_lighting.html#204",
+"ru": "<b>СОВЕТ</b>"
+},
+{
+"key": "feature_lighting.html#205",
+"ru": "Свет в программе «дополняет» свет на площадке, а не «создаёт» его. Выставьте на съёмке единое верное направление теней — и на постпродакшне сможете наложить что угодно."
+},
+{
+"key": "feature_lighting.html#206",
+"ru": "Названия меняются (версии · плагины). Неизменны порядок <b>интенсивность → направление → размер → цвет</b> и правило единого направления теней."
+},
+{
+"key": "feature_lighting.html#207",
+"ru": "<small>РАЗВОРОТ 06</small>Шпаргалка по свету на площадке — порядок, при котором свет ставится за 10 минут"
+},
+{
+"key": "feature_lighting.html#208",
+"ru": "<b>01</b><i>Выключить</i>Выключите все люминесцентные лампы · посторонний свет в комнате. Начинайте с темноты."
+},
+{
+"key": "feature_lighting.html#209",
+"ru": "<b>02</b><i>Один рисующий</i>Рисующий под 45°/45° к объекту. Экспозиция по рисующему (база — f/2,8, ISO 800)."
+},
+{
+"key": "feature_lighting.html#210",
+"ru": "<b>03</b><i>Заполняющий</i>Отражатель с противоположной стороны или мягкий источник на 1/3 мощности. Так задаётся соотношение освещённости."
+},
+{
+"key": "feature_lighting.html#211",
+"ru": "<b>04</b><i>Отделить</i>Контровой или свет на фон. Фон на 1 ступень темнее объекта."
+},
+{
+"key": "feature_lighting.html#212",
+"ru": "<b>05</b><i>Цвет · порядок</i>Выровняйте цветовую температуру, срежьте паразитный свет шторками · флагами, проверьте безопасность (мешки с песком · кабели)."
+},
+{
+"key": "feature_lighting.html#213",
+"ru": "<small>Контраст</small>Рисующий : заполняющий"
+},
+{
+"key": "feature_lighting.html#214",
+"ru": "2:1 (1 ступень) — светло, реклама, бьюти"
+},
+{
+"key": "feature_lighting.html#215",
+"ru": "4:1 (2 ступени) — обычная драма, интервью"
+},
+{
+"key": "feature_lighting.html#216",
+"ru": "8:1 и выше (3+ ступени) — нуар, триллер"
+},
+{
+"key": "feature_lighting.html#217",
+"ru": "Без заполняющего — силуэт, сплит"
+},
+{
+"key": "feature_lighting.html#218",
+"ru": "<small>Цветовая температура</small>Смешивайте осознанно"
+},
+{
+"key": "feature_lighting.html#219",
+"ru": "Дневной 5600 К · галоген 3200 К · люминесцентный 4000–4500 К"
+},
+{
+"key": "feature_lighting.html#220",
+"ru": "Окно + галоген → CTO на окно или CTB на прибор"
+},
+{
+"key": "feature_lighting.html#221",
+"ru": "Смешивайте только в одну сторону: «окно = холодно, интерьер = тепло»"
+},
+{
+"key": "feature_lighting.html#222",
+"ru": "Баланс белого камеры — по рисующему"
+},
+{
+"key": "feature_lighting.html#223",
+"ru": "<small>Безопасность</small>Аварии начинаются со света"
+},
+{
+"key": "feature_lighting.html#224",
+"ru": "Мешок с песком на каждой стойке, кабели приклеены к полу"
+},
+{
+"key": "feature_lighting.html#225",
+"ru": "Никаких гелей · ткани ближе 30 см к галогену (пожар)"
+}
+]

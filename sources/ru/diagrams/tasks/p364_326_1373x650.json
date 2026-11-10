@@ -1,0 +1,246 @@
+{
+ "stem": "p364_326_1373x650",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p364_326_1373x650.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Generative tool map — know the categories to place any new tool",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 63,
+    "chars_per_line_max": 100,
+    "chars_per_line_if_shrunk": 123,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Text·planning",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "2",
+   "en": "Chat language model",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Image",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 17,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Image editing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "Upscale·BG removal",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Text→image",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 25,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "7",
+   "en": "Video",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "8",
+   "en": "Text→video",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "9",
+   "en": "Image→video",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "10",
+   "en": "Motion control",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "11",
+   "en": "Reframe·dubbing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "Voice·music",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "13",
+   "en": "Voice cloning",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 31,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "14",
+   "en": "Voice synthesis",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "15",
+   "en": "Music generation",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "16",
+   "en": "3D·space",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 17,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "17",
+   "en": "Spatial scan",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 32,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "18",
+   "en": "Image→3D",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "19",
+   "en": "Rigging·animation",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

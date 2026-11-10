@@ -1,0 +1,90 @@
+{
+ "stem": "p072_070_1831x681",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p072_070_1831x681.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Camera height defines power dynamics",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 36,
+    "chars_per_line_max": 47,
+    "chars_per_line_if_shrunk": 58,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Worm's-eye",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 10,
+    "chars_per_line_if_shrunk": 12,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Worm's-eye",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 10,
+    "chars_per_line_if_shrunk": 12,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Bird's-eye",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 25,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "High angle",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "7",
+   "en": "Eye level",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Low angle",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 32,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

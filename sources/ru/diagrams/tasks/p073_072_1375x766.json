@@ -1,0 +1,210 @@
+{
+ "stem": "p073_072_1375x766",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p073_072_1375x766.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Camera position sets a subject's size and attitude",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 50,
+    "chars_per_line_max": 88,
+    "chars_per_line_if_shrunk": 108,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Bird's-eye",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "+90°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 4,
+    "chars_per_line_if_shrunk": 5,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Top-down, like a map",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 31,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "4",
+   "en": "High angle",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "+45°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 4,
+    "chars_per_line_if_shrunk": 5,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "Small, passive",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "7",
+   "en": "Eye level",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 32,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "0°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 2,
+    "chars_per_line_max": 5,
+    "chars_per_line_if_shrunk": 7,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "9",
+   "en": "Neutral — as equals",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 34,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "10",
+   "en": "Low angle",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 25,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "-40°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 8,
+    "chars_per_line_if_shrunk": 10,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "12",
+   "en": "Big, commanding",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "13",
+   "en": "Worm's-eye",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "-75°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 4,
+    "chars_per_line_if_shrunk": 5,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "Imposing · unreal",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "16",
+   "en": "Change height, change character — angle is the director's stance",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 64,
+    "chars_per_line_max": 113,
+    "chars_per_line_if_shrunk": 137,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

@@ -1,0 +1,1443 @@
+{
+ "stem": "p093_111_1374x800",
+ "size": [
+  2591,
+  1502
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "When choosing color, value still decides",
+   "en": "When choosing color, value still decides",
+   "lines": [
+    [
+     687,
+     46,
+     1902,
+     115
+    ]
+   ],
+   "ocr": "When choosing color, value still decides",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    687,
+    46,
+    1902,
+    115
+   ],
+   "ltexts": [
+    "When choosing color, value still decides"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    57,
+    56,
+    56
+   ],
+   "weight": "Bold",
+   "size": 64.28,
+   "baselines": [
+    100
+   ],
+   "xs": [
+    686
+   ],
+   "inkboxes": [
+    [
+     687,
+     46,
+     1901,
+     115
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.3,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 687,
+    "right": 689,
+    "up": 46,
+    "down": 64,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Analogous",
+   "en": "Analogous",
+   "lines": [
+    [
+     887,
+     213,
+     1105,
+     259
+    ]
+   ],
+   "ocr": "Analogous",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    887,
+    213,
+    1105,
+    259
+   ],
+   "ltexts": [
+    "Analogous"
+   ],
+   "bg": [
+    243,
+    244,
+    246
+   ],
+   "bgstd": 0.7,
+   "color": [
+    123,
+    34,
+    56
+   ],
+   "weight": "Bold",
+   "size": 42.97,
+   "baselines": [
+    248
+   ],
+   "xs": [
+    887
+   ],
+   "inkboxes": [
+    [
+     887,
+     214,
+     1105,
+     259
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.65,
+   "align": "center",
+   "room": {
+    "left": 184,
+    "right": 192,
+    "up": 31,
+    "down": 87,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Monochrome",
+   "en": "Monochrome",
+   "lines": [
+    [
+     1506,
+     213,
+     1772,
+     248
+    ]
+   ],
+   "ocr": "Monochrome",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    1506,
+    213,
+    1772,
+    248
+   ],
+   "ltexts": [
+    "Monochrome"
+   ],
+   "bg": [
+    243,
+    244,
+    246
+   ],
+   "bgstd": 0.8,
+   "color": [
+    124,
+    34,
+    57
+   ],
+   "weight": "Medium",
+   "size": 43.25,
+   "baselines": [
+    248
+   ],
+   "xs": [
+    1503
+   ],
+   "inkboxes": [
+    [
+     1507,
+     213,
+     1772,
+     248
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.59,
+   "align": "center",
+   "room": {
+    "left": 156,
+    "right": 169,
+    "up": 31,
+    "down": 98,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Complementary",
+   "en": "Complementary",
+   "lines": [
+    [
+     191,
+     214,
+     524,
+     259
+    ]
+   ],
+   "ocr": "Complementary",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    191,
+    214,
+    524,
+    259
+   ],
+   "ltexts": [
+    "Complementary"
+   ],
+   "bg": [
+    243,
+    244,
+    246
+   ],
+   "bgstd": 0.6,
+   "color": [
+    123,
+    34,
+    56
+   ],
+   "weight": "Medium",
+   "size": 43.04,
+   "baselines": [
+    248
+   ],
+   "xs": [
+    189
+   ],
+   "inkboxes": [
+    [
+     191,
+     214,
+     524,
+     258
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.55,
+   "align": "center",
+   "room": {
+    "left": 137,
+    "right": 125,
+    "up": 32,
+    "down": 87,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "One accent",
+   "en": "One accent",
+   "lines": [
+    [
+     2172,
+     215,
+     2404,
+     248
+    ]
+   ],
+   "ocr": "One accent",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    2172,
+    215,
+    2404,
+    248
+   ],
+   "ltexts": [
+    "One accent"
+   ],
+   "bg": [
+    243,
+    244,
+    246
+   ],
+   "bgstd": 0.9,
+   "color": [
+    125,
+    36,
+    58
+   ],
+   "weight": "Medium",
+   "size": 43.75,
+   "baselines": [
+    247
+   ],
+   "xs": [
+    2170
+   ],
+   "inkboxes": [
+    [
+     2172,
+     215,
+     2403,
+     248
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.54,
+   "align": "left",
+   "room": {
+    "left": 177,
+    "right": 187,
+    "up": 33,
+    "down": 98,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Chosen colors",
+   "en": "Chosen colors",
+   "lines": [
+    [
+     242,
+     670,
+     448,
+     695
+    ]
+   ],
+   "ocr": "Chosen colors",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    242,
+    670,
+    448,
+    695
+   ],
+   "ltexts": [
+    "Chosen colors"
+   ],
+   "bg": [
+    243,
+    244,
+    246
+   ],
+   "bgstd": 1.4,
+   "color": [
+    116,
+    116,
+    118
+   ],
+   "weight": "Medium",
+   "size": 31.06,
+   "baselines": [
+    695
+   ],
+   "xs": [
+    240
+   ],
+   "inkboxes": [
+    [
+     242,
+     670,
+     448,
+     695
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.36,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 188,
+    "right": 201,
+    "up": 59,
+    "down": 19,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Chosen colors",
+   "en": "Chosen colors",
+   "lines": [
+    [
+     891,
+     670,
+     1097,
+     695
+    ]
+   ],
+   "ocr": "Chosen colors",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    891,
+    670,
+    1097,
+    695
+   ],
+   "ltexts": [
+    "Chosen colors"
+   ],
+   "bg": [
+    243,
+    244,
+    246
+   ],
+   "bgstd": 1.3,
+   "color": [
+    116,
+    116,
+    118
+   ],
+   "weight": "Medium",
+   "size": 31.06,
+   "baselines": [
+    695
+   ],
+   "xs": [
+    889
+   ],
+   "inkboxes": [
+    [
+     891,
+     670,
+     1097,
+     695
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.37,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 188,
+    "right": 200,
+    "up": 59,
+    "down": 20,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Chosen colors",
+   "en": "Chosen colors",
+   "lines": [
+    [
+     1535,
+     670,
+     1742,
+     695
+    ]
+   ],
+   "ocr": "Chosen colors",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    1535,
+    670,
+    1742,
+    695
+   ],
+   "ltexts": [
+    "Chosen colors"
+   ],
+   "bg": [
+    243,
+    244,
+    246
+   ],
+   "bgstd": 1.5,
+   "color": [
+    115,
+    115,
+    117
+   ],
+   "weight": "Medium",
+   "size": 31.14,
+   "baselines": [
+    695
+   ],
+   "xs": [
+    1533
+   ],
+   "inkboxes": [
+    [
+     1535,
+     670,
+     1742,
+     695
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.28,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 185,
+    "right": 199,
+    "up": 59,
+    "down": 20,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Chosen colors",
+   "en": "Chosen colors",
+   "lines": [
+    [
+     2184,
+     670,
+     2390,
+     695
+    ]
+   ],
+   "ocr": "Chosen colors",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    2184,
+    670,
+    2390,
+    695
+   ],
+   "ltexts": [
+    "Chosen colors"
+   ],
+   "bg": [
+    243,
+    244,
+    246
+   ],
+   "bgstd": 1.1,
+   "color": [
+    113,
+    114,
+    116
+   ],
+   "weight": "Medium",
+   "size": 31.06,
+   "baselines": [
+    695
+   ],
+   "xs": [
+    2182
+   ],
+   "inkboxes": [
+    [
+     2184,
+     670,
+     2390,
+     695
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.37,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 189,
+    "right": 201,
+    "up": 59,
+    "down": 19,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Grayscale value",
+   "en": "Grayscale value",
+   "lines": [
+    [
+     227,
+     852,
+     460,
+     884
+    ]
+   ],
+   "ocr": "Grayscale value",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    227,
+    852,
+    460,
+    884
+   ],
+   "ltexts": [
+    "Grayscale value"
+   ],
+   "bg": [
+    243,
+    243,
+    245
+   ],
+   "bgstd": 1.2,
+   "color": [
+    119,
+    120,
+    122
+   ],
+   "weight": "Medium",
+   "size": 31.43,
+   "baselines": [
+    877
+   ],
+   "xs": [
+    225
+   ],
+   "inkboxes": [
+    [
+     227,
+     852,
+     460,
+     884
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.33,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 173,
+    "right": 189,
+    "up": 12,
+    "down": 12,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Grayscale value",
+   "en": "Grayscale value",
+   "lines": [
+    [
+     877,
+     852,
+     1110,
+     884
+    ]
+   ],
+   "ocr": "Grayscale value",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 10,
+   "box": [
+    877,
+    852,
+    1110,
+    884
+   ],
+   "ltexts": [
+    "Grayscale value"
+   ],
+   "bg": [
+    243,
+    244,
+    245
+   ],
+   "bgstd": 1.4,
+   "color": [
+    121,
+    121,
+    123
+   ],
+   "weight": "Medium",
+   "size": 31.5,
+   "baselines": [
+    877
+   ],
+   "xs": [
+    874
+   ],
+   "inkboxes": [
+    [
+     876,
+     852,
+     1110,
+     884
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.3,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 174,
+    "right": 187,
+    "up": 12,
+    "down": 13,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Grayscale value",
+   "en": "Grayscale value",
+   "lines": [
+    [
+     1521,
+     852,
+     1755,
+     884
+    ]
+   ],
+   "ocr": "Grayscale value",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 11,
+   "box": [
+    1521,
+    852,
+    1755,
+    884
+   ],
+   "ltexts": [
+    "Grayscale value"
+   ],
+   "bg": [
+    243,
+    244,
+    245
+   ],
+   "bgstd": 1.2,
+   "color": [
+    121,
+    121,
+    123
+   ],
+   "weight": "Medium",
+   "size": 31.5,
+   "baselines": [
+    877
+   ],
+   "xs": [
+    1519
+   ],
+   "inkboxes": [
+    [
+     1521,
+     852,
+     1755,
+     884
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.32,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 171,
+    "right": 186,
+    "up": 12,
+    "down": 13,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Grayscale value",
+   "en": "Grayscale value",
+   "lines": [
+    [
+     2168,
+     852,
+     2401,
+     884
+    ]
+   ],
+   "ocr": "Grayscale value",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 12,
+   "box": [
+    2168,
+    852,
+    2401,
+    884
+   ],
+   "ltexts": [
+    "Grayscale value"
+   ],
+   "bg": [
+    243,
+    243,
+    245
+   ],
+   "bgstd": 1.3,
+   "color": [
+    121,
+    121,
+    123
+   ],
+   "weight": "Medium",
+   "size": 31.43,
+   "baselines": [
+    877
+   ],
+   "xs": [
+    2166
+   ],
+   "inkboxes": [
+    [
+     2168,
+     852,
+     2401,
+     884
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.41,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 173,
+    "right": 190,
+    "up": 12,
+    "down": 12,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Opposite hues — most eye-catching",
+   "en": "Opposite hues — most eye-catching",
+   "lines": [
+    [
+     90,
+     1071,
+     599,
+     1102
+    ]
+   ],
+   "ocr": "Opposite hues most eye-catching",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 13,
+   "box": [
+    90,
+    1071,
+    599,
+    1102
+   ],
+   "ltexts": [
+    "Opposite hues — most eye-catching"
+   ],
+   "bg": [
+    243,
+    243,
+    245
+   ],
+   "bgstd": 1.0,
+   "color": [
+    94,
+    94,
+    96
+   ],
+   "weight": "Medium",
+   "size": 29.99,
+   "baselines": [
+    1095
+   ],
+   "xs": [
+    88
+   ],
+   "inkboxes": [
+    [
+     90,
+     1071,
+     599,
+     1102
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 36,
+    "right": 50,
+    "up": 48,
+    "down": 12,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Adjacent hues — calm and stable",
+   "en": "Adjacent hues — calm and stable",
+   "lines": [
+    [
+     770,
+     1071,
+     1233,
+     1102
+    ]
+   ],
+   "ocr": "Adjacent hues calm and stable",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 14,
+   "box": [
+    770,
+    1071,
+    1233,
+    1102
+   ],
+   "ltexts": [
+    "Adjacent hues — calm and stable"
+   ],
+   "bg": [
+    243,
+    243,
+    245
+   ],
+   "bgstd": 0.8,
+   "color": [
+    102,
+    102,
+    104
+   ],
+   "weight": "Medium",
+   "size": 29.83,
+   "baselines": [
+    1095
+   ],
+   "xs": [
+    770
+   ],
+   "inkboxes": [
+    [
+     770,
+     1071,
+     1233,
+     1102
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.53,
+   "align": "center",
+   "room": {
+    "left": 67,
+    "right": 64,
+    "up": 48,
+    "down": 12,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Shades of one hue — low risk",
+   "en": "Shades of one hue — low risk",
+   "lines": [
+    [
+     1433,
+     1071,
+     1842,
+     1095
+    ]
+   ],
+   "ocr": "Shades of one hue low risk",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 15,
+   "box": [
+    1433,
+    1071,
+    1842,
+    1095
+   ],
+   "ltexts": [
+    "Shades of one hue — low risk"
+   ],
+   "bg": [
+    243,
+    243,
+    245
+   ],
+   "bgstd": 1.1,
+   "color": [
+    99,
+    100,
+    102
+   ],
+   "weight": "Medium",
+   "size": 29.54,
+   "baselines": [
+    1095
+   ],
+   "xs": [
+    1431
+   ],
+   "inkboxes": [
+    [
+     1433,
+     1071,
+     1842,
+     1095
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 83,
+    "right": 99,
+    "up": 48,
+    "down": 19,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "One spot on neutrals — leads the eye",
+   "en": "One spot on neutrals — leads the eye",
+   "lines": [
+    [
+     2047,
+     1072,
+     2540,
+     1102
+    ]
+   ],
+   "ocr": "One spot on neutrals leads the eye",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 16,
+   "box": [
+    2047,
+    1072,
+    2540,
+    1102
+   ],
+   "ltexts": [
+    "One spot on neutrals — leads the eye"
+   ],
+   "bg": [
+    242,
+    243,
+    245
+   ],
+   "bgstd": 0.7,
+   "color": [
+    107,
+    108,
+    110
+   ],
+   "weight": "Medium",
+   "size": 28.75,
+   "baselines": [
+    1095
+   ],
+   "xs": [
+    2045
+   ],
+   "inkboxes": [
+    [
+     2047,
+     1072,
+     2540,
+     1102
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.34,
+   "align": "left",
+   "room": {
+    "left": 52,
+    "right": 51,
+    "up": 49,
+    "down": 12,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "If the bottom row doesn't separate, shapes blur on screen, however good the colors",
+   "en": "If the bottom row doesn't separate, shapes blur on screen, however good the colors",
+   "lines": [
+    [
+     497,
+     1281,
+     2091,
+     1324
+    ]
+   ],
+   "ocr": "If the bottom row doesn't separate, shapes blur on screen, however good the colors",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 17,
+   "box": [
+    497,
+    1281,
+    2091,
+    1324
+   ],
+   "ltexts": [
+    "If the bottom row doesn't separate, shapes blur on screen, however good the colors"
+   ],
+   "bg": [
+    245,
+    231,
+    235
+   ],
+   "bgstd": 0.8,
+   "color": [
+    74,
+    74,
+    75
+   ],
+   "weight": "Medium",
+   "size": 40.48,
+   "baselines": [
+    1314
+   ],
+   "xs": [
+    493
+   ],
+   "inkboxes": [
+    [
+     497,
+     1281,
+     2091,
+     1324
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.32,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 443,
+    "right": 445,
+    "up": 49,
+    "down": 86,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "If it separates in grayscale, it will in color — the fastest self-check",
+   "en": "If it separates in grayscale, it will in color — the fastest self-check",
+   "lines": [
+    [
+     806,
+     1344,
+     1780,
+     1377
+    ]
+   ],
+   "ocr": "If it separates in grayscale, it will in color the fastest self-check",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 18,
+   "box": [
+    806,
+    1344,
+    1780,
+    1377
+   ],
+   "ltexts": [
+    "If it separates in grayscale, it will in color — the fastest self-check"
+   ],
+   "bg": [
+    245,
+    231,
+    234
+   ],
+   "bgstd": 0.9,
+   "color": [
+    130,
+    130,
+    132
+   ],
+   "weight": "Medium",
+   "size": 31.58,
+   "baselines": [
+    1369
+   ],
+   "xs": [
+    802
+   ],
+   "inkboxes": [
+    [
+     805,
+     1344,
+     1780,
+     1377
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.4,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 752,
+    "right": 756,
+    "up": 112,
+    "down": 33,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "f\\ a",
+   "box": [
+    1516,
+    349,
+    2423,
+    525
+   ],
+   "conf": 54.9
+  },
+  {
+   "text": "rN",
+   "box": [
+    1571,
+    349,
+    1774,
+    468
+   ],
+   "conf": 63.2
+  },
+  {
+   "text": "fx",
+   "box": [
+    221,
+    355,
+    452,
+    488
+   ],
+   "conf": 47.5
+  },
+  {
+   "text": "ww,",
+   "box": [
+    1537,
+    433,
+    1775,
+    608
+   ],
+   "conf": 44.4
+  },
+  {
+   "text": "Sa",
+   "box": [
+    249,
+    436,
+    468,
+    523
+   ],
+   "conf": 36.2
+  },
+  {
+   "text": "ee we, we,",
+   "box": [
+    251,
+    444,
+    1775,
+    608
+   ],
+   "conf": 25.0
+  },
+  {
+   "text": "oo",
+   "box": [
+    860,
+    444,
+    909,
+    482
+   ],
+   "conf": 34.4
+  },
+  {
+   "text": "zi i",
+   "box": [
+    2320,
+    674,
+    2512,
+    876
+   ],
+   "conf": 52.1
+  },
+  {
+   "text": "Ean Oe",
+   "box": [
+    119,
+    718,
+    1102,
+    836
+   ],
+   "conf": 35.0
+  },
+  {
+   "text": "yscale vaiue",
+   "box": [
+    2220,
+    855,
+    2400,
+    883
+   ],
+   "conf": 85.6
+  },
+  {
+   "text": "Ean",
+   "box": [
+    119,
+    900,
+    868,
+    1019
+   ],
+   "conf": 29.2
+  },
+  {
+   "text": "i",
+   "box": [
+    2412,
+    900,
+    2512,
+    1018
+   ],
+   "conf": 47.6
+  }
+ ]
+}

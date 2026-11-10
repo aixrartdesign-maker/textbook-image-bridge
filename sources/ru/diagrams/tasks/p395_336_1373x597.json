@@ -1,0 +1,222 @@
+{
+ "stem": "p395_336_1373x597",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p395_336_1373x597.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Your first role isn't who you'll be — lateral moves are common",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 62,
+    "chars_per_line_max": 133,
+    "chars_per_line_if_shrunk": 162,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "1",
+   "en": "Operations",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Shooting",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Post-production",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Planning",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Editor",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Channel producer",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Video producer",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "DP",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 2,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "9",
+   "en": "Content marketer",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "10",
+   "en": "Commerce video",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "Lighting",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 32,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "12",
+   "en": "Motion designer",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "XR planner",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "14",
+   "en": "Sound",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "15",
+   "en": "Colorist",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "16",
+   "en": "AD·assistant director",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 21,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "18",
+   "en": "New hires cluster in post-production and operations",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 51,
+    "chars_per_line_max": 160,
+    "chars_per_line_if_shrunk": 195,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

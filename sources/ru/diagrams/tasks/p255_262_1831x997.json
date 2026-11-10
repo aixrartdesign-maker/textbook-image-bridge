@@ -1,0 +1,426 @@
+{
+ "stem": "p255_262_1831x997",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p255_262_1831x997.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Three adjectives on sensory axes become production terms",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 56,
+    "chars_per_line_max": 97,
+    "chars_per_line_if_shrunk": 119,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Three adjectives",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Production terms",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 31,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Sensory axes",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 43,
+    "chars_per_line_if_shrunk": 53,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Color",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 40,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Cold",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Blue-gray base · 1 warm apricot accent",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 38,
+    "chars_per_line_max": 39,
+    "chars_per_line_if_shrunk": 48,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Cold",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "8",
+   "en": "Warm",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 14,
+    "chars_per_line_if_shrunk": 17,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "9",
+   "en": "Light",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "10",
+   "en": "Overcast window light · low contrast",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 36,
+    "chars_per_line_max": 44,
+    "chars_per_line_if_shrunk": 54,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "Static",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "12",
+   "en": "Dynamic",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "13",
+   "en": "Quiet",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "Lens",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 40,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "50–85mm · shallow depth of field",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 32,
+    "chars_per_line_max": 37,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "Rough",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "17",
+   "en": "Smooth",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "18",
+   "en": "Camera",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 35,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "19",
+   "en": "Tender",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 17,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "20",
+   "en": "Fixed · slow dolly in",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 21,
+    "chars_per_line_max": 46,
+    "chars_per_line_if_shrunk": 57,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "21",
+   "en": "Dark",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "22",
+   "en": "Bright",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 25,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "23",
+   "en": "Editing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 36,
+    "chars_per_line_if_shrunk": 44,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "24",
+   "en": "Long-held shots · 4–6s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 37,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "25",
+   "en": "Near",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 57,
+    "chars_per_line_if_shrunk": 70,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "26",
+   "en": "Far",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 25,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "27",
+   "en": "Sound",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 32,
+    "chars_per_line_if_shrunk": 39,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "28",
+   "en": "Ambience-led · 1 piano",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "29",
+   "en": "A mix with tension creates a world",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 43,
+    "lines_now": 2,
+    "lines_max": 4
+   }
+  },
+  {
+   "id": "30",
+   "en": "Complex",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 34,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "31",
+   "en": "Simple",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "32",
+   "en": "Avoid",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 32,
+    "chars_per_line_if_shrunk": 39,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "33",
+   "en": "Fast zooms · saturated colors",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 29,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "34",
+   "en": "Adjectives are emotional coordinates; the production table is the team's pact to hit them",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 89,
+    "chars_per_line_max": 158,
+    "chars_per_line_if_shrunk": 193,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "p046_021_1831x852": {
+  "drop_labels": [
+   "= Color print"
+  ],
+  "add": [
+   {
+    "en": "Y yellow",
+    "lines": [
+     [
+      998,
+      1028,
+      1137,
+      1062
+     ]
+    ]
+   },
+   {
+    "en": "K black",
+    "lines": [
+     [
+      1298,
+      1028,
+      1418,
+      1055
+     ]
+    ]
+   },
+   {
+    "en": "Color print",
+    "lines": [
+     [
+      1567,
+      1014,
+      1821,
+      1062
+     ]
+    ]
+   }
+  ]
+ },
+ "p072_070_1831x681": {
+  "add": [
+   {
+    "en": "Worm's-eye",
+    "lines": [
+     [
+      2565,
+      874,
+      2877,
+      929
+     ]
+    ]
+   }
+  ]
+ },
+ "p165_193_1831x1043": {
+  "add": [
+   {
+    "en": "Subject",
+    "lines": [
+     [
+      598,
+      650,
+      731,
+      688
+     ]
+    ],
+    "align": "center",
+    "busy": true
+   }
+  ]
+ },
+ "p249_259_1831x888": {
+  "add": [
+   {
+    "en": "Tension",
+    "lines": [
+     [
+      452,
+      170,
+      605,
+      204
+     ]
+    ],
+    "rot": -90,
+    "align": "center"
+   }
+  ]
+ },
+ "p304_310_1375x412": {
+  "add": [
+   {
+    "en": "0s",
+    "lines": [
+     [
+      254,
+      625,
+      292,
+      655
+     ]
+    ]
+   },
+   {
+    "en": "11s",
+    "lines": [
+     [
+      2083,
+      625,
+      2142,
+      655
+     ]
+    ]
+   }
+  ]
+ },
+ "p330_318_1831x1005": {
+  "drop_labels": [
+   "1 scene · 1 idea · logo",
+   "Hero · conflict · closure"
+  ],
+  "add": [
+   {
+    "en": "One scene · one message · logo",
+    "lines": [
+     [
+      383,
+      201,
+      855,
+      234
+     ]
+    ]
+   },
+   {
+    "en": "Character · conflict · resolution",
+    "lines": [
+     [
+      382,
+      773,
+      857,
+      799
+     ]
+    ]
+   }
+  ],
+  "fix": [
+   {
+    "box": [
+     501,
+     583,
+     773,
+     627
+    ],
+    "en": "Promo · short-form ad",
+    "lines": [
+     [
+      384,
+      583,
+      773,
+      627
+     ]
+    ]
+   }
+  ]
+ },
+ "p332_320_1830x828": {
+  "add": [
+   {
+    "en": "0s",
+    "lines": [
+     [
+      230,
+      985,
+      266,
+      1013
+     ]
+    ]
+   }
+  ]
+ },
+ "p395_336_1373x597": {
+  "add": [
+   {
+    "en": "Post-production",
+    "lines": [
+     [
+      1577,
+      269,
+      1882,
+      308
+     ]
+    ]
+   },
+   {
+    "en": "Operations",
+    "lines": [
+     [
+      2269,
+      267,
+      2474,
+      310
+     ]
+    ]
+   }
+  ]
+ },
+ "p284_286_1831x997": {
+  "drop_labels": [
+   "① Shot size — tighter on smaller screens  ② Cut length — shorter as attention drops  ③ Sound — captions assume muted playback"
+  ],
+  "add": [
+   {
+    "en": "Shot size — tighter on smaller screens",
+    "lines": [
+     [
+      194,
+      1270,
+      781,
+      1302
+     ]
+    ]
+   },
+   {
+    "en": "Cut length — shorter as attention drops",
+    "lines": [
+     [
+      872,
+      1270,
+      1488,
+      1302
+     ]
+    ]
+   },
+   {
+    "en": "Sound — captions assume muted playback",
+    "lines": [
+     [
+      1583,
+      1270,
+      2256,
+      1302
+     ]
+    ]
+   }
+  ]
+ },
+ "p287_288_1375x661": {
+  "late_add": [
+   {
+    "en": "250–400 nit",
+    "lines": [
+     [
+      1061,
+      843,
+      1280,
+      874
+     ]
+    ]
+   },
+   {
+    "en": "300 nit",
+    "lines": [
+     [
+      1618,
+      843,
+      1742,
+      874
+     ]
+    ]
+   },
+   {
+    "en": "600–1200 nit",
+    "lines": [
+     [
+      1894,
+      843,
+      2135,
+      874
+     ]
+    ]
+   }
+  ]
+ }
+}

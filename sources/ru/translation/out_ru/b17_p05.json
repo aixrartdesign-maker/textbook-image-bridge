@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#252",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#253",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#254",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#255",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#256",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#257",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#258",
+"ru": "CUT 04"
+},
+{
+"key": "templates.html#259",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#260",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#261",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#262",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#263",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#264",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#265",
+"ru": "CUT 05"
+},
+{
+"key": "templates.html#266",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#267",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#268",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#269",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#270",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#271",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#272",
+"ru": "CUT 06"
+},
+{
+"key": "templates.html#273",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#274",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#275",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#276",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#277",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#278",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#279",
+"ru": "CUT 07"
+},
+{
+"key": "templates.html#280",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#281",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#282",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#283",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#284",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#285",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#286",
+"ru": "CUT 08"
+},
+{
+"key": "templates.html#287",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#288",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#289",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#290",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#291",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#292",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#293",
+"ru": "CUT 09"
+},
+{
+"key": "templates.html#294",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#295",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#296",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#297",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#298",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#299",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#300",
+"ru": "Бордовый пунктир = зона заголовка. Одна карточка = одно предложение. 9 карточек = комплект."
+},
+{
+"key": "templates.html#301",
+"ru": "Шаблон раскадровки · 4:5 лента"
+},
+{
+"key": "templates.html#302",
+"ru": "Макс. высота в ленте Instagram · 1080×1350"
+},
+{
+"key": "templates.html#303",
+"ru": "Проект ____________  Сцена ____  Стр. ___/___"
+},
+{
+"key": "templates.html#304",
+"ru": "Режиссёр ________  Дата ________  Версия v___"
+},
+{
+"key": "templates.html#305",
+"ru": "CUT 01"
+},
+{
+"key": "templates.html#306",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#307",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#308",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#309",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#310",
+"ru": "SE"
+},
+{
+"key": "templates.html#311",
+"ru": "ЗАМЕТКИ"
+},
+{
+"key": "templates.html#312",
+"ru": "CUT 02"
+},
+{
+"key": "templates.html#313",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#314",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#315",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#316",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#317",
+"ru": "SE"
+},
+{
+"key": "templates.html#318",
+"ru": "ЗАМЕТКИ"
+},
+{
+"key": "templates.html#319",
+"ru": "CUT 03"
+},
+{
+"key": "templates.html#320",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#321",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#322",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#323",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#324",
+"ru": "SE"
+},
+{
+"key": "templates.html#325",
+"ru": "ЗАМЕТКИ"
+},
+{
+"key": "templates.html#326",
+"ru": "CUT 04"
+},
+{
+"key": "templates.html#327",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#328",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#329",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#330",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#331",
+"ru": "SE"
+},
+{
+"key": "templates.html#332",
+"ru": "ЗАМЕТКИ"
+},
+{
+"key": "templates.html#333",
+"ru": "CUT 05"
+},
+{
+"key": "templates.html#334",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#335",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#336",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#337",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#338",
+"ru": "SE"
+},
+{
+"key": "templates.html#339",
+"ru": "ЗАМЕТКИ"
+},
+{
+"key": "templates.html#340",
+"ru": "CUT 06"
+},
+{
+"key": "templates.html#341",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#342",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#343",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#344",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#345",
+"ru": "SE"
+},
+{
+"key": "templates.html#346",
+"ru": "ЗАМЕТКИ"
+},
+{
+"key": "templates.html#347",
+"ru": "CUT 07"
+},
+{
+"key": "templates.html#348",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#349",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#350",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#351",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#352",
+"ru": "SE"
+},
+{
+"key": "templates.html#353",
+"ru": "ЗАМЕТКИ"
+},
+{
+"key": "templates.html#354",
+"ru": "CUT 08"
+},
+{
+"key": "templates.html#355",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#356",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#357",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#358",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#359",
+"ru": "SE"
+},
+{
+"key": "templates.html#360",
+"ru": "ЗАМЕТКИ"
+},
+{
+"key": "templates.html#361",
+"ru": "CUT 09"
+},
+{
+"key": "templates.html#362",
+"ru": "Заголовок"
+},
+{
+"key": "templates.html#363",
+"ru": "SIZE"
+},
+{
+"key": "templates.html#364",
+"ru": "MOVE"
+},
+{
+"key": "templates.html#365",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#366",
+"ru": "SE"
+},
+{
+"key": "templates.html#367",
+"ru": "ЗАМЕТКИ"
+},
+{
+"key": "templates.html#368",
+"ru": "Соотношение, которое в ленте выглядит крупнее всего. Исходник 16:9 теряет 44 % по бокам."
+},
+{
+"key": "templates.html#369",
+"ru": "Шаблон раскадровки · 2:1 360·VR"
+},
+{
+"key": "templates.html#370",
+"ru": "Эквиректангулярная развёртка — круговой обзор · 4096×2048 · 7680×3840"
+},
+{
+"key": "templates.html#371",
+"ru": "Проект ____________  Сцена ____  Стр. ___/___"
+},
+{
+"key": "templates.html#372",
+"ru": "Режиссёр ________  Дата ________  Версия v___"
+},
+{
+"key": "templates.html#373",
+"ru": "CUT 01"
+},
+{
+"key": "templates.html#374",
+"ru": "0° фронт"
+},
+{
+"key": "templates.html#375",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#376",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#377",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#378",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#379",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#380",
+"ru": "CUT 02"
+},
+{
+"key": "templates.html#381",
+"ru": "0° фронт"
+},
+{
+"key": "templates.html#382",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#383",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#384",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#385",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#386",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#387",
+"ru": "CUT 03"
+},
+{
+"key": "templates.html#388",
+"ru": "0° фронт"
+},
+{
+"key": "templates.html#389",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#390",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#391",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#392",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#393",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#394",
+"ru": "CUT 04"
+},
+{
+"key": "templates.html#395",
+"ru": "0° фронт"
+},
+{
+"key": "templates.html#396",
+"ru": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#397",
+"ru": "MOVE / TR"
+},
+{
+"key": "templates.html#398",
+"ru": "Ремарка"
+},
+{
+"key": "templates.html#399",
+"ru": "N · SYNC"
+},
+{
+"key": "templates.html#400",
+"ru": "M · SE"
+},
+{
+"key": "templates.html#401",
+"ru": "CUT 05"
+}
+]

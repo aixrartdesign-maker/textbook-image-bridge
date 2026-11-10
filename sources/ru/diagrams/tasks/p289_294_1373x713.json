@@ -1,0 +1,270 @@
+{
+ "stem": "p289_294_1373x713",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p289_294_1373x713.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "The measure is the real-virtual mix ratio, not what you use",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 59,
+    "chars_per_line_max": 99,
+    "chars_per_line_if_shrunk": 120,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Passthrough MR",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "AR glasses",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Mobile AR",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 17,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Blocks reality",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 41,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "Optical see-through",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 31,
+    "chars_per_line_if_shrunk": 38,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Camera-blended reality",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Camera-based",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Stereo rendering",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "10",
+   "en": "Light to wear",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 31,
+    "chars_per_line_if_shrunk": 38,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "Spatial awareness",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "Runs in app · web",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "Info overlay",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 32,
+    "chars_per_line_if_shrunk": 39,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "6DoF tracking",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "Anchored virtual objects",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "Most accessible",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 31,
+    "chars_per_line_if_shrunk": 38,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "17",
+   "en": "For daily wear",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 32,
+    "chars_per_line_if_shrunk": 39,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "18",
+   "en": "Productivity · exhibitions",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 26,
+    "chars_per_line_max": 32,
+    "chars_per_line_if_shrunk": 39,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "19",
+   "en": "Campaign reach",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 34,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "20",
+   "en": "Max immersion",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "21",
+   "en": "Classify by real-virtual mix ratio, not by device",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 49,
+    "chars_per_line_max": 160,
+    "chars_per_line_if_shrunk": 196,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "22",
+   "en": "In planning, decide not the device but 'how much reality the audience sees'",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 75,
+    "chars_per_line_max": 164,
+    "chars_per_line_if_shrunk": 201,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

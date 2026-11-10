@@ -1,0 +1,810 @@
+{
+ "stem": "p049_031_1831x681",
+ "size": [
+  3064,
+  1013
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Thaumatrope (1825)",
+   "en": "Thaumatrope (1825)",
+   "lines": [
+    [
+     180,
+     84,
+     702,
+     140
+    ]
+   ],
+   "ocr": "Thaumatrope (1825)",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    180,
+    84,
+    702,
+    140
+   ],
+   "ltexts": [
+    "Thaumatrope (1825)"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    33,
+    33,
+    33
+   ],
+   "weight": "Medium",
+   "size": 53.55,
+   "baselines": [
+    127
+   ],
+   "xs": [
+    178
+   ],
+   "inkboxes": [
+    [
+     180,
+     85,
+     702,
+     140
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.61,
+   "align": "left",
+   "room": {
+    "left": 180,
+    "right": 2362,
+    "up": 84,
+    "down": 46,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Phenakistiscope (1832)",
+   "en": "Phenakistiscope (1832)",
+   "lines": [
+    [
+     885,
+     84,
+     1469,
+     140
+    ]
+   ],
+   "ocr": "Phenakistiscope (1832)",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    885,
+    84,
+    1469,
+    140
+   ],
+   "ltexts": [
+    "Phenakistiscope (1832)"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.5,
+   "color": [
+    34,
+    34,
+    34
+   ],
+   "weight": "Medium",
+   "size": 53.35,
+   "baselines": [
+    127
+   ],
+   "xs": [
+    880
+   ],
+   "inkboxes": [
+    [
+     885,
+     85,
+     1469,
+     140
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.74,
+   "align": "left",
+   "room": {
+    "left": 885,
+    "right": 1595,
+    "up": 84,
+    "down": 46,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Zoetrope (1834)",
+   "en": "Zoetrope (1834)",
+   "lines": [
+    [
+     1695,
+     84,
+     2109,
+     140
+    ]
+   ],
+   "ocr": "Zoetrope (1834)",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    1695,
+    84,
+    2109,
+    140
+   ],
+   "ltexts": [
+    "Zoetrope (1834)"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "weight": "Bold",
+   "size": 53.01,
+   "baselines": [
+    127
+   ],
+   "xs": [
+    1694
+   ],
+   "inkboxes": [
+    [
+     1696,
+     84,
+     2109,
+     139
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.65,
+   "align": "left",
+   "room": {
+    "left": 1695,
+    "right": 955,
+    "up": 84,
+    "down": 46,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Flipbook (1868)",
+   "en": "Flipbook (1868)",
+   "lines": [
+    [
+     2457,
+     85,
+     2856,
+     140
+    ]
+   ],
+   "ocr": "Flipbook (1868)",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    2457,
+    85,
+    2856,
+    140
+   ],
+   "ltexts": [
+    "Flipbook (1868)"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    42,
+    41,
+    42
+   ],
+   "weight": "Medium",
+   "size": 53.89,
+   "baselines": [
+    128
+   ],
+   "xs": [
+    2452
+   ],
+   "inkboxes": [
+    [
+     2457,
+     85,
+     2855,
+     140
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.57,
+   "align": "left",
+   "room": {
+    "left": 2457,
+    "right": 208,
+    "up": 85,
+    "down": 46,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Flip two images fast",
+   "en": "Flip two images fast to see them as one",
+   "lines": [
+    [
+     246,
+     857,
+     633,
+     901
+    ],
+    [
+     255,
+     909,
+     622,
+     943
+    ]
+   ],
+   "ocr": "Flip two images fast / to see them as one",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "merged_labels": [
+    "Flip two images fast",
+    "to see them as one"
+   ],
+   "id": 4,
+   "box": [
+    246,
+    857,
+    633,
+    943
+   ],
+   "ltexts": [
+    "Flip two images fast",
+    "to see them as one"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    49,
+    50,
+    54
+   ],
+   "weight": "Medium",
+   "size": 41.55,
+   "baselines": [
+    891,
+    942
+   ],
+   "xs": [
+    242,
+    254
+   ],
+   "inkboxes": [
+    [
+     246,
+     857,
+     633,
+     901
+    ],
+    [
+     255,
+     909,
+     622,
+     942
+    ]
+   ],
+   "pitch": 51.0,
+   "fitscore": 0.4,
+   "align": "center",
+   "align_src": "lines",
+   "room": {
+    "left": 246,
+    "right": 2431,
+    "up": 41,
+    "down": 70,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Through slits, in a mirror,",
+   "en": "Through slits, in a mirror, watch the disc as you spin",
+   "lines": [
+    [
+     934,
+     859,
+     1415,
+     902
+    ],
+    [
+     923,
+     911,
+     1425,
+     954
+    ]
+   ],
+   "ocr": "Through slits, in a mirror, / watch the disc as you spin",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "merged_labels": [
+    "Through slits, in a mirror,",
+    "watch the disc as you spin"
+   ],
+   "id": 5,
+   "box": [
+    923,
+    859,
+    1425,
+    954
+   ],
+   "ltexts": [
+    "Through slits, in a mirror,",
+    "watch the disc as you spin"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    52,
+    53,
+    57
+   ],
+   "weight": "Regular",
+   "size": 41.56,
+   "baselines": [
+    892,
+    944
+   ],
+   "xs": [
+    933,
+    923
+   ],
+   "inkboxes": [
+    [
+     934,
+     859,
+     1415,
+     902
+    ],
+    [
+     924,
+     911,
+     1425,
+     954
+    ]
+   ],
+   "pitch": 52.0,
+   "fitscore": 0.4,
+   "align": "center",
+   "align_src": "lines",
+   "room": {
+    "left": 923,
+    "right": 1639,
+    "up": 42,
+    "down": 59,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Spin the drum; via slits,",
+   "en": "Spin the drum; via slits, see the inner strip",
+   "lines": [
+    [
+     1683,
+     860,
+     2127,
+     902
+    ],
+    [
+     1730,
+     911,
+     2077,
+     954
+    ]
+   ],
+   "ocr": "Spin the drum; via slits, / see the inner strip",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "merged_labels": [
+    "Spin the drum; via slits,",
+    "see the inner strip"
+   ],
+   "id": 6,
+   "box": [
+    1683,
+    860,
+    2127,
+    954
+   ],
+   "ltexts": [
+    "Spin the drum; via slits,",
+    "see the inner strip"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    49,
+    49,
+    54
+   ],
+   "weight": "Regular",
+   "size": 41.41,
+   "baselines": [
+    893,
+    944
+   ],
+   "xs": [
+    1681,
+    1729
+   ],
+   "inkboxes": [
+    [
+     1683,
+     860,
+     2127,
+     902
+    ],
+    [
+     1730,
+     911,
+     2077,
+     954
+    ]
+   ],
+   "pitch": 51.0,
+   "fitscore": 0.35,
+   "align": "center",
+   "align_src": "lines",
+   "room": {
+    "left": 1683,
+    "right": 937,
+    "up": 42,
+    "down": 59,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Flip the pages",
+   "en": "Flip the pages and the images move",
+   "lines": [
+    [
+     2513,
+     862,
+     2779,
+     904
+    ],
+    [
+     2441,
+     913,
+     2850,
+     955
+    ]
+   ],
+   "ocr": "Flip the pages / and the images move",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "merged_labels": [
+    "Flip the pages",
+    "and the images move"
+   ],
+   "id": 7,
+   "box": [
+    2441,
+    862,
+    2850,
+    955
+   ],
+   "ltexts": [
+    "Flip the pages",
+    "and the images move"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    50,
+    51,
+    55
+   ],
+   "weight": "Medium",
+   "size": 40.66,
+   "baselines": [
+    894,
+    946
+   ],
+   "xs": [
+    2509,
+    2439
+   ],
+   "inkboxes": [
+    [
+     2513,
+     862,
+     2779,
+     904
+    ],
+    [
+     2441,
+     913,
+     2850,
+     955
+    ]
+   ],
+   "pitch": 52.0,
+   "fitscore": 0.51,
+   "align": "center",
+   "align_src": "lines",
+   "room": {
+    "left": 2441,
+    "right": 214,
+    "up": 44,
+    "down": 58,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "ex! oe, deca my is Le",
+   "box": [
+    976,
+    235,
+    2869,
+    451
+   ],
+   "conf": 30.5
+  },
+  {
+   "text": "q' Af? 2M",
+   "box": [
+    1721,
+    310,
+    2040,
+    391
+   ],
+   "conf": 39.2
+  },
+  {
+   "text": "me ke",
+   "box": [
+    1873,
+    339,
+    1960,
+    394
+   ],
+   "conf": 23.3
+  },
+  {
+   "text": "we.",
+   "box": [
+    1834,
+    361,
+    1859,
+    374
+   ],
+   "conf": 67.7
+  },
+  {
+   "text": "ly",
+   "box": [
+    1680,
+    377,
+    1848,
+    528
+   ],
+   "conf": 29.4
+  },
+  {
+   "text": "wf F",
+   "box": [
+    2623,
+    386,
+    2841,
+    448
+   ],
+   "conf": 37.1
+  },
+  {
+   "text": "a bck b4",
+   "box": [
+    969,
+    422,
+    1390,
+    653
+   ],
+   "conf": 37.7
+  },
+  {
+   "text": "Pf",
+   "box": [
+    2546,
+    423,
+    2672,
+    456
+   ],
+   "conf": 28.1
+  },
+  {
+   "text": "HAL",
+   "box": [
+    500,
+    430,
+    576,
+    461
+   ],
+   "conf": 0.0
+  },
+  {
+   "text": "Be:",
+   "box": [
+    559,
+    451,
+    576,
+    479
+   ],
+   "conf": 5.1
+  },
+  {
+   "text": "s oh A Coe",
+   "box": [
+    941,
+    457,
+    2751,
+    704
+   ],
+   "conf": 34.0
+  },
+  {
+   "text": "“t60QRB",
+   "box": [
+    505,
+    459,
+    555,
+    470
+   ],
+   "conf": 0.0
+  },
+  {
+   "text": "if",
+   "box": [
+    531,
+    475,
+    574,
+    533
+   ],
+   "conf": 66.8
+  },
+  {
+   "text": "A",
+   "box": [
+    1036,
+    508,
+    1044,
+    514
+   ],
+   "conf": 79.5
+  },
+  {
+   "text": "ene",
+   "box": [
+    532,
+    523,
+    557,
+    536
+   ],
+   "conf": 59.0
+  },
+  {
+   "text": "See",
+   "box": [
+    509,
+    556,
+    547,
+    573
+   ],
+   "conf": 48.3
+  },
+  {
+   "text": "se",
+   "box": [
+    2452,
+    625,
+    2621,
+    703
+   ],
+   "conf": 23.0
+  }
+ ]
+}

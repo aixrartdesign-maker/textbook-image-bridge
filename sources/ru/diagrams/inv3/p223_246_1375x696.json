@@ -1,0 +1,1751 @@
+{
+ "stem": "p223_246_1375x696",
+ "size": [
+  2841,
+  1373
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Spend half on prep — later changes cost more",
+   "en": "Spend half on prep — later changes cost more",
+   "lines": [
+    [
+     689,
+     33,
+     2156,
+     99
+    ]
+   ],
+   "ocr": "Spend half on prep later changes cost more",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    689,
+    33,
+    2156,
+    99
+   ],
+   "ltexts": [
+    "Spend half on prep — later changes cost more"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    18,
+    22,
+    25
+   ],
+   "weight": "Bold",
+   "size": 66.02,
+   "baselines": [
+    85
+   ],
+   "xs": [
+    686
+   ],
+   "inkboxes": [
+    [
+     689,
+     33,
+     2156,
+     99
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 689,
+    "right": 685,
+    "up": 33,
+    "down": 151,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Change cost",
+   "en": "Change cost",
+   "lines": [
+    [
+     219,
+     169,
+     480,
+     211
+    ]
+   ],
+   "ocr": "Change cost",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    219,
+    169,
+    480,
+    211
+   ],
+   "ltexts": [
+    "Change cost"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    122,
+    26,
+    39
+   ],
+   "weight": "Bold",
+   "size": 44.62,
+   "baselines": [
+    202
+   ],
+   "xs": [
+    217
+   ],
+   "inkboxes": [
+    [
+     219,
+     169,
+     480,
+     211
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.59,
+   "align": "left",
+   "room": {
+    "left": 219,
+    "right": 2361,
+    "up": 169,
+    "down": 742,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Full remake",
+   "en": "Full remake",
+   "lines": [
+    [
+     2314,
+     305,
+     2495,
+     332
+    ]
+   ],
+   "ocr": "Full remake",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    2314,
+    305,
+    2495,
+    332
+   ],
+   "ltexts": [
+    "Full remake"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 32.9,
+   "color": [
+    12,
+    16,
+    18
+   ],
+   "weight": "Regular",
+   "size": 38.27,
+   "baselines": [
+    333
+   ],
+   "xs": [
+    2310
+   ],
+   "inkboxes": [
+    [
+     2314,
+     305,
+     2499,
+     336
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.26,
+   "align": "left",
+   "room": {
+    "left": 661,
+    "right": 8,
+    "up": 305,
+    "down": 8,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "A reshoot day",
+   "en": "A reshoot day",
+   "lines": [
+    [
+     1243,
+     811,
+     1458,
+     845
+    ]
+   ],
+   "ocr": "A reshoot day",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    1243,
+    811,
+    1458,
+    845
+   ],
+   "ltexts": [
+    "A reshoot day"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    10,
+    15,
+    17
+   ],
+   "weight": "Regular",
+   "size": 33.97,
+   "baselines": [
+    838
+   ],
+   "xs": [
+    1243
+   ],
+   "inkboxes": [
+    [
+     1243,
+     812,
+     1458,
+     845
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.38,
+   "align": "left",
+   "room": {
+    "left": 157,
+    "right": 93,
+    "up": 811,
+    "down": 25,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "One plan line",
+   "en": "One plan line",
+   "lines": [
+    [
+     243,
+     872,
+     455,
+     908
+    ]
+   ],
+   "ocr": "One plan line",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    243,
+    872,
+    455,
+    908
+   ],
+   "ltexts": [
+    "One plan line"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    8,
+    11,
+    13
+   ],
+   "weight": "Regular",
+   "size": 35.0,
+   "baselines": [
+    899
+   ],
+   "xs": [
+    241
+   ],
+   "inkboxes": [
+    [
+     243,
+     872,
+     455,
+     908
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.34,
+   "align": "left",
+   "room": {
+    "left": 243,
+    "right": 621,
+    "up": 872,
+    "down": 45,
+    "lb": false,
+    "rb": true,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Pre-production",
+   "en": "Pre-production",
+   "lines": [
+    [
+     286,
+     1006,
+     566,
+     1046
+    ]
+   ],
+   "ocr": "Pre-production",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    286,
+    1006,
+    566,
+    1046
+   ],
+   "ltexts": [
+    "Pre-production"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    15,
+    20,
+    23
+   ],
+   "weight": "Bold",
+   "size": 38.41,
+   "baselines": [
+    1037
+   ],
+   "xs": [
+    283
+   ],
+   "inkboxes": [
+    [
+     286,
+     1006,
+     566,
+     1046
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.64,
+   "align": "left",
+   "room": {
+    "left": 286,
+    "right": 510,
+    "up": 17,
+    "down": 45,
+    "lb": false,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Production",
+   "en": "Production",
+   "lines": [
+    [
+     1143,
+     1009,
+     1345,
+     1041
+    ]
+   ],
+   "ocr": "Production",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    1143,
+    1009,
+    1345,
+    1041
+   ],
+   "ltexts": [
+    "Production"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.8,
+   "color": [
+    18,
+    23,
+    25
+   ],
+   "weight": "Bold",
+   "size": 37.82,
+   "baselines": [
+    1040
+   ],
+   "xs": [
+    1140
+   ],
+   "inkboxes": [
+    [
+     1143,
+     1009,
+     1345,
+     1040
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.71,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 57,
+    "right": 298,
+    "up": 30,
+    "down": 13,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "50%",
+   "lines": [
+    [
+     937,
+     1010,
+     1025,
+     1043
+    ]
+   ],
+   "ocr": "50%",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.9,
+   "id": 7,
+   "box": [
+    937,
+    1010,
+    1025,
+    1043
+   ],
+   "ltexts": [
+    "50%"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.9,
+   "color": [
+    124,
+    26,
+    39
+   ],
+   "weight": "Bold",
+   "size": 42.86,
+   "baselines": [
+    1042
+   ],
+   "xs": [
+    936
+   ],
+   "inkboxes": [
+    [
+     937,
+     1010,
+     1025,
+     1043
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.54,
+   "align": "left",
+   "room": {
+    "left": 937,
+    "right": 51,
+    "up": 32,
+    "down": 11,
+    "lb": false,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "20%",
+   "lines": [
+    [
+     1504,
+     1011,
+     1592,
+     1043
+    ]
+   ],
+   "ocr": "20%",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 95.6,
+   "id": 8,
+   "box": [
+    1504,
+    1011,
+    1592,
+    1043
+   ],
+   "ltexts": [
+    "20%"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.7,
+   "color": [
+    123,
+    26,
+    39
+   ],
+   "weight": "Bold",
+   "size": 42.31,
+   "baselines": [
+    1043
+   ],
+   "xs": [
+    1502
+   ],
+   "inkboxes": [
+    [
+     1504,
+     1011,
+     1592,
+     1043
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.48,
+   "align": "left",
+   "room": {
+    "left": 418,
+    "right": 51,
+    "up": 32,
+    "down": 11,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Post",
+   "en": "Post",
+   "lines": [
+    [
+     1712,
+     1011,
+     1795,
+     1041
+    ]
+   ],
+   "ocr": "Post",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    1712,
+    1011,
+    1795,
+    1041
+   ],
+   "ltexts": [
+    "Post"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    16,
+    21,
+    23
+   ],
+   "weight": "Bold",
+   "size": 40.24,
+   "baselines": [
+    1041
+   ],
+   "xs": [
+    1708
+   ],
+   "inkboxes": [
+    [
+     1712,
+     1011,
+     1795,
+     1041
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.71,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 59,
+    "right": 799,
+    "up": 33,
+    "down": 13,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "30%",
+   "lines": [
+    [
+     2453,
+     1011,
+     2542,
+     1043
+    ]
+   ],
+   "ocr": "30%",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.1,
+   "id": 10,
+   "box": [
+    2453,
+    1011,
+    2542,
+    1043
+   ],
+   "ltexts": [
+    "30%"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.9,
+   "color": [
+    122,
+    26,
+    39
+   ],
+   "weight": "Bold",
+   "size": 42.45,
+   "baselines": [
+    1043
+   ],
+   "xs": [
+    2452
+   ],
+   "inkboxes": [
+    [
+     2453,
+     1011,
+     2542,
+     1043
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.47,
+   "align": "left",
+   "room": {
+    "left": 800,
+    "right": 52,
+    "up": 33,
+    "down": 11,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Color grading",
+   "en": "Color grading",
+   "lines": [
+    [
+     2082,
+     1132,
+     2157,
+     1157
+    ],
+    [
+     2066,
+     1175,
+     2173,
+     1206
+    ]
+   ],
+   "ocr": "Color / grading",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 11,
+   "box": [
+    2066,
+    1132,
+    2173,
+    1206
+   ],
+   "ltexts": [
+    "Color",
+    "grading"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 2.0,
+   "color": [
+    10,
+    13,
+    15
+   ],
+   "weight": "Medium",
+   "size": 29.87,
+   "baselines": [
+    1156,
+    1198
+   ],
+   "xs": [
+    2080,
+    2065
+   ],
+   "inkboxes": [
+    [
+     2082,
+     1133,
+     2157,
+     1157
+    ],
+    [
+     2066,
+     1175,
+     2172,
+     1206
+    ]
+   ],
+   "pitch": 42.0,
+   "fitscore": 0.36,
+   "align": "center",
+   "align_src": "lines",
+   "room": {
+    "left": 17,
+    "right": 17,
+    "up": 32,
+    "down": 31,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Brief",
+   "en": "Brief",
+   "lines": [
+    [
+     300,
+     1153,
+     360,
+     1176
+    ]
+   ],
+   "ocr": "Brief",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 12,
+   "box": [
+    300,
+    1153,
+    360,
+    1176
+   ],
+   "ltexts": [
+    "Brief"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.9,
+   "color": [
+    27,
+    33,
+    35
+   ],
+   "weight": "Regular",
+   "size": 28.35,
+   "baselines": [
+    1176
+   ],
+   "xs": [
+    297
+   ],
+   "inkboxes": [
+    [
+     300,
+     1153,
+     360,
+     1176
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.66,
+   "align": "center",
+   "room": {
+    "left": 17,
+    "right": 16,
+    "up": 53,
+    "down": 61,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Concept",
+   "en": "Concept",
+   "lines": [
+    [
+     539,
+     1153,
+     646,
+     1181
+    ]
+   ],
+   "ocr": "Concept",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 13,
+   "box": [
+    539,
+    1153,
+    646,
+    1181
+   ],
+   "ltexts": [
+    "Concept"
+   ],
+   "bg": [
+    253,
+    253,
+    253
+   ],
+   "bgstd": 14.9,
+   "color": [
+    39,
+    42,
+    44
+   ],
+   "weight": "Regular",
+   "size": 27.89,
+   "baselines": [
+    1175
+   ],
+   "xs": [
+    537
+   ],
+   "inkboxes": [
+    [
+     539,
+     1154,
+     646,
+     1181
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.29,
+   "align": "center",
+   "room": {
+    "left": 16,
+    "right": 8,
+    "up": 8,
+    "down": 8,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Research",
+   "en": "Research",
+   "lines": [
+    [
+     403,
+     1154,
+     516,
+     1175
+    ]
+   ],
+   "ocr": "Research",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 14,
+   "box": [
+    403,
+    1154,
+    516,
+    1175
+   ],
+   "ltexts": [
+    "Research"
+   ],
+   "bg": [
+    253,
+    252,
+    252
+   ],
+   "bgstd": 11.4,
+   "color": [
+    42,
+    45,
+    46
+   ],
+   "weight": "Regular",
+   "size": 27.83,
+   "baselines": [
+    1175
+   ],
+   "xs": [
+    400
+   ],
+   "inkboxes": [
+    [
+     403,
+     1154,
+     516,
+     1175
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.62,
+   "align": "center",
+   "room": {
+    "left": 6,
+    "right": 6,
+    "up": 6,
+    "down": 6,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Plan",
+   "en": "Plan",
+   "lines": [
+    [
+     694,
+     1154,
+     743,
+     1175
+    ]
+   ],
+   "ocr": "Plan",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 15,
+   "box": [
+    694,
+    1154,
+    743,
+    1175
+   ],
+   "ltexts": [
+    "Plan"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.4,
+   "color": [
+    93,
+    93,
+    94
+   ],
+   "weight": "Regular",
+   "size": 25.79,
+   "baselines": [
+    1174
+   ],
+   "xs": [
+    691
+   ],
+   "inkboxes": [
+    [
+     694,
+     1154,
+     743,
+     1175
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.53,
+   "align": "center",
+   "room": {
+    "left": 21,
+    "right": 21,
+    "up": 54,
+    "down": 62,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "token",
+   "en": "PPM",
+   "lines": [
+    [
+     942,
+     1154,
+     1003,
+     1178
+    ]
+   ],
+   "ocr": "PPM",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 94.3,
+   "id": 16,
+   "box": [
+    942,
+    1154,
+    1003,
+    1178
+   ],
+   "ltexts": [
+    "PPM"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 2.3,
+   "color": [
+    14,
+    18,
+    20
+   ],
+   "weight": "Regular",
+   "size": 31.98,
+   "baselines": [
+    1178
+   ],
+   "xs": [
+    939
+   ],
+   "inkboxes": [
+    [
+     942,
+     1154,
+     1003,
+     1177
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.54,
+   "align": "center",
+   "room": {
+    "left": 15,
+    "right": 17,
+    "up": 54,
+    "down": 59,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "On set",
+   "en": "On set",
+   "lines": [
+    [
+     1196,
+     1154,
+     1287,
+     1178
+    ]
+   ],
+   "ocr": "On set",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 17,
+   "box": [
+    1196,
+    1154,
+    1287,
+    1178
+   ],
+   "ltexts": [
+    "On set"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    22,
+    27,
+    30
+   ],
+   "weight": "Regular",
+   "size": 31.36,
+   "baselines": [
+    1178
+   ],
+   "xs": [
+    1194
+   ],
+   "inkboxes": [
+    [
+     1196,
+     1154,
+     1286,
+     1178
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.51,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 52,
+    "right": 51,
+    "up": 55,
+    "down": 59,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Shooting",
+   "en": "Shooting",
+   "lines": [
+    [
+     1412,
+     1154,
+     1534,
+     1185
+    ]
+   ],
+   "ocr": "Shooting",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 18,
+   "box": [
+    1412,
+    1154,
+    1534,
+    1185
+   ],
+   "ltexts": [
+    "Shooting"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 2.0,
+   "color": [
+    11,
+    16,
+    18
+   ],
+   "weight": "Regular",
+   "size": 29.43,
+   "baselines": [
+    1177
+   ],
+   "xs": [
+    1410
+   ],
+   "inkboxes": [
+    [
+     1412,
+     1154,
+     1534,
+     1185
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.36,
+   "align": "center",
+   "room": {
+    "left": 47,
+    "right": 50,
+    "up": 54,
+    "down": 52,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Rough cut",
+   "en": "Rough cut",
+   "lines": [
+    [
+     1712,
+     1154,
+     1850,
+     1184
+    ]
+   ],
+   "ocr": "Rough cut",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 19,
+   "box": [
+    1712,
+    1154,
+    1850,
+    1184
+   ],
+   "ltexts": [
+    "Rough cut"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 15.7,
+   "color": [
+    28,
+    33,
+    35
+   ],
+   "weight": "Regular",
+   "size": 29.14,
+   "baselines": [
+    1177
+   ],
+   "xs": [
+    1710
+   ],
+   "inkboxes": [
+    [
+     1713,
+     1154,
+     1850,
+     1184
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.33,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 9,
+    "right": 9,
+    "up": 9,
+    "down": 9,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "VFX",
+   "en": "VFX",
+   "lines": [
+    [
+     1921,
+     1154,
+     1977,
+     1178
+    ]
+   ],
+   "ocr": "VFX",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 20,
+   "box": [
+    1921,
+    1154,
+    1977,
+    1178
+   ],
+   "ltexts": [
+    "VFX"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    72,
+    72,
+    75
+   ],
+   "weight": "Regular",
+   "size": 33.41,
+   "baselines": [
+    1179
+   ],
+   "xs": [
+    1921
+   ],
+   "inkboxes": [
+    [
+     1921,
+     1154,
+     1977,
+     1178
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.59,
+   "align": "center",
+   "room": {
+    "left": 43,
+    "right": 44,
+    "up": 54,
+    "down": 59,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Sound",
+   "en": "Sound",
+   "lines": [
+    [
+     2244,
+     1154,
+     2333,
+     1179
+    ]
+   ],
+   "ocr": "Sound",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 21,
+   "box": [
+    2244,
+    1154,
+    2333,
+    1179
+   ],
+   "ltexts": [
+    "Sound"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.8,
+   "color": [
+    10,
+    14,
+    16
+   ],
+   "weight": "Regular",
+   "size": 29.99,
+   "baselines": [
+    1178
+   ],
+   "xs": [
+    2243
+   ],
+   "inkboxes": [
+    [
+     2245,
+     1155,
+     2333,
+     1179
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "room": {
+    "left": 26,
+    "right": 28,
+    "up": 54,
+    "down": 58,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Storyboard",
+   "en": "Storyboard",
+   "lines": [
+    [
+     786,
+     1155,
+     905,
+     1179
+    ]
+   ],
+   "ocr": "Storyboard",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 22,
+   "box": [
+    786,
+    1155,
+    905,
+    1179
+   ],
+   "ltexts": [
+    "Storyboard"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 8.3,
+   "color": [
+    83,
+    83,
+    85
+   ],
+   "weight": "Regular",
+   "size": 23.32,
+   "baselines": [
+    1173
+   ],
+   "xs": [
+    785
+   ],
+   "inkboxes": [
+    [
+     786,
+     1155,
+     905,
+     1179
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.51,
+   "align": "center",
+   "room": {
+    "left": 13,
+    "right": 14,
+    "up": 7,
+    "down": 7,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Delivery",
+   "en": "Delivery",
+   "lines": [
+    [
+     2406,
+     1155,
+     2519,
+     1186
+    ]
+   ],
+   "ocr": "Delivery",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 23,
+   "box": [
+    2406,
+    1155,
+    2519,
+    1186
+   ],
+   "ltexts": [
+    "Delivery"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.4,
+   "color": [
+    8,
+    11,
+    13
+   ],
+   "weight": "Regular",
+   "size": 30.32,
+   "baselines": [
+    1179
+   ],
+   "xs": [
+    2403
+   ],
+   "inkboxes": [
+    [
+     2406,
+     1155,
+     2519,
+     1186
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.56,
+   "align": "center",
+   "room": {
+    "left": 17,
+    "right": 16,
+    "up": 55,
+    "down": 51,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Fixing after the shoot costs tens of times more than one line in planning — so pre-production gets the most time",
+   "en": "Fixing after the shoot costs tens of times more than one line in planning — so pre-production gets the most time",
+   "lines": [
+    [
+     530,
+     1330,
+     2319,
+     1368
+    ]
+   ],
+   "ocr": "Fixing after the shoot costs tens of times more than one line in planning so pre-production gets the most time",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 24,
+   "box": [
+    530,
+    1330,
+    2319,
+    1368
+   ],
+   "ltexts": [
+    "Fixing after the shoot costs tens of times more than one line in planning — so pre-production gets the most time"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.1,
+   "color": [
+    153,
+    153,
+    154
+   ],
+   "weight": "Regular",
+   "size": 35.46,
+   "baselines": [
+    1359
+   ],
+   "xs": [
+    526
+   ],
+   "inkboxes": [
+    [
+     530,
+     1330,
+     2320,
+     1368
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.19,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 530,
+    "right": 522,
+    "up": 42,
+    "down": 5,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": []
+}

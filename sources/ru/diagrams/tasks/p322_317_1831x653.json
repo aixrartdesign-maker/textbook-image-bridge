@@ -1,0 +1,114 @@
+{
+ "stem": "p322_317_1831x653",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p322_317_1831x653.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Walk cycle in 8 poses — head is lowest at Down, highest at Up",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 61,
+    "chars_per_line_max": 104,
+    "chars_per_line_if_shrunk": 126,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Passing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Passing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Contact",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Down",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "Up",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 2,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Contact",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Down",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Up",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 2,
+    "chars_per_line_max": 10,
+    "chars_per_line_if_shrunk": 12,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

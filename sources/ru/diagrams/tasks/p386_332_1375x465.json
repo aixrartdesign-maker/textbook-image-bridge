@@ -1,0 +1,186 @@
+{
+ "stem": "p386_332_1375x465",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p386_332_1375x465.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Years 1–2",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 39,
+    "chars_per_line_if_shrunk": 48,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Years 3–5",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 68,
+    "chars_per_line_if_shrunk": 82,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Years 6+",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 31,
+    "chars_per_line_if_shrunk": 38,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Editing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 9,
+    "chars_per_line_if_shrunk": 11,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "4",
+   "en": "Rough cut · captions",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "Story & pacing · color grading",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 43,
+    "chars_per_line_if_shrunk": 52,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Lead editor · post supervisor",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 29,
+    "chars_per_line_max": 41,
+    "chars_per_line_if_shrunk": 50,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "7",
+   "en": "Shooting",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 9,
+    "chars_per_line_if_shrunk": 11,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "8",
+   "en": "Gear handling · 2nd AC",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 39,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "9",
+   "en": "Main camera · lighting liaison",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 44,
+    "chars_per_line_if_shrunk": 53,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "10",
+   "en": "DP · look design",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "11",
+   "en": "Directing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 10,
+    "chars_per_line_if_shrunk": 12,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "12",
+   "en": "AD · running the set",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 41,
+    "chars_per_line_if_shrunk": 50,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "13",
+   "en": "Solo directing · planning lead",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 44,
+    "chars_per_line_if_shrunk": 54,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "14",
+   "en": "Director · creative director",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 28,
+    "chars_per_line_max": 44,
+    "chars_per_line_if_shrunk": 53,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

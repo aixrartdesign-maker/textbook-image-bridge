@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#251",
+"ru": "<small>РАЗВОРОТ 10</small>Все условные обозначения — таблица, которую можно взять за легенду"
+},
+{
+"key": "feature_storyboard.html#252",
+"ru": "<small>Крупность плана</small>ELS · LS · FS · KS · MS · MCU · BS · CU · ECU"
+},
+{
+"key": "feature_storyboard.html#253",
+"ru": "Дальний / общий / полный / американский / средний"
+},
+{
+"key": "feature_storyboard.html#254",
+"ru": "Средне-крупный / первый / крупный / деталь"
+},
+{
+"key": "feature_storyboard.html#255",
+"ru": "Число людей: 1S · 2S · 3S · GS (группа)"
+},
+{
+"key": "feature_storyboard.html#256",
+"ru": "Ситуация: OSS («через плечо») · POV (субъективная камера) · INS (инсерт) · CA (перебивка)"
+},
+{
+"key": "feature_storyboard.html#257",
+"ru": "<small>Ракурс · точка съёмки</small>EYE · HA · LA · BEV · WEV · DUTCH"
+},
+{
+"key": "feature_storyboard.html#258",
+"ru": "На уровне глаз / верхний / нижний ракурс"
+},
+{
+"key": "feature_storyboard.html#259",
+"ru": "«С высоты птичьего полёта» / «взгляд снизу»"
+},
+{
+"key": "feature_storyboard.html#260",
+"ru": "Голландский угол (завал) — указывайте и угол: DUTCH 15°"
+},
+{
+"key": "feature_storyboard.html#261",
+"ru": "Объектив: фокусное расстояние в мм или W (широкоугольный) · N (нормальный) · T (длиннофокусный)"
+},
+{
+"key": "feature_storyboard.html#262",
+"ru": "Категория"
+},
+{
+"key": "feature_storyboard.html#263",
+"ru": "Обозначение"
+},
+{
+"key": "feature_storyboard.html#264",
+"ru": "Как читать"
+},
+{
+"key": "feature_storyboard.html#265",
+"ru": "На площадке"
+},
+{
+"key": "feature_storyboard.html#266",
+"ru": "Движение"
+},
+{
+"key": "feature_storyboard.html#267",
+"ru": "DOLLY IN (медленно)"
+},
+{
+"key": "feature_storyboard.html#268",
+"ru": "Медленный наезд"
+},
+{
+"key": "feature_storyboard.html#269",
+"ru": "Слайдер, 2 м за 5 секунд"
+},
+{
+"key": "feature_storyboard.html#270",
+"ru": "Движение"
+},
+{
+"key": "feature_storyboard.html#271",
+"ru": "PAN R 90"
+},
+{
+"key": "feature_storyboard.html#272",
+"ru": "Панорама вправо на 90°"
+},
+{
+"key": "feature_storyboard.html#273",
+"ru": "Поворачивается голова штатива; начало и конец — статика"
+},
+{
+"key": "feature_storyboard.html#274",
+"ru": "Движение"
+},
+{
+"key": "feature_storyboard.html#275",
+"ru": "TILT U от ног к лицу"
+},
+{
+"key": "feature_storyboard.html#276",
+"ru": "Тилт вверх от ног к лицу"
+},
+{
+"key": "feature_storyboard.html#277",
+"ru": "Равномерно, в конце пауза 0,5 с"
+},
+{
+"key": "feature_storyboard.html#278",
+"ru": "Движение"
+},
+{
+"key": "feature_storyboard.html#279",
+"ru": "TRACK L вместе с объектом"
+},
+{
+"key": "feature_storyboard.html#280",
+"ru": "Проезд влево рядом с объектом"
+},
+{
+"key": "feature_storyboard.html#281",
+"ru": "Гимбал, в темпе объекта"
+},
+{
+"key": "feature_storyboard.html#282",
+"ru": "Движение"
+},
+{
+"key": "feature_storyboard.html#283",
+"ru": "ARC R 180"
+},
+{
+"key": "feature_storyboard.html#284",
+"ru": "Полукруг вправо"
+},
+{
+"key": "feature_storyboard.html#285",
+"ru": "В центре продукт, радиус постоянный"
+},
+{
+"key": "feature_storyboard.html#286",
+"ru": "Движение"
+},
+{
+"key": "feature_storyboard.html#287",
+"ru": "HH (лёгкая) · LOCKED"
+},
+{
+"key": "feature_storyboard.html#288",
+"ru": "Лёгкая съёмка с рук · полная статика"
+},
+{
+"key": "feature_storyboard.html#289",
+"ru": "Тряска на уровне дыхания · штатив, опорный кадр для композитинга"
+},
+{
+"key": "feature_storyboard.html#290",
+"ru": "Переход"
+},
+{
+"key": "feature_storyboard.html#291",
+"ru": "CUT TO · DIS · FI · FO"
+},
+{
+"key": "feature_storyboard.html#292",
+"ru": "Прямая склейка · наплыв · затемнение"
+},
+{
+"key": "feature_storyboard.html#293",
+"ru": "Мгновенная смена · мягкая смена (длительность в секундах)"
+},
+{
+"key": "feature_storyboard.html#294",
+"ru": "Переход"
+},
+{
+"key": "feature_storyboard.html#295",
+"ru": "WIPE · MATCH · J/L CUT"
+},
+{
+"key": "feature_storyboard.html#296",
+"ru": "Шторка · матч-кат · звук раньше/позже"
+},
+{
+"key": "feature_storyboard.html#297",
+"ru": "Переход по форме · отметить опережение/отставание звука"
+},
+{
+"key": "feature_storyboard.html#298",
+"ru": "Постпродакшн"
+},
+{
+"key": "feature_storyboard.html#299",
+"ru": "INS · CG · VFX · SFX"
+},
+{
+"key": "feature_storyboard.html#300",
+"ru": "Инсерт · графика · VFX · SFX"
+},
+{
+"key": "feature_storyboard.html#301",
+"ru": "Отдельно записать на площадке трекинг-маркеры и направление света"
+},
+{
+"key": "feature_storyboard.html#302",
+"ru": "Слова"
+},
+{
+"key": "feature_storyboard.html#303",
+"ru": "N · V.O. · O.S. · SYNC"
+},
+{
+"key": "feature_storyboard.html#304",
+"ru": "Дикторский текст · внутренний голос · реплика за кадром · реплика в кадре"
+},
+{
+"key": "feature_storyboard.html#305",
+"ru": "N: Каждое утро — новое начало. / SYNC Минсо: Как же хорошо."
+},
+{
+"key": "feature_storyboard.html#306",
+"ru": "Текст"
+},
+{
+"key": "feature_storyboard.html#307",
+"ru": "CAP · SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#308",
+"ru": "Титры · суперы · финальный слоган"
+},
+{
+"key": "feature_storyboard.html#309",
+"ru": "CAP: Попробуйте сегодня / TAG: И сегодня — Название бренда"
+},
+{
+"key": "feature_storyboard.html#310",
+"ru": "Звук"
+},
+{
+"key": "feature_storyboard.html#311",
+"ru": "M · SE · ATM · MUTE"
+},
+{
+"key": "feature_storyboard.html#312",
+"ru": "Музыка · шумы · атмосфера · тишина"
+},
+{
+"key": "feature_storyboard.html#313",
+"ru": "Точки входа/выхода M, пометки в дБ"
+},
+{
+"key": "feature_storyboard.html#314",
+"ru": "<b>ПРИМЕЧАНИЕ</b>"
+},
+{
+"key": "feature_storyboard.html#315",
+"ru": "Дикторский текст на корейском звучит в темпе около 3 знаков в секунду. Пределы: 35–45 знаков на весь 15-секундный ролик, 150–180 — на минутное видео."
+},
+{
+"key": "feature_storyboard.html#316",
+"ru": "Не делайте титры и дикторский текст одинаковыми. В титрах — только ключевые слова, дикторский текст пишется предложениями. Рассчитывайте на просмотр без звука и держите титры внутри безопасной зоны. Знаки в команде должны быть едиными, а легенда — в первом кадре."
+},
+{
+"key": "feature_storyboard.html#317",
+"ru": "<small>Практикум</small>2.1"
+},
+{
+"key": "feature_storyboard.html#318",
+"ru": "Задание"
+},
+{
+"key": "feature_storyboard.html#319",
+"ru": "Сделайте раскадровку 30-секундного видео на 8 и более кадров в двух версиях: 16:9 и 9:16."
+},
+{
+"key": "feature_storyboard.html#320",
+"ru": "Совет"
+},
+{
+"key": "feature_storyboard.html#321",
+"ru": "Крупность плана, направление и стрелки движения важнее умения рисовать. Вертикальной раскадровке обычно нужно больше кадров."
+},
+{
+"key": "feature_storyboard.html#322",
+"ru": "Оценка"
+},
+{
+"key": "feature_storyboard.html#323",
+"ru": "Связность кадров, обозначения камеры, различия композиции в двух соотношениях сторон"
+},
+{
+"key": "feature_storyboard.html#324",
+"ru": "Образец ответа"
+},
+{
+"key": "feature_storyboard.html#325",
+"ru": "Сфотографируйте раскадровку, соберите из кадров аниматик и проверьте хронометраж."
+},
+{
+"key": "feature_storyboard.html#326",
+"ru": "<small>Практикум</small>2.1"
+},
+{
+"key": "feature_storyboard.html#327",
+"ru": "Задание"
+},
+{
+"key": "feature_storyboard.html#328",
+"ru": "Сделайте шаблон, в котором заполнены все девять элементов кадра раскадровки (номер · время · картинка · план/ракурс · движение · ремарка · реплики · звук · переход), затем спроектируйте один дополнительный кадр для версии 360 или AR."
+},
+{
+"key": "feature_storyboard.html#329",
+"ru": "Совет"
+},
+{
+"key": "feature_storyboard.html#330",
+"ru": "Размер текста и компоновку кадров подбирайте под того, кто будет читать раскадровку на площадке. К кадру 360 добавьте ещё и схему точки обзора."
+},
+{
+"key": "feature_storyboard.html#331",
+"ru": "Оценка"
+},
+{
+"key": "feature_storyboard.html#332",
+"ru": "Полнота информации, удобство на площадке, соответствие носителю"
+},
+{
+"key": "feature_storyboard.html#333",
+"ru": "Образец ответа"
+},
+{
+"key": "feature_storyboard.html#334",
+"ru": "Проверьте: сможет ли товарищ по команде прочитать его и снять без всяких объяснений?"
+},
+{
+"key": "feature_storyboard.html#335",
+"ru": "<small>Практикум</small>2.1"
+},
+{
+"key": "feature_storyboard.html#336",
+"ru": "Задание"
+},
+{
+"key": "feature_storyboard.html#337",
+"ru": "Нарисуйте страницу раскадровки в три дорожки (картинка · слова · звук), используя все знаки: панорама, зум, наезд, проезд и переходы между кадрами."
+},
+{
+"key": "feature_storyboard.html#338",
+"ru": "Совет"
+},
+{
+"key": "feature_storyboard.html#339",
+"ru": "Знаки в команде должны быть едиными. Легенду поместите в первый кадр. Ширину дорожек задавайте по длине дикторского текста из расчёта 3 знака в секунду."
+},
+{
+"key": "feature_storyboard.html#340",
+"ru": "Оценка"
+},
+{
+"key": "feature_storyboard.html#341",
+"ru": "Точность использования знаков, совпадение звука со склейками"
+},
+{
+"key": "feature_storyboard.html#342",
+"ru": "Образец ответа"
+},
+{
+"key": "feature_storyboard.html#343",
+"ru": "Настолько понятно, что движения камеры можно воспроизвести по одним только знакам."
+},
+{
+"key": "feature_ppm.html#0",
+"ru": "Спецраздел · ПРЕПРОДАКШН-ВСТРЕЧА"
+},
+{
+"key": "feature_ppm.html#1",
+"ru": "PPM —<br>последняя договорённость перед съёмкой"
+},
+{
+"key": "feature_ppm.html#2",
+"ru": "PPM — это препродакшн-встреча. Так называют и встречу накануне съёмки, на которой заказчик · агентство · режиссура · продакшн закрепляют все решения, и документ, который их фиксирует. Утверждённый документ PPM становится точкой отсчёта в любом будущем споре. Устной договорённости, которую не записали, не существует. В этом спецразделе мы постранично разберём одну презентацию PPM."
+},
+{
+"key": "feature_ppm.html#3",
+"ru": "Одно и то же изменение может стоить до 50 раз дороже — смотря когда его внести"
+},
+{
+"key": "feature_ppm.html#4",
+"ru": "Правки на бумаге — платим только временем"
+},
+{
+"key": "feature_ppm.html#5",
+"ru": "На кону люди·техника·график"
+},
+{
+"key": "feature_ppm.html#6",
+"ru": "Идея"
+},
+{
+"key": "feature_ppm.html#7",
+"ru": "Раскадровка"
+},
+{
+"key": "feature_ppm.html#8",
+"ru": "PPM"
+},
+{
+"key": "feature_ppm.html#9",
+"ru": "Съёмка"
+},
+{
+"key": "feature_ppm.html#10",
+"ru": "Постпродакшн"
+},
+{
+"key": "feature_ppm.html#11",
+"ru": "← последний пологий участок до изгиба кривой затрат"
+},
+{
+"key": "feature_ppm.html#12",
+"ru": "<b>Рис. 59</b> Цена изменения по этапам производства: одно и то же изменение может стоить до 50 раз дороже — смотря когда его вносят. PPM — последний пологий участок до изгиба кривой затрат."
+},
+{
+"key": "feature_ppm.html#13",
+"ru": "<b>48<em>ч</em></b>Срок отправки материалов до встречи"
+},
+{
+"key": "feature_ppm.html#14",
+"ru": "<b>12<em> пунктов</em></b>Обязательные разделы презентации PPM"
+},
+{
+"key": "feature_ppm.html#15",
+"ru": "<b>5<em>×</em></b>Цена изменения на этапе PPM (идея = 1)"
+},
+{
+"key": "feature_ppm.html#16",
+"ru": "<b>1<em> правило</em></b>Условие завершения — каждый может назвать свои «задачи на день»"
+},
+{
+"key": "feature_ppm.html#17",
+"ru": "<span class=\"ph-id\">P06-PPM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Встреча PPM — раскадровка · мудборд · график на одном столе</b></span>"
+},
+{
+"key": "feature_ppm.html#18",
+"ru": "<b>Примечание</b>Встреча PPM — раскадровка · мудборд · график на одном столе"
+},
+{
+"key": "feature_ppm.html#19",
+"ru": "Двенадцать страниц презентации PPM — порядок страниц и есть порядок встречи"
+},
+{
+"key": "feature_ppm.html#20",
+"ru": "Пункт"
+},
+{
+"key": "feature_ppm.html#21",
+"ru": "Содержание"
+},
+{
+"key": "feature_ppm.html#22",
+"ru": "Утверждает"
+},
+{
+"key": "feature_ppm.html#23",
+"ru": "Пример в спецразделе"
+},
+{
+"key": "feature_ppm.html#24",
+"ru": "Замысел проекта"
+},
+{
+"key": "feature_ppm.html#25",
+"ru": "Идея в одном предложении, ЦА, главный посыл"
+},
+{
+"key": "feature_ppm.html#26",
+"ru": "Заказчик"
+},
+{
+"key": "feature_ppm.html#27",
+"ru": "Раскадровка"
+},
+{
+"key": "feature_ppm.html#28",
+"ru": "Итоговый список кадров и хронометраж, аниматик"
+},
+{
+"key": "feature_ppm.html#29",
+"ru": "Заказчик, режиссёр"
+},
+{
+"key": "feature_ppm.html#30",
+"ru": "Спецраздел 2.1"
+},
+{
+"key": "feature_ppm.html#31",
+"ru": "Режиссёрский замысел · тон и манера"
+},
+{
+"key": "feature_ppm.html#32",
+"ru": "Ключевые слова по свету · цвету · фактуре · темпу, видеореференсы"
+},
+{
+"key": "feature_ppm.html#33",
+"ru": "Режиссёр"
+},
+{
+"key": "feature_ppm.html#34",
+"ru": "РАЗВОРОТ 01"
+},
+{
+"key": "feature_ppm.html#35",
+"ru": "Кастинг"
+},
+{
+"key": "feature_ppm.html#36",
+"ru": "Кандидаты в модели и окончательный выбор, условия контракта"
+},
+{
+"key": "feature_ppm.html#37",
+"ru": "Заказчик"
+},
+{
+"key": "feature_ppm.html#38",
+"ru": "РАЗВОРОТ 03"
+},
+{
+"key": "feature_ppm.html#39",
+"ru": "Локация"
+},
+{
+"key": "feature_ppm.html#40",
+"ru": "Фото вариантов площадки, план перемещений, разрешения"
+},
+{
+"key": "feature_ppm.html#41",
+"ru": "Продакшн"
+},
+{
+"key": "feature_ppm.html#42",
+"ru": "РАЗВОРОТ 02"
+},
+{
+"key": "feature_ppm.html#43",
+"ru": "Декорации · реквизит · мизансцена"
+},
+{
+"key": "feature_ppm.html#44",
+"ru": "Декорации, реквизит, подготовка продукта, карта предметов в кадре"
+},
+{
+"key": "feature_ppm.html#45",
+"ru": "Художник"
+},
+{
+"key": "feature_ppm.html#46",
+"ru": "РАЗВОРОТ 04"
+},
+{
+"key": "feature_ppm.html#47",
+"ru": "Костюм · стайлинг"
+},
+{
+"key": "feature_ppm.html#48",
+"ru": "Варианты костюмов, решение причёски · макияжа"
+},
+{
+"key": "feature_ppm.html#49",
+"ru": "Стилист"
+},
+{
+"key": "feature_ppm.html#50",
+"ru": "РАЗВОРОТ 04"
+},
+{
+"key": "feature_ppm.html#51",
+"ru": "План съёмки"
+},
+{
+"key": "feature_ppm.html#52",
+"ru": "Камера, объективы, свет, спецтехника"
+},
+{
+"key": "feature_ppm.html#53",
+"ru": "DoP"
+},
+{
+"key": "feature_ppm.html#54",
+"ru": "ЧАСТЬ 3 · 4"
+},
+{
+"key": "feature_ppm.html#55",
+"ru": "План звука"
+},
+{
+"key": "feature_ppm.html#56",
+"ru": "Варианты музыки, диктор, шумы"
+}
+]

@@ -1,0 +1,484 @@
+{
+ "p249_259_1831x888": {
+  "1": {
+   "minscale": 0.7
+  },
+  "6": {
+   "minscale": 0.7
+  },
+  "7": {
+   "minscale": 0.7
+  },
+  "8": {
+   "minscale": 0.7
+  }
+ },
+ "p332_320_1830x828": {
+  "8": {
+   "busy": true
+  },
+  "9": {
+   "busy": true
+  },
+  "0": {
+   "align": "center"
+  },
+  "1": {
+   "align": "center"
+  },
+  "2": {
+   "align": "center"
+  },
+  "3": {
+   "align": "center"
+  },
+  "4": {
+   "align": "center"
+  },
+  "5": {
+   "align": "center"
+  },
+  "11": {
+   "align": "center"
+  },
+  "12": {
+   "align": "center"
+  },
+  "13": {
+   "align": "center"
+  },
+  "14": {
+   "align": "center"
+  },
+  "15": {
+   "align": "center"
+  },
+  "16": {
+   "align": "center"
+  },
+  "17": {
+   "align": "center"
+  },
+  "6": {
+   "align": "right"
+  },
+  "7": {
+   "align": "right"
+  },
+  "10": {
+   "align": "right"
+  }
+ },
+ "p223_246_1375x696": {
+  "11": {
+   "weight": "Regular"
+  },
+  "12": {
+   "minscale": 0.7
+  },
+  "14": {
+   "minscale": 0.7
+  },
+  "19": {
+   "minscale": 0.7,
+   "align": "center"
+  },
+  "22": {
+   "minscale": 0.7
+  },
+  "7": {
+   "align": "right"
+  },
+  "8": {
+   "align": "right"
+  },
+  "10": {
+   "align": "right"
+  }
+ },
+ "p364_326_1373x650": {
+  "11": {
+   "weight": "Regular"
+  },
+  "19": {
+   "weight": "Regular"
+  },
+  "2": {
+   "align": "center"
+  }
+ },
+ "p032_005_1373x597": {
+  "0": {
+   "align": "center",
+   "center_x": 278.0
+  },
+  "4": {
+   "align": "center",
+   "center_x": 813.5
+  },
+  "1": {
+   "align": "center",
+   "center_x": 1348.0
+  },
+  "3": {
+   "align": "center",
+   "center_x": 1882.5
+  },
+  "2": {
+   "align": "center",
+   "center_x": 2417.5
+  },
+  "14": {
+   "align": "center",
+   "center_x": 543.5
+  },
+  "15": {
+   "align": "center",
+   "center_x": 1077.0
+  },
+  "17": {
+   "align": "center",
+   "center_x": 1611.5
+  },
+  "16": {
+   "align": "center",
+   "center_x": 2150.5
+  }
+ },
+ "p062_047_1829x503": {
+  "1": {
+   "weight": "Bold",
+   "size": 58.0,
+   "baselines": [
+    681
+   ],
+   "xs": [
+    282
+   ]
+  },
+  "2": {
+   "weight": "Bold",
+   "size": 57.8,
+   "baselines": [
+    681
+   ],
+   "xs": [
+    863
+   ]
+  }
+ },
+ "p064_048_1828x709": {
+  "15": {
+   "minscale": 0.7
+  }
+ },
+ "p064_049_1829x1022": {
+  "8": {
+   "weight": "Medium",
+   "size": 50.16,
+   "baselines": [
+    651
+   ],
+   "xs": [
+    2337
+   ],
+   "inkboxes": [
+    [
+     2342,
+     611,
+     2507,
+     652
+    ]
+   ]
+  },
+  "10": {
+   "weight": "Medium",
+   "size": 51.95,
+   "baselines": [
+    806
+   ],
+   "xs": [
+    2337
+   ],
+   "inkboxes": [
+    [
+     2338,
+     765,
+     2485,
+     807
+    ]
+   ]
+  },
+  "12": {
+   "weight": "Medium",
+   "size": 54.67,
+   "baselines": [
+    1050
+   ],
+   "xs": [
+    2337
+   ],
+   "inkboxes": [
+    [
+     2342,
+     1010,
+     2484,
+     1051
+    ]
+   ]
+  }
+ },
+ "p072_071_1831x1058": {
+  "4": {
+   "lines": [
+    [
+     1097,
+     549,
+     1767,
+     608
+    ]
+   ],
+   "box": [
+    1097,
+    549,
+    1767,
+    608
+   ],
+   "size": 48.1,
+   "weight": "Regular",
+   "baselines": [
+    597
+   ],
+   "xs": [
+    1092
+   ],
+   "inkboxes": [
+    [
+     1097,
+     553,
+     1767,
+     608
+    ]
+   ]
+  },
+  "6": {
+   "size": 54.6,
+   "weight": "Bold",
+   "baselines": [
+    930
+   ],
+   "xs": [
+    599
+   ]
+  }
+ },
+ "p072_070_1831x681": {
+  "5": {
+   "align": "center"
+  },
+  "6": {
+   "align": "center"
+  },
+  "7": {
+   "align": "center"
+  },
+  "8": {
+   "align": "center"
+  }
+ },
+ "p093_111_1374x800": {
+  "1": {
+   "weight": "Bold"
+  },
+  "2": {
+   "weight": "Bold"
+  },
+  "3": {
+   "weight": "Bold"
+  },
+  "4": {
+   "weight": "Bold",
+   "align": "center"
+  },
+  "16": {
+   "align": "center"
+  }
+ },
+ "p120_129_1375x731": {
+  "12": {
+   "align": "center"
+  }
+ },
+ "p165_193_1831x1043": {
+  "5": {
+   "align": "center"
+  },
+  "6": {
+   "align": "center"
+  },
+  "9": {
+   "align": "center"
+  },
+  "13": {
+   "align": "center"
+  },
+  "15": {
+   "align": "center"
+  },
+  "23": {
+   "align": "center",
+   "weight": "Medium"
+  },
+  "24": {
+   "align": "center",
+   "weight": "Medium"
+  },
+  "25": {
+   "align": "center",
+   "weight": "Medium"
+  },
+  "26": {
+   "align": "center",
+   "weight": "Medium"
+  },
+  "27": {
+   "align": "center",
+   "weight": "Medium"
+  },
+  "28": {
+   "align": "center",
+   "weight": "Medium"
+  }
+ },
+ "p203_225_1372x747": {
+  "9": {
+   "align": "center"
+  },
+  "10": {
+   "align": "center"
+  },
+  "11": {
+   "align": "center"
+  }
+ },
+ "p207_228_1370x384": {
+  "1": {
+   "align": "center"
+  },
+  "2": {
+   "align": "center"
+  },
+  "3": {
+   "align": "center"
+  },
+  "4": {
+   "align": "center"
+  },
+  "5": {
+   "align": "center"
+  }
+ },
+ "p268_267_1375x766": {
+  "18": {
+   "align": "center"
+  }
+ },
+ "p284_286_1831x997": {
+  "5": {
+   "align": "center"
+  },
+  "12": {
+   "align": "center"
+  },
+  "17": {
+   "align": "center"
+  },
+  "19": {
+   "align": "center"
+  }
+ },
+ "p322_316_1831x681": {
+  "1": {
+   "align": "center"
+  },
+  "2": {
+   "align": "center"
+  },
+  "3": {
+   "align": "center"
+  }
+ },
+ "p322_317_1831x653": {
+  "2": {
+   "align": "center"
+  },
+  "5": {
+   "align": "center"
+  },
+  "6": {
+   "align": "center"
+  },
+  "8": {
+   "align": "center"
+  },
+  "9": {
+   "align": "center"
+  }
+ },
+ "p367_328_1375x412": {
+  "9": {
+   "align": "center"
+  }
+ },
+ "p386_332_1375x465": {
+  "0": {
+   "align": "center"
+  },
+  "1": {
+   "align": "center"
+  },
+  "2": {
+   "align": "center"
+  },
+  "3": {
+   "align": "center",
+   "weight": "Bold"
+  },
+  "7": {
+   "align": "center",
+   "weight": "Bold"
+  },
+  "11": {
+   "align": "center",
+   "weight": "Bold"
+  }
+ },
+ "p421_340_1375x518": {
+  "0": {
+   "align": "center"
+  },
+  "1": {
+   "align": "center"
+  },
+  "2": {
+   "align": "center"
+  },
+  "3": {
+   "align": "center"
+  },
+  "4": {
+   "align": "center"
+  },
+  "6": {
+   "align": "right"
+  }
+ },
+ "p422_342_1375x524": {
+  "7": {
+   "align": "center"
+  },
+  "16": {
+   "align": "center"
+  }
+ }
+}

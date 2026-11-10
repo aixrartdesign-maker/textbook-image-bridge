@@ -1,0 +1,126 @@
+{
+ "stem": "p064_048_1828x709",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p064_048_1828x709.png",
+ "elements": [
+  {
+   "id": "10",
+   "en": "Extreme long",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "Full",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "Medium",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "Close-up",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 13,
+    "chars_per_line_if_shrunk": 16,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "14",
+   "en": "Long",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 14,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "Knee",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "Bust",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "17",
+   "en": "Extreme CU",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 14,
+    "chars_per_line_if_shrunk": 17,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "18",
+   "en": "Wide — context & space",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 70,
+    "chars_per_line_if_shrunk": 86,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "19",
+   "en": "Tight — emotion & texture",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 25,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 34,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

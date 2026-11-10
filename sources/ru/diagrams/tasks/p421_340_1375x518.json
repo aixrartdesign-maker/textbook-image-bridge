@@ -1,0 +1,186 @@
+{
+ "stem": "p421_340_1375x518",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p421_340_1375x518.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Editing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 17,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Shooting",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Directing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 32,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Motion",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Marketing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "finished pieces",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Process docs (plan·boards)",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 2,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "7",
+   "en": "Metrics",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 49,
+    "chars_per_line_if_shrunk": 60,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "8",
+   "en": "Role stated",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 50,
+    "chars_per_line_if_shrunk": 61,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "9",
+   "en": "Last 6 months' work",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 45,
+    "chars_per_line_if_shrunk": 55,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "10",
+   "en": "Link access",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 48,
+    "chars_per_line_if_shrunk": 58,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "11",
+   "en": "License proof",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 48,
+    "chars_per_line_if_shrunk": 58,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "12",
+   "en": "Required",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 14,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "13",
+   "en": "Recommended",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 12,
+    "chars_per_line_if_shrunk": 15,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "14",
+   "en": "Optional",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 46,
+    "chars_per_line_if_shrunk": 57,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}
