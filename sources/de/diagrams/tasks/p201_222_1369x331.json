@@ -1,0 +1,90 @@
+{
+ "stem": "p201_222_1369x331",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p201_222_1369x331.png",
+ "elements": [
+  {
+   "id": "1",
+   "en": "Garbage matte",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 20,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "2",
+   "en": "1st keying",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "3",
+   "en": "Matte cleanup",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 17,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "4",
+   "en": "Despill",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "5",
+   "en": "Edge work",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "6",
+   "en": "Color match",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 17,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "7",
+   "en": "Watch the alpha in B&W as you work. Color alone misses translucent areas",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 72,
+    "chars_per_line_max": 158,
+    "chars_per_line_if_shrunk": 193,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

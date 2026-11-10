@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#750",
+"de": "<b>01</b><i>Schnitt fixieren</i>In Premiere. Ändert sich der Schnitt, war das Compositing umsonst"
+},
+{
+"key": "part05.html#751",
+"de": "<b>02</b><i>Durch Komposition ersetzen</i>Clip in eine AE-Komposition umwandeln; Änderungen werden automatisch übernommen"
+},
+{
+"key": "part05.html#752",
+"de": "<b>03</b><i>Bearbeiten · speichern</i>In AE nur speichern, schon aktualisiert sich die Timeline"
+},
+{
+"key": "part05.html#753",
+"de": "<b>04</b><i>Mit Alpha rendern</i>Wird es zu schwerfällig, eine Datei mit Alpha rendern und wieder einsetzen"
+},
+{
+"key": "part05.html#754",
+"de": "<b>05</b><i>Endexport</i>Aus Premiere in einem Durchgang. Zwischenformate in hochwertigem Codec"
+},
+{
+"key": "part05.html#755",
+"de": "<small>Übung</small>5.11"
+},
+{
+"key": "part05.html#756",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#757",
+"de": "Erstellen Sie mit Expressions einen Text, der von selbst wackelt, und einen Zahlenzähler, der sich mit der Zeit ändert."
+},
+{
+"key": "part05.html#758",
+"de": "Tipp"
+},
+{
+"key": "part05.html#759",
+"de": "Beginnen Sie mit den Expressions wiggle, time und linear."
+},
+{
+"key": "part05.html#760",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#761",
+"de": "Verständnis der Expressions, Wiederverwendbarkeit"
+},
+{
+"key": "part05.html#762",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#763",
+"de": "Baut eine Vorlage, deren Werte sich mit Schiebereglern anpassen lassen."
+},
+{
+"key": "part05.html#764",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#765",
+"de": "Funktionen von DaVinci Resolve"
+},
+{
+"key": "part05.html#766",
+"de": "Das Standardwerkzeug der Farbkorrektur und zugleich eine integrierte Umgebung, die auch Schnitt, Compositing und Ton abdeckt. Schon die Gratisversion reicht für die meisten kommerziellen Aufträge."
+},
+{
+"key": "part05.html#767",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part05.html#768",
+"de": "Vertrauen Sie der Messung mehr als Ihren Augen. Prüfen Sie die Werte in Wellenform, Parade und Vektorskop."
+},
+{
+"key": "part05.html#769",
+"de": "Die sieben Pages"
+},
+{
+"key": "part05.html#770",
+"de": "Bereich"
+},
+{
+"key": "part05.html#771",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#772",
+"de": "Wichtige Funktionen"
+},
+{
+"key": "part05.html#773",
+"de": "Media-Page"
+},
+{
+"key": "part05.html#774",
+"de": "Material verwalten und ordnen"
+},
+{
+"key": "part05.html#775",
+"de": "Clips importieren, Metadaten, Proxys erzeugen"
+},
+{
+"key": "part05.html#776",
+"de": "Cut-Page"
+},
+{
+"key": "part05.html#777",
+"de": "Schneller Rohschnitt"
+},
+{
+"key": "part05.html#778",
+"de": "Source Tape, intelligente Schnittwerkzeuge"
+},
+{
+"key": "part05.html#779",
+"de": "Edit-Page"
+},
+{
+"key": "part05.html#780",
+"de": "Präziser Feinschnitt"
+},
+{
+"key": "part05.html#781",
+"de": "Timeline, Übergänge, Untertitel, Tempoänderungen"
+},
+{
+"key": "part05.html#782",
+"de": "Fusion-Page"
+},
+{
+"key": "part05.html#783",
+"de": "Compositing und Motion Graphics"
+},
+{
+"key": "part05.html#784",
+"de": "Node-basiertes Compositing, Tracking, Partikel"
+},
+{
+"key": "part05.html#785",
+"de": "Color-Page"
+},
+{
+"key": "part05.html#786",
+"de": "Farbkorrektur"
+},
+{
+"key": "part05.html#787",
+"de": "Nodes, Kurven, Qualifier, Power Windows, Tracker"
+},
+{
+"key": "part05.html#788",
+"de": "Fairlight-Page"
+},
+{
+"key": "part05.html#789",
+"de": "Ton"
+},
+{
+"key": "part05.html#790",
+"de": "Mixer, Audioeffekte, Lautheitsmessung"
+},
+{
+"key": "part05.html#791",
+"de": "Deliver-Page"
+},
+{
+"key": "part05.html#792",
+"de": "Ausgabe"
+},
+{
+"key": "part05.html#793",
+"de": "Codec-Voreinstellungen, Stapelrendern, Versionen je Plattform"
+},
+{
+"key": "part05.html#794",
+"de": "Wichtige Werkzeuge der Color-Page"
+},
+{
+"key": "part05.html#795",
+"de": "<small>Struktur</small>Nodes"
+},
+{
+"key": "part05.html#796",
+"de": "Verkettet Korrekturschritte als Blöcke, die sich einzeln ein- und ausschalten lassen"
+},
+{
+"key": "part05.html#797",
+"de": "Serielle, parallele und Layer-Nodes"
+},
+{
+"key": "part05.html#798",
+"de": "<small>Farbauswahl</small>Qualifier"
+},
+{
+"key": "part05.html#799",
+"de": "Wählt eine bestimmte Farbe aus und korrigiert sie"
+},
+{
+"key": "part05.html#800",
+"de": "Um nur Hauttöne oder den Himmel anzupassen"
+},
+{
+"key": "part05.html#801",
+"de": "<small>Bereich</small>Power Window"
+},
+{
+"key": "part05.html#802",
+"de": "Korrigiert nur einen gewählten Bildbereich"
+},
+{
+"key": "part05.html#803",
+"de": "Mit dem Tracker folgt es bewegten Motiven"
+},
+{
+"key": "part05.html#804",
+"de": "<small>Präzision</small>Kurven"
+},
+{
+"key": "part05.html#805",
+"de": "Feinabstimmung von Helligkeit und Farbe je Tonwertbereich"
+},
+{
+"key": "part05.html#806",
+"de": "Eine S-Kurve ist die Grundform der Kontrastanhebung"
+},
+{
+"key": "part05.html#807",
+"de": "<small>Automatik</small>Shot Match"
+},
+{
+"key": "part05.html#808",
+"de": "Gleicht die Farbe zweier Einstellungen automatisch an"
+},
+{
+"key": "part05.html#809",
+"de": "Ausgangspunkt, wenn zwischen verschiedenen Kameras geschnitten wird"
+},
+{
+"key": "part05.html#810",
+"de": "<small>Messung</small>Scopes"
+},
+{
+"key": "part05.html#811",
+"de": "Wellenform, Parade, Vektorskop"
+},
+{
+"key": "part05.html#812",
+"de": "Der Messung mehr trauen als den Augen"
+},
+{
+"key": "part05.html#813",
+"de": "Beispiel für einen Node-Aufbau"
+},
+{
+"key": "part05.html#814",
+"de": "<b>01</b><i>Technische Umwandlung</i>Von Log zu Standard"
+},
+{
+"key": "part05.html#815",
+"de": "<b>02</b><i>Belichtung · Kontrast</i>Helligkeit festlegen"
+},
+{
+"key": "part05.html#816",
+"de": "<b>03</b><i>Weißabgleich</i>Grau soll grau sein"
+},
+{
+"key": "part05.html#817",
+"de": "<b>04</b><i>Einstellungen angleichen</i>Eine Szene, eine Tageszeit"
+},
+{
+"key": "part05.html#818",
+"de": "<b>05</b><i>Look anwenden</i>Die Farbe des Films festlegen"
+},
+{
+"key": "part05.html#819",
+"de": "<b>06</b><i>Hauttöne</i>Lokale Korrektur per Qualifier"
+},
+{
+"key": "part05.html#820",
+"de": "<b>07</b><i>Himmel · Hintergrund</i>Lokale Korrektur per Power Window"
+},
+{
+"key": "part05.html#821",
+"de": "<b>08</b><i>Vignette · Körnung</i>Letzter Schliff"
+},
+{
+"key": "part05.html#822",
+"de": "<small>Übung</small>5.12"
+},
+{
+"key": "part05.html#823",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#824",
+"de": "Bauen Sie in DaVinci Resolve eine Korrekturkette aus mindestens 3 Nodes auf."
+},
+{
+"key": "part05.html#825",
+"de": "Tipp"
+},
+{
+"key": "part05.html#826",
+"de": "Geben Sie jedem Node nur eine Aufgabe (Belichtung, Farbe, Look)."
+},
+{
+"key": "part05.html#827",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#828",
+"de": "Logik der Node-Struktur, Qualität des Ergebnisses"
+},
+{
+"key": "part05.html#829",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#830",
+"de": "Benennt jeden Node und reicht Vergleichsstandbilder mit jeweils ein- und ausgeschaltetem Node ein."
+},
+{
+"key": "part05.html#831",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#832",
+"de": "Arten der Animation"
+},
+{
+"key": "part05.html#833",
+"de": "Animation wird danach unterschieden, woraus jedes Einzelbild besteht, und teilt sich grob in 2D und 3D. Ändert sich das Material, ändern sich auch die Textur der Bewegung und die Art ihrer Herstellung."
+},
+{
+"key": "part05.html#834",
+"de": "Die Verfahren unterscheiden sich darin, woraus jedes Bild entsteht"
+},
+{
+"key": "part05.html#835",
+"de": "<b>Cel-Animation</b><span>Auf transparente Folien gezeichnet, über einen Hintergrund gelegt</span>"
+},
+{
+"key": "part05.html#836",
+"de": "<b>Legetrick</b><span>Gelenkige Papierfiguren, Stück für Stück bewegt</span>"
+},
+{
+"key": "part05.html#837",
+"de": "<b>Sandanimation</b><span>Sand auf Licht gestreut, Bild für Bild</span>"
+},
+{
+"key": "part05.html#838",
+"de": "<b>Pixilation</b><span>Menschen werden wie Puppen Bild für Bild aufgenommen</span>"
+},
+{
+"key": "part05.html#839",
+"de": "<b>Papierzeichnung</b><span>Ein Bild pro Blatt, durch Blättern geprüft</span>"
+},
+{
+"key": "part05.html#840",
+"de": "<b>Knetanimation · Stop-Motion</b><span>Reale Puppen, Stück für Stück bewegt und aufgenommen</span>"
+},
+{
+"key": "part05.html#841",
+"de": "<b>3D-CG</b><span>Sie bewegen das Rig, der Computer rechnet</span>"
+},
+{
+"key": "part05.html#842",
+"de": "<b>Rotoskopie</b><span>Über Realfilm nachgezeichnet, Bild für Bild</span>"
+},
+{
+"key": "part05.html#843",
+"de": "<b>Abb. 54</b> Acht Animationsverfahren – mit dem Material ändern sich die Textur der Bewegung und die Herstellungsweise. Von links oben nach rechts unten verlagert sich die Arbeit vom „Zeichnen“ zum „Berechnen“."
+},
+{
+"key": "part05.html#844",
+"de": "Merkmale der Verfahren"
+},
+{
+"key": "part05.html#845",
+"de": "<small>Folie</small>Cel-Animation"
+},
+{
+"key": "part05.html#846",
+"de": "Figuren auf transparentes Zelluloid gezeichnet und über Hintergründen geschichtet aufgenommen"
+},
+{
+"key": "part05.html#847",
+"de": "Standard für kommerzielle Spielfilme; Ursprung der digitalen Ebenen"
+},
+{
+"key": "part05.html#848",
+"de": "<small>Ausschneiden</small>Legetrick"
+},
+{
+"key": "part05.html#849",
+"de": "Figuren aus Papier oder Stoff ausgeschnitten, Gelenke fixiert, Stück für Stück bewegt und aufgenommen"
+},
+{
+"key": "part05.html#850",
+"de": "Die Abenteuer des Prinzen Achmed (1926) von Lotte Reiniger; heute mit digitalen Puppen umgesetzt"
+},
+{
+"key": "part05.html#851",
+"de": "<small>Sand</small>Sandanimation"
+},
+{
+"key": "part05.html#852",
+"de": "Sand auf einem Leuchtkasten, von Hand zu neuen Formen geschoben und aufgenommen"
+},
+{
+"key": "part05.html#853",
+"de": "Bekannt für Morphing: Eine Form fließt in die nächste Szene über"
+},
+{
+"key": "part05.html#854",
+"de": "<small>Menschen</small>Pixilation"
+},
+{
+"key": "part05.html#855",
+"de": "Menschen werden wie Puppen Bild für Bild aufgenommen"
+},
+{
+"key": "part05.html#856",
+"de": "Unwirkliche Bewegung – Gleiten oder Schweben in der Luft; Neighbours (1952) von Norman McLaren"
+},
+{
+"key": "part05.html#857",
+"de": "<small>Papier</small>Papier · Zeichnung"
+},
+{
+"key": "part05.html#858",
+"de": "Das einfachste Verfahren: auf Papier zeichnen, Blatt für Blatt"
+},
+{
+"key": "part05.html#859",
+"de": "Ein Daumenkino zeigt das Prinzip am einfachsten"
+},
+{
+"key": "part05.html#860",
+"de": "<small>Knete</small>Knetanimation · Stop-Motion"
+},
+{
+"key": "part05.html#861",
+"de": "Knet- oder Gliederpuppen werden am Set Stück für Stück bewegt und aufgenommen"
+},
+{
+"key": "part05.html#862",
+"de": "Der handgemachte Charakter von Material und echtem Licht bleibt erhalten"
+},
+{
+"key": "part05.html#863",
+"de": "<small>Computer</small>3D-CG"
+},
+{
+"key": "part05.html#864",
+"de": "Das Modell erhält ein Skelett (Rig), wird mit Keyframes animiert und dann gerendert"
+},
+{
+"key": "part05.html#865",
+"de": "Toy Story (1995) war der erste vollständig computeranimierte Spielfilm"
+},
+{
+"key": "part05.html#866",
+"de": "<small>Nachzeichnen</small>Rotoskopie"
+},
+{
+"key": "part05.html#867",
+"de": "Realfilmaufnahmen werden Bild für Bild nachgezeichnet"
+},
+{
+"key": "part05.html#868",
+"de": "Um realistische Bewegung in eine gezeichnete Textur zu übertragen"
+},
+{
+"key": "part05.html#869",
+"de": "<b>Referenzfotos 5.13A</b>Generierte Bilder – drei Materialien, aus denen ein Bild entsteht"
+},
+{
+"key": "part05.html#870",
+"de": "<span class=\"ph-id\">P05-ANIMCEL</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Schlüsselposen und Zwischenbilder</b>Ein Animator blättert geschichtete Blätter auf einem Leuchttisch durch; ein mit Bleistift gezeichneter springender Ball</span>"
+},
+{
+"key": "part05.html#871",
+"de": "<b>a</b>Zeichnung – erst die Schlüsselposen zeichnen, dann die Zwischenbilder ergänzen"
+},
+{
+"key": "part05.html#872",
+"de": "<span class=\"ph-id\">P05-STOPMO</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Stop-Motion</b>Eine Puppe in einem Miniatur-Küchenset, eine auf einem Rig fixierte Kamera, eine Hand bewegt mit einer Pinzette einen Arm</span>"
+},
+{
+"key": "part05.html#873",
+"de": "<b>b</b>Stop-Motion – die Textur von echtem Licht und Material bleibt erhalten"
+},
+{
+"key": "part05.html#874",
+"de": "<span class=\"ph-id\">P05-3D</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>3D-Animation</b>Ein Drahtgitter-Figurenrig im Viewport, darunter Kurven im Kurveneditor</span>"
+},
+{
+"key": "part05.html#875",
+"de": "<b>c</b>3D – das Rig mit Keyframes animieren und das Easing im Kurveneditor verfeinern"
+},
+{
+"key": "part05.html#876",
+"de": "2D zeichnet Bewegung; 3D entwirft Bewegung und berechnet sie dann"
+},
+{
+"key": "part05.html#877",
+"de": "<b>2D – Bild für Bild gezeichnet</b><span>Eine Zeichnung = ein Bild. Das nächste wird über dem Original gezeichnet · Linie · Farbe · Bewegung aus einer Hand · Ändern heißt neu zeichnen</span>"
+},
+{
+"key": "part05.html#878",
+"de": "<b>3D – das Modell wird bewegt</b><span>Rig (Skelett) bauen, dann nur Posen = Keyframes setzen · der Computer berechnet die Zwischenbilder · Kamera · Licht · Material separat änderbar · Ändern heißt Werte ändern</span>"
+},
+{
+"key": "part05.html#879",
+"de": "<b>So wählen Sie</b> – 2D, wenn handgemachter Charakter und Übertreibung gefragt sind; 3D, wenn sich die Kamera frei bewegt und dieselbe Figur aus vielen Winkeln · in vielen Folgen funktionieren muss. In der Praxis wird beides gemischt (3D im 2D-Look, 2D-Figuren vor 3D-Hintergründen)."
+},
+{
+"key": "part05.html#880",
+"de": "<b>Abb. 55</b> 2D und 3D – Zeichnungen, die Bewegung erzeugen, gegenüber entworfener Bewegung. Links: aufeinanderfolgende Phasenzeichnungen; rechts: ein 3D-Viewport mit Rig und Keyframes."
+},
+{
+"key": "part05.html#881",
+"de": "Wie sich 2D und 3D unterscheiden"
+},
+{
+"key": "part05.html#882",
+"de": "3D im Gewand einer 2D-Textur. Ein Hybrid, der immer häufiger wird."
+},
+{
+"key": "part05.html#883",
+"de": "Aspekt"
+},
+{
+"key": "part05.html#884",
+"de": "Arbeitseinheit"
+},
+{
+"key": "part05.html#885",
+"de": "Für jedes Bild eine neue Zeichnung"
+},
+{
+"key": "part05.html#886",
+"de": "Modell einmal bauen, dann Posen und Kamera ändern"
+},
+{
+"key": "part05.html#887",
+"de": "Raum"
+},
+{
+"key": "part05.html#888",
+"de": "Tiefe durch gezeichnete Perspektive"
+},
+{
+"key": "part05.html#889",
+"de": "Tiefe existiert im virtuellen Raum; die Kamera kann überallhin"
+},
+{
+"key": "part05.html#890",
+"de": "Änderungen"
+},
+{
+"key": "part05.html#891",
+"de": "Eine Form ändern heißt, sie neu zu zeichnen"
+},
+{
+"key": "part05.html#892",
+"de": "Modell und Rig korrigieren – alle Einstellungen aktualisieren sich; hoher Aufwand vorab"
+},
+{
+"key": "part05.html#893",
+"de": "Ausdruck"
+},
+{
+"key": "part05.html#894",
+"de": "Freie Linie und Übertreibung"
+},
+{
+"key": "part05.html#895",
+"de": "Realistisches Volumen · Licht · Material"
+},
+{
+"key": "part05.html#896",
+"de": "In der Werbung"
+},
+{
+"key": "part05.html#897",
+"de": "Motion Graphics, Werbung mit Figuren"
+},
+{
+"key": "part05.html#898",
+"de": "Produktdemos, Aufbau erklären. In der Praxis wird meist gemischt"
+},
+{
+"key": "part05.html#899",
+"de": "Ein Satz fürs Set"
+}
+]

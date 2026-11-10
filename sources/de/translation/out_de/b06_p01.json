@@ -1,0 +1,602 @@
+[
+ {
+  "key": "part04.html#431",
+  "de": "<small>Riesige Softbox</small>Fenster"
+ },
+ {
+  "key": "part04.html#432",
+  "de": "Nordfenster liefern das beste weiche Licht"
+ },
+ {
+  "key": "part04.html#433",
+  "de": "Weißen Vorhang als Diffusor nutzen"
+ },
+ {
+  "key": "part04.html#434",
+  "de": "<small>Aufhellen/Abschatten</small>Zwei Styroporplatten"
+ },
+ {
+  "key": "part04.html#435",
+  "de": "Weiße Platte hellt auf, schwarze formt Schatten"
+ },
+ {
+  "key": "part04.html#436",
+  "de": "Zusammen eine ganze Lampe wert"
+ },
+ {
+  "key": "part04.html#437",
+  "de": "<small>Streuung</small>Pauspapier-Diffusor"
+ },
+ {
+  "key": "part04.html#438",
+  "de": "Vor direktes Licht hängen – es wird weicher"
+ },
+ {
+  "key": "part04.html#439",
+  "de": "Immer Abstand zu heißen Lampen halten"
+ },
+ {
+  "key": "part04.html#440",
+  "de": "<small>Motiviertes Licht</small>Lichtquellen im Bild"
+ },
+ {
+  "key": "part04.html#441",
+  "de": "Lampen, Schilder und Monitore im Bild als Quellen"
+ },
+ {
+  "key": "part04.html#442",
+  "de": "Realismus und Motivation zugleich"
+ },
+ {
+  "key": "part04.html#443",
+  "de": "<small>Licht wegnehmen</small>Abschatten"
+ },
+ {
+  "key": "part04.html#444",
+  "de": "Schwarzer Stoff nimmt Licht weg und schafft Kontrast"
+ },
+ {
+  "key": "part04.html#445",
+  "de": "Kostet nichts"
+ },
+ {
+  "key": "part04.html#446",
+  "de": "<small>Kleine Glanzlichter</small>Smartphone-Licht"
+ },
+ {
+  "key": "part04.html#447",
+  "de": "Gut für kleine Glanzlichter in Produkt-Großaufnahmen"
+ },
+ {
+  "key": "part04.html#448",
+  "de": "Farbtemperatur angleichen"
+ },
+ {
+  "key": "part04.html#449",
+  "de": "Sicherheitsregeln"
+ },
+ {
+  "key": "part04.html#450",
+  "de": "Halten Sie heiße Lampen weit von Papier und Stoff fern und beschweren Sie Lampenstative immer mit Sandsäcken. Die häufigsten Unfälle bei Übungsdrehs sind umgestürzte Lampen und Verbrennungen."
+ },
+ {
+  "key": "part04.html#451",
+  "de": "Material und Licht – gleiche Beleuchtung, sechs Materialien"
+ },
+ {
+  "key": "part04.html#452",
+  "de": "<b>Glas · Wasser</b><span>Licht geht hindurch und wird gebrochen – von hinten beleuchten (Gegenlicht) und die Kanten herausarbeiten</span>"
+ },
+ {
+  "key": "part04.html#453",
+  "de": "<b>Metall</b><span>Spiegelt Licht zurück – die Form der Quelle wird sichtbar, daher eine große weiße Fläche (Streifen) spiegeln lassen</span>"
+ },
+ {
+  "key": "part04.html#454",
+  "de": "<b>Holz · matt</b><span>Streut Licht in alle Richtungen – gerichtetes Seitenlicht zeigt die Maserung</span>"
+ },
+ {
+  "key": "part04.html#455",
+  "de": "<b>Stoff · Samt</b><span>Schluckt Licht – ohne Gegenlicht an den Kanten verschwindet die Form</span>"
+ },
+ {
+  "key": "part04.html#456",
+  "de": "<b>Haut · Wachs</b><span>Licht dringt unter die Oberfläche und verteilt sich – große, weiche Quelle; starkes Gegenlicht lässt Ohren rot leuchten</span>"
+ },
+ {
+  "key": "part04.html#457",
+  "de": "<b>Selbstleuchter</b><span>Leuchten selbst – Umgebung abdunkeln, auf die Leuchtfläche belichten, Bloom in der Postproduktion</span>"
+ },
+ {
+  "key": "part04.html#458",
+  "de": "<b>Abb. 42-2</b> Wie Materialien auf Licht reagieren – sechs Materialien, gleiches Licht (Softbox-Führungslicht + Spitzlicht). Lichtsetzung heißt nicht Lampen aufstellen, sondern wissen, wie ein Material darauf antwortet."
+ },
+ {
+  "key": "part04.html#459",
+  "de": "Licht in 3D-Software – gleiche Begriffe, andere Physik"
+ },
+ {
+  "key": "part04.html#460",
+  "de": "<b>Lichtaufbau in 3D-Software – gleiche Reihenfolge wie am Set</b><span>① Umgebungslicht (HDRI) als Grundhelligkeit von 10–20 %</span><span>② Ein Flächenlicht (Area) als Führungslicht – Größe bestimmt die Weichheit</span><span>③ Ein schwaches Flächenlicht gegenüber als Aufhelllicht (Schatten aus)</span><span>④ Ein Spot von hinten als Spitzlicht</span><span>⑤ Materialien anpassen (Roughness · Metallic · Transmission), dann das Licht erneut prüfen</span><b>Unterschiede zum Set</b><span>Licht wird nicht von Wänden zurückgeworfen → Aufheller selbst hinzufügen</span><span>Intensität ist relativ, nicht in Watt – nach Augenmaß einstellen</span><span>Helligkeit über die Render-Belichtung (EV) einstellen, nicht über die Kamerabelichtung</span>"
+ },
+ {
+  "key": "part04.html#461",
+  "de": "<b>Abb. 42-3</b> Lichtaufbau in 3D-Software – Licht-Gizmos im Ansichtsfenster (Führungs-, Aufhell-, Spitzlicht) und das Eigenschaftenfenster. Begriffe und Reihenfolge entsprechen der Lichtsetzung am Set."
+ },
+ {
+  "key": "part04.html#462",
+  "de": "<small>Übung</small>4.7"
+ },
+ {
+  "key": "part04.html#463",
+  "de": "Aufgabe"
+ },
+ {
+  "key": "part04.html#464",
+  "de": "Stellen Sie für höchstens 50.000 Won ein 3-Punkt-Lichtset zusammen und drehen Sie wirklich damit."
+ },
+ {
+  "key": "part04.html#465",
+  "de": "Tipp"
+ },
+ {
+  "key": "part04.html#466",
+  "de": "Baustrahler, Pauspapier, Styroporplatten und Klemmen sind die Grundausstattung. Achten Sie auf Hitze und elektrische Sicherheit."
+ },
+ {
+  "key": "part04.html#467",
+  "de": "Bewertung"
+ },
+ {
+  "key": "part04.html#468",
+  "de": "Preis-Leistung, Sicherheitsprüfung"
+ },
+ {
+  "key": "part04.html#469",
+  "de": "Musterlösung"
+ },
+ {
+  "key": "part04.html#470",
+  "de": "Stellt statt Quittungen eine Teileliste, Stückpreise und Aufbaufotos zusammen."
+ },
+ {
+  "key": "part04.html#471",
+  "de": "Hintergrund 6"
+ },
+ {
+  "key": "part04.html#472",
+  "de": "Wie Ton das Bild verändert"
+ },
+ {
+  "key": "part04.html#473",
+  "de": "Wir sagen, wir „schauen“ Videos, doch in Wahrheit bauen wir aus Sehen und Hören ein einziges Erlebnis. In „Audio-Vision“ (1990) schlug der französische Komponist und Theoretiker Michel Chion das Konzept des „Mehrwerts“ vor: Kommt Ton zum Bild hinzu, hält das Publikum die Wirkung des Tons für die Kraft des Bildes selbst. Der Soundeffekt beim Aufprall der Faust wirkt weit stärker als der echte Schlag, doch das Publikum hat das Bild als intensiv in Erinnerung. Deshalb bleibt gutes Sounddesign unbemerkt."
+ },
+ {
+  "key": "part04.html#474",
+  "de": "Chion prägte auch den Begriff „Synchrese“: die Wahrnehmungstendenz, Ton und Bild, die gleichzeitig auftreten, zu einem Ereignis zu verschmelzen. Deshalb kann ein Geräuschemacher Stangensellerie knacken, um einen brechenden Knochen hörbar zu machen. Schritte oder das Rascheln eines Kragens separat aufzunehmen, nennt man Foley – nach Jack Foley, dem Pionier dieses Fachs."
+ },
+ {
+  "key": "part04.html#475",
+  "de": "Man unterscheidet Ton, dessen Quelle in der erzählten Welt liegt, und Ton ohne eine solche Quelle. Radiomusik, die eine Figur hört, gehört zur Geschichte; Hintergrundmusik, die nur das Publikum hört, kommt von außerhalb. Sobald wir erfahren, dass die vermeintliche Filmmusik in Wahrheit in den Kopfhörern einer Figur läuft, tritt das Publikum in die Innenwelt dieser Figur ein."
+ },
+ {
+  "key": "part04.html#476",
+  "de": "Der Filmeditor und Tongestalter Walter Murch wurde bei „Apocalypse Now“ (1979) im Abspann als „Sounddesigner“ geführt und erhob den Ton damit zu einem kreativen Fach mit demselben Gewicht wie Bildgestaltung oder Schnitt. Er betonte, die Mischung danach auszurichten, wie viele sich überlagernde Tonebenen ein Publikum in einer Szene höchstens unterscheiden kann. Auszuwählen, was bleibt, ist wichtiger, als viel hineinzupacken."
+ },
+ {
+  "key": "part04.html#477",
+  "de": "Bei Kurzvideos und auf dem Smartphone schauen viele ohne Ton. Die Gestaltung muss allein mit Untertiteln und Bild funktionieren – doch für alle mit eingeschaltetem Ton kann die erste Sekunde Ton der stärkste Hook sein. Mikrofone und Sounddesign in Kapitel 4 beginnen damit, beide Gruppen mitzudenken."
+ },
+ {
+  "key": "part04.html#478",
+  "de": "Zum Weiterlesen – Michel Chion, „Audio-Vision“ · David Sonnenschein, „Sound Design“ · Walter Murch, „Ein Lidschlag, ein Schnitt“"
+ },
+ {
+  "key": "part04.html#479",
+  "de": "<b>TEIL 04</b>Licht und Ton"
+ },
+ {
+  "key": "part04.html#480",
+  "de": "Mikrofone und Aufnahme"
+ },
+ {
+  "key": "part04.html#481",
+  "de": "Ein günstiges Mikro aus der Nähe schlägt immer ein teures aus der Ferne. Der Abstand entscheidet über den Ton."
+ },
+ {
+  "key": "part04.html#482",
+  "de": "Sehen per Licht, hören per Luft – Ton muss „synchron“ sein"
+ },
+ {
+  "key": "part04.html#483",
+  "de": "Videospur – das Bild, in dem die Klappe „zuschlägt“"
+ },
+ {
+  "key": "part04.html#484",
+  "de": "Tonspur – der Ausschlag beim „Klack“"
+ },
+ {
+  "key": "part04.html#485",
+  "de": "Ausschlag auf das Klappenbild legen"
+ },
+ {
+  "key": "part04.html#486",
+  "de": "Licht ist sofort da (300.000 km/s). Schall bewegt sich mit 340 m/s – eine Klappe 34 m vor der Kamera hört man <tspan fill=\"#7A1C2B\" font-weight=\"500\">0,1 s (ca. 2,4 Bilder) zu spät</tspan>."
+ },
+ {
+  "key": "part04.html#487",
+  "de": "Je weiter die Einstellung, desto näher an der Kamera schlagen Sie die Klappe."
+ },
+ {
+  "key": "part04.html#488",
+  "de": "<b>Die Klappe – Sehen und Hören an einem Punkt fixiert</b><span>Bild, in dem die Klappe schließt = Ausschlag der Wellenform. Beides im Schnitt übereinanderlegen, und Bild und Ton sind synchron</span>"
+ },
+ {
+  "key": "part04.html#489",
+  "de": "<b>Abb. 43</b> Synchronisation – Sehen ist schneller als Hören. Das Auge nimmt Licht auf, das Ohr Luftschwingungen, daher kommt Ton immer etwas später an. Die Klappe ist der „gemeinsame Bezugspunkt für Auge und Ohr“, der diese Lücke schließt."
+ },
+ {
+  "key": "part04.html#490",
+  "de": "Aufnahmepegel – der sichere Bereich"
+ },
+ {
+  "key": "part04.html#491",
+  "de": "Zu leise – mehr Rauschen"
+ },
+ {
+  "key": "part04.html#492",
+  "de": "Leise Stellen · Raumton"
+ },
+ {
+  "key": "part04.html#493",
+  "de": "Dialog im Schnitt −18 bis −12"
+ },
+ {
+  "key": "part04.html#494",
+  "de": "Spitzen erlaubt"
+ },
+ {
+  "key": "part04.html#495",
+  "de": "Gefahr – bei 0 ist es verloren"
+ },
+ {
+  "key": "part04.html#496",
+  "de": "dBFS"
+ },
+ {
+  "key": "part04.html#497",
+  "de": "Gemessen am Spitzenpegel – Dialog pendelt um −12 und überschreitet nie −6. Digitaler Ton wird abgeschnitten, sobald er 0 überschreitet (Clipping)."
+ },
+ {
+  "key": "part04.html#498",
+  "de": "<b>Abb. 43-1</b> Der sichere Bereich für Aufnahmepegel – leisen Ton kann man später anheben, verzerrten nicht mehr retten. Immer etwas leiser aussteuern."
+ },
+ {
+  "key": "part04.html#499",
+  "de": "Typ"
+ },
+ {
+  "key": "part04.html#500",
+  "de": "Merkmale"
+ },
+ {
+  "key": "part04.html#501",
+  "de": "Idealabstand"
+ },
+ {
+  "key": "part04.html#502",
+  "de": "Einsatz"
+ },
+ {
+  "key": "part04.html#503",
+  "de": "Tücken"
+ },
+ {
+  "key": "part04.html#504",
+  "de": "Richtmikrofon"
+ },
+ {
+  "key": "part04.html#505",
+  "de": "Eng gerichtet, aus Distanz"
+ },
+ {
+  "key": "part04.html#506",
+  "de": "Dialog am Set, an der Angel"
+ },
+ {
+  "key": "part04.html#507",
+  "de": "Neben der Achse stark leiser"
+ },
+ {
+  "key": "part04.html#508",
+  "de": "Ansteckmikro"
+ },
+ {
+  "key": "part04.html#509",
+  "de": "Angesteckt, nahe Aufnahme"
+ },
+ {
+  "key": "part04.html#510",
+  "de": "Ca. 20 cm"
+ },
+ {
+  "key": "part04.html#511",
+  "de": "Interviews, Testimonials"
+ },
+ {
+  "key": "part04.html#512",
+  "de": "Stoffrascheln"
+ },
+ {
+  "key": "part04.html#513",
+  "de": "Funk-Ansteckmikro"
+ },
+ {
+  "key": "part04.html#514",
+  "de": "Beweglich ohne Kabel"
+ },
+ {
+  "key": "part04.html#515",
+  "de": "Ca. 20 cm"
+ },
+ {
+  "key": "part04.html#516",
+  "de": "Bewegung, mehrere Personen"
+ },
+ {
+  "key": "part04.html#517",
+  "de": "Funkstörungen, Akkus"
+ },
+ {
+  "key": "part04.html#518",
+  "de": "Handmikro"
+ },
+ {
+  "key": "part04.html#519",
+  "de": "In der Hand"
+ },
+ {
+  "key": "part04.html#520",
+  "de": "10–20 cm"
+ },
+ {
+  "key": "part04.html#521",
+  "de": "Interviews vor Ort"
+ },
+ {
+  "key": "part04.html#522",
+  "de": "Im Bild sichtbar"
+ },
+ {
+  "key": "part04.html#523",
+  "de": "USB-Kondensator"
+ },
+ {
+  "key": "part04.html#524",
+  "de": "Hohe Qualität drinnen"
+ },
+ {
+  "key": "part04.html#525",
+  "de": "15–30 cm"
+ },
+ {
+  "key": "part04.html#526",
+  "de": "Sprecher, Vertonung"
+ },
+ {
+  "key": "part04.html#527",
+  "de": "Raumhall dämpfen"
+ },
+ {
+  "key": "part04.html#528",
+  "de": "In der Kamera"
+ },
+ {
+  "key": "part04.html#529",
+  "de": "Nur Reserve"
+ },
+ {
+  "key": "part04.html#530",
+  "de": "Referenzton zum Anlegen"
+ },
+ {
+  "key": "part04.html#531",
+  "de": "Nie als Hauptton"
+ },
+ {
+  "key": "part04.html#532",
+  "de": "Richtcharakteristik"
+ },
+ {
+  "key": "part04.html#533",
+  "de": "Wohin ein Mikrofon hört"
+ },
+ {
+  "key": "part04.html#534",
+  "de": "<b>Kugel</b><span>Alle Richtungen gleich</span><span class=\"deg\">Ansteckmikro · Raumgefühl</span>"
+ },
+ {
+  "key": "part04.html#535",
+  "de": "<b>Niere</b><span>Nimmt vorn auf, blendet hinten aus</span><span class=\"deg\">Interviews · Gesang · am häufigsten</span>"
+ },
+ {
+  "key": "part04.html#536",
+  "de": "<b>Superniere</b><span>Vorn enger, hinten etwas</span><span class=\"deg\">Angel · Dialog am Set</span>"
+ },
+ {
+  "key": "part04.html#537",
+  "de": "<b>Keule</b><span>Vorn sehr eng – auch aus der Ferne</span><span class=\"deg\">Angelmikro · außen · Doku</span>"
+ },
+ {
+  "key": "part04.html#538",
+  "de": "<b>Acht</b><span>Nimmt vorn und hinten auf, blendet Seiten aus</span><span class=\"deg\">Gespräch gegenüber · MS-Stereo</span>"
+ },
+ {
+  "key": "part04.html#539",
+  "de": "<b>Richtmikro an der Angel – knapp über dem Bildrand, auf den Mund gerichtet</b><span>Enge Charakteristik = schon leicht schräg wird der Ton dünn</span>"
+ },
+ {
+  "key": "part04.html#540",
+  "de": "<b>Studio-Kondensator – Sprecher · Vertonung</b><span>Niere · Poppschutz · 15–30 cm · zuerst den Raumhall bändigen</span>"
+ },
+ {
+  "key": "part04.html#541",
+  "de": "<b>Abb. 44</b> Richtcharakteristiken von Mikrofonen – Rot markiert den Aufnahmebereich. Wer darin steht, klingt klar; wer außerhalb steht, klingt fern. Je enger der Bereich, desto klarer aus der Ferne, aber desto empfindlicher gegenüber dem Winkel."
+ },
+ {
+  "key": "part04.html#542",
+  "de": "<small>Kugel</small>Omnidirektional"
+ },
+ {
+  "key": "part04.html#543",
+  "de": "Nimmt rundum gleichmäßig auf"
+ },
+ {
+  "key": "part04.html#544",
+  "de": "Ansteckmikro-Standard; natürliches Raumgefühl"
+ },
+ {
+  "key": "part04.html#545",
+  "de": "Nimmt auch Lärm auf"
+ },
+ {
+  "key": "part04.html#546",
+  "de": "<small>Niere</small>Unidirektional"
+ },
+ {
+  "key": "part04.html#547",
+  "de": "Herzförmig, nach vorn"
+ },
+ {
+  "key": "part04.html#548",
+  "de": "Allrounder; dämpft Lärm von hinten"
+ },
+ {
+  "key": "part04.html#549",
+  "de": "<small>Super / Hyper</small>Super- und Hyperniere"
+ },
+ {
+  "key": "part04.html#550",
+  "de": "Vorn enger, verwandt mit der Keule"
+ },
+ {
+  "key": "part04.html#551",
+  "de": "Hört etwas nach hinten, daher auf Lärm dahinter achten"
+ },
+ {
+  "key": "part04.html#552",
+  "de": "<small>Acht</small>Bidirektional"
+ },
+ {
+  "key": "part04.html#553",
+  "de": "Vorn und hinten ja, seitlich nein"
+ },
+ {
+  "key": "part04.html#554",
+  "de": "Für Interviews zu zweit, einander gegenüber"
+ },
+ {
+  "key": "part04.html#555",
+  "de": "<b>Referenzfotos 4.8A</b>Generierte Bilder – Inszenierungsreferenz"
+ },
+ {
+  "key": "part04.html#556",
+  "de": "<b>a</b>Angelmikro – von oben gerichtet"
+ },
+ {
+  "key": "part04.html#557",
+  "de": "<b>b</b>Ansteckmikro – im Kragen versteckt"
+ },
+ {
+  "key": "part04.html#558",
+  "de": "<b>c</b>Interviewaufnahme vor Ort"
+ },
+ {
+  "key": "part04.html#559",
+  "de": "Drei Mikros an heutigen Sets"
+ },
+ {
+  "key": "part04.html#560",
+  "de": "<small>Solo · kleines Team</small>Kompaktes 2-Kanal-Funkset"
+ },
+ {
+  "key": "part04.html#561",
+  "de": "DJI Mic, Rode Wireless, Hollyland Lark u. Ä."
+ },
+ {
+  "key": "part04.html#562",
+  "de": "2 Sender + 1 Empfänger; 32-Bit-Float und interne Aufnahme in den Sendern schützen vor Clipping"
+ },
+ {
+  "key": "part04.html#563",
+  "de": "Empfänger steckt direkt im USB-C-Port von Smartphone · Kamera"
+ },
+ {
+  "key": "part04.html#564",
+  "de": "Hinweis: Kragenrascheln; Veranstaltungsorte voller 2,4-GHz-Störungen"
+ },
+ {
+  "key": "part04.html#565",
+  "de": "<small>Interview · Drama</small>Richtmikro + Angel"
+ },
+ {
+  "key": "part04.html#566",
+  "de": "Von oben auf den Mund, außerhalb des Bildes"
+ },
+ {
+  "key": "part04.html#567",
+  "de": "Natürliches Raumgefühl; mehrere Personen an einem Mikro"
+ },
+ {
+  "key": "part04.html#568",
+  "de": "Braucht Tonangler und Rekorder"
+ },
+ {
+  "key": "part04.html#569",
+  "de": "Hinweis: Achsabweichung, Deckenreflexionen"
+ },
+ {
+  "key": "part04.html#570",
+  "de": "<small>Am schnellsten</small>Ansteckmikro fürs Handy"
+ },
+ {
+  "key": "part04.html#571",
+  "de": "In USB-C oder Lightning stecken; nimmt sofort auf, ohne App"
+ },
+ {
+  "key": "part04.html#572",
+  "de": "Vlogs · Kurzvideos · schnelle Interviews vor Ort"
+ },
+ {
+  "key": "part04.html#573",
+  "de": "Hinweis: Bewegung nur so weit wie das Kabel; auf Modelle ohne manuelle Pegelregelung achten"
+ },
+ {
+  "key": "part04.html#574",
+  "de": "<b>Referenzfotos 4.8B</b>Generierte Bilder – Mikros an heutigen Sets"
+ },
+ {
+  "key": "part04.html#575",
+  "de": "<span class=\"ph-id\">P04-MIC-WIRELESS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Kompaktes Funkmikro</b>Kleiner Sender am Kragen, Empfänger auf einer spiegellosen Kamera</span>"
+ },
+ {
+  "key": "part04.html#576",
+  "de": "<b>a</b>Kompaktes Funkmikro"
+ },
+ {
+  "key": "part04.html#577",
+  "de": "<span class=\"ph-id\">P04-MIC-SHOTGUN</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Angelmikro</b>Ein Tonangler hält ein Richtmikro mit Windschutz über zwei Darsteller</span>"
+ },
+ {
+  "key": "part04.html#578",
+  "de": "<b>b</b>Angelmikro"
+ },
+ {
+  "key": "part04.html#579",
+  "de": "<b>Hinweis</b>"
+ },
+ {
+  "key": "part04.html#580",
+  "de": "Bei 0 dBFS übersteuert der Ton unrettbar. Halten Sie die Spitzen zwischen −12 dBFS und −6 dBFS."
+ }
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part12.html#203",
+"de": "Drei Ansätze"
+},
+{
+"key": "part12.html#204",
+"de": "<small>Vollständig generierte Person</small>Jemand, den es nicht gibt, von Grund auf erzeugt"
+},
+{
+"key": "part12.html#205",
+"de": "Keine Rechte Dritter, günstig"
+},
+{
+"key": "part12.html#206",
+"de": "Gesicht schwer konstant zu halten"
+},
+{
+"key": "part12.html#207",
+"de": "Schwach bei feiner Mimik"
+},
+{
+"key": "part12.html#208",
+"de": "<small>Digitales Double</small>Gescannte Kopie eines echten Schauspielers"
+},
+{
+"key": "part12.html#209",
+"de": "Gefahrenszenen, Altersveränderung, Korrektur ohne Nachdreh"
+},
+{
+"key": "part12.html#210",
+"de": "Einwilligung und Nutzungsvertrag sind Pflicht"
+},
+{
+"key": "part12.html#211",
+"de": "<small>Realdreh + Teilgenerierung</small>Menschen drehen, nur Hintergründe · Requisiten generieren"
+},
+{
+"key": "part12.html#212",
+"de": "Heute bei Werbedrehs am verbreitetsten"
+},
+{
+"key": "part12.html#213",
+"de": "Qualitativ und rechtlich am sichersten"
+},
+{
+"key": "part12.html#214",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part12.html#215",
+"de": "Das beste Referenzbild ist eine einzelne Frontalansicht mit flachem Licht und neutralem Ausdruck. Je mehr markante Merkmale, desto schwerer lassen sie sich halten."
+},
+{
+"key": "part12.html#216",
+"de": "Gesicht konstant halten"
+},
+{
+"key": "part12.html#217",
+"de": "Ein Gesicht, das sich von Einstellung zu Einstellung verändert, ist der häufigste Fehler. In der Praxis erstellt man zuerst die Referenz und gleicht alles andere daran an."
+},
+{
+"key": "part12.html#218",
+"de": "<b>01</b><i>Referenzbild</i>Zuerst eine Frontalansicht festlegen"
+},
+{
+"key": "part12.html#219",
+"de": "<b>02</b><i>Referenzeingabe</i>Die Referenz in jede weitere Generierung einspeisen; im Prompt nur Perspektive · Licht · Pose angeben"
+},
+{
+"key": "part12.html#220",
+"de": "<b>03</b><i>Charakterblatt</i>Frontal · Profil · Dreiviertel · Ganzkörper auf einem Blatt, wie ein Model Sheet im Trickfilm"
+},
+{
+"key": "part12.html#221",
+"de": "<b>04</b><i>Nachbessern</i>Verbleibende Abweichungen mit Compositing und Farbkorrektur schließen. Von der Generierung keine 100 % erwarten"
+},
+{
+"key": "part12.html#222",
+"de": "Rechte: vier Punkte vorab prüfen"
+},
+{
+"key": "part12.html#223",
+"de": "<b>01</b><span><b>Persönlichkeitsrecht</b> – wer Gesicht · Stimme · typische Gesten einer realen Person nutzt, braucht deren Einwilligung. Auch das Erzeugen eines Doppelgängers kann problematisch sein.</span>"
+},
+{
+"key": "part12.html#224",
+"de": "<b>02</b><span><b>Umfang</b> – Medien · Laufzeit · Gebiet · Bearbeitungsgrad festlegen. „Einwilligung in den Dreh“ und „Einwilligung in KI-Training und -Generierung“ sind getrennte Punkte.</span>"
+},
+{
+"key": "part12.html#225",
+"de": "<b>03</b><span><b>Offenlegung</b> – wird eine generierte Person wie eine echte gezeigt, ist eine Kennzeichnung am sichersten, damit niemand getäuscht wird.</span>"
+},
+{
+"key": "part12.html#226",
+"de": "<b>04</b><span><b>Dokumentation</b> – verwendetes Modell, Prompts und Quellen der Referenzbilder aufbewahren. Streitfälle eskalieren meist, wenn nichts dokumentiert ist.</span>"
+},
+{
+"key": "part12.html#227",
+"de": "Drehen Sie jede Einstellung real, die ein menschliches Gesicht in Großaufnahme braucht. Die durch Generierung gesparte Zeit genau dort einzusetzen, ist das beste Geschäft, das Sie machen werden.<small>11.4 Menschen, digitale Doubles, Einwilligung</small>"
+},
+{
+"key": "part12.html#228",
+"de": "<small>Übung</small>11.4"
+},
+{
+"key": "part12.html#229",
+"de": "Aufgabe"
+},
+{
+"key": "part12.html#230",
+"de": "Entwerfen Sie eine kurze Szene mit einer Person in 4 Einstellungen. Erstellen Sie ein Referenzbild und generieren Sie damit als Referenzeingabe die übrigen 3 Einstellungen. Notieren Sie in einer Tabelle, was sich jeweils verändert hat."
+},
+{
+"key": "part12.html#231",
+"de": "Tipp"
+},
+{
+"key": "part12.html#232",
+"de": "Erstellen Sie das Referenzbild mit flachem Licht, neutralem Ausdruck und schlichter Kleidung."
+},
+{
+"key": "part12.html#233",
+"de": "Bewertung"
+},
+{
+"key": "part12.html#234",
+"de": "Ist in allen vier Einstellungen dieselbe Person erkennbar? Wurden die Unterschiede konkret benannt?"
+},
+{
+"key": "part12.html#235",
+"de": "Musterlösung"
+},
+{
+"key": "part12.html#236",
+"de": "Ein Bericht, der Abweichungen nach Augen · Haaransatz · Halsausschnitt erfasst und angibt, wie sie jeweils in der Postproduktion angeglichen werden."
+},
+{
+"key": "part12.html#237",
+"de": "<b>TEIL 12</b>Praxis und Karriere im KI-Wandel"
+},
+{
+"key": "part12.html#238",
+"de": "Sets, LED-Wände, generierte Hintergründe"
+},
+{
+"key": "part12.html#239",
+"de": "Von Sets über LED-Wände zu generierten Hintergründen. In 100 Jahren hat sich die Herstellung von Hintergründen dreimal gewandelt: bauen oder hinfahren, ein Bild dahinter zeigen oder in der Postproduktion einkopieren. Generative Tools haben die Kosten des dritten Wegs drastisch gesenkt und verändert, wie Material für den zweiten entsteht."
+},
+{
+"key": "part12.html#240",
+"de": "<span class=\"ph-id\">P12-SMALLLED</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Kleine LED-Wand</b>Ein kleines Studio, nur ein Moderator vor dem virtuellen Hintergrund einer kleinen LED-Wand, dazu eine einzige Kamera</span>"
+},
+{
+"key": "part12.html#241",
+"de": "<b>Hinweis</b>Kleine LED-Wand – das Prinzip großer virtueller Produktionen ist im Ein-Kamera-Studio angekommen"
+},
+{
+"key": "part12.html#242",
+"de": "Vier Optionen und wie man wählt"
+},
+{
+"key": "part12.html#243",
+"de": "Methode"
+},
+{
+"key": "part12.html#244",
+"de": "Stärken"
+},
+{
+"key": "part12.html#245",
+"de": "Schwächen"
+},
+{
+"key": "part12.html#246",
+"de": "Geeignet für"
+},
+{
+"key": "part12.html#247",
+"de": "Echter Drehort"
+},
+{
+"key": "part12.html#248",
+"de": "Licht und Textur am glaubwürdigsten"
+},
+{
+"key": "part12.html#249",
+"de": "Wetter · Genehmigungen · Reisekosten"
+},
+{
+"key": "part12.html#250",
+"de": "Wenn die Marke Authentizität verkauft"
+},
+{
+"key": "part12.html#251",
+"de": "Gebautes Set"
+},
+{
+"key": "part12.html#252",
+"de": "Volle Kontrolle"
+},
+{
+"key": "part12.html#253",
+"de": "Kosten und Bauzeit"
+},
+{
+"key": "part12.html#254",
+"de": "Wiederholte Drehs, Serien"
+},
+{
+"key": "part12.html#255",
+"de": "LED-Wand (virtuelle Produktion)"
+},
+{
+"key": "part12.html#256",
+"de": "Endbild am Set prüfbar; Spiegelungen sind echt"
+},
+{
+"key": "part12.html#257",
+"de": "Kosten für Technik · Vorproduktion, Moiré"
+},
+{
+"key": "part12.html#258",
+"de": "Motive, bei denen Spiegelungen zählen: Autos · Glas · Metall"
+},
+{
+"key": "part12.html#259",
+"de": "Chroma-Key + generierter Hintergrund"
+},
+{
+"key": "part12.html#260",
+"de": "Am günstigsten und schnellsten"
+},
+{
+"key": "part12.html#261",
+"de": "Kanten und Lichtanpassung schwierig"
+},
+{
+"key": "part12.html#262",
+"de": "Personenzentriert, knappes Budget"
+},
+{
+"key": "part12.html#263",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part12.html#264",
+"de": "Die richtige Reihenfolge: den Hintergrund vor dem Dreh festlegen, dann das Licht passend zu seiner Richtung setzen. Statische Einstellungen eignen sich am besten für generierte Hintergründe."
+},
+{
+"key": "part12.html#265",
+"de": "Vier Stellen, an denen sich ein generierter Hintergrund verrät"
+},
+{
+"key": "part12.html#266",
+"de": "<small>Lichtrichtung</small>Licht auf der Person, Schatten im Hintergrund"
+},
+{
+"key": "part12.html#267",
+"de": "Passen sie nicht zusammen, fällt es sofort auf"
+},
+{
+"key": "part12.html#268",
+"de": "<small>Farbtemperatur</small>Person im Tageslicht vor einem Abendhintergrund"
+},
+{
+"key": "part12.html#269",
+"de": "Wirkt falsch, selbst bei sauberem Compositing"
+},
+{
+"key": "part12.html#270",
+"de": "<small>Perspektive und Objektiv</small>Fluchtpunkt und Bildwinkel"
+},
+{
+"key": "part12.html#271",
+"de": "Ein telekomprimierter Hintergrund hinter einer weitwinklig gedrehten Person zerstört den Raum"
+},
+{
+"key": "part12.html#272",
+"de": "<small>Bewegung</small>Kamera-Parallaxe"
+},
+{
+"key": "part12.html#273",
+"de": "Bewegt sich die Kamera, muss sich der Hintergrund mit passender Parallaxe mitbewegen"
+},
+{
+"key": "part12.html#274",
+"de": "Ganze Räume einfangen"
+},
+{
+"key": "part12.html#275",
+"de": "Einen realen Raum in vielen Fotos oder Clips aufzunehmen, als 3D-Daten zu rekonstruieren und die Kamera dann frei darin zu bewegen, ist Praxisalltag geworden. Zur Photogrammetrie kamen Verfahren hinzu, die sogar die Helligkeit von Lichtstrahlen lernen und wiedergeben; so sind schwer rekonstruierbare Motive wie Glas · Metall · Laub nun machbar. Erfassen Sie einen Laden einen halben Tag lang, und jede spätere Werbung lässt sich in diesem Raum drehen: Der Dreh selbst wird zum Kapital."
+},
+{
+"key": "part12.html#276",
+"de": "Den Hintergrund später festzulegen heißt, das Licht später festzulegen. Der Hintergrund kommt zuerst.<small>11.5 Sets, LED-Wände, generierte Hintergründe</small>"
+},
+{
+"key": "part12.html#277",
+"de": "<small>Übung</small>11.5"
+},
+{
+"key": "part12.html#278",
+"de": "Aufgabe"
+},
+{
+"key": "part12.html#279",
+"de": "Tauschen Sie bei einer Einstellung mit einer Person den Hintergrund auf drei Arten aus: Dreh am echten Drehort, Chroma-Key + generierter Hintergrund und Fotocompositing. Vergleichen Sie Lichtrichtung und Farbtemperatur der drei Varianten in einer Tabelle."
+},
+{
+"key": "part12.html#280",
+"de": "Tipp"
+},
+{
+"key": "part12.html#281",
+"de": "Nehmen Sie beim Dreh der Person einen Take mit einer grauen und einer weißen Kugel im Bild auf. So lassen sich Lichtrichtung und Farbtemperatur viel leichter angleichen."
+},
+{
+"key": "part12.html#282",
+"de": "Bewertung"
+},
+{
+"key": "part12.html#283",
+"de": "Werden die Unterschiede der drei in der Sprache des Lichts erklärt? Wird begründet, welche Methode zu dieser Szene passt?"
+},
+{
+"key": "part12.html#284",
+"de": "Musterlösung"
+},
+{
+"key": "part12.html#285",
+"de": "Ein Fall, in dem zuerst der Hintergrund gewählt, das Licht daran angepasst und dann gedreht wurde, sodass das Compositing kaum Korrekturen brauchte."
+},
+{
+"key": "part12.html#286",
+"de": "<b>TEIL 12</b>Praxis und Karriere im KI-Wandel"
+},
+{
+"key": "part12.html#287",
+"de": "Elemente und Partikel"
+},
+{
+"key": "part12.html#288",
+"de": "Warum gibt es Simulation noch? Generative Modelle sind gut bei „Bewegungen, die sie oft gesehen haben“, doch fließendes Wasser, fallender Stoff und Rauch, der sich an einer Wand entlangwindet, sind noch instabil. Das sind Ergebnisse physikalischer Gesetze, und ein generatives Modell berechnet keine Gesetze; es erzeugt Bilder, die ähnlich aussehen."
+},
+{
+"key": "part12.html#289",
+"de": "<span class=\"ph-id\">P12-SIM</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Warum Simulation bleibt</b>Ein Monitor mit dem Rendering einer spritzenden Flüssigkeitssimulation, daneben ihr Knotengraph</span>"
+},
+{
+"key": "part12.html#290",
+"de": "<b>Hinweis</b>Simulation – eine Variable ändern und neu berechnen; gleiche Werte ergeben das gleiche Ergebnis"
+},
+{
+"key": "part12.html#291",
+"de": "Die Unterschiede"
+},
+{
+"key": "part12.html#292",
+"de": "Aspekt"
+},
+{
+"key": "part12.html#293",
+"de": "Simulation"
+},
+{
+"key": "part12.html#294",
+"de": "Generatives Modell"
+},
+{
+"key": "part12.html#295",
+"de": "Prinzip"
+},
+{
+"key": "part12.html#296",
+"de": "Löst Physikgleichungen"
+},
+{
+"key": "part12.html#297",
+"de": "Erzeugt ähnliche Bilder aus gelernten Mustern"
+},
+{
+"key": "part12.html#298",
+"de": "Wiederholbarkeit"
+},
+{
+"key": "part12.html#299",
+"de": "Gleiche Werte, gleiches Ergebnis"
+},
+{
+"key": "part12.html#300",
+"de": "Jedes Mal anders"
+},
+{
+"key": "part12.html#301",
+"de": "Korrekturen"
+},
+{
+"key": "part12.html#302",
+"de": "Eine Variable ändern, neu berechnen"
+},
+{
+"key": "part12.html#303",
+"de": "Alles neu generieren"
+},
+{
+"key": "part12.html#304",
+"de": "Produkttreue"
+},
+{
+"key": "part12.html#305",
+"de": "Behält die exakte Form des Produkts"
+},
+{
+"key": "part12.html#306",
+"de": "Form driftet allmählich"
+},
+{
+"key": "part12.html#307",
+"de": "Zeit"
+},
+{
+"key": "part12.html#308",
+"de": "Langes Setup, lange Rechenzeit"
+},
+{
+"key": "part12.html#309",
+"de": "Etliche Sekunden bis Minuten"
+},
+{
+"key": "part12.html#310",
+"de": "Gut für"
+},
+{
+"key": "part12.html#311",
+"de": "Flüssigkeiten · Stoff · Trümmer · Kollisionen"
+},
+{
+"key": "part12.html#312",
+"de": "Atmosphäre, Rauch, Staub, Hintergrundelemente"
+},
+{
+"key": "part12.html#313",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part12.html#314",
+"de": "Markenelemente dürfen nicht verzerrt werden. Verzieht sich in einer Einstellung, in der ein Getränk ins Glas gegossen wird, das Etikett auch nur für ein Einzelbild, ist die Einstellung unbrauchbar."
+},
+{
+"key": "part12.html#315",
+"de": "Wann Werbung Simulation braucht"
+},
+{
+"key": "part12.html#316",
+"de": "<b>Wenn das Produkt der Star ist</b> – Etikett und Form dürfen sich nicht verzerren."
+},
+{
+"key": "part12.html#317",
+"de": "<b>Wiederholte Abgabe</b> – wird eine Szene in Versionen für viele Länder geliefert, heißt ein Ergebnis, das jedes Mal anders ausfällt: keine Kontrolle."
+},
+{
+"key": "part12.html#318",
+"de": "<b>Exaktes Timing</b> – eine Vorgabe wie ein Tropfen, der bei 0,4 Sekunden passend zur Musik aufschlägt, lässt sich nur per Berechnung erfüllen."
+},
+{
+"key": "part12.html#319",
+"de": "Sinnvoll kombinieren"
+},
+{
+"key": "part12.html#320",
+"de": "<small>In Ebenen aufteilen</small>Produkt berechnen, Hintergrund generieren"
+},
+{
+"key": "part12.html#321",
+"de": "Produkt und zentrale Physik simulieren"
+},
+{
+"key": "part12.html#322",
+"de": "Staub · Dunst · Lichtschein im Hintergrund generieren und einkopieren"
+},
+{
+"key": "part12.html#323",
+"de": "<small>Generiertes als Element</small>Nicht das ganze Bild aus der Hand geben"
+},
+{
+"key": "part12.html#324",
+"de": "Generierten Rauch oder generiertes Feuer als Elemente fürs Compositing rendern"
+},
+{
+"key": "part12.html#325",
+"de": "<small>Konzept generieren, Endfassung berechnen</small>Pitch und Endfassung trennen"
+},
+{
+"key": "part12.html#326",
+"de": "Pitch-Entwürfe schnell per Generierung"
+},
+{
+"key": "part12.html#327",
+"de": "Nach der Freigabe die Endfassung als Simulation neu erstellen"
+},
+{
+"key": "part12.html#328",
+"de": "Ist ein Markenlogo oder die Form des Produkts im Bild, überlassen Sie diesen Teil nicht der Generierung. Den Rest schon.<small>11.6 Elemente und Partikel</small>"
+},
+{
+"key": "part12.html#329",
+"de": "<small>Übung</small>11.6"
+},
+{
+"key": "part12.html#330",
+"de": "Aufgabe"
+},
+{
+"key": "part12.html#331",
+"de": "Erstellen Sie auf zwei Arten eine 3-sekündige Einstellung, in der Wasser in eine Tasse gegossen wird, und vergleichen Sie: einmal real gedreht oder simuliert, einmal generiert. Bewerten Sie Etikettenverzerrung, Timing-Genauigkeit und Wiederholbarkeit in einer Tabelle."
+},
+{
+"key": "part12.html#332",
+"de": "Tipp"
+},
+{
+"key": "part12.html#333",
+"de": "Lassen Sie für die generierte Version denselben Prompt fünfmal laufen. Der Unterschied in der Wiederholbarkeit zeigt sich sofort."
+},
+{
+"key": "part12.html#334",
+"de": "Bewertung"
+},
+{
+"key": "part12.html#335",
+"de": "Sind die Kriterien als Zahlen oder Beobachtungen festgehalten? Gibt es ein Fazit, welche Methode zu welcher Situation passt?"
+},
+{
+"key": "part12.html#336",
+"de": "Musterlösung"
+},
+{
+"key": "part12.html#337",
+"de": "Ein Vergleichsbild, das die fünf generierten Ergebnisse nebeneinanderstellt und die Etikettenverzerrungen markiert."
+},
+{
+"key": "part12.html#338",
+"de": "<b>TEIL 12</b>Praxis und Karriere im KI-Wandel"
+},
+{
+"key": "part12.html#339",
+"de": "Klassische Produktion und KI-Produktion"
+},
+{
+"key": "part12.html#340",
+"de": "Was gehört wohin? Die beiden sind keine Rivalen, sondern Werkzeuge für verschiedene Aufgaben. Am Set fragt man nicht, was besser ist, sondern was zu dieser Einstellung passt."
+},
+{
+"key": "part12.html#341",
+"de": "Kriterium"
+},
+{
+"key": "part12.html#342",
+"de": "Klassisch im Vorteil"
+},
+{
+"key": "part12.html#343",
+"de": "KI im Vorteil"
+},
+{
+"key": "part12.html#344",
+"de": "Produkt groß im Bild"
+},
+{
+"key": "part12.html#345",
+"de": "Form und Logo bleiben intakt"
+},
+{
+"key": "part12.html#346",
+"de": "Verzerrungsrisiko"
+},
+{
+"key": "part12.html#347",
+"de": "Gleiches Ergebnis wiederholt nötig"
+},
+{
+"key": "part12.html#348",
+"de": "Gleiche Werte, gleiches Ergebnis"
+},
+{
+"key": "part12.html#349",
+"de": "Jedes Mal anders"
+},
+{
+"key": "part12.html#350",
+"de": "Viele Entwürfe vergleichen"
+},
+{
+"key": "part12.html#351",
+"de": "Tage pro Bild"
+},
+{
+"key": "part12.html#352",
+"de": "Dutzende in 30 Min."
+}
+]

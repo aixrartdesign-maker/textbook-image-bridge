@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#433",
+"de": "ca. 8,85 Mio."
+},
+{
+"key": "part03.html#434",
+"de": "Kinoleinwände"
+},
+{
+"key": "part03.html#435",
+"de": "Etwas breiter"
+},
+{
+"key": "part03.html#436",
+"de": "ca. 21,24 Mio."
+},
+{
+"key": "part03.html#437",
+"de": "Crop-Spielraum"
+},
+{
+"key": "part03.html#438",
+"de": "Braucht starken Schnittrechner"
+},
+{
+"key": "part03.html#439",
+"de": "8K UHD"
+},
+{
+"key": "part03.html#440",
+"de": "ca. 33,18 Mio."
+},
+{
+"key": "part03.html#441",
+"de": "Große LED-Wände, Ausstellungen"
+},
+{
+"key": "part03.html#442",
+"de": "Renderzeiten explodieren"
+},
+{
+"key": "part03.html#443",
+"de": "Warum 4K der Standard ist"
+},
+{
+"key": "part03.html#444",
+"de": "Überschüssige Pixel für Neukadrierung, Stabilisierung, digitale Zooms und Hochformatversionen bedeuten Freiheit im Schnitt. Um vertikale Kurzvideos aus horizontalem Material zu gewinnen, ist 4K praktisch unverzichtbar."
+},
+{
+"key": "part03.html#445",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part03.html#446",
+"de": "Ein 21:9-Ausschnitt verwirft vertikale Pixel. Blenden Sie im Sucher eine 2,39:1-Hilfslinie ein und halten Sie Tonangel und Lampen aus dem späteren Bildausschnitt heraus."
+},
+{
+"key": "part03.html#447",
+"de": "Seitenverhältnis"
+},
+{
+"key": "part03.html#448",
+"de": "Wert"
+},
+{
+"key": "part03.html#449",
+"de": "Typische Medien"
+},
+{
+"key": "part03.html#450",
+"de": "Wirkung und Einsatz"
+},
+{
+"key": "part03.html#451",
+"de": "Analoges TV, Retro-Inserts"
+},
+{
+"key": "part03.html#452",
+"de": "Rückblick, Dokus, Archivmaterial"
+},
+{
+"key": "part03.html#453",
+"de": "Fernsehen, YouTube, Webstandard"
+},
+{
+"key": "part03.html#454",
+"de": "Am vielseitigsten, sicher"
+},
+{
+"key": "part03.html#455",
+"de": "Spielfilme"
+},
+{
+"key": "part03.html#456",
+"de": "Kinostandard"
+},
+{
+"key": "part03.html#457",
+"de": "CinemaScope, Markenfilme"
+},
+{
+"key": "part03.html#458",
+"de": "Weite, Premium-Anmutung"
+},
+{
+"key": "part03.html#459",
+"de": "Quadratische Feeds"
+},
+{
+"key": "part03.html#460",
+"de": "Balance, starke Symmetrie"
+},
+{
+"key": "part03.html#461",
+"de": "Instagram-Feed"
+},
+{
+"key": "part03.html#462",
+"de": "Maximale Bildhöhe"
+},
+{
+"key": "part03.html#463",
+"de": "YouTube Shorts, Instagram Reels, TikTok"
+},
+{
+"key": "part03.html#464",
+"de": "Eintauchen im Vollbild, Großaufnahmen"
+},
+{
+"key": "part03.html#465",
+"de": "16:9 oben und unten auf 21:9 zu beschneiden ist nicht dasselbe, wie mit einem anamorphotischen Objektiv echte optische Information aufzunehmen. Die Crop-Methode setzt voraus, dass Sie in 4K drehen."
+},
+{
+"key": "part03.html#466",
+"de": "<small>Übung</small>3.7"
+},
+{
+"key": "part03.html#467",
+"de": "Aufgabe"
+},
+{
+"key": "part03.html#468",
+"de": "Gestalten Sie dieselbe Szene in vier Seitenverhältnissen: 16:9, 9:16, 1:1 und 2,39:1."
+},
+{
+"key": "part03.html#469",
+"de": "Tipp"
+},
+{
+"key": "part03.html#470",
+"de": "Ändert sich das Seitenverhältnis, müssen auch Motivplatzierung und Leerraum neu gestaltet werden."
+},
+{
+"key": "part03.html#471",
+"de": "Bewertung"
+},
+{
+"key": "part03.html#472",
+"de": "Neukomposition je Seitenverhältnis"
+},
+{
+"key": "part03.html#473",
+"de": "Musterlösung"
+},
+{
+"key": "part03.html#474",
+"de": "Markieren Sie je Format „verlorene Information“ und „gewonnenen Raum“."
+},
+{
+"key": "part03.html#475",
+"de": "<b>TEIL 03</b>Kameras und Aufnahmetechnik"
+},
+{
+"key": "part03.html#476",
+"de": "Bildrate und Shutterwinkel"
+},
+{
+"key": "part03.html#477",
+"de": "In wie viele Bilder Sie eine Sekunde zerlegen, bestimmt die Textur der Bewegung; der Shutterwinkel bestimmt die Bewegungsunschärfe. Bei 180° gilt immer: Verschlusszeit = 1/(2 × Bildrate)."
+},
+{
+"key": "part03.html#478",
+"de": "<b>Abb. 34</b> Bildraten im Vergleich – wie viele Bilder pro Sekunde"
+},
+{
+"key": "part03.html#479",
+"de": "Shutterwinkel – der Anteil jedes Bildes, in dem der Verschluss offen ist"
+},
+{
+"key": "part03.html#480",
+"de": "<b>45° <small>1/192 s</small></b><span>Abgehackte Schärfe – Kampf · Explosionen · gesteigerte Dringlichkeit</span>"
+},
+{
+"key": "part03.html#481",
+"de": "<b>180° <small>1/48 s</small></b><span>Natürliche Bewegungsunschärfe – der Kinostandard</span>"
+},
+{
+"key": "part03.html#482",
+"de": "<b>360° <small>1/24 s</small></b><span>Lange, verschmierte Schlieren – Träume · Rausch · Rückblenden</span>"
+},
+{
+"key": "part03.html#483",
+"de": "Der <b>Shutterwinkel</b> ist der Winkel, über den der rotierende Verschluss geöffnet ist. Für diesen Anteil jedes Bildes (1/24 s) fällt Licht ein, und Bewegung verwischt im gleichen Maß. <b>Regel: Verschlusszeit = 1 ÷ (fps × 2)</b> → 1/48 bei 24 fps, 1/120 bei 60 fps. Beim Video bestimmt der Verschluss nicht die Helligkeit, sondern <b>das Maß der Bewegungsunschärfe</b> – die Helligkeit regeln Sie mit ND-Filtern."
+},
+{
+"key": "part03.html#484",
+"de": "<b>Abb. 35</b> Shutterwinkel und Bewegungsunschärfe (bei 24 fps) – der rote Teil jedes Kreises ist die Zeit, in der der Verschluss offen ist. Je größer der Winkel, desto länger die in einem Bild festgehaltene Bewegung."
+},
+{
+"key": "part03.html#485",
+"de": "<b>24<em>fps</em></b>Filmische Unschärfe – Standard für emotionale Spots, Verschluss 1/48"
+},
+{
+"key": "part03.html#486",
+"de": "<b>30<em>fps</em></b>Klar und informativ – Spots mit viel Text"
+},
+{
+"key": "part03.html#487",
+"de": "<b>60<em>fps</em></b>Produktdemos, 2× Zeitlupe – Verschluss 1/120"
+},
+{
+"key": "part03.html#488",
+"de": "<b>120<em>fps</em></b>Produkt-Makro, 5× Zeitlupe – Verschluss 1/240"
+},
+{
+"key": "part03.html#489",
+"de": "Bildrate"
+},
+{
+"key": "part03.html#490",
+"de": "Bewegungsgefühl"
+},
+{
+"key": "part03.html#491",
+"de": "Haupteinsatz"
+},
+{
+"key": "part03.html#492",
+"de": "Werbung"
+},
+{
+"key": "part03.html#493",
+"de": "24 fps"
+},
+{
+"key": "part03.html#494",
+"de": "Filmische Unschärfe, emotional"
+},
+{
+"key": "part03.html#495",
+"de": "Spielfilme, Markenfilme"
+},
+{
+"key": "part03.html#496",
+"de": "Standard für emotionale Spots"
+},
+{
+"key": "part03.html#497",
+"de": "25 fps"
+},
+{
+"key": "part03.html#498",
+"de": "Europäischer TV-Standard"
+},
+{
+"key": "part03.html#499",
+"de": "Fernsehen in PAL-Regionen"
+},
+{
+"key": "part03.html#500",
+"de": "Bei Abgabe ins Ausland prüfen"
+},
+{
+"key": "part03.html#501",
+"de": "30 fps"
+},
+{
+"key": "part03.html#502",
+"de": "Klar, informativ"
+},
+{
+"key": "part03.html#503",
+"de": "Fernsehen, Webspots"
+},
+{
+"key": "part03.html#504",
+"de": "Informativ, viel Text"
+},
+{
+"key": "part03.html#505",
+"de": "60 fps"
+},
+{
+"key": "part03.html#506",
+"de": "Flüssig, realistisch"
+},
+{
+"key": "part03.html#507",
+"de": "Sport, Games, Demos"
+},
+{
+"key": "part03.html#508",
+"de": "Produktdemos, 2× Zeitlupe"
+},
+{
+"key": "part03.html#509",
+"de": "120 fps"
+},
+{
+"key": "part03.html#510",
+"de": "Extrem langsam, haptisch"
+},
+{
+"key": "part03.html#511",
+"de": "Produkt-Makro, Flüssigkeiten"
+},
+{
+"key": "part03.html#512",
+"de": "Inserts, 5× Zeitlupe"
+},
+{
+"key": "part03.html#513",
+"de": "ab 240 fps"
+},
+{
+"key": "part03.html#514",
+"de": "Extreme Zeitlupe"
+},
+{
+"key": "part03.html#515",
+"de": "Aufprall, Platzen, Spritzer"
+},
+{
+"key": "part03.html#516",
+"de": "1–2 Akzentbilder"
+},
+{
+"key": "part03.html#517",
+"de": "Zeitlupenformel"
+},
+{
+"key": "part03.html#518",
+"de": "Aufnahme-fps geteilt durch Timeline-fps ergibt den Zeitlupenfaktor. 120-fps-Material auf einer 24-fps-Timeline läuft 5× langsamer. Doch 120 fps brauchen etwa 5-mal so viel Licht wie 24 fps – wer es ohne Lichtplanung versucht, landet im Rauschen."
+},
+{
+"key": "part03.html#519",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part03.html#520",
+"de": "Um die 180-Grad-Shutter-Regel draußen bei Tageslicht einzuhalten, brauchen Sie ND-Filter. Blenden Sie stattdessen ab, verlieren Sie die beabsichtigte Hintergrundunschärfe."
+},
+{
+"key": "part03.html#521",
+"de": "Shutterwinkel und die 180-Grad-Regel"
+},
+{
+"key": "part03.html#522",
+"de": "Shutterwinkel"
+},
+{
+"key": "part03.html#523",
+"de": "Verschlusszeit (24 fps)"
+},
+{
+"key": "part03.html#524",
+"de": "Bewegungsunschärfe"
+},
+{
+"key": "part03.html#525",
+"de": "Gewollte Wirkung"
+},
+{
+"key": "part03.html#526",
+"de": "Sehr gering"
+},
+{
+"key": "part03.html#527",
+"de": "Dringlichkeit, Wucht"
+},
+{
+"key": "part03.html#528",
+"de": "Gering"
+},
+{
+"key": "part03.html#529",
+"de": "Klare Action, Sport"
+},
+{
+"key": "part03.html#530",
+"de": "Normal"
+},
+{
+"key": "part03.html#531",
+"de": "Natürlicher Standard"
+},
+{
+"key": "part03.html#532",
+"de": "Hoch"
+},
+{
+"key": "part03.html#533",
+"de": "Traumhaft, Rausch, Rückblende"
+},
+{
+"key": "part03.html#534",
+"de": "Sehr hoch"
+},
+{
+"key": "part03.html#535",
+"de": "Träume, Halluzination, Verzerrung"
+},
+{
+"key": "part03.html#536",
+"de": "<b>Referenzfotos 3.8A</b>KI-generierte Bilder – Regiereferenz"
+},
+{
+"key": "part03.html#537",
+"de": "<b>a</b>360°-Shutter – lange Unschärfe"
+},
+{
+"key": "part03.html#538",
+"de": "<b>b</b>45°-Shutter – abgehackte Schärfe"
+},
+{
+"key": "part03.html#539",
+"de": "<b>c</b>Highspeed-Aufnahme – eingefrorene Tropfen"
+},
+{
+"key": "part03.html#540",
+"de": "<b>G-08</b> Verschlusszeit und Bewegung – 180°-Shutter vs. kurze Verschlusszeit"
+},
+{
+"key": "part03.html#541",
+"de": "<small>Übung</small>3.8"
+},
+{
+"key": "part03.html#542",
+"de": "Aufgabe"
+},
+{
+"key": "part03.html#543",
+"de": "Drehen Sie dieselbe Bewegung mit 24 fps (1/50), 60 fps (1/120) und 120 fps und vergleichen Sie Zeitlupe und Bewegungstextur."
+},
+{
+"key": "part03.html#544",
+"de": "Tipp"
+},
+{
+"key": "part03.html#545",
+"de": "Setzen Sie als Grundregel den Nenner der Verschlusszeit auf die doppelte Bildrate."
+},
+{
+"key": "part03.html#546",
+"de": "Bewertung"
+},
+{
+"key": "part03.html#547",
+"de": "Verständnis des 180°-Shutters; gezielter Einsatz der Zeitlupe"
+},
+{
+"key": "part03.html#548",
+"de": "Musterlösung"
+},
+{
+"key": "part03.html#549",
+"de": "Setzen Sie Zeitlupe nur am emotionalen Höhepunkt ein, um die Zeit zu dehnen."
+},
+{
+"key": "part03.html#550",
+"de": "<b>TEIL 03</b>Kameras und Aufnahmetechnik"
+},
+{
+"key": "part03.html#551",
+"de": "Farbtemperatur und Weißabgleich"
+},
+{
+"key": "part03.html#552",
+"de": "Weißes Papier wird nur dann weiß aufgezeichnet, wenn die Kameraeinstellung zur Farbtemperatur des Lichts passt. Ob eine Abweichung ein Fehler oder eine Entscheidung ist, muss in der Vorproduktion feststehen."
+},
+{
+"key": "part03.html#553",
+"de": "Licht hat Farbe – gemessen in Kelvin (K)"
+},
+{
+"key": "part03.html#554",
+"de": "<span>Warm – orange · niedrigere Zahl</span><span>Kühl – blau · höhere Zahl</span>"
+},
+{
+"key": "part03.html#555",
+"de": "<b>1900 K</b><span>Kerze</span>"
+},
+{
+"key": "part03.html#556",
+"de": "<b>3200 K</b><span>Kunstlicht · Glühlampe</span>"
+},
+{
+"key": "part03.html#557",
+"de": "<b>4200 K</b><span>Leuchtstoffröhre</span>"
+},
+{
+"key": "part03.html#558",
+"de": "<b>5600 K</b><span>Mittagssonne · Tageslicht-LED</span>"
+},
+{
+"key": "part03.html#559",
+"de": "<b>6500 K</b><span>Bewölkt</span>"
+},
+{
+"key": "part03.html#560",
+"de": "<b>8000 K</b><span>Schatten · blaues Himmelslicht</span>"
+},
+{
+"key": "part03.html#561",
+"de": "<b>Abb. 36</b> Farbtemperatur nach Lichtquelle – selbst „weißes Licht“ hat je nach Quelle eine andere Farbe. Niedrigere Werte sind röter, höhere blauer."
+},
+{
+"key": "part03.html#562",
+"de": "Weiß wird nur weiß, wenn die Kamera zum Licht passt"
+},
+{
+"key": "part03.html#563",
+"de": "<span></span><b>WB 3200 K</b><b>WB 5600 K</b><b>WB 7500 K</b>"
+},
+{
+"key": "part03.html#564",
+"de": "<b>Bei Kunstlicht</b><span>Lichtquelle 3200 K</span>"
+},
+{
+"key": "part03.html#565",
+"de": "<em>Korrekt</em><span>Weiß bleibt weiß</span>"
+},
+{
+"key": "part03.html#566",
+"de": "<span>Wird orange</span>"
+},
+{
+"key": "part03.html#567",
+"de": "<span>Wird stärker orange</span>"
+},
+{
+"key": "part03.html#568",
+"de": "<b>Bei Tageslicht</b><span>Lichtquelle 5600 K</span>"
+},
+{
+"key": "part03.html#569",
+"de": "<span>Wird blau</span>"
+},
+{
+"key": "part03.html#570",
+"de": "<em>Korrekt</em><span>Weiß bleibt weiß</span>"
+},
+{
+"key": "part03.html#571",
+"de": "<span>Wird orange</span>"
+},
+{
+"key": "part03.html#572",
+"de": "Liegt der WB der Kamera <b>unter der Lichtquelle, wird das Bild blau</b>; <b>darüber, wird es orange</b>. Nutzen Sie die Abweichung gezielt – das Blau der Morgendämmerung, die Wärme der Nacht. Bleiben Sie innerhalb einer Szene aber immer bei einem einzigen Wert."
+},
+{
+"key": "part03.html#573",
+"de": "<b>Abb. 37</b> Weißabgleich – weißes Papier wird nur weiß, wenn die Kameraeinstellung zur Farbtemperatur der Lichtquelle passt. Dasselbe Foto, nur der WB-Wert wurde geändert."
+},
+{
+"key": "part03.html#574",
+"de": "<b>Referenzfotos 3.9A</b>KI-generierte Bilder – Regiereferenz"
+},
+{
+"key": "part03.html#575",
+"de": "<b>a</b>WB 3200 K bei Tageslicht – blau"
+},
+{
+"key": "part03.html#576",
+"de": "<b>b</b>WB 5600 K bei Tageslicht – normal"
+},
+{
+"key": "part03.html#577",
+"de": "<b>c</b>WB 7500 K bei Tageslicht – gelblich"
+},
+{
+"key": "part03.html#578",
+"de": "Liegt die Kameraeinstellung unter dem Wert der Lichtquelle, kippt das Bild ins Blaue; liegt sie darüber, ins Orange. Das lässt sich nutzen: Mit 3200 K bei Tageslicht erzeugen Sie gezielt die kalte Stimmung von Morgendämmerung oder Nacht."
+},
+{
+"key": "part03.html#579",
+"de": "Lichtquelle"
+},
+{
+"key": "part03.html#580",
+"de": "Farbtemperatur"
+},
+{
+"key": "part03.html#581",
+"de": "Wirkung im Bild"
+},
+{
+"key": "part03.html#582",
+"de": "Kerze"
+}
+]

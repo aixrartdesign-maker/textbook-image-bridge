@@ -1,0 +1,246 @@
+{
+ "stem": "p268_267_1375x766",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p268_267_1375x766.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Not everything in the frame is visible",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 38,
+    "chars_per_line_max": 86,
+    "chars_per_line_if_shrunk": 105,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Top UI · account info",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 21,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Title safe 90%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 53,
+    "chars_per_line_if_shrunk": 65,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "Action safe 95%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 61,
+    "chars_per_line_if_shrunk": 74,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Safe zone",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "Key info only in here",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 2,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "6",
+   "en": "TV · YouTube 16 : 9",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 80,
+    "chars_per_line_if_shrunk": 98,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Hidden areas by platform",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 67,
+    "chars_per_line_if_shrunk": 82,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "YouTube Shorts",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Top 10% · bottom 20%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 37,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "10",
+   "en": "Caption · like · share",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 36,
+    "chars_per_line_if_shrunk": 44,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "11",
+   "en": "Instagram Reels",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 36,
+    "chars_per_line_if_shrunk": 44,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "Top 12% · bottom 25%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 37,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "Profile · music info",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 37,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "TikTok",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 43,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "Right 15% · bottom 20%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 38,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "TV broadcast",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "17",
+   "en": "All sides 5%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 42,
+    "chars_per_line_if_shrunk": 52,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "18",
+   "en": "Short-form 9 : 16",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 17,
+    "chars_per_line_max": 58,
+    "chars_per_line_if_shrunk": 71,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "19",
+   "en": "A private upload of the final cut to the real platform beats editing-app guides",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 79,
+    "chars_per_line_max": 152,
+    "chars_per_line_if_shrunk": 186,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#900",
+"de": "Legen Sie bei der Wahl des Verfahrens zuerst fest, mit welcher Textur Sie in Erinnerung bleiben wollen. Budget und Zeitplan kommen danach."
+},
+{
+"key": "part05.html#901",
+"de": "<b>Referenzfotos 5.13A</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part05.html#902",
+"de": "<b>a</b>Cel-Animation – auf transparente Folien gemalt"
+},
+{
+"key": "part05.html#903",
+"de": "<b>b</b>Legetrick – bewegte ausgeschnittene Teile"
+},
+{
+"key": "part05.html#904",
+"de": "<b>c</b>Sandanimation – in Sand gezeichnete Szenen"
+},
+{
+"key": "part05.html#905",
+"de": "<b>Referenzfotos 5.13B</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part05.html#906",
+"de": "<b>a</b>Pixilation – Menschen Bild für Bild aufgenommen"
+},
+{
+"key": "part05.html#907",
+"de": "<b>b</b>Papier · Knet-Stop-Motion"
+},
+{
+"key": "part05.html#908",
+"de": "<b>c</b>3D-CG – Figuren im virtuellen Raum"
+},
+{
+"key": "part05.html#909",
+"de": "<b>Referenzfotos 5.13C</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part05.html#910",
+"de": "<b>a</b>2D – Zeichnen in Linie und Fläche"
+},
+{
+"key": "part05.html#911",
+"de": "<b>b</b>3D – Volumen und Licht"
+},
+{
+"key": "part05.html#912",
+"de": "<b>c</b>2,5D – 3D mit 2D-Textur"
+},
+{
+"key": "part05.html#913",
+"de": "<small>Übung</small>5.13"
+},
+{
+"key": "part05.html#914",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#915",
+"de": "Setzen Sie dieselbe 5-sekündige Aktion zweimal um: einmal als 2D-Cel-Animation, einmal in 3D oder als Stop-Motion."
+},
+{
+"key": "part05.html#916",
+"de": "Tipp"
+},
+{
+"key": "part05.html#917",
+"de": "Protokollieren Sie Ihre Arbeitsstunden. Sie sind die realistischste Grundlage für die Wahl des Verfahrens."
+},
+{
+"key": "part05.html#918",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#919",
+"de": "Verständnis der Eigenschaften und Produktionskosten jedes Verfahrens"
+},
+{
+"key": "part05.html#920",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#921",
+"de": "Fügt den Ergebnissen eine Stundenaufstellung bei und macht sie so zum Leitfaden für die Wahl des Verfahrens."
+},
+{
+"key": "part05.html#922",
+"de": "TEIL 05 – Abschluss"
+},
+{
+"key": "part05.html#923",
+"de": "Übungen und Wiederholung"
+},
+{
+"key": "part05.html#924",
+"de": "<b>Zweimal schneiden</b>Schneiden Sie aus demselben Material zweimal ein 30-Sekunden-Video: Einmal legen Sie zuerst die Musik an, einmal schneiden Sie zuerst das Bild. Vergleichen Sie die Ergebnisse."
+},
+{
+"key": "part05.html#925",
+"de": "<b>Drei Auftritte</b>Lassen Sie in After Effects eine Textzeile auf drei Arten erscheinen – linear, Ease-out, Überschwingen – und vergleichen Sie."
+},
+{
+"key": "part05.html#926",
+"de": "<b>Farbe vorher und nachher</b>Erstellen Sie ein Vergleichsvideo, das dieselbe Einstellung vor und nach der Farbkorrektur nebeneinander zeigt."
+},
+{
+"key": "part05.html#927",
+"de": "<b>Auto-Untertitel prüfen</b>Erzeugen Sie mit einem Tool für automatische Untertitel die Untertitel eines einminütigen Interviews und zählen Sie die Fehler."
+},
+{
+"key": "part05.html#928",
+"de": "Auf einen Blick"
+},
+{
+"key": "part05.html#929",
+"de": "5.1 Geschichte der Schnitttechnik"
+},
+{
+"key": "part05.html#930",
+"de": "Die Werkzeuge haben sich geändert, doch Proxys, EDLs, Timecode und ein Gespür für Einzelbilder bleiben."
+},
+{
+"key": "part05.html#931",
+"de": "5.2 Grundprinzipien des Schnitts"
+},
+{
+"key": "part05.html#932",
+"de": "Schneiden Sie nicht, weil es langweilig wird, sondern wenn die nächste Einstellung bessere Informationen liefert – und zwar in der Bewegung. Legen Sie zuerst den Ton an."
+},
+{
+"key": "part05.html#933",
+"de": "5.3 Schnittsoftware im Vergleich"
+},
+{
+"key": "part05.html#934",
+"de": "Premiere und After Effects sind der Standard, den Arbeitgeber voraussetzen. Beherrschen Sie beide gründlich."
+},
+{
+"key": "part05.html#935",
+"de": "5.4 · 5.5 Premiere und After Effects"
+},
+{
+"key": "part05.html#936",
+"de": "Premiere ordnet die Zeit horizontal, After Effects die Ebenen vertikal. Teilen Sie die Rollen auf, und Sie halbieren den Zeitaufwand."
+},
+{
+"key": "part05.html#937",
+"de": "5.6 Die 12 Prinzipien der Animation"
+},
+{
+"key": "part05.html#938",
+"de": "Korrigieren Sie Easing, Antizipation, Nachschwingen und Übertreibung in dieser Reihenfolge, und der Anfängerlook verschwindet."
+},
+{
+"key": "part05.html#939",
+"de": "5.7 Compositing und Keying"
+},
+{
+"key": "part05.html#940",
+"de": "Ein Composite wirkt aus drei Gründen aufgesetzt: Schwarzwerte, Luftperspektive und Körnung."
+},
+{
+"key": "part05.html#941",
+"de": "5.8 Color Grading"
+},
+{
+"key": "part05.html#942",
+"de": "Erst Belichtung und Weißabgleich, dann der Look. Lift · Gamma · Gain regeln Tiefen · Mitteltöne · Lichter."
+},
+{
+"key": "part05.html#943",
+"de": "5.9 Automatisierungstools"
+},
+{
+"key": "part05.html#944",
+"de": "Automatisch Erzeugtes ist ein Entwurf. Ein Mensch prüft Eigennamen, Tempo, Finger und Schrift."
+},
+{
+"key": "part05.html#945",
+"de": "5.10 · 5.11 Export und Expressions"
+},
+{
+"key": "part05.html#946",
+"de": "Halten Sie sich an den passenden Codec für jeden Zweck, und sparen Sie Keyframes mit wiggle · loopOut · time · linear."
+},
+{
+"key": "part05.html#947",
+"de": "5.12 · 5.13 Resolve und Animation"
+},
+{
+"key": "part05.html#948",
+"de": "Eine Aufgabe pro Node. Wählen Sie das Verfahren zuerst nach Textur, dann nach Budget. Qualität entsteht durch die Reihenfolge der Einstellungen, nicht durch die Zahl der Übergänge."
+},
+{
+"key": "part05.html#949",
+"de": "Denkanstöße"
+},
+{
+"key": "part05.html#950",
+"de": "Was bringt mich beim Schneiden dazu, einen Schnitt zu setzen?"
+},
+{
+"key": "part05.html#951",
+"de": "Ist es Langeweile, oder liefert die nächste Einstellung bessere Informationen? Halten Sie für jede verworfene Einstellung in einer Zeile fest, warum – so zeigt sich Ihr Kriterium."
+},
+{
+"key": "part05.html#952",
+"de": "Wenn Sie Lust auf einen Übergang haben: Was braucht diese Stelle wirklich?"
+},
+{
+"key": "part05.html#953",
+"de": "Prüfen Sie zuerst, ob sie wirklich einen Effekt braucht oder nur eine andere Reihenfolge der Einstellungen."
+},
+{
+"key": "part05.html#954",
+"de": "Selbstkontrolle"
+},
+{
+"key": "part05.html#955",
+"de": "Können Sie jeden dieser Punkte erklären: wie sich die Rollen von Premiere und After Effects unterscheiden, wann Vorkomponieren nötig ist, Alpha- vs. Luma-Track-Matte, die drei Gründe, warum ein Composite aufgesetzt wirkt, und was Lift · Gamma · Gain jeweils regeln?"
+},
+{
+"key": "part05.html#956",
+"de": "Praxistipps"
+},
+{
+"key": "part05.html#957",
+"de": "Einigen Sie sich am ersten Tag auf Ordnerstruktur und Dateibenennung des Projekts. Speichern Sie häufig genutzte Titel und Effekte als Vorgaben (über zwei Monate spart das einen ganzen Tag). Nehmen Sie Änderungswünsche immer mit Timecode entgegen, und lautet das Feedback „Irgendwie stimmt das Ganze noch nicht“, geben Sie es zurück und bitten Sie um konkrete Punkte."
+},
+{
+"key": "part07.html#0",
+"de": "TEIL"
+},
+{
+"key": "part07.html#1",
+"de": "<small>TEIL</small>07"
+},
+{
+"key": "part07.html#2",
+"de": "<b>Das erstellen Sie in diesem TEIL</b>"
+},
+{
+"key": "part07.html#3",
+"de": "Einseitiges Spezifikationsblatt je Medium"
+},
+{
+"key": "part07.html#4",
+"de": "Fassungen in 16:9 · 9:16 aus demselben Material"
+},
+{
+"key": "part07.html#5",
+"de": "Wegeplan und Verweildauer-Diagramm für eine XR-Ausstellung"
+},
+{
+"key": "part07.html#6",
+"de": "Medienformate und immersive Inhalte"
+},
+{
+"key": "part07.html#7",
+"de": "Wo und wie sehen Menschen Videos? Wenn der Bildschirm kein Rechteck ist, wenn das Publikum umhergeht, statt zu sitzen, dann ändern sich die Regeln der Planung von Grund auf. Dieser TEIL stellt die Spezifikationen jedes Mediums tabellarisch zusammen und betrachtet auch, wie und in welcher Haltung das Publikum in der jeweiligen Sehsituation zuschaut."
+},
+{
+"key": "part07.html#8",
+"de": "Foto P-07 Ein Besucher in einem immersiven Projektionsraum · generiertes Bild"
+},
+{
+"key": "part07.html#9",
+"de": "<b>P-07</b> Ein Besucher in einem immersiven Projektionsraum"
+},
+{
+"key": "part07.html#10",
+"de": "Dieses Kapitel im Unterricht"
+},
+{
+"key": "part07.html#11",
+"de": "Spezifikationen je Medium unterscheiden und für vertikale Bildschirme gestalten"
+},
+{
+"key": "part07.html#12",
+"de": "<b>Material</b>Smartphone, Vorlagen für Sicherheitsbereiche je Plattform, Maßband"
+},
+{
+"key": "part07.html#13",
+"de": "<b>10 Min.</b><i>Einstieg</i><span>Zeigen, was beim vertikalen Beschnitt eines horizontalen Videos herauskommt</span>"
+},
+{
+"key": "part07.html#14",
+"de": "<b>15 Min.</b><i>Begriffe</i><span>Seitenverhältnis, Sicherheitsbereich, Einstellungsgröße je Sehsituation</span>"
+},
+{
+"key": "part07.html#15",
+"de": "<b>10 Min.</b><i>Tafeln</i><span>Die Medienkarte und das XR-Kontinuum</span>"
+},
+{
+"key": "part07.html#16",
+"de": "<b>10 Min.</b><i>Übung</i><span>Dasselbe Material in 16:9 und 9:16 neu aufbauen</span>"
+},
+{
+"key": "part07.html#17",
+"de": "<b>5 Min.</b><i>Abschluss</i><span>Offizielle Plattform-Leitfäden prüfen</span>"
+},
+{
+"key": "part07.html#18",
+"de": "<b>Kontrollpunkt</b>Untertitel der vertikalen Fassung nicht von der UI verdeckt"
+},
+{
+"key": "part07.html#19",
+"de": "TEIL 07"
+},
+{
+"key": "part07.html#20",
+"de": "Einführung"
+},
+{
+"key": "part07.html#21",
+"de": "Wenn der Bildschirm kein Rechteck ist, wenn das Publikum umhergeht, statt zu sitzen, dann ändern sich die Regeln der Planung von Grund auf. Ein 360-Grad-Video hat keinen Bildrand, eine Ausstellung keine Pausentaste und eine Außenwerbung keinen Ton. Wer die herkömmliche Filmsprache unverändert auf diese Bedingungen überträgt, scheitert."
+},
+{
+"key": "part07.html#22",
+"de": "Dennoch gelten die Prinzipien weiter. Ohne Bildrand müssen Sie trotzdem den Blick lenken, bei gehendem Publikum trotzdem Rhythmus gestalten, ohne Ton trotzdem Dynamik erzeugen. Nur die Mittel ändern sich: Licht und Klang lenken den Blick statt der Kadrierung, der Weg der Besucher erzeugt den Rhythmus statt der Schnitte, und Kontrast schafft Dynamik statt der Musik."
+},
+{
+"key": "part07.html#23",
+"de": "Spezifikationen sind schnell gefunden, doch kaum etwas wurde darüber geschrieben, wie jemand im Kinosessel und jemand, der in der U-Bahn scrollt, dasselbe Video unterschiedlich aufnehmen. Diesen Unterschied zu kennen, ist der eigentliche Vorsprung eines Planers."
+},
+{
+"key": "part07.html#24",
+"de": "Hintergrund 11"
+},
+{
+"key": "part07.html#25",
+"de": "Eine Geschichte der Bildschirme und des Zuschauerkörpers"
+},
+{
+"key": "part07.html#26",
+"de": "Der Ort des Zuschauens wanderte vom Kinosessel aufs Wohnzimmersofa, zum Bildschirm in der Hand und schließlich in Geräte, die man auf dem Kopf trägt. Jedes Mal, wenn sich der Bildschirm änderte, änderte sich auch die Grammatik des bewegten Bildes."
+},
+{
+"key": "part07.html#27",
+"de": "Im späten 18. Jahrhundert stellte der britische Maler Robert Barker das „Panorama“ vor: Die gesamte Wand eines Rundbaus war mit einem Landschaftsgemälde bespannt. Die Betrachter standen in der Mitte und sahen Städte und Schlachtfelder über 360 Grad ausgebreitet. Der Wunsch, in ein Bild einzutreten, ist älter als der Film; heutige 360°-Videos und immersive Ausstellungen sind seine jüngste Form."
+},
+{
+"key": "part07.html#28",
+"de": "Als das Fernsehen in die Haushalte kam, verbreiterte die Filmindustrie die Leinwand, um ein Erlebnis zu betonen, das nur das Kino bieten konnte. Das Ergebnis waren Cinerama und CinemaScope in den 1950er-Jahren und IMAX, erstmals gezeigt auf der Expo 1970 in Osaka. Mit breiteren Leinwänden entwickelten Regisseure Kompositionen, die eine Figur an den Rand setzten und Landschaft und Leerraum die Emotion tragen ließen."
+},
+{
+"key": "part07.html#29",
+"de": "Die Veränderung lief auch in die andere Richtung. Morton Heiligs „Sensorama“ von 1962 ergänzte den Film um Vibration, Wind und Geruch, und 1968 zeigte Ivan Sutherland ein frühes Head-Mounted Display. Hier blickt das Publikum nicht mehr auf einen Bildschirm, sondern steht in ihm. Ändert sich das Medium, ändert sich der Körper des Publikums; ändert sich der Körper, ändert sich die Grammatik."
+},
+{
+"key": "part07.html#30",
+"de": "Das Smartphone machte den Bildschirm wieder klein – und vertikal. Auf einem Bildschirm, den man in einer Hand hält, wird das menschliche Gesicht zum Hauptmotiv, und Untertitel und Benutzeroberfläche werden Teil des Bildes. Wie Marshall McLuhan in seinem Buch Understanding Media (1964) schrieb: „Das Medium ist die Botschaft“ – derselbe Inhalt wird je nach Trägermedium anders aufgenommen."
+},
+{
+"key": "part07.html#31",
+"de": "Der Körper reagiert auf jede Bildschirmgröße anders. Im Kino füllt die Leinwand den Großteil des Sichtfelds, daher funktionieren weite Landschaften und ein langsames Tempo; ein vertikaler Bildschirm in der Hand füllt nur einen Teil davon, und der Zuschauer kann jederzeit zum nächsten Video wischen. Ändert man daher nur das Seitenverhältnis, bricht der Rhythmus zusammen. Einstellungslänge, Informationsdichte, sogar die Größe der Figuren müssen neu gestaltet werden."
+},
+{
+"key": "part07.html#32",
+"de": "Auch die Tonbedingungen unterscheiden sich. Das Kino setzt Mehrkanalton und geringe Störgeräusche voraus; beim Smartphone sind es ein kleiner Lautsprecher oder Ohrhörer, und in der Öffentlichkeit wird ohne Ton geschaut. Bei Außen-LED und Bildschirmen im Laden ist davon auszugehen, dass es gar keinen Ton gibt. Deshalb werden Untertitel und Grafiken zu den Hauptträgern. Stellen Sie sich hinter jeder Zahl einer Spezifikationstabelle Haltung und Umgebung des Publikums vor."
+},
+{
+"key": "part07.html#33",
+"de": "Weiterführende Literatur – Marshall McLuhan, Understanding Media · Lev Manovich, The Language of New Media · Anne Friedberg, The Virtual Window"
+},
+{
+"key": "part07.html#34",
+"de": "<b>TEIL 07</b>Medienformate und immersive Inhalte"
+},
+{
+"key": "part07.html#35",
+"de": "Produktionsspezifikationen je Medium"
+},
+{
+"key": "part07.html#36",
+"de": "Ein Projekt, das ohne festgelegte Plattform beginnt, muss immer neu gemacht werden. Halten Sie die Spezifikationen vor dem Start auf einer Seite fest."
+},
+{
+"key": "part07.html#37",
+"de": "Kanal"
+},
+{
+"key": "part07.html#38",
+"de": "Seitenverhältnis"
+},
+{
+"key": "part07.html#39",
+"de": "Empfohlene Auflösung"
+},
+{
+"key": "part07.html#40",
+"de": "Länge"
+},
+{
+"key": "part07.html#41",
+"de": "Ton"
+},
+{
+"key": "part07.html#42",
+"de": "Haupteinschränkung"
+},
+{
+"key": "part07.html#43",
+"de": "TV-Spot"
+},
+{
+"key": "part07.html#44",
+"de": "1920x1080 oder höher"
+},
+{
+"key": "part07.html#45",
+"de": "Ja"
+},
+{
+"key": "part07.html#46",
+"de": "Werbeprüfung, Inhaltsvorgaben"
+},
+{
+"key": "part07.html#47",
+"de": "Kinospot"
+},
+{
+"key": "part07.html#48",
+"de": "2,39:1 oder 1,85:1"
+},
+{
+"key": "part07.html#49",
+"de": "DCI 4K"
+},
+{
+"key": "part07.html#50",
+"de": "Ja"
+},
+{
+"key": "part07.html#51",
+"de": "Hell, hochauflösend"
+},
+{
+"key": "part07.html#52",
+"de": "YouTube In-Stream"
+},
+{
+"key": "part07.html#53",
+"de": "Ja"
+},
+{
+"key": "part07.html#54",
+"de": "Überspringbar nach 5 s"
+},
+{
+"key": "part07.html#55",
+"de": "YouTube-Bumper"
+},
+{
+"key": "part07.html#56",
+"de": "Ja"
+},
+{
+"key": "part07.html#57",
+"de": "Nicht überspringbar, eine Botschaft"
+},
+{
+"key": "part07.html#58",
+"de": "YouTube Shorts"
+},
+{
+"key": "part07.html#59",
+"de": "Wahlweise"
+},
+{
+"key": "part07.html#60",
+"de": "Läuft in Schleife; Untertitel Pflicht"
+},
+{
+"key": "part07.html#61",
+"de": "Instagram Reels"
+},
+{
+"key": "part07.html#62",
+"de": "Wahlweise"
+},
+{
+"key": "part07.html#63",
+"de": "Großer, von der UI verdeckter Bereich"
+},
+{
+"key": "part07.html#64",
+"de": "Instagram-Feed"
+},
+{
+"key": "part07.html#65",
+"de": "1:1 oder 4:5"
+},
+{
+"key": "part07.html#66",
+"de": "Standardmäßig stumm"
+},
+{
+"key": "part07.html#67",
+"de": "Erstes Bild als Thumbnail"
+},
+{
+"key": "part07.html#68",
+"de": "TikTok"
+},
+{
+"key": "part07.html#69",
+"de": "Zentral"
+},
+{
+"key": "part07.html#70",
+"de": "An Trend-Sounds gekoppelt"
+},
+{
+"key": "part07.html#71",
+"de": "Außen-LED"
+},
+{
+"key": "part07.html#72",
+"de": "Je nach Standort"
+},
+{
+"key": "part07.html#73",
+"de": "Standortvorgaben befolgen"
+},
+{
+"key": "part07.html#74",
+"de": "Schleife, 6–15 s"
+},
+{
+"key": "part07.html#75",
+"de": "Ohne"
+},
+{
+"key": "part07.html#76",
+"de": "Ohne Ton; aus der Ferne lesbar"
+},
+{
+"key": "part07.html#77",
+"de": "XR-Ausstellung"
+},
+{
+"key": "part07.html#78",
+"de": "Raumabhängig"
+},
+{
+"key": "part07.html#79",
+"de": "Mind. 8K empfohlen"
+},
+{
+"key": "part07.html#80",
+"de": "Raumklang"
+},
+{
+"key": "part07.html#81",
+"de": "Verweildauer gestalten"
+},
+{
+"key": "part07.html#82",
+"de": "<b>HINWEIS</b>"
+},
+{
+"key": "part07.html#83",
+"de": "Längenlimits und Werbeformate für Kurzvideos ändern sich oft. Tragen Sie das Prüfdatum in die Tabelle ein."
+},
+{
+"key": "part07.html#84",
+"de": "Spezifikationen ändern sich"
+},
+{
+"key": "part07.html#85",
+"de": "Plattformrichtlinien und empfohlene Spezifikationen ändern sich oft. Die Angaben hier sind Richtwerte; prüfen Sie vor der Produktion immer den offiziellen Creator-Leitfaden der Plattform."
+},
+{
+"key": "part07.html#86",
+"de": "<small>Übung</small>6.1"
+},
+{
+"key": "part07.html#87",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#88",
+"de": "Fassen Sie die Produktionsspezifikationen für YouTube, Reels, TikTok, TV, Kino und Außen-LED in einer einseitigen Tabelle zusammen."
+},
+{
+"key": "part07.html#89",
+"de": "Tipp"
+},
+{
+"key": "part07.html#90",
+"de": "Prüfen Sie die aktuellen Werte in der offiziellen Hilfe jeder Plattform und notieren Sie das Prüfdatum."
+},
+{
+"key": "part07.html#91",
+"de": "Bewertung"
+}
+]

@@ -1,0 +1,1362 @@
+{
+ "stem": "p332_320_1830x828",
+ "size": [
+  2586,
+  1126
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Question",
+   "en": "Question",
+   "lines": [
+    [
+     346,
+     131,
+     503,
+     168
+    ]
+   ],
+   "ocr": "Question",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    346,
+    131,
+    503,
+    168
+   ],
+   "ltexts": [
+    "Question"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    122,
+    24,
+    44
+   ],
+   "weight": "Medium",
+   "size": 37.47,
+   "baselines": [
+    161
+   ],
+   "xs": [
+    344
+   ],
+   "inkboxes": [
+    [
+     346,
+     131,
+     503,
+     168
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.85,
+   "align": "left",
+   "room": {
+    "left": 346,
+    "right": 2083,
+    "up": 131,
+    "down": 25,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Twist",
+   "en": "Twist",
+   "lines": [
+    [
+     701,
+     131,
+     795,
+     161
+    ]
+   ],
+   "ocr": "Twist",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    701,
+    131,
+    795,
+    161
+   ],
+   "ltexts": [
+    "Twist"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    124,
+    23,
+    44
+   ],
+   "weight": "Medium",
+   "size": 37.55,
+   "baselines": [
+    161
+   ],
+   "xs": [
+    700
+   ],
+   "inkboxes": [
+    [
+     701,
+     131,
+     795,
+     161
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.83,
+   "align": "left",
+   "room": {
+    "left": 701,
+    "right": 1791,
+    "up": 131,
+    "down": 31,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "New face",
+   "en": "New face",
+   "lines": [
+    [
+     1022,
+     131,
+     1178,
+     161
+    ]
+   ],
+   "ocr": "New face",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    1022,
+    131,
+    1178,
+    161
+   ],
+   "ltexts": [
+    "New face"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    123,
+    23,
+    44
+   ],
+   "weight": "Medium",
+   "size": 36.92,
+   "baselines": [
+    160
+   ],
+   "xs": [
+    1018
+   ],
+   "inkboxes": [
+    [
+     1022,
+     131,
+     1177,
+     161
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.72,
+   "align": "left",
+   "room": {
+    "left": 1022,
+    "right": 1408,
+    "up": 131,
+    "down": 32,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Sound shift",
+   "en": "Sound shift",
+   "lines": [
+    [
+     1361,
+     131,
+     1562,
+     161
+    ]
+   ],
+   "ocr": "Sound shift",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    1361,
+    131,
+    1562,
+    161
+   ],
+   "ltexts": [
+    "Sound shift"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    122,
+    24,
+    44
+   ],
+   "weight": "Medium",
+   "size": 36.94,
+   "baselines": [
+    160
+   ],
+   "xs": [
+    1359
+   ],
+   "inkboxes": [
+    [
+     1361,
+     131,
+     1562,
+     161
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.58,
+   "align": "left",
+   "room": {
+    "left": 1361,
+    "right": 1024,
+    "up": 131,
+    "down": 32,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Data · proof",
+   "en": "Data · proof",
+   "lines": [
+    [
+     1723,
+     131,
+     1933,
+     168
+    ]
+   ],
+   "ocr": "Data proof",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    1723,
+    131,
+    1933,
+    168
+   ],
+   "ltexts": [
+    "Data · proof"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    124,
+    25,
+    45
+   ],
+   "weight": "Bold",
+   "size": 35.44,
+   "baselines": [
+    160
+   ],
+   "xs": [
+    1720
+   ],
+   "inkboxes": [
+    [
+     1723,
+     131,
+     1933,
+     168
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.67,
+   "align": "left",
+   "room": {
+    "left": 1723,
+    "right": 653,
+    "up": 131,
+    "down": 25,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Reward",
+   "en": "Reward",
+   "lines": [
+    [
+     2100,
+     131,
+     2230,
+     161
+    ]
+   ],
+   "ocr": "Reward",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    2100,
+    131,
+    2230,
+    161
+   ],
+   "ltexts": [
+    "Reward"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.7,
+   "color": [
+    126,
+    25,
+    45
+   ],
+   "weight": "Medium",
+   "size": 37.5,
+   "baselines": [
+    161
+   ],
+   "xs": [
+    2096
+   ],
+   "inkboxes": [
+    [
+     2100,
+     131,
+     2229,
+     161
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.82,
+   "align": "left",
+   "room": {
+    "left": 2100,
+    "right": 356,
+    "up": 131,
+    "down": 32,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "100%",
+   "lines": [
+    [
+     114,
+     182,
+     208,
+     210
+    ]
+   ],
+   "ocr": "100%",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.0,
+   "id": 6,
+   "box": [
+    114,
+    182,
+    208,
+    210
+   ],
+   "ltexts": [
+    "100%"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    132,
+    132,
+    133
+   ],
+   "weight": "Regular",
+   "size": 37.53,
+   "baselines": [
+    210
+   ],
+   "xs": [
+    111
+   ],
+   "inkboxes": [
+    [
+     114,
+     182,
+     208,
+     210
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.63,
+   "align": "left",
+   "room": {
+    "left": 114,
+    "right": 33,
+    "up": 182,
+    "down": 916,
+    "lb": false,
+    "rb": true,
+    "ub": false,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "50%",
+   "lines": [
+    [
+     133,
+     556,
+     208,
+     584
+    ]
+   ],
+   "ocr": "50%",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.4,
+   "id": 7,
+   "box": [
+    133,
+    556,
+    208,
+    584
+   ],
+   "ltexts": [
+    "50%"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    133,
+    133,
+    134
+   ],
+   "weight": "Regular",
+   "size": 37.55,
+   "baselines": [
+    584
+   ],
+   "xs": [
+    132
+   ],
+   "inkboxes": [
+    [
+     133,
+     556,
+     208,
+     584
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.76,
+   "align": "left",
+   "room": {
+    "left": 133,
+    "right": 38,
+    "up": 556,
+    "down": 542,
+    "lb": false,
+    "rb": true,
+    "ub": false,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Re-hook design",
+   "en": "Re-hook design",
+   "lines": [
+    [
+     2087,
+     580,
+     2362,
+     618
+    ]
+   ],
+   "ocr": "Re-hook design",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    2087,
+    580,
+    2362,
+    618
+   ],
+   "ltexts": [
+    "Re-hook design"
+   ],
+   "bg": [
+    243,
+    243,
+    245
+   ],
+   "bgstd": 36.0,
+   "color": [
+    125,
+    26,
+    45
+   ],
+   "weight": "Bold",
+   "size": 36.39,
+   "baselines": [
+    609
+   ],
+   "xs": [
+    2085
+   ],
+   "inkboxes": [
+    [
+     2088,
+     580,
+     2361,
+     618
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.71,
+   "align": "left",
+   "room": {
+    "left": 170,
+    "right": 19,
+    "up": 11,
+    "down": 11,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Unplanned ad",
+   "en": "Unplanned ad",
+   "lines": [
+    [
+     1682,
+     659,
+     1921,
+     697
+    ]
+   ],
+   "ocr": "Unplanned ad",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    1682,
+    659,
+    1921,
+    697
+   ],
+   "ltexts": [
+    "Unplanned ad"
+   ],
+   "bg": [
+    243,
+    243,
+    245
+   ],
+   "bgstd": 2.8,
+   "color": [
+    77,
+    76,
+    78
+   ],
+   "weight": "Regular",
+   "size": 36.53,
+   "baselines": [
+    688
+   ],
+   "xs": [
+    1678
+   ],
+   "inkboxes": [
+    [
+     1682,
+     659,
+     1920,
+     696
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.35,
+   "align": "left",
+   "room": {
+    "left": 220,
+    "right": 83,
+    "up": 11,
+    "down": 11,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "0%",
+   "lines": [
+    [
+     155,
+     931,
+     208,
+     960
+    ]
+   ],
+   "ocr": "0%",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 95.9,
+   "id": 10,
+   "box": [
+    155,
+    931,
+    208,
+    960
+   ],
+   "ltexts": [
+    "0%"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    133,
+    133,
+    134
+   ],
+   "weight": "Regular",
+   "size": 38.14,
+   "baselines": [
+    959
+   ],
+   "xs": [
+    153
+   ],
+   "inkboxes": [
+    [
+     155,
+     931,
+     208,
+     960
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.73,
+   "align": "left",
+   "room": {
+    "left": 155,
+    "right": 38,
+    "up": 931,
+    "down": 166,
+    "lb": false,
+    "rb": true,
+    "ub": false,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "manual",
+   "en": "0s",
+   "lines": [
+    [
+     230,
+     985,
+     266,
+     1013
+    ]
+   ],
+   "ocr": "",
+   "ratio": null,
+   "src": [
+    "manual"
+   ],
+   "id": 11,
+   "box": [
+    230,
+    985,
+    266,
+    1013
+   ],
+   "ltexts": [
+    "0s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    128,
+    126,
+    128
+   ],
+   "weight": "Regular",
+   "size": 38.21,
+   "baselines": [
+    1013
+   ],
+   "xs": [
+    229
+   ],
+   "inkboxes": [
+    [
+     231,
+     985,
+     266,
+     1014
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.84,
+   "align": "left",
+   "room": {
+    "left": 230,
+    "right": 2320,
+    "up": 32,
+    "down": 113,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "10s",
+   "en": "10s",
+   "lines": [
+    [
+     573,
+     985,
+     628,
+     1014
+    ]
+   ],
+   "ocr": "10s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 12,
+   "box": [
+    573,
+    985,
+    628,
+    1014
+   ],
+   "ltexts": [
+    "10s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    129,
+    129,
+    129
+   ],
+   "weight": "Regular",
+   "size": 38.56,
+   "baselines": [
+    1013
+   ],
+   "xs": [
+    570
+   ],
+   "inkboxes": [
+    [
+     573,
+     985,
+     628,
+     1014
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.77,
+   "align": "left",
+   "room": {
+    "left": 573,
+    "right": 1958,
+    "up": 32,
+    "down": 112,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "20s",
+   "en": "20s",
+   "lines": [
+    [
+     925,
+     985,
+     982,
+     1013
+    ]
+   ],
+   "ocr": "20s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 13,
+   "box": [
+    925,
+    985,
+    982,
+    1013
+   ],
+   "ltexts": [
+    "20s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    126,
+    126,
+    128
+   ],
+   "weight": "Regular",
+   "size": 38.59,
+   "baselines": [
+    1013
+   ],
+   "xs": [
+    923
+   ],
+   "inkboxes": [
+    [
+     925,
+     985,
+     982,
+     1014
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.78,
+   "align": "left",
+   "room": {
+    "left": 925,
+    "right": 1604,
+    "up": 32,
+    "down": 113,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "30s",
+   "en": "30s",
+   "lines": [
+    [
+     1283,
+     985,
+     1339,
+     1014
+    ]
+   ],
+   "ocr": "30s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 14,
+   "box": [
+    1283,
+    985,
+    1339,
+    1014
+   ],
+   "ltexts": [
+    "30s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    123,
+    122,
+    123
+   ],
+   "weight": "Regular",
+   "size": 38.14,
+   "baselines": [
+    1013
+   ],
+   "xs": [
+    1282
+   ],
+   "inkboxes": [
+    [
+     1283,
+     985,
+     1339,
+     1014
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.65,
+   "align": "left",
+   "room": {
+    "left": 1283,
+    "right": 1247,
+    "up": 32,
+    "down": 112,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "40s",
+   "en": "40s",
+   "lines": [
+    [
+     1640,
+     985,
+     1698,
+     1013
+    ]
+   ],
+   "ocr": "40s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 15,
+   "box": [
+    1640,
+    985,
+    1698,
+    1013
+   ],
+   "ltexts": [
+    "40s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    123,
+    123,
+    123
+   ],
+   "weight": "Regular",
+   "size": 38.0,
+   "baselines": [
+    1013
+   ],
+   "xs": [
+    1639
+   ],
+   "inkboxes": [
+    [
+     1640,
+     985,
+     1698,
+     1013
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.73,
+   "align": "left",
+   "room": {
+    "left": 1640,
+    "right": 888,
+    "up": 32,
+    "down": 113,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "50s",
+   "en": "50s",
+   "lines": [
+    [
+     1997,
+     985,
+     2054,
+     1014
+    ]
+   ],
+   "ocr": "50s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 16,
+   "box": [
+    1997,
+    985,
+    2054,
+    1014
+   ],
+   "ltexts": [
+    "50s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    126,
+    126,
+    126
+   ],
+   "weight": "Regular",
+   "size": 38.47,
+   "baselines": [
+    1013
+   ],
+   "xs": [
+    1996
+   ],
+   "inkboxes": [
+    [
+     1997,
+     985,
+     2054,
+     1014
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.67,
+   "align": "left",
+   "room": {
+    "left": 1997,
+    "right": 532,
+    "up": 32,
+    "down": 112,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "60s",
+   "en": "60s",
+   "lines": [
+    [
+     2356,
+     985,
+     2412,
+     1014
+    ]
+   ],
+   "ocr": "60s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 17,
+   "box": [
+    2356,
+    985,
+    2412,
+    1014
+   ],
+   "ltexts": [
+    "60s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    126,
+    126,
+    128
+   ],
+   "weight": "Regular",
+   "size": 38.39,
+   "baselines": [
+    1013
+   ],
+   "xs": [
+    2354
+   ],
+   "inkboxes": [
+    [
+     2356,
+     985,
+     2412,
+     1014
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.73,
+   "align": "left",
+   "room": {
+    "left": 2356,
+    "right": 174,
+    "up": 32,
+    "down": 112,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Retention curve (concept) — a new 'reason to keep watching' every 8–10s",
+   "en": "Retention curve (concept) — a new 'reason to keep watching' every 8–10s",
+   "lines": [
+    [
+     669,
+     1049,
+     1926,
+     1088
+    ]
+   ],
+   "ocr": "Retention curve (concept) a new 'reason to keep watching' every 8-10s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 18,
+   "box": [
+    669,
+    1049,
+    1926,
+    1088
+   ],
+   "ltexts": [
+    "Retention curve (concept) — a new 'reason to keep watching' every 8–10s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    82,
+    82,
+    83
+   ],
+   "weight": "Regular",
+   "size": 36.37,
+   "baselines": [
+    1079
+   ],
+   "xs": [
+    665
+   ],
+   "inkboxes": [
+    [
+     669,
+     1050,
+     1926,
+     1088
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.22,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 669,
+    "right": 660,
+    "up": 94,
+    "down": 38,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "ae",
+   "box": [
+    1338,
+    743,
+    1668,
+    784
+   ],
+   "conf": 29.2
+  },
+  {
+   "text": "cg",
+   "box": [
+    1699,
+    778,
+    1957,
+    800
+   ],
+   "conf": 37.5
+  },
+  {
+   "text": "ee",
+   "box": [
+    2078,
+    793,
+    2383,
+    812
+   ],
+   "conf": 19.9
+  },
+  {
+   "text": "Os",
+   "box": [
+    231,
+    985,
+    266,
+    1014
+   ],
+   "conf": 95.3
+  }
+ ]
+}

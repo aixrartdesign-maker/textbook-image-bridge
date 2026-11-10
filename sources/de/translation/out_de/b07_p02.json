@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#450",
+"de": "Bevor Sie die Prinzipien auswendig lernen, gewöhnen Sie sich an, Bewegungen in Ihrer Umgebung zu beobachten. Wer erkennt, in welcher Reihenfolge ein Mensch vom Stuhl aufsteht oder ein Ball die Treppe hinunterrollt, macht die Prinzipien zu lebendigen Werkzeugen. Weiterführende Literatur: Frank Thomas · Ollie Johnston, The Illusion of Life; Richard Williams, The Animator's Survival Kit."
+},
+{
+"key": "part05.html#451",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#452",
+"de": "Die 12 Prinzipien der Animation"
+},
+{
+"key": "part05.html#453",
+"de": "Zwölf Prinzipien, angewandt auf die Werbung. Die Hälfte ist Physik, die Hälfte Schauspiel. Korrigieren Sie Easing · Antizipation · Nachschwingen · Übertreibung in dieser Reihenfolge, und der Anfängerlook verschwindet."
+},
+{
+"key": "part05.html#454",
+"de": "Die 12 Prinzipien – Bewegung an einer Figur"
+},
+{
+"key": "part05.html#455",
+"de": "<b><i>01</i>Stauchen und Strecken</b><span>Staucht und streckt bei gleichem Volumen – Gewicht und Elastizität</span>"
+},
+{
+"key": "part05.html#456",
+"de": "<b><i>02</i>Antizipation</b><span>Bewegt sich vor einer großen Aktion erst in die Gegenrichtung</span>"
+},
+{
+"key": "part05.html#457",
+"de": "<b><i>03</i>Inszenierung</b><span>Schon die Silhouette verrät die Absicht</span>"
+},
+{
+"key": "part05.html#458",
+"de": "<b><i>04</i>Pose zu Pose</b><span>Erst Schlüsselposen setzen, dann dazwischen auffüllen</span>"
+},
+{
+"key": "part05.html#459",
+"de": "<b><i>05</i>Nachschwingen · Überlappung</b><span>Der Körper stoppt, Haare und Kleidung erst später</span>"
+},
+{
+"key": "part05.html#460",
+"de": "<b><i>06</i>Slow-in · Slow-out</b><span>Bilder am Anfang und Ende einer Bewegung verdichten</span>"
+},
+{
+"key": "part05.html#461",
+"de": "<b><i>07</i>Bögen</b><span>Gelenke bewegen sich in Bögen, nicht auf Geraden</span>"
+},
+{
+"key": "part05.html#462",
+"de": "<b><i>08</i>Sekundäre Aktion</b><span>Kleine Begleitaktionen zur Hauptaktion formen den Charakter</span>"
+},
+{
+"key": "part05.html#463",
+"de": "<b><i>09</i>Timing (Zeitmaß)</b><span>Gleiche Strecke – die Bildanzahl bestimmt Gewicht und Tempo</span>"
+},
+{
+"key": "part05.html#464",
+"de": "<b><i>10</i>Übertreibung</b><span>Einen Schritt über die Realität hinaus – die Absicht schärfen</span>"
+},
+{
+"key": "part05.html#465",
+"de": "<b><i>11</i>Solides Zeichnen</b><span>Formen mit Volumen · Gewicht · Balance zeichnen</span>"
+},
+{
+"key": "part05.html#466",
+"de": "<b><i>12</i>Ausstrahlung</b><span>Einfache Formen und klarer Charakter schaffen Charme</span>"
+},
+{
+"key": "part05.html#467",
+"de": "<b>Abb. 48</b> Die 12 Prinzipien der Animation – zwölf Bewegungsregeln an einer Figur (Disney, 1981). Rote Linien markieren die „Bewegung“, auf die das jeweilige Prinzip zielt."
+},
+{
+"key": "part05.html#468",
+"de": "Ein springender Ball enthält vier Prinzipien"
+},
+{
+"key": "part05.html#469",
+"de": "Scheitelpunkt – enges Spacing (langsam · Slow-in/-out)"
+},
+{
+"key": "part05.html#470",
+"de": "Roter Ball = Landung, abgeflacht (Stauchen)"
+},
+{
+"key": "part05.html#471",
+"de": "Fallen – weites Spacing, in die Länge gezogen (Strecken)"
+},
+{
+"key": "part05.html#472",
+"de": "Jeder Sprung wird niedriger und kürzer (Timing)"
+},
+{
+"key": "part05.html#473",
+"de": "<b>Abb. 49</b> Der springende Ball – Bögen · Timing · Spacing · Stauchen und Strecken, alles in einem Ball. Die Bälle sind in gleichen Zeitabständen gezeichnet: am Scheitelpunkt langsam und dicht, in Bodennähe schnell und weit auseinander. Der rote Ball zeigt den Moment des Aufpralls (Stauchen)."
+},
+{
+"key": "part05.html#474",
+"de": "Gleiche Strecke, gleiche Bildanzahl – allein das Spacing verändert die Bewegung"
+},
+{
+"key": "part05.html#475",
+"de": "Gleichmäßiges Spacing – mechanisch"
+},
+{
+"key": "part05.html#476",
+"de": "Roboter · Förderbänder. Kein Leben"
+},
+{
+"key": "part05.html#477",
+"de": "Ease-in-out – natürlich"
+},
+{
+"key": "part05.html#478",
+"de": "Sanfter Start, sanfte Ankunft. Die meisten Bewegungen"
+},
+{
+"key": "part05.html#479",
+"de": "Schnell → langsam – betont die Ankunft"
+},
+{
+"key": "part05.html#480",
+"de": "Schießt heraus und stoppt. Pop-ups · Betonung · UI"
+},
+{
+"key": "part05.html#481",
+"de": "Langsam → schnell – betont den Aufbruch"
+},
+{
+"key": "part05.html#482",
+"de": "Zögert, dann geht es los. Sprünge · Starts"
+},
+{
+"key": "part05.html#483",
+"de": "Gleiche Strecke · gleiche 11 Bilder – nur das Spacing unterscheidet sich. <tspan font-weight=\"500\">Timing</tspan> = Bildanzahl, <tspan font-weight=\"500\">Spacing</tspan> = Abstand zwischen den Bildern"
+},
+{
+"key": "part05.html#484",
+"de": "<b>Abb. 50</b> Timing und Spacing – jede Reihe legt dieselbe Strecke in derselben Anzahl von Bildern zurück. Wo die Kreise weit auseinanderliegen, ist die Bewegung schnell."
+},
+{
+"key": "part05.html#485",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part05.html#486",
+"de": "Erst die Schlüsselposen, dann die Zwischenbilder. Zeichnen Sie zuerst das Spacing-Diagramm."
+},
+{
+"key": "part05.html#487",
+"de": "Die zwölf Prinzipien – als Szenen aus einem Stop-Motion-Kurzfilm"
+},
+{
+"key": "part05.html#488",
+"de": "<small>01</small>Stauchen und Strecken"
+},
+{
+"key": "part05.html#489",
+"de": "Staucht und streckt bei gleichem Volumen – Gewicht und Elastizität"
+},
+{
+"key": "part05.html#490",
+"de": "<small>02</small>Antizipation"
+},
+{
+"key": "part05.html#491",
+"de": "Bewegt sich vor einer großen Aktion erst in die Gegenrichtung"
+},
+{
+"key": "part05.html#492",
+"de": "<small>03</small>Inszenierung"
+},
+{
+"key": "part05.html#493",
+"de": "Schon die Silhouette verrät die Absicht"
+},
+{
+"key": "part05.html#494",
+"de": "<small>04</small>Pose zu Pose"
+},
+{
+"key": "part05.html#495",
+"de": "Erst Schlüsselposen setzen, dann dazwischen auffüllen"
+},
+{
+"key": "part05.html#496",
+"de": "<small>05</small>Nachschwingen · Überlappung"
+},
+{
+"key": "part05.html#497",
+"de": "Der Körper stoppt, Haare und Kleidung erst später"
+},
+{
+"key": "part05.html#498",
+"de": "<small>06</small>Slow-in · Slow-out"
+},
+{
+"key": "part05.html#499",
+"de": "Bilder am Anfang und Ende einer Bewegung verdichten"
+},
+{
+"key": "part05.html#500",
+"de": "<small>07</small>Bögen"
+},
+{
+"key": "part05.html#501",
+"de": "Gelenke bewegen sich in Bögen, nicht auf Geraden"
+},
+{
+"key": "part05.html#502",
+"de": "<small>08</small>Sekundäre Aktion"
+},
+{
+"key": "part05.html#503",
+"de": "Kleine Begleitaktionen zur Hauptaktion formen den Charakter"
+},
+{
+"key": "part05.html#504",
+"de": "<small>09</small>Timing (Zeitmaß)"
+},
+{
+"key": "part05.html#505",
+"de": "Gleiche Strecke – die Bildanzahl bestimmt Gewicht und Tempo"
+},
+{
+"key": "part05.html#506",
+"de": "<small>10</small>Übertreibung"
+},
+{
+"key": "part05.html#507",
+"de": "Einen Schritt über die Realität hinaus – die Absicht schärfen"
+},
+{
+"key": "part05.html#508",
+"de": "<small>11</small>Solides Zeichnen"
+},
+{
+"key": "part05.html#509",
+"de": "Formen mit Volumen · Gewicht · Balance zeichnen"
+},
+{
+"key": "part05.html#510",
+"de": "<small>12</small>Ausstrahlung"
+},
+{
+"key": "part05.html#511",
+"de": "Einfache Formen und klarer Charakter schaffen Charme"
+},
+{
+"key": "part05.html#512",
+"de": "Stauchen und Strecken – ein springender Ball als Bildfolge"
+},
+{
+"key": "part05.html#513",
+"de": "Scheitelpunkt – rund, langsam (enges Spacing)"
+},
+{
+"key": "part05.html#514",
+"de": "Kontakt – flach gestaucht"
+},
+{
+"key": "part05.html#515",
+"de": "Kontakt – erneut gestaucht"
+},
+{
+"key": "part05.html#516",
+"de": "Schneller = stärker gestreckt entlang der Bahn"
+},
+{
+"key": "part05.html#517",
+"de": "Weites Spacing = schnell"
+},
+{
+"key": "part05.html#518",
+"de": "Regel: Strecken macht schmaler, Stauchen breiter – das Volumen (die Fläche) bleibt immer gleich. Alle Bälle in gleichen Zeitschritten gezeichnet."
+},
+{
+"key": "part05.html#519",
+"de": "<b>G-15</b> Stauchen und Strecken – die Flugparabel eines springenden Balls. Am Scheitelpunkt rund und dicht, im Fallen länger und weiter auseinander, im Moment der Landung flach. Die Fläche des Balls ist in allen fünfzehn Zeichnungen gleich."
+},
+{
+"key": "part05.html#520",
+"de": "<small>Übung</small>5.6"
+},
+{
+"key": "part05.html#521",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#522",
+"de": "Animieren Sie der Reihe nach: einen springenden Ball, einen schweren · einen leichten Ball, den Sprung einer Figur."
+},
+{
+"key": "part05.html#523",
+"de": "Tipp"
+},
+{
+"key": "part05.html#524",
+"de": "Erst die Schlüsselposen, dann die Zwischenbilder. Zeichnen Sie zuerst das Spacing-Diagramm."
+},
+{
+"key": "part05.html#525",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#526",
+"de": "Einsatz von Stauchen · Timing · Bögen"
+},
+{
+"key": "part05.html#527",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#528",
+"de": "Die 12 Prinzipien aus dem Disney-Buch The Illusion of Life. Vergleichen Sie denselben Sprung zweier unterschiedlich schwerer Figuren."
+},
+{
+"key": "part05.html#529",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#530",
+"de": "Compositing und Keying in der Praxis"
+},
+{
+"key": "part05.html#531",
+"de": "Beurteilen Sie das Keying in sechs Schritten; fällt ein Composite auf, prüfen Sie drei Ursachen: Schwarzwert · Luftperspektive · Körnung."
+},
+{
+"key": "part05.html#532",
+"de": "<b>Abb. 51</b> Die 6 Schritte des Keyings – Garbage-Matte › Primär-Key › Matte bereinigen › Spill entfernen › Kantenbearbeitung › Farbangleichung"
+},
+{
+"key": "part05.html#533",
+"de": "Schritt"
+},
+{
+"key": "part05.html#534",
+"de": "Vorgehen"
+},
+{
+"key": "part05.html#535",
+"de": "Kriterium"
+},
+{
+"key": "part05.html#536",
+"de": "Garbage-Matte"
+},
+{
+"key": "part05.html#537",
+"de": "Alles außerhalb des Grüns ausmaskieren"
+},
+{
+"key": "part05.html#538",
+"de": "Lampenstative und Bodenkante entfernt"
+},
+{
+"key": "part05.html#539",
+"de": "Primär-Key"
+},
+{
+"key": "part05.html#540",
+"de": "Hintergrundfarbe auskeyen"
+},
+{
+"key": "part05.html#541",
+"de": "Haare bleiben erhalten"
+},
+{
+"key": "part05.html#542",
+"de": "Matte bereinigen"
+},
+{
+"key": "part05.html#543",
+"de": "Alpha in Schwarzweiß ansehen und bereinigen"
+},
+{
+"key": "part05.html#544",
+"de": "Motiv reinweiß, Hintergrund reinschwarz"
+},
+{
+"key": "part05.html#545",
+"de": "Spill entfernen"
+},
+{
+"key": "part05.html#546",
+"de": "Grün auf Haut und Kleidung entfernen"
+},
+{
+"key": "part05.html#547",
+"de": "Haut nicht vergraut"
+},
+{
+"key": "part05.html#548",
+"de": "Kantenbearbeitung"
+},
+{
+"key": "part05.html#549",
+"de": "Kanten zurücknehmen und weichzeichnen"
+},
+{
+"key": "part05.html#550",
+"de": "Keine Treppenstufen beim Hineinzoomen"
+},
+{
+"key": "part05.html#551",
+"de": "Farbangleichung"
+},
+{
+"key": "part05.html#552",
+"de": "Farbe und Helligkeit an den Hintergrund angleichen"
+},
+{
+"key": "part05.html#553",
+"de": "Lichtrichtung, Farbtemperatur stimmen"
+},
+{
+"key": "part05.html#554",
+"de": "Drei Gründe, warum ein Composite auffällt"
+},
+{
+"key": "part05.html#555",
+"de": "<small>Ursache 1</small>Schwarzwert"
+},
+{
+"key": "part05.html#556",
+"de": "Sind die Schwarztöne eines Elements dunkler als in der Realaufnahme, stört das sofort"
+},
+{
+"key": "part05.html#557",
+"de": "Schwarztöne leicht anheben"
+},
+{
+"key": "part05.html#558",
+"de": "<small>Ursache 2</small>Luftperspektive"
+},
+{
+"key": "part05.html#559",
+"de": "Entfernung senkt den Kontrast und mischt Hintergrundfarbe bei"
+},
+{
+"key": "part05.html#560",
+"de": "Sättigung und Kontrast mit der Entfernung senken"
+},
+{
+"key": "part05.html#561",
+"de": "<small>Ursache 3</small>Körnung und Rauschen"
+},
+{
+"key": "part05.html#562",
+"de": "Realaufnahmen rauschen, CG nicht"
+},
+{
+"key": "part05.html#563",
+"de": "Passende Körnung zu den Elementen hinzufügen"
+},
+{
+"key": "part05.html#564",
+"de": "<b>Endkontrolle</b>"
+},
+{
+"key": "part05.html#565",
+"de": "Verkleinern Sie das Bild oder schalten Sie auf Schwarzweiß. Unstimmigkeiten fallen auf kleinem Bildschirm und in Schwarzweiß stärker auf."
+},
+{
+"key": "part05.html#566",
+"de": "<b>G-16</b> Vor und nach dem Compositing – Chroma-Key-Material und finales Bild · GPT-generiertes Bild, nur zur Veranschaulichung"
+},
+{
+"key": "part05.html#567",
+"de": "<small>Übung</small>5.7"
+},
+{
+"key": "part05.html#568",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#569",
+"de": "Setzen Sie eine Szene aus Chroma-Key-Material und einer Hintergrundaufnahme zusammen."
+},
+{
+"key": "part05.html#570",
+"de": "Tipp"
+},
+{
+"key": "part05.html#571",
+"de": "Verfeinern Sie nach dem Keying der Reihe nach: Kanten, Spill, Schatten, Farbangleichung."
+},
+{
+"key": "part05.html#572",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#573",
+"de": "Kantenqualität, Licht- und Farbangleichung"
+},
+{
+"key": "part05.html#574",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#575",
+"de": "Reichen Sie einen Vorher-nachher-Vergleich samt Ebenenstruktur ein."
+},
+{
+"key": "part05.html#576",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#577",
+"de": "Color Grading"
+},
+{
+"key": "part05.html#578",
+"de": "Bringen Sie erst die Helligkeit in Ordnung, bevor Sie die Farbe anfassen. Der Look beginnt erst nach der Primärkorrektur."
+},
+{
+"key": "part05.html#579",
+"de": "<span class=\"ph-id\">P05-COLOR</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Grading-Suite</b>Ein Colorist an einem Trackball-Bedienpult, Scopes auf einem Bildschirm, das Grading auf einem kalibrierten Monitor</span>"
+},
+{
+"key": "part05.html#580",
+"de": "<b>Hinweis</b>Grading-Suite – erst die Helligkeit nach den Scopes statt nach Augenmaß einstellen, dann den Look anwenden"
+},
+{
+"key": "part05.html#581",
+"de": "<b>Abb. 52</b> Tonwertveränderung in jeder Grading-Stufe"
+},
+{
+"key": "part05.html#582",
+"de": "Arbeitsreihenfolge"
+},
+{
+"key": "part05.html#583",
+"de": "<b>01</b><i>Belichtung · Kontrast</i>Helligkeit vor Farbe"
+},
+{
+"key": "part05.html#584",
+"de": "<b>02</b><i>Weißabgleich</i>Grau soll grau aussehen"
+},
+{
+"key": "part05.html#585",
+"de": "<b>03</b><i>Einstellungen angleichen</i>Eine Szene, eine Tageszeit"
+},
+{
+"key": "part05.html#586",
+"de": "<b>04</b><i>Look</i>Erst jetzt wird die Farbe festgelegt"
+},
+{
+"key": "part05.html#587",
+"de": "<b>05</b><i>Sekundärkorrektur</i>Nur Gesichter, Himmel, Produkt"
+},
+{
+"key": "part05.html#588",
+"de": "<b>06</b><i>Ausgabe prüfen</i>Auf Monitor, Smartphone, TV"
+},
+{
+"key": "part05.html#589",
+"de": "<b>Grundlook</b>"
+},
+{
+"key": "part05.html#590",
+"de": "Kühle Tiefen, warme Lichter. Hauttöne reagieren am empfindlichsten auf Gamma."
+},
+{
+"key": "part05.html#591",
+"de": "Werkzeug"
+},
+{
+"key": "part05.html#592",
+"de": "Wirkt auf"
+},
+{
+"key": "part05.html#593",
+"de": "Hinweis"
+},
+{
+"key": "part05.html#594",
+"de": "Lift-Regler"
+},
+{
+"key": "part05.html#595",
+"de": "Tiefen"
+},
+{
+"key": "part05.html#596",
+"de": "Zu viel, und das Bild wird milchig"
+},
+{
+"key": "part05.html#597",
+"de": "Gamma-Regler"
+},
+{
+"key": "part05.html#598",
+"de": "Mitteltöne"
+},
+{
+"key": "part05.html#599",
+"de": "Hauttöne reagieren am stärksten"
+}
+]

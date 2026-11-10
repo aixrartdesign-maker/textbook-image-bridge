@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#115",
+"de": "Final Cut Pro"
+},
+{
+"key": "part05.html#116",
+"de": "Tempo, Stabilität, magnetische Timeline"
+},
+{
+"key": "part05.html#117",
+"de": "Nur Mac, begrenzte Zusammenarbeit"
+},
+{
+"key": "part05.html#118",
+"de": "Solo-Kreative, Mac-Nutzer"
+},
+{
+"key": "part05.html#119",
+"de": "Einmalkauf"
+},
+{
+"key": "part05.html#120",
+"de": "DaVinci Resolve"
+},
+{
+"key": "part05.html#121",
+"de": "Spitzen-Grading, starke Gratisversion"
+},
+{
+"key": "part05.html#122",
+"de": "Lernkurve, hohe Anforderungen"
+},
+{
+"key": "part05.html#123",
+"de": "Farbfokus, Projekte ohne Budget"
+},
+{
+"key": "part05.html#124",
+"de": "Gratis + Bezahlversion"
+},
+{
+"key": "part05.html#125",
+"de": "After Effects"
+},
+{
+"key": "part05.html#126",
+"de": "Compositing, Motion Graphics, 3D-Raum"
+},
+{
+"key": "part05.html#127",
+"de": "Ungeeignet zum Schneiden"
+},
+{
+"key": "part05.html#128",
+"de": "Titel, VFX, Infografiken"
+},
+{
+"key": "part05.html#129",
+"de": "Abo"
+},
+{
+"key": "part05.html#130",
+"de": "CapCut"
+},
+{
+"key": "part05.html#131",
+"de": "Auto-Untertitel, Vorlagen, Handy-Abgleich"
+},
+{
+"key": "part05.html#132",
+"de": "Kommerzielle Nutzung prüfen"
+},
+{
+"key": "part05.html#133",
+"de": "Kurzvideos, schnelle Jobs"
+},
+{
+"key": "part05.html#134",
+"de": "Gratis + Bezahlversion"
+},
+{
+"key": "part05.html#135",
+"de": "Vrew"
+},
+{
+"key": "part05.html#136",
+"de": "Untertitel per Spracherkennung, Pausen entfernen"
+},
+{
+"key": "part05.html#137",
+"de": "Begrenzte Präzision"
+},
+{
+"key": "part05.html#138",
+"de": "Vorlesungen, Interviews, Erklärvideos"
+},
+{
+"key": "part05.html#139",
+"de": "Gratis + Bezahlversion"
+},
+{
+"key": "part05.html#140",
+"de": "Avid Media Composer"
+},
+{
+"key": "part05.html#141",
+"de": "Große Teams, Sendestandard"
+},
+{
+"key": "part05.html#142",
+"de": "Hohe Einstiegshürde"
+},
+{
+"key": "part05.html#143",
+"de": "TV-Serien, Sender"
+},
+{
+"key": "part05.html#144",
+"de": "Abo"
+},
+{
+"key": "part05.html#145",
+"de": "Was Sie zuerst lernen sollten"
+},
+{
+"key": "part05.html#146",
+"de": "Koreanische Stellenanzeigen verlangen am häufigsten Premiere Pro plus After Effects. Ergänzen Sie DaVinci Resolve, um tief in die Farbe einzusteigen, oder CapCut, wenn Sie viele Kurzvideos produzieren."
+},
+{
+"key": "part05.html#147",
+"de": "<small>Übung</small>5.3"
+},
+{
+"key": "part05.html#148",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#149",
+"de": "Schneiden Sie dieselbe Sequenz aus 10 Einstellungen in zwei Schnittprogrammen und vergleichen Sie die Arbeitsabläufe."
+},
+{
+"key": "part05.html#150",
+"de": "Tipp"
+},
+{
+"key": "part05.html#151",
+"de": "Konzentrieren Sie den Vergleich auf Tastenkürzel und Projektstruktur."
+},
+{
+"key": "part05.html#152",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#153",
+"de": "Konkrete Vergleichspunkte, Begründung der Wahl"
+},
+{
+"key": "part05.html#154",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#155",
+"de": "Erstellen Sie eine Tabelle empfohlener Werkzeuge nach Einsatz (Kurzvideo, Werbung, Spielfilm)."
+},
+{
+"key": "part05.html#156",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#157",
+"de": "Premiere Pro auf einen Blick"
+},
+{
+"key": "part05.html#158",
+"de": "Wer die Rolle jedes Fensters kennt und eine Karte hat, wann welche der 20 Funktionen gebraucht wird, löst jedes Problem mit einer Suche."
+},
+{
+"key": "part05.html#159",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part05.html#160",
+"de": "Ablagen nach Drehtag, Szene, Musik und Grafik aufzuteilen, ist eine Gewohnheit, die Ihr Schnitttempo bestimmt."
+},
+{
+"key": "part05.html#161",
+"de": "Aufbau des Arbeitsbereichs"
+},
+{
+"key": "part05.html#162",
+"de": "<small>Verwalten</small>Projektfenster"
+},
+{
+"key": "part05.html#163",
+"de": "Die Schublade für Quelldateien"
+},
+{
+"key": "part05.html#164",
+"de": "Ablagen nach Drehtag · Szene · Musik · Grafik"
+},
+{
+"key": "part05.html#165",
+"de": "<small>Sichten</small>Quellmonitor"
+},
+{
+"key": "part05.html#166",
+"de": "Rohclips ansehen, In-/Out-Points setzen"
+},
+{
+"key": "part05.html#167",
+"de": "Clips hier sichten, bevor sie in die Timeline kommen"
+},
+{
+"key": "part05.html#168",
+"de": "<small>Sichten</small>Programmmonitor"
+},
+{
+"key": "part05.html#169",
+"de": "Das Fenster, das Ihren Schnitt zeigt"
+},
+{
+"key": "part05.html#170",
+"de": "Sicherheitsbereiche und Ränder einblenden"
+},
+{
+"key": "part05.html#171",
+"de": "<small>Schneiden</small>Timeline"
+},
+{
+"key": "part05.html#172",
+"de": "Hier findet der eigentliche Schnitt statt"
+},
+{
+"key": "part05.html#173",
+"de": "Videospuren stapeln sich nach oben, Audiospuren nach unten"
+},
+{
+"key": "part05.html#174",
+"de": "<small>Effekte</small>Effektfenster · Effekteinstellungen"
+},
+{
+"key": "part05.html#175",
+"de": "Übergänge und Effekte; häufig genutzte als Favoriten markieren"
+},
+{
+"key": "part05.html#176",
+"de": "Position · Skalierung · Drehung · Deckkraft und Effektwerte anpassen, Keyframes setzen"
+},
+{
+"key": "part05.html#177",
+"de": "<small>Farbe</small>Lumetri-Farbe"
+},
+{
+"key": "part05.html#178",
+"de": "Eigenes Farbfenster"
+},
+{
+"key": "part05.html#179",
+"de": "Grundkorrektur, Kreativ, Kurven, Farbräder, HSL-Sekundär, Vignette"
+},
+{
+"key": "part05.html#180",
+"de": "<small>Grafik</small>Essential Graphics"
+},
+{
+"key": "part05.html#181",
+"de": "Titel und Grafikvorlagen"
+},
+{
+"key": "part05.html#182",
+"de": "Motion-Graphics-Vorlage laden und nur den Text ändern"
+},
+{
+"key": "part05.html#183",
+"de": "<small>Ton</small>Audiospurmischer"
+},
+{
+"key": "part05.html#184",
+"de": "Lautstärke und Panorama pro Spur"
+},
+{
+"key": "part05.html#185",
+"de": "Audioeffekte verwalten"
+},
+{
+"key": "part05.html#186",
+"de": "<small>Ton</small>Essential Sound"
+},
+{
+"key": "part05.html#187",
+"de": "Als Dialog · Musik · SFX · Atmo markieren – automatische Bearbeitung"
+},
+{
+"key": "part05.html#188",
+"de": "Rauschminderung für Dialog, Lautheitsnormalisierung"
+},
+{
+"key": "part05.html#189",
+"de": "20 Funktionen, die Sie lernen müssen"
+},
+{
+"key": "part05.html#190",
+"de": "Funktion"
+},
+{
+"key": "part05.html#191",
+"de": "Was sie macht"
+},
+{
+"key": "part05.html#192",
+"de": "Wann einsetzen"
+},
+{
+"key": "part05.html#193",
+"de": "Sequenzeinstellungen"
+},
+{
+"key": "part05.html#194",
+"de": "Auflösung, fps, Seitenverhältnis festlegen"
+},
+{
+"key": "part05.html#195",
+"de": "Als Erstes im neuen Projekt"
+},
+{
+"key": "part05.html#196",
+"de": "Proxys erstellen"
+},
+{
+"key": "part05.html#197",
+"de": "Schneiden mit leichten Ersatzdateien"
+},
+{
+"key": "part05.html#198",
+"de": "Material ab 4K, schwacher PC"
+},
+{
+"key": "part05.html#199",
+"de": "Multikamera-Schnitt"
+},
+{
+"key": "part05.html#200",
+"de": "Mehrere Kameras synchronisieren und umschalten"
+},
+{
+"key": "part05.html#201",
+"de": "Events, Interviews, Shows"
+},
+{
+"key": "part05.html#202",
+"de": "Ton synchronisieren"
+},
+{
+"key": "part05.html#203",
+"de": "Automatisch über Wellenform"
+},
+{
+"key": "part05.html#204",
+"de": "Mit externem Rekorder"
+},
+{
+"key": "part05.html#205",
+"de": "Ripple-Trimmen"
+},
+{
+"key": "part05.html#206",
+"de": "Trimmen, Nachfolgendes rückt auf"
+},
+{
+"key": "part05.html#207",
+"de": "Gesamter Rohschnitt"
+},
+{
+"key": "part05.html#208",
+"de": "Rollen-Trimmen"
+},
+{
+"key": "part05.html#209",
+"de": "Verschiebt nur den Schnittpunkt"
+},
+{
+"key": "part05.html#210",
+"de": "Timing feinjustieren"
+},
+{
+"key": "part05.html#211",
+"de": "Unter-/Verschieben"
+},
+{
+"key": "part05.html#212",
+"de": "Inhalt oder Position ändern, gleiche Länge"
+},
+{
+"key": "part05.html#213",
+"de": "Inhalt tauschen, Rhythmus halten"
+},
+{
+"key": "part05.html#214",
+"de": "Marken"
+},
+{
+"key": "part05.html#215",
+"de": "Markierungen und Notizen in der Timeline"
+},
+{
+"key": "part05.html#216",
+"de": "Feedback umsetzen, Beats markieren"
+},
+{
+"key": "part05.html#217",
+"de": "Verschachteln"
+},
+{
+"key": "part05.html#218",
+"de": "Fasst Clips zu einem zusammen"
+},
+{
+"key": "part05.html#219",
+"de": "Effekte auf eine Gruppe"
+},
+{
+"key": "part05.html#220",
+"de": "Einstellungsebene"
+},
+{
+"key": "part05.html#221",
+"de": "Effekte auf alle Clips darunter zugleich"
+},
+{
+"key": "part05.html#222",
+"de": "Gesamtes Grading, Filmkorn"
+},
+{
+"key": "part05.html#223",
+"de": "Geschwindigkeit ändern"
+},
+{
+"key": "part05.html#224",
+"de": "Langsam, schnell, rückwärts"
+},
+{
+"key": "part05.html#225",
+"de": "Zeitlupe, Zeitraffer"
+},
+{
+"key": "part05.html#226",
+"de": "Zeitinterpolation"
+},
+{
+"key": "part05.html#227",
+"de": "Frame-Überblendung, optischer Fluss"
+},
+{
+"key": "part05.html#228",
+"de": "Flüssige Zeitlupe"
+},
+{
+"key": "part05.html#229",
+"de": "Masken und Tracking"
+},
+{
+"key": "part05.html#230",
+"de": "Effekte nur auf einen Bereich"
+},
+{
+"key": "part05.html#231",
+"de": "Gesichter verwischen, Logos verdecken"
+},
+{
+"key": "part05.html#232",
+"de": "Warp-Stabilizer"
+},
+{
+"key": "part05.html#233",
+"de": "Entfernt Wackeln"
+},
+{
+"key": "part05.html#234",
+"de": "Handkamera"
+},
+{
+"key": "part05.html#235",
+"de": "Lumetri-LUTs"
+},
+{
+"key": "part05.html#236",
+"de": "Wandelt Log-Material um"
+},
+{
+"key": "part05.html#237",
+"de": "Grading-Schritt 1"
+},
+{
+"key": "part05.html#238",
+"de": "Farbabgleich"
+},
+{
+"key": "part05.html#239",
+"de": "Gleicht Farben zweier Einstellungen automatisch an"
+},
+{
+"key": "part05.html#240",
+"de": "Einstellungen verschiedener Kameras"
+},
+{
+"key": "part05.html#241",
+"de": "Auto-Untertitel"
+},
+{
+"key": "part05.html#242",
+"de": "Untertitel per Spracherkennung"
+},
+{
+"key": "part05.html#243",
+"de": "Interviews, Erklärvideos"
+},
+{
+"key": "part05.html#244",
+"de": "Essential-Graphics-Vorlagen"
+},
+{
+"key": "part05.html#245",
+"de": "Wiederkehrende Titelstile erneut nutzen"
+},
+{
+"key": "part05.html#246",
+"de": "Serieninhalte"
+},
+{
+"key": "part05.html#247",
+"de": "Offline-Medien neu verknüpfen"
+},
+{
+"key": "part05.html#248",
+"de": "Quellen mit defekten Pfaden neu verbinden"
+},
+{
+"key": "part05.html#249",
+"de": "Nach dem Verschieben von Ordnern"
+},
+{
+"key": "part05.html#250",
+"de": "Projektmanager"
+},
+{
+"key": "part05.html#251",
+"de": "Sammelt nur die verwendeten Medien"
+},
+{
+"key": "part05.html#252",
+"de": "Sicherung, Übergabe an Dienstleister"
+},
+{
+"key": "part05.html#253",
+"de": "Häufige Tastenkürzel"
+},
+{
+"key": "part05.html#254",
+"de": "Kürzel"
+},
+{
+"key": "part05.html#255",
+"de": "Funktion"
+},
+{
+"key": "part05.html#256",
+"de": "Kürzel"
+},
+{
+"key": "part05.html#257",
+"de": "Funktion"
+},
+{
+"key": "part05.html#258",
+"de": "Rasierklinge"
+},
+{
+"key": "part05.html#259",
+"de": "Auswahl-Werkzeug"
+},
+{
+"key": "part05.html#260",
+"de": "Spurauswahl vorwärts"
+},
+{
+"key": "part05.html#261",
+"de": "Ripple-Werkzeug"
+},
+{
+"key": "part05.html#262",
+"de": "In-/Out-Point"
+},
+{
+"key": "part05.html#263",
+"de": "Leertaste"
+},
+{
+"key": "part05.html#264",
+"de": "Wiedergabe und Stopp"
+}
+]

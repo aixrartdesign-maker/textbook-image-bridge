@@ -1,0 +1,78 @@
+{
+ "stem": "p122_131_1375x571",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p122_131_1375x571.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "14mm  angle of view 104°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 66,
+    "chars_per_line_if_shrunk": 81,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "1",
+   "en": "24mm  angle of view 74°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 23,
+    "chars_per_line_max": 66,
+    "chars_per_line_if_shrunk": 81,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "2",
+   "en": "50mm  angle of view 40°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 23,
+    "chars_per_line_max": 66,
+    "chars_per_line_if_shrunk": 81,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "85mm  angle of view 24°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 23,
+    "chars_per_line_max": 66,
+    "chars_per_line_if_shrunk": 81,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "135mm  angle of view 15°",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 67,
+    "chars_per_line_if_shrunk": 82,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "5",
+   "en": "From one spot, a new focal length changes both framing and compression",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 70,
+    "chars_per_line_max": 124,
+    "chars_per_line_if_shrunk": 152,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+[
+{
+"key": "part05.html#265",
+"de": "Ripple-Trimmen vorn / hinten"
+},
+{
+"key": "part05.html#266",
+"de": "Marke hinzufügen"
+},
+{
+"key": "part05.html#267",
+"de": "Strg+K"
+},
+{
+"key": "part05.html#268",
+"de": "Am Abspielkopf schneiden"
+},
+{
+"key": "part05.html#269",
+"de": "Umschalt+Entf"
+},
+{
+"key": "part05.html#270",
+"de": "Ripple-Löschen"
+},
+{
+"key": "part05.html#271",
+"de": "Rückwärts / Stopp / Vorwärts"
+},
+{
+"key": "part05.html#272",
+"de": "Pfeiltasten"
+},
+{
+"key": "part05.html#273",
+"de": "1 Bild vor/zurück"
+},
+{
+"key": "part05.html#274",
+"de": "Strg+M"
+},
+{
+"key": "part05.html#275",
+"de": "Exportieren"
+},
+{
+"key": "part05.html#276",
+"de": "Strg+S"
+},
+{
+"key": "part05.html#277",
+"de": "Speichern"
+},
+{
+"key": "part05.html#278",
+"de": "<small>Übung</small>5.4"
+},
+{
+"key": "part05.html#279",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#280",
+"de": "Stellen Sie in Premiere Pro ein 1-Minuten-Video fertig: Schnitt, Untertitel, Tonbereinigung, Farbe und Export."
+},
+{
+"key": "part05.html#281",
+"de": "Tipp"
+},
+{
+"key": "part05.html#282",
+"de": "Passen Sie die Sequenzeinstellungen an das Quellmaterial an und richten Sie früh Tastenkürzel ein."
+},
+{
+"key": "part05.html#283",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#284",
+"de": "Aufgeräumte Timeline, Ausgabespezifikationen erfüllt"
+},
+{
+"key": "part05.html#285",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#286",
+"de": "Teilen Sie die Spuren nach Rolle auf (Dialog, SFX, Musik) und versehen Sie sie mit Farbmarkierungen."
+},
+{
+"key": "part05.html#287",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#288",
+"de": "After Effects auf einen Blick"
+},
+{
+"key": "part05.html#289",
+"de": "After Effects ist kein Schnittwerkzeug, sondern ein Werkzeug, um Elemente innerhalb eines einzelnen Bildes zu stapeln, zu bewegen und zusammenzusetzen. Premiere ordnet die Zeit horizontal, After Effects die Ebenen vertikal."
+},
+{
+"key": "part05.html#290",
+"de": "Schnitt in der Zeit, Compositing in Ebenen"
+},
+{
+"key": "part05.html#291",
+"de": "<i>6</i><span><b>Kamera</b> – virtuelle Kamera – sieht alle Ebenen</span>"
+},
+{
+"key": "part05.html#292",
+"de": "<i>5</i><span><b>Licht</b> – Schatten und Helligkeit nur für 3D-Ebenen</span>"
+},
+{
+"key": "part05.html#293",
+"de": "<i>4</i><span><b>3D-Text</b> – Buchstaben mit Tiefe – Seiten werden sichtbar, wenn sich die Kamera dreht</span>"
+},
+{
+"key": "part05.html#294",
+"de": "<i>3</i><span><b>Person (freigestellt)</b> – Filmmaterial, Hintergrund entfernt</span>"
+},
+{
+"key": "part05.html#295",
+"de": "<i>2</i><span><b>Mittelgrund</b> – Grafik · Verlauf – Tiefe</span>"
+},
+{
+"key": "part05.html#296",
+"de": "<i>1</i><span><b>Hintergrundbild</b> – unten – Basismaterial</span>"
+},
+{
+"key": "part05.html#297",
+"de": "Die oberste Ebene ist der Vordergrund des Bildes. Ändern Sie die Reihenfolge, ändert sich, was verdeckt ist – Schnitt in der Zeit, Compositing in Ebenen."
+},
+{
+"key": "part05.html#298",
+"de": "<b>Abb. 47</b> Der Ebenenstapel in After Effects – sechs Ebenen, von unten nach oben gestapelt. Kamera und Licht sind keine Bilder, sondern „Arten, die Ebenen zu betrachten“."
+},
+{
+"key": "part05.html#299",
+"de": "Position, Skalierung, Drehung, Deckkraft. Tastenkürzel, die die fünf grundlegenden Keyframe-Eigenschaften aufrufen."
+}
+]

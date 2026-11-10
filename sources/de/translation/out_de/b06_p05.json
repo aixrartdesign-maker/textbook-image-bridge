@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_lighting.html#226",
+"de": "Last zusammenrechnen: 1 Haushaltsstromkreis ≈ 3 kW"
+},
+{
+"key": "feature_lighting.html#227",
+"de": "Ab 2 m Höhe zu zweit"
+},
+{
+"key": "feature_lighting.html#228",
+"de": "Fehlerbild"
+},
+{
+"key": "feature_lighting.html#229",
+"de": "Ursache"
+},
+{
+"key": "feature_lighting.html#230",
+"de": "Lösung"
+},
+{
+"key": "feature_lighting.html#231",
+"de": "Gesicht wirkt flach"
+},
+{
+"key": "feature_lighting.html#232",
+"de": "Führungslicht zu nah an der Kameraachse oder zu viel Umgebungslicht"
+},
+{
+"key": "feature_lighting.html#233",
+"de": "Führungslicht 30° zur Seite · nach oben, Streulicht beseitigen, abschatten"
+},
+{
+"key": "feature_lighting.html#234",
+"de": "Zwei Schatten"
+},
+{
+"key": "feature_lighting.html#235",
+"de": "Führungs- und Aufhelllicht beide hart"
+},
+{
+"key": "feature_lighting.html#236",
+"de": "Aufhelllicht weich machen (über Aufheller), 1/3 Intensität"
+},
+{
+"key": "feature_lighting.html#237",
+"de": "Glänzende Haut"
+},
+{
+"key": "feature_lighting.html#238",
+"de": "Kleine harte Quelle, frontal"
+},
+{
+"key": "feature_lighting.html#239",
+"de": "Diffusion · Softbox, Puder, Winkel erhöhen"
+},
+{
+"key": "feature_lighting.html#240",
+"de": "Hintergrund so hell wie das Motiv"
+},
+{
+"key": "feature_lighting.html#241",
+"de": "Fluter trifft den Hintergrund"
+},
+{
+"key": "feature_lighting.html#242",
+"de": "Torblenden · Abschatter, Führungslicht nah ans Motiv (Abstandsgesetz)"
+},
+{
+"key": "feature_lighting.html#243",
+"de": "Reflexe auf der Brille"
+},
+{
+"key": "feature_lighting.html#244",
+"de": "Quelle frontal auf Augenhöhe"
+},
+{
+"key": "feature_lighting.html#245",
+"de": "Führungslicht höher und seitlicher; Brillenbügel leicht anheben"
+},
+{
+"key": "feature_lighting.html#246",
+"de": "Grünstich"
+},
+{
+"key": "feature_lighting.html#247",
+"de": "Leuchtstofflicht beigemischt"
+},
+{
+"key": "feature_lighting.html#248",
+"de": "Leuchtstoffröhren ausschalten oder Weißabgleich auf Leuchtstoff stellen und Plusgrün-Folie aufs Führungslicht"
+},
+{
+"key": "feature_lighting.html#249",
+"de": "Flackern"
+},
+{
+"key": "feature_lighting.html#250",
+"de": "Verschlusszeit passt nicht zu LED · HMI"
+},
+{
+"key": "feature_lighting.html#251",
+"de": "Verschluss 1/50 (50 Hz), flimmerfreie Leuchten, Testaufnahme"
+},
+{
+"key": "feature_lighting.html#252",
+"de": "<small>Übung</small>4.7+"
+},
+{
+"key": "feature_lighting.html#253",
+"de": "Aufgabe"
+},
+{
+"key": "feature_lighting.html#254",
+"de": "Behalten Sie dasselbe Motiv · dieselbe Stelle bei und drehen Sie je eine Einstellung in fünf Lichtarten: Pinspot / Spot / Fluter / weich / Umgebung. Zeichnen Sie für jede Einstellung einen Lichtplan (Draufsicht). Bauen Sie eine davon in After Effects mit den 3D-Lichtern Spot · Punkt · Umgebung nach."
+},
+{
+"key": "feature_lighting.html#255",
+"de": "Tipp"
+},
+{
+"key": "feature_lighting.html#256",
+"de": "Keine Ausrüstung? Nehmen Sie eine Taschenlampe (Pinspot), eine Schreibtischlampe (Spot), ein Fenster (weich) und einen bewölkten Tag (Umgebung). Entscheidend ist, die Unterschiede der Schattenkanten mit eigenen Augen zu sehen."
+},
+{
+"key": "feature_lighting.html#257",
+"de": "Bewertung"
+},
+{
+"key": "feature_lighting.html#258",
+"de": "Unterschied der Schattenkanten in den fünf Einstellungen, Winkel in den Plänen eingezeichnet, gleiche Schattenrichtung in der Software-Nachbildung"
+},
+{
+"key": "feature_lighting.html#259",
+"de": "Musterlösung"
+},
+{
+"key": "feature_lighting.html#260",
+"de": "Stellen Sie die fünf Einstellungen nebeneinander auf einen Bildschirm und beschriften Sie jede mit einem Satz dazu, zu welcher Emotion ihr Licht passt."
+},
+{
+"key": "part05.html#0",
+"de": "TEIL"
+},
+{
+"key": "part05.html#1",
+"de": "<small>TEIL</small>05"
+},
+{
+"key": "part05.html#2",
+"de": "<b>Das erstellen Sie in diesem TEIL</b>"
+},
+{
+"key": "part05.html#3",
+"de": "Eine 1-Minuten-Fassung, mit begründeten Schnitten gekürzt"
+},
+{
+"key": "part05.html#4",
+"de": "Eine 5-Sekunden-Logoanimation mit Easing"
+},
+{
+"key": "part05.html#5",
+"de": "Ein Abgabe-Master mit Compositing · Color Grading · Ausgabespezifikationen"
+},
+{
+"key": "part05.html#6",
+"de": "Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#7",
+"de": "Der Dreh sammelt Material; der Schnitt schafft Bedeutung. Ändern Sie Reihenfolge und Länge, und dasselbe Material wird zu einem anderen Video. Dieser TEIL führt von Geschichte und Prinzipien des Schnitts zu einer Karte von Premiere Pro, After Effects und DaVinci Resolve. Die Frage, mit der dieses Kapitel beginnt: Was bringt Menschen dazu, bis zum Ende zuzusehen?"
+},
+{
+"key": "part05.html#8",
+"de": "Foto P-05 Schnittplatz bei Nacht – Timeline und Grading-Monitor · generiertes Bild"
+},
+{
+"key": "part05.html#9",
+"de": "<b>P-05</b> Schnittplatz bei Nacht – Timeline und Grading-Monitor"
+},
+{
+"key": "part05.html#10",
+"de": "Dieses Kapitel im Unterricht"
+},
+{
+"key": "part05.html#11",
+"de": "Begründet schneiden und Easing anwenden"
+},
+{
+"key": "part05.html#12",
+"de": "<b>Material</b>Installierte Schnittsoftware, Ordner mit Übungsmaterial, 1 Musiktitel"
+},
+{
+"key": "part05.html#13",
+"de": "<b>10 Min.</b><i>Einstieg</i><span>Schnittfassungen vorführen: Musik zuerst vs. zuletzt angelegt</span>"
+},
+{
+"key": "part05.html#14",
+"de": "<b>15 Min.</b><i>Konzept</i><span>8 Schnittprinzipien, Schnitt in der Bewegung und Match Cut, Rollen von Premiere vs. After Effects</span>"
+},
+{
+"key": "part05.html#15",
+"de": "<b>10 Min.</b><i>Tafeln</i><span>Easing mit springendem Ball und Timing-Diagrammen erklären</span>"
+},
+{
+"key": "part05.html#16",
+"de": "<b>10 Min.</b><i>Übung</i><span>Gleiches Material, zwei 30-Sekunden-Schnittfassungen</span>"
+},
+{
+"key": "part05.html#17",
+"de": "<b>5 Min.</b><i>Abschluss</i><span>Benennung der Projektordner vereinbaren</span>"
+},
+{
+"key": "part05.html#18",
+"de": "<b>Kontrollpunkt</b>Sie können in einem Satz sagen, warum Sie jeden Schnitt gesetzt haben"
+},
+{
+"key": "part05.html#19",
+"de": "TEIL 05"
+},
+{
+"key": "part05.html#20",
+"de": "Einführung"
+},
+{
+"key": "part05.html#21",
+"de": "Der Dreh sammelt Material; der Schnitt schafft Bedeutung. Ändern Sie Reihenfolge und Länge, und dasselbe Material ergibt ein völlig anderes Video. Kuleschow hat das vor 100 Jahren bewiesen, und im Zeitalter der Kurzvideos mit immer kürzeren Schnitten wirkt es noch stärker."
+},
+{
+"key": "part05.html#22",
+"de": "Dieser Teil beginnt mit der Geschichte der Schnitttechnik und stellt die Funktionen von Premiere Pro und After Effects systematisch dar. Die Funktionslisten sind eine Karte, kein Stoff zum Auswendiglernen. Wer weiß, in welchen Bereich welches Werkzeugs ein Problem gehört, löst es mit einer Suche; ohne Karte irrt man stundenlang umher."
+},
+{
+"key": "part05.html#23",
+"de": "Vor allem After Effects denkt anders als Premiere. Premiere ordnet die Zeit horizontal, After Effects die Ebenen vertikal. Ohne dieses Wissen in After Effects schneiden zu wollen, ist der klassische Anfängerfehler. Allein eine klare Rollenteilung der beiden Werkzeuge halbiert Ihre Arbeitszeit."
+},
+{
+"key": "part05.html#24",
+"de": "Hintergrund 7"
+},
+{
+"key": "part05.html#25",
+"de": "Unsichtbarer Schnitt"
+},
+{
+"key": "part05.html#26",
+"de": "Guter Schnitt sorgt dafür, dass das Publikum den Schnitt nicht bemerkt. Ein Schnitt zerteilt Zeit und Raum, doch das Publikum muss ihn als natürlichen Fluss empfinden."
+},
+{
+"key": "part05.html#27",
+"de": "Der Editor Walter Murch vergleicht in „Ein Lidschlag, ein Schnitt“ (1995) einen Lidschlag mit einem Schnitt. Wir blinzeln, wenn ein Gedanke wechselt oder sich unser Blick verschiebt. Ein guter Schnitt fällt ebenso dorthin, wo ein Gedankenabschnitt des Publikums endet. Deshalb schaut der Editor zuerst nicht auf den Bildschirm, sondern darauf, wie weit das Publikum gedanklich ist."
+},
+{
+"key": "part05.html#28",
+"de": "Murch ordnete die Kriterien für einen Schnitt: Emotion 51 Prozent, Geschichte 23 Prozent, Rhythmus 10 Prozent, Blickführung 7 Prozent, die 2D-Fläche des Bildes 5 Prozent, räumliche 3D-Kontinuität 4 Prozent. Die Reihenfolge zählt mehr als die Zahlen: Wählen Sie den Schnitt mit der richtigen Emotion, auch wenn die Kontinuität etwas leidet. Studentische Arbeiten kehren diese Reihenfolge oft um, klammern sich an Bewegungsanschlüsse und verlieren den emotionalen Fluss."
+},
+{
+"key": "part05.html#29",
+"de": "Kontinuitätstechniken – Schnitt in der Bewegung, Blickanschluss, 180-Grad-Regel – verhindern alle, dass sich das Publikum in Raum und Zeit verliert. Eisensteins Montagetradition tat das Gegenteil: Sie legte die Nahtstellen offen, um Zusammenprall und Bedeutung zu erzeugen. Der Editor entscheidet von Fall zu Fall, ob er die Nähte versteckt oder zeigt."
+},
+{
+"key": "part05.html#30",
+"de": "Schnitt ist auch eine Kunst der Zeit. Kürzere Einstellungen erhöhen die Spannung; längere geben dem Publikum Raum zum Nachdenken. In Werbung und Kurzvideos wird schneller geschnitten, nicht nur um Informationen unterzubringen, sondern um die Aufmerksamkeit immer wieder neu zu fangen."
+},
+{
+"key": "part05.html#31",
+"de": "Mit dem digitalen nonlinearen Schnitt lässt sich alles rückgängig machen, doch Urteilsvermögen liefert er nicht. Gewöhnen Sie sich schon beim Erlernen der Software an, bei jedem Schnitt zu fragen: „Was fühlt das Publikum gerade?“ Zum Weiterlesen: Walter Murch, „Ein Lidschlag, ein Schnitt“; Ken Dancyger, „The Technique of Film and Video Editing“."
+},
+{
+"key": "part05.html#32",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#33",
+"de": "Geschichte der Schnittwerkzeuge"
+},
+{
+"key": "part05.html#34",
+"de": "Die Werkzeuge reichen von der Filmschere bis zur generativen KI; das Gerüst der Arbeit hat sich kaum verändert."
+},
+{
+"key": "part05.html#35",
+"de": "<b>Referenzfotos 5.1A</b>Generierte Bilder – die Ära des Klebens"
+},
+{
+"key": "part05.html#36",
+"de": "<span class=\"ph-id\">P05-SPLICER</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Als Film geschnitten und geklebt wurde</b>Hände eines Cutters an der Klebepresse, geschnittene Filmstreifen und Klebeband</span>"
+},
+{
+"key": "part05.html#37",
+"de": "<b>a</b>Klebepresse – ein Werkzeug, das Film physisch schneidet und mit Klebeband oder Filmkitt verbindet. Dass wir bis heute vom „Schnitt“ sprechen, geht auf dieses physische Schneiden von Film mit der Schere zurück."
+},
+{
+"key": "part05.html#38",
+"de": "<span class=\"ph-id\">P05-FLATBED</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Schneidetisch</b>Waagerechter Tisch mit Spulen und kleinem Bildschirm, dunkler Schneideraum</span>"
+},
+{
+"key": "part05.html#39",
+"de": "<b>b</b>Schneidetisch – ein waagerechter Tisch wie der Steenbeck, an dem der Film vor- und zurückgespult wurde, um den Schnittpunkt zu finden. Hier wurde das Gefühl trainiert, Einzelbilder mit den Fingerspitzen zu zählen."
+},
+{
+"key": "part05.html#40",
+"de": "<b>EDL</b>"
+},
+{
+"key": "part05.html#41",
+"de": "Schnittliste (Edit Decision List). Das Referenzdokument, um die Schnittentscheidungen des Offline-Schnitts im Online-Schnitt in hoher Qualität nachzubauen."
+},
+{
+"key": "part05.html#42",
+"de": "Zeitraum"
+},
+{
+"key": "part05.html#43",
+"de": "Was sich änderte"
+},
+{
+"key": "part05.html#44",
+"de": "Physischer Schnitt: Film von Hand schneiden und kleben. Cutter spulten den Film an Moviola und Steenbeck, um Schnittpunkte zu finden, und zählten Einzelbilder mit den Fingerspitzen."
+},
+{
+"key": "part05.html#45",
+"de": "Das Videoband kommt. Der Schnitt wird zur linearen Montage durch Überspielen zwischen zwei Rekordern."
+},
+{
+"key": "part05.html#46",
+"de": "Timecode standardisiert, EDL eingeführt. Das zweistufige Verfahren setzt sich durch: offline entscheiden, online in hoher Qualität nachbauen."
+},
+{
+"key": "part05.html#47",
+"de": "Nonlineare Schnittsysteme kommen auf den Markt. Mit wahlfreiem Zugriff wird Schnitt zur Denkarbeit des Umordnens von Material."
+},
+{
+"key": "part05.html#48",
+"de": "Schnittsoftware für den Desktop kommt in Wellen. Der PC wird zum Schneideraum, die Einstiegskosten stürzen ab."
+},
+{
+"key": "part05.html#49",
+"de": "Umstieg auf HD, mehr Codecs. Proxy-Schnitt wird Standard."
+},
+{
+"key": "part05.html#50",
+"de": "Cloud-Zusammenarbeit, automatischer Farbabgleich, GPU-Beschleunigung. Ein Profi-Grading-Werkzeug wird kostenlos, Farbkorrektur wird zur Allgemeinkompetenz."
+},
+{
+"key": "part05.html#51",
+"de": "Mobile Schnitt-Apps, automatische Untertitel, automatischer Schnitt. Generative KI kommt als Schnittassistenz hinzu; der erste Rohschnitt wird automatisiert, während sich Menschen auf das Urteil konzentrieren."
+},
+{
+"key": "part05.html#52",
+"de": "Gewohnheiten aus der Geschichte"
+},
+{
+"key": "part05.html#53",
+"de": "Die alte Trennung von Offline und Online lebt im heutigen Proxy-Schnitt weiter. EDLs und Timecode sind noch immer die Basis der Zusammenarbeit, und das Gespür für Einzelbilder aus der Moviola-Ära zeichnet bis heute gute Editoren aus."
+},
+{
+"key": "part05.html#54",
+"de": "<small>Übung</small>5.1"
+},
+{
+"key": "part05.html#55",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#56",
+"de": "Erstellen Sie zwei Fassungen derselben Szene: einmal streng der Reihe nach montiert wie in der Moviola-Ära, einmal nonlinear geschnitten."
+},
+{
+"key": "part05.html#57",
+"de": "Tipp"
+},
+{
+"key": "part05.html#58",
+"de": "Legen Sie eine Regel fest: kein Rückgängigmachen in der linearen Fassung."
+},
+{
+"key": "part05.html#59",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#60",
+"de": "Wie die Methode die Arbeitshaltung prägt"
+},
+{
+"key": "part05.html#61",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#62",
+"de": "Protokollieren Sie Arbeitszeit und Ergebnisse beider Methoden."
+},
+{
+"key": "part05.html#63",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#64",
+"de": "Grundprinzipien des Schnitts"
+},
+{
+"key": "part05.html#65",
+"de": "Schneiden Sie nicht, weil es langweilig ist, sondern wenn die nächste Einstellung bessere Informationen bietet."
+},
+{
+"key": "part05.html#66",
+"de": "<span class=\"ph-id\">P05-NLE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Nonlinearer Schnitt</b>Schnittplatz mit zwei Monitoren, eine Timeline mit farbcodierten Clips und ein Referenzmonitor</span>"
+},
+{
+"key": "part05.html#67",
+"de": "<b>Hinweis</b>Nonlinearer Schnitt – mit sofortigem Zugriff auf jede Stelle wurde Schnitt vom „Schneiden“ zum „Denken durch Auswählen und Anordnen“"
+},
+{
+"key": "part05.html#68",
+"de": "Die Timeline in vier Zeilen lesen"
+},
+{
+"key": "part05.html#69",
+"de": "V2 Titel"
+},
+{
+"key": "part05.html#70",
+"de": "V1 Bild"
+},
+{
+"key": "part05.html#71",
+"de": "A1 Dialog"
+},
+{
+"key": "part05.html#72",
+"de": "A2 Musik · SFX"
+},
+{
+"key": "part05.html#73",
+"de": "L-Schnitt"
+},
+{
+"key": "part05.html#74",
+"de": "Ton der vorigen Einstellung läuft weiter"
+},
+{
+"key": "part05.html#75",
+"de": "J-Schnitt"
+},
+{
+"key": "part05.html#76",
+"de": "Ton der nächsten Einstellung setzt früher ein"
+},
+{
+"key": "part05.html#77",
+"de": "Abspielkopf"
+},
+{
+"key": "part05.html#78",
+"de": "Versetzen Sie Bild- und Tonschnitt, und der Schnitt fließt. Schneiden Sie beide an einem Punkt, „holpert“ es."
+},
+{
+"key": "part05.html#79",
+"de": "<b>Abb. 46</b> Aufbau einer Schnitt-Timeline – die oberen zwei Zeilen sind „was man sieht“, die unteren zwei „was man hört“. J- und L-Schnitte setzen den Tonschnitt vor oder hinter den Bildschnitt."
+},
+{
+"key": "part05.html#80",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part05.html#81",
+"de": "Legen Sie zuerst den Ton an. Steht das Timing von Musik und Dialog, legen Sie das Bild darüber – das Ergebnis wird besser."
+},
+{
+"key": "part05.html#82",
+"de": "<b>01</b><span>Schneiden Sie nur mit Grund: wenn die nächste Einstellung bessere Informationen liefert.</span>"
+},
+{
+"key": "part05.html#83",
+"de": "<b>02</b><span>Schneiden Sie in der Bewegung. Schneiden Sie erst nach ihrem Ende, erlahmt der Rhythmus.</span>"
+},
+{
+"key": "part05.html#84",
+"de": "<b>03</b><span>Legen Sie zuerst den Ton an. Erst das Timing von Musik und Dialog, dann das Bild.</span>"
+},
+{
+"key": "part05.html#85",
+"de": "<b>04</b><span>Ändern Sie Größe und Winkel gemeinsam. Ändert sich nur eines, wirkt es wie ein Sprung.</span>"
+},
+{
+"key": "part05.html#86",
+"de": "<b>05</b><span>Halten Sie Blickachsen ein. Schaut eine Figur nach links und in der nächsten Einstellung nach rechts, bricht die Beziehung.</span>"
+},
+{
+"key": "part05.html#87",
+"de": "<b>06</b><span>Werfen Sie mutig raus. Wer eine Einstellung nur behält, weil sie mühsam war, macht das Video zäh.</span>"
+},
+{
+"key": "part05.html#88",
+"de": "<b>07</b><span>Legen Sie zuerst Anfang und Ende fest. Stehen sie, ordnet sich die Mitte von selbst.</span>"
+},
+{
+"key": "part05.html#89",
+"de": "<b>08</b><span>Schauen Sie einen Tag nach Fertigstellung noch einmal. Dann zeigen sich Längen, die Sie am selben Tag nicht gesehen haben.</span>"
+},
+{
+"key": "part05.html#90",
+"de": "Behalten Sie die nötigen Einstellungen, nicht die guten.<small>5.2 Grundprinzipien des Schnitts</small>"
+},
+{
+"key": "part05.html#91",
+"de": "<small>Übung</small>5.2"
+},
+{
+"key": "part05.html#92",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#93",
+"de": "Kürzen Sie 3 Minuten Material auf 1 Minute. Listen Sie auf, was Sie entfernt haben."
+},
+{
+"key": "part05.html#94",
+"de": "Tipp"
+},
+{
+"key": "part05.html#95",
+"de": "Behalten Sie die nötigen Einstellungen, nicht die guten. Beginnen Sie jede Einstellung mitten in der Bewegung."
+},
+{
+"key": "part05.html#96",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#97",
+"de": "Klare Geschichte, natürliche Schnittpunkte"
+},
+{
+"key": "part05.html#98",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#99",
+"de": "Walter Murchs Schnittprioritäten (Emotion, Geschichte, Rhythmus). Ein Satz dazu, warum jede Einstellung entfiel."
+},
+{
+"key": "part05.html#100",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#101",
+"de": "Schnittsoftware im Vergleich"
+},
+{
+"key": "part05.html#102",
+"de": "Für den Job ist es besser, zwei Werkzeuge gründlich zu kennen als drei oberflächlich."
+},
+{
+"key": "part05.html#103",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part05.html#104",
+"de": "Vorab prüfen: die Bedingungen für kommerzielle Nutzung bei CapCut sowie bei Final Cut die Beschränkung auf Mac und die Grenzen der Zusammenarbeit."
+},
+{
+"key": "part05.html#105",
+"de": "Werkzeug"
+},
+{
+"key": "part05.html#106",
+"de": "Stärken"
+},
+{
+"key": "part05.html#107",
+"de": "Schwächen"
+},
+{
+"key": "part05.html#108",
+"de": "Ideal für"
+},
+{
+"key": "part05.html#109",
+"de": "Preis"
+},
+{
+"key": "part05.html#110",
+"de": "Premiere Pro"
+},
+{
+"key": "part05.html#111",
+"de": "Vielseitig, Anbindung an After Effects, Standard bei Jobs in Korea"
+},
+{
+"key": "part05.html#112",
+"de": "Schwankende Stabilität, beschädigte Projekte"
+},
+{
+"key": "part05.html#113",
+"de": "Werbung, Webvideo, die meisten Profi-Jobs"
+},
+{
+"key": "part05.html#114",
+"de": "Abo"
+}
+]

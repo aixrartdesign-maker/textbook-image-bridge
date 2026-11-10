@@ -1,0 +1,602 @@
+[
+ {
+  "key": "part01.html#663",
+  "de": "Praxistipps"
+ },
+ {
+  "key": "part01.html#664",
+  "de": "Beschreiben Sie eine Referenz in Meetings nicht mit Worten; schicken Sie den Link mit dem Zeitbereich. Allein die Angabe „von 3:45 bis 4:10“ halbiert die Besprechungszeit."
+ },
+ {
+  "key": "part01.html#665",
+  "de": "Wenn Sie sich in ein neues Werkzeug einarbeiten, klären Sie zuerst nicht seine Funktionsliste, sondern welchen bestehenden Ablauf es ersetzt. Wer weiß, wo es hingehört, lernt schneller."
+ },
+ {
+  "key": "part01.html#666",
+  "de": "Kennen Sie einen Fachbegriff nicht, fragen Sie sofort nach. Der Begriff, den Sie zu kennen vorgaben, verursacht die größten Pannen."
+ },
+ {
+  "key": "part13.html#0",
+  "de": "TEIL"
+ },
+ {
+  "key": "part13.html#1",
+  "de": "<small>TEIL</small>13"
+ },
+ {
+  "key": "part13.html#2",
+  "de": "<b>Das entsteht in diesem TEIL</b>"
+ },
+ {
+  "key": "part13.html#3",
+  "de": "Ein Ausstellungsloop, der ab jeder beliebigen Stelle in 30 Sekunden verständlich ist"
+ },
+ {
+  "key": "part13.html#4",
+  "de": "Ein Echtzeitwerk, das auf eine einzige Geste des Betrachters reagiert"
+ },
+ {
+  "key": "part13.html#5",
+  "de": "Aufbauzeichnung · Geräteliste · Betriebsplan"
+ },
+ {
+  "key": "part13.html#6",
+  "de": "Ein 250-Zeichen-Statement, einseitiges Portfolio, Ausschreibungskalender"
+ },
+ {
+  "key": "part13.html#7",
+  "de": "Medienkunst und Expanded Cinema"
+ },
+ {
+  "key": "part13.html#8",
+  "de": "Ist ein Video erst vollendet, wenn sich das Publikum bewegt – wer hat es dann gemacht? Dieser TEIL stellt die Frage, die Nam June Paik aufgeworfen hat, vom heutigen Standpunkt aus neu. Wenn das Bild das Rechteck verlässt, aus Zuschauern Mitwirkende werden und das Werk einen Monat lang allein in einer Galerie laufen muss, bleibt das meiste, was Videomacher gelernt haben, weiterhin nützlich. Nur die Art, es einzusetzen, ändert sich."
+ },
+ {
+  "key": "part13.html#9",
+  "de": "Foto OPEN-13 TEIL-Trennseite, ganzseitiges Foto · generiertes Bild"
+ },
+ {
+  "key": "part13.html#10",
+  "de": "Dieses Kapitel im Unterricht"
+ },
+ {
+  "key": "part13.html#11",
+  "de": "Verstehen, wie sich die Prämissen von klassischem Video und Medienkunst unterscheiden, mit Echtzeitwerkzeugen ein Werk gestalten, das auf das Publikum reagiert, es so installieren · betreiben · dokumentieren, dass es einen Monat lang in einer Galerie funktioniert, und sich auf eine Ausschreibung bewerben."
+ },
+ {
+  "key": "part13.html#12",
+  "de": "<b>Material</b>Laptop mit Webcam, ein kostenloses Echtzeitwerkzeug (TouchDesigner Non-Commercial oder p5.js), 1 eigenes Video, Maßband, Ausdruck einer Ausschreibung für öffentliche Medienkunst in Seoul"
+ },
+ {
+  "key": "part13.html#13",
+  "de": "<b>10 Min.</b><i>Einstieg</i><span>Ein vorhandenes Video ab einer zufälligen Stelle 30 Sekunden lang abspielen und fragen, worum es geht</span>"
+ },
+ {
+  "key": "part13.html#14",
+  "de": "<b>20 Min.</b><i>Neue Prämissen</i><span>13.2 Mit der Tabelle Betrachterposition · Anfang und Ende · Seitenverhältnis · Wiederholung vergleichen; einen Loop skizzieren</span>"
+ },
+ {
+  "key": "part13.html#15",
+  "de": "<b>40 Min.</b><i>Umsetzung</i><span>13.4 Aus einer einzeiligen Regel wie „Es wird heller, wenn jemand näher kommt“ ein Werk bauen, das auf die Webcam reagiert</span>"
+ },
+ {
+  "key": "part13.html#16",
+  "de": "<b>30 Min.</b><i>Aufbaurechnung</i><span>13.5 Für eine Galerie mit 6 m Breite × 4 m Tiefe × 3 m Höhe Projektionsverhältnis · Bildgröße · Stromführung berechnen</span>"
+ },
+ {
+  "key": "part13.html#17",
+  "de": "<b>20 Min.</b><i>Abschluss</i><span>13.6 Ein Statement mit 150 Zeichen schreiben, das mit „Dieses Werk ist …“ beginnt, und gegenseitig lesen</span>"
+ },
+ {
+  "key": "part13.html#18",
+  "de": "<b>Kontrollpunkt</b>Können Sie in einem Satz sagen, was passiert, wenn der Betrachter was tut, und läuft das Werk 10 Minuten ohne Unterbrechung?"
+ },
+ {
+  "key": "part13.html#19",
+  "de": "Hintergrund 23"
+ },
+ {
+  "key": "part13.html#20",
+  "de": "Der Mann, der das Fernsehen umkehrte"
+ },
+ {
+  "key": "part13.html#21",
+  "de": "<span class=\"ph-id\">P13-CRTTOWER</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Der Ursprung der Videokunst – ein Turm aus Fernsehern</b>Installation aus Dutzenden gestapelter Röhrenfernseher mit abstrakten Videobildern in einer dunklen Galerie</span>"
+ },
+ {
+  "key": "part13.html#22",
+  "de": "<b>Hinweis</b>Eine Hommage an Paiks Türme aus Fernsehern – eine Form, die den reinen Empfangskasten stapelte und zum Medium des Gestaltens machte. „The More, the Better“ bestand aus 1.003 Geräten"
+ },
+ {
+  "key": "part13.html#23",
+  "de": "1963 wurde in einer kleinen Galerie in Wuppertal die Ausstellung „Exposition of Music – Electronic Television“ eröffnet. Im Raum standen dreizehn Fernseher. Manche zeigten verzerrte Bilder; bei anderen veränderte sich das Bild, wenn Besucher auf ein Fußpedal traten oder Töne in ein Mikrofon gaben. Sie war die erste Einzelausstellung des 1932 in Seoul geborenen Nam June Paik und gilt heute als Ausgangspunkt der Videokunst."
+ },
+ {
+  "key": "part13.html#24",
+  "de": "Das Fernsehen war damals ein Gerät, mit dem man zu Hause empfing, was der Sender ausstrahlte. Paik wollte diese Einbahnstraße umkehren. Er ließ die Zuschauer ins Bild eingreifen und baute später einen eigenen Videosynthesizer, mit dem sich das Videosignal von Hand formen ließ. Er machte aus einem Medium des Empfangens ein Medium des Gestaltens."
+ },
+ {
+  "key": "part13.html#25",
+  "de": "1962 schloss er sich Fluxus an, einer Bewegung, die die Grenze zwischen Alltag und Kunst aufheben wollte, und nach der Begegnung mit John Cage 1958 brachte er ein östliches Zeitempfinden in seine Arbeit ein. In „TV Buddha“ (1974) sitzt eine Buddhastatue vor einem Fernseher und betrachtet ihr eigenes Bild, das eine Kamera überträgt. Meditation und Closed Circuit, die zyklische Zeit des Ostens und die Elektronik des Westens begegnen sich auf einem Bildschirm."
+ },
+ {
+  "key": "part13.html#26",
+  "de": "Auch über das Werk hinaus reichte sein Weitblick. 1974 verwendete er in einem Konzeptpapier für die Rockefeller Foundation erstmals den Begriff „elektronische Superautobahn“ – 20 Jahre bevor das Internet allgemein bekannt wurde. Am 1. Januar 1984 strahlte er „Good Morning Mr. Orwell“ aus, eine Livesendung, die New York, Paris und Seoul per Satellit verband. Wo Orwell 1984 als Jahr der Überwachung gezeichnet hatte, wollte Paik im selben Jahr die andere Seite zeigen: Technik kann Menschen auch verbinden."
+ },
+ {
+  "key": "part13.html#27",
+  "de": "„The More, the Better“, für die Olympischen Spiele 1988 in Seoul im MMCA Gwacheon errichtet, ist ein 18,5 Meter hoher Turm aus 1.003 gestapelten Fernsehern. 2018 erlosch er, 2022 leuchtete er nach 4 Jahren und 7 Monaten Restaurierung wieder. Die Restaurierung legte das schwierigste Problem der Medienkunst offen. Wenn die Bauteile nicht mehr hergestellt werden – als was überlebt das Werk dann? Die später behandelten Fragen der Konservierung nehmen hier ihren Anfang."
+ },
+ {
+  "key": "part13.html#28",
+  "de": "Weiterführende Literatur – Nam June Paik Art Center, The Return of Nam June Paik · MMCA, My Nam June Paik: Memory, Conservation, Expansion (2023) · Lev Manovich, The Language of New Media"
+ },
+ {
+  "key": "part13.html#29",
+  "de": "<b>TEIL 13</b>Medienkunst und Expanded Cinema"
+ },
+ {
+  "key": "part13.html#30",
+  "de": "Was ist Medienkunst?"
+ },
+ {
+  "key": "part13.html#31",
+  "de": "Medienkunst ist weniger ein Genre als eine Haltung. Sie ist der Sammelbegriff für Werke, die die neuen Medien ihrer Zeit als Material nehmen und erforschen, wie diese Medien Mensch und Welt verändern. In den 1960er-Jahren war es das Fernsehen, in den 1990er-Jahren das Internet, heute sind es Sensoren, Daten und generative Modelle."
+ },
+ {
+  "key": "part13.html#32",
+  "de": "<span class=\"ph-id\">P13-INTERACTIVE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Interaktive Medienkunst</b>Installation mit wandfüllenden Lichtpartikeln, die den Handgesten der Besucher folgend wirbeln, davor Besuchersilhouetten</span>"
+ },
+ {
+  "key": "part13.html#33",
+  "de": "<b>Hinweis</b>Interaktive Medienkunst – die Handlungen des Betrachters verändern den Zustand des Werks. Die Materialien von heute sind Sensoren und Daten"
+ },
+ {
+  "key": "part13.html#34",
+  "de": "Warum es so viele Namen gibt"
+ },
+ {
+  "key": "part13.html#35",
+  "de": "<small>Videokunst</small>Ende der 1960er"
+ },
+ {
+  "key": "part13.html#36",
+  "de": "Entstand mit der Verbreitung tragbarer Videotechnik"
+ },
+ {
+  "key": "part13.html#37",
+  "de": "Verfremdet die Sprache des Fernsehens oder zeigt dem Publikum per Closed Circuit sich selbst"
+ },
+ {
+  "key": "part13.html#38",
+  "de": "<small>Medienkunst</small>Der weitere Begriff"
+ },
+ {
+  "key": "part13.html#39",
+  "de": "Setzte sich durch, als sich das Material über Video hinaus auf Computer, Netzwerke und Sensoren ausweitete"
+ },
+ {
+  "key": "part13.html#40",
+  "de": "<small>Neue Medienkunst</small>Ab den 1990ern"
+ },
+ {
+  "key": "part13.html#41",
+  "de": "Werke, die Digitaltechnik und Internet voraussetzen"
+ },
+ {
+  "key": "part13.html#42",
+  "de": "Schwäche: Das „Neue“ veraltet mit der Zeit"
+ },
+ {
+  "key": "part13.html#43",
+  "de": "<small>Post-Internet-Kunst</small>Als das Internet wie Luft wurde"
+ },
+ {
+  "key": "part13.html#44",
+  "de": "Umstrittener Begriff ohne anerkannte wissenschaftliche Definition"
+ },
+ {
+  "key": "part13.html#45",
+  "de": "<b>Hinweis</b>"
+ },
+ {
+  "key": "part13.html#46",
+  "de": "Sie müssen die Begriffe nicht auswendig lernen. Wenn Sie aber einen davon für Ihr Werk borgen, ohne zu wissen, was er bedeutet, merkt die Jury das sofort."
+ },
+ {
+  "key": "part13.html#47",
+  "de": "Begriffe, die Texte lesbar machen"
+ },
+ {
+  "key": "part13.html#48",
+  "de": "Begriff"
+ },
+ {
+  "key": "part13.html#49",
+  "de": "Bedeutung"
+ },
+ {
+  "key": "part13.html#50",
+  "de": "Quelle"
+ },
+ {
+  "key": "part13.html#51",
+  "de": "Generative Kunst"
+ },
+ {
+  "key": "part13.html#52",
+  "de": "Werk aus einem vorab festgelegten Regelsystem, meist mit einem Zufallselement"
+ },
+ {
+  "key": "part13.html#53",
+  "de": "Definition im Tate-Glossar"
+ },
+ {
+  "key": "part13.html#54",
+  "de": "Interaktivität"
+ },
+ {
+  "key": "part13.html#55",
+  "de": "Handlungen des Betrachters verändern den Zustand des Werks"
+ },
+ {
+  "key": "part13.html#56",
+  "de": "Grundbedingung der Medienkunst"
+ },
+ {
+  "key": "part13.html#57",
+  "de": "Ortsspezifisch"
+ },
+ {
+  "key": "part13.html#58",
+  "de": "Werk, das an die Bedingungen eines Ortes gebunden ist"
+ },
+ {
+  "key": "part13.html#59",
+  "de": "Auch eine Kategorie internationaler Ausschreibungen"
+ },
+ {
+  "key": "part13.html#60",
+  "de": "Postmedialität"
+ },
+ {
+  "key": "part13.html#61",
+  "de": "Zustand, in dem kein einzelnes Medium dominiert und alle Medien einander beeinflussen"
+ },
+ {
+  "key": "part13.html#62",
+  "de": "Peter Weibel (2006)"
+ },
+ {
+  "key": "part13.html#63",
+  "de": "Der postmediale Zustand"
+ },
+ {
+  "key": "part13.html#64",
+  "de": "Versteht Medienspezifik als geschichtete Konventionen"
+ },
+ {
+  "key": "part13.html#65",
+  "de": "Rosalind Krauss (1999)"
+ },
+ {
+  "key": "part13.html#66",
+  "de": "Grübeln Sie nicht darüber, ob Ihr Werk Medienkunst ist. Prüfen Sie nur, ob Sie in einem Satz sagen können, warum es genau dieses Medium sein muss.<small>13.1 Was ist Medienkunst?</small>"
+ },
+ {
+  "key": "part13.html#67",
+  "de": "<small>Übung</small>13.1"
+ },
+ {
+  "key": "part13.html#68",
+  "de": "Aufgabe"
+ },
+ {
+  "key": "part13.html#69",
+  "de": "Wählen Sie drei Medienkunstwerke, die Sie in den letzten 5 Jahren gesehen haben, und notieren Sie zu jedem, welches Medium es als Material nutzte und warum es in keinem anderen Medium funktionieren würde."
+ },
+ {
+  "key": "part13.html#70",
+  "de": "Tipp"
+ },
+ {
+  "key": "part13.html#71",
+  "de": "Fällt die Wahl schwer, beginnen Sie mit den früheren Ausstellungslisten des Nam June Paik Art Center, des MMCA und des Seoul Museum of Art."
+ },
+ {
+  "key": "part13.html#72",
+  "de": "Bewertung"
+ },
+ {
+  "key": "part13.html#73",
+  "de": "Wird erklärt, wie Medium und Thema zusammenhängen? Geht es über bloße Beschreibung hinaus?"
+ },
+ {
+  "key": "part13.html#74",
+  "de": "Musterlösung"
+ },
+ {
+  "key": "part13.html#75",
+  "de": "Eine Analyse, die sogar benannte, was verloren ginge, wenn dasselbe Thema in ein anderes Medium wechselte."
+ },
+ {
+  "key": "part13.html#76",
+  "de": "<b>TEIL 13</b>Medienkunst und Expanded Cinema"
+ },
+ {
+  "key": "part13.html#77",
+  "de": "Wie sich Video und Medienkunst unterscheiden"
+ },
+ {
+  "key": "part13.html#78",
+  "de": "Was ist anders? Wenn Sie bis hierher gelesen haben, besitzen Sie die meisten nötigen Fähigkeiten bereits. Bildausschnitte lesen, Licht setzen, Einstellungen verbinden, mit Ton umgehen – all das gilt weiterhin. Es ändern sich nicht die Fähigkeiten, sondern die Prämissen."
+ },
+ {
+  "key": "part13.html#79",
+  "de": "Zwei Dinge bleiben gleich. Beide sind zeitbasierte Medien; daher sind Länge · Rhythmus · Wiederholung · Stillstand Ausdrucksmittel, und der Produktionsprozess aus Dreh · Licht · Schnitt · Color Grading · Ton bleibt nötig. Je größer die Leinwand, desto deutlicher zeigen sich Ihre Grundlagen."
+ },
+ {
+  "key": "part13.html#80",
+  "de": "Klassisches Video"
+ },
+ {
+  "key": "part13.html#81",
+  "de": "Betrachterposition – sitzend vor dem Bildschirm"
+ },
+ {
+  "key": "part13.html#82",
+  "de": "Anfang und Ende – festgelegt"
+ },
+ {
+  "key": "part13.html#83",
+  "de": "Seitenverhältnis – je nach Medium änderbar"
+ },
+ {
+  "key": "part13.html#84",
+  "de": "Technik – Mittel, um das Ergebnis zu zeigen"
+ },
+ {
+  "key": "part13.html#85",
+  "de": "Fertigstellung – mit der Abgabe erledigt"
+ },
+ {
+  "key": "part13.html#86",
+  "de": "Wiederholung – einmaliges Ansehen vorausgesetzt"
+ },
+ {
+  "key": "part13.html#87",
+  "de": "Medienkunst"
+ },
+ {
+  "key": "part13.html#88",
+  "de": "Betrachterposition – betritt den Raum und bewegt sich darin"
+ },
+ {
+  "key": "part13.html#89",
+  "de": "Anfang und Ende – Besucher kommen und gehen jederzeit"
+ },
+ {
+  "key": "part13.html#90",
+  "de": "Seitenverhältnis – Bedingung des Werks; Ändern ist Beschädigung"
+ },
+ {
+  "key": "part13.html#91",
+  "de": "Technik – oft Teil des Werks"
+ },
+ {
+  "key": "part13.html#92",
+  "de": "Fertigstellung – erst nach der gesamten Laufzeit"
+ },
+ {
+  "key": "part13.html#93",
+  "de": "Wiederholung – Hunderte Durchläufe pro Tag vorausgesetzt"
+ },
+ {
+  "key": "part13.html#94",
+  "de": "<b>TIPP</b>"
+ },
+ {
+  "key": "part13.html#95",
+  "de": "Übernehmen Sie einen vierteiligen Aufbau unverändert, sehen die meisten Besucher nur die „Wendung“ und gehen. Das Werk muss innerhalb von 30 Sekunden verständlich sein, egal wo man einsteigt."
+ },
+ {
+  "key": "part13.html#96",
+  "de": "Was Studierende am häufigsten übersehen: Anfang und Ende"
+ },
+ {
+  "key": "part13.html#97",
+  "de": "<small>Loop-Design</small>Das Ende an den Anfang anschließen"
+ },
+ {
+  "key": "part13.html#98",
+  "de": "Ähnelt das letzte Bild dem ersten, verschwindet die Naht"
+ },
+ {
+  "key": "part13.html#99",
+  "de": "<small>Einstiege</small>Lesbar, wo immer man einsteigt"
+ },
+ {
+  "key": "part13.html#100",
+  "de": "Das Schlüsselbild regelmäßig wiederholen"
+ },
+ {
+  "key": "part13.html#101",
+  "de": "<small>Länge</small>Zwischen 2 und 7 Minuten"
+ },
+ {
+  "key": "part13.html#102",
+  "de": "Bei größerer Länge sehen weit weniger Menschen bis zum Ende zu"
+ },
+ {
+  "key": "part13.html#103",
+  "de": "Warum das Seitenverhältnis erhalten bleiben muss"
+ },
+ {
+  "key": "part13.html#104",
+  "de": "Installationsrichtlinien von Einrichtungen für die Konservierung von Medienkunst schreiben vor, das Seitenverhältnis eines Werks zu erhalten, und stellen klar, dass Vergrößern oder Beschneiden zur Anpassung an einen Bildschirm keine fachgerechte Praxis ist. In der Videoproduktion ist das Umschneiden ins Hochformat Routine; bei einem Kunstwerk verändert schon dieser Eingriff das Werk. Hier müssen Sie die Gewohnheit ablegen, bei jedem Medienwechsel den Bildausschnitt neu zu wählen."
+ },
+ {
+  "key": "part13.html#105",
+  "de": "Planen Sie Ausstellungsvideos unter der Annahme, dass niemand von Anfang an zusieht. Lesbarkeit ab jedem Einstiegspunkt – darin besteht die Gestaltung.<small>13.2 Wie sich Video und Medienkunst unterscheiden</small>"
+ },
+ {
+  "key": "part13.html#106",
+  "de": "<small>Übung</small>13.2"
+ },
+ {
+  "key": "part13.html#107",
+  "de": "Aufgabe"
+ },
+ {
+  "key": "part13.html#108",
+  "de": "Schneiden Sie eines Ihrer vorhandenen Videos zu einem Ausstellungsloop um. Bleiben Sie unter 3 Minuten und bauen Sie ihn so auf, dass sich das Thema ab jedem Startpunkt innerhalb von 30 Sekunden erschließt."
+ },
+ {
+  "key": "part13.html#109",
+  "de": "Tipp"
+ },
+ {
+  "key": "part13.html#110",
+  "de": "Zeigen Sie Freunden 30 Sekunden ab einer zufälligen Stelle und fragen Sie, worum es in dem Werk geht. Verstehen es zwei von drei, haben Sie bestanden."
+ },
+ {
+  "key": "part13.html#111",
+  "de": "Bewertung"
+ },
+ {
+  "key": "part13.html#112",
+  "de": "Ist die Naht unsichtbar? Sind die Einstiegspunkte gestaltet?"
+ },
+ {
+  "key": "part13.html#113",
+  "de": "Musterlösung"
+ },
+ {
+  "key": "part13.html#114",
+  "de": "Ein Schnitt, der Anfang und Ende auf dasselbe Bild legte und das Kernmotiv alle 40 Sekunden wiederholte, sodass er von überall aus verständlich war."
+ },
+ {
+  "key": "part13.html#115",
+  "de": "<b>TEIL 13</b>Medienkunst und Expanded Cinema"
+ },
+ {
+  "key": "part13.html#116",
+  "de": "Die Medienkunstlandschaft in Korea heute"
+ },
+ {
+  "key": "part13.html#117",
+  "de": "Die koreanische Medienkunst bewegt sich auf drei Schienen: öffentliche Museen und Institutionen, die öffentlichen Bildschirme der Stadt und kommerzielle immersive Ausstellungshäuser. Jede Schiene verlangt etwas anderes, und jede bietet Studierenden einen anderen Zugang."
+ },
+ {
+  "key": "part13.html#118",
+  "de": "<b>Referenzfotos 13.3A</b>Generierte Bilder – zwei Bühnen der koreanischen Medienkunst"
+ },
+ {
+  "key": "part13.html#119",
+  "de": "<span class=\"ph-id\">P13-MUSEUM</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Videoarbeit im Museum</b>Besucher sitzen in einem weißen Ausstellungsraum auf dem Boden vor einer riesigen Videowand</span>"
+ },
+ {
+  "key": "part13.html#120",
+  "de": "<b>a</b>Museen – hier folgen Sammlung · Konservierung · Kritik. Ausgewählt wird anhand von Text und Fotos"
+ },
+ {
+  "key": "part13.html#121",
+  "de": "<span class=\"ph-id\">P13-OUTDOOR</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Medienkunstfestival im Freien</b>Lichtinstallationen und Menschenmengen nachts an einem Flussufer</span>"
+ },
+ {
+  "key": "part13.html#122",
+  "de": "<b>b</b>Festivals im Freien und Stadtbildschirme – niedrige Schwelle, großes Publikum. Hier gelingt Studierenden der erste Auftritt"
+ },
+ {
+  "key": "part13.html#123",
+  "de": "Institutionen"
+ },
+ {
+  "key": "part13.html#124",
+  "de": "<small>Nam June Paik Art Center</small>Yongin"
+ },
+ {
+  "key": "part13.html#125",
+  "de": "283 Werke in der Sammlung, 2.285 Objekte im Videoarchiv"
+ },
+ {
+  "key": "part13.html#126",
+  "de": "07/2026–02/2027: erstes Nam June Paik Media Art Festival, 20 Jahre nach seinem Tod, „Nam June Paik's Planet“ – enthüllt die „Planet“-Serie der 1990er-Jahre"
+ },
+ {
+  "key": "part13.html#127",
+  "de": "<small>MMCA</small>40 Jahre Gwacheon"
+ },
+ {
+  "key": "part13.html#128",
+  "de": "Ausstellung 2026: „Imaginations of Light“"
+ },
+ {
+  "key": "part13.html#129",
+  "de": "Erstveröffentlichung von 100.000 der rund 520.000 digitalen Archivobjekte (inkl. Paik-Archiv)"
+ },
+ {
+  "key": "part13.html#130",
+  "de": "Neues Ausbildungsprogramm für Restauratoren, einschließlich neuer Medien"
+ },
+ {
+  "key": "part13.html#131",
+  "de": "<small>Seoul Museum of Art</small>Seoul Mediacity Biennale (seit 2000)"
+ },
+ {
+  "key": "part13.html#132",
+  "de": "2026: erste museale Einzelausstellung von Lynn Hershman Leeson in Asien; eine Ausstellung zur Klangkunst"
+ },
+ {
+  "key": "part13.html#133",
+  "de": "Seo-Seoul Museum of Art – Eröffnung in Vorbereitung, mit Sammlung für neue Medien und Jugendstudio"
+ },
+ {
+  "key": "part13.html#134",
+  "de": "<small>Art Center Nabi</small>Seit 2000"
+ },
+ {
+  "key": "part13.html#135",
+  "de": "Juni 2026: Wiedereröffnung im eigenen Gebäude in Sagan-dong, Jongno-gu"
+ },
+ {
+  "key": "part13.html#136",
+  "de": "<b>TIPP</b>"
+ },
+ {
+  "key": "part13.html#137",
+  "de": "Die Ausschreibungen weisen darauf hin, dass sich die Vorführzeiten durch Energiesparmaßnahmen ändern können. Es sind keine 24-Stunden-Bildschirme."
+ },
+ {
+  "key": "part13.html#138",
+  "de": "Stadtbildschirme – die erste Bühne für Studierende"
+ },
+ {
+  "key": "part13.html#139",
+  "de": "Viele Werke auf Seouls städtischen Plattformen für öffentliche Medienkunst werden über Ausschreibungen für Nachwuchskünstler ausgewählt. Die Schwelle liegt niedriger als im Museum, und Sie erleben, wie Ihr Werk im echten Stadtraum gezeigt wird."
+ },
+ {
+  "key": "part13.html#140",
+  "de": "Plattform"
+ },
+ {
+  "key": "part13.html#141",
+  "de": "Ort"
+ },
+ {
+  "key": "part13.html#142",
+  "de": "Zeiten"
+ },
+ {
+  "key": "part13.html#143",
+  "de": "Seoullo Media Canvas"
+ },
+ {
+  "key": "part13.html#144",
+  "de": "Mallijae-ro, Jung-gu (nahe Seoullo)"
+ },
+ {
+  "key": "part13.html#145",
+  "de": "Atelier Gwanghwa"
+ }
+]

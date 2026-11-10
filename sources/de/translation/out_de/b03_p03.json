@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#57",
+"de": "Regie"
+},
+{
+"key": "feature_ppm.html#58",
+"de": "2.1 DOPPELSEITE 08"
+},
+{
+"key": "feature_ppm.html#59",
+"de": "Postproduktionsplanung"
+},
+{
+"key": "feature_ppm.html#60",
+"de": "CG-Umfang, Compositing-Methode, Grading-Richtung"
+},
+{
+"key": "feature_ppm.html#61",
+"de": "Postproduktionsleitung"
+},
+{
+"key": "feature_ppm.html#62",
+"de": "TEIL 5"
+},
+{
+"key": "feature_ppm.html#63",
+"de": "Zeitplan"
+},
+{
+"key": "feature_ppm.html#64",
+"de": "Drehtermin, Tagesablauf, Tagesdisposition, Ersatztag"
+},
+{
+"key": "feature_ppm.html#65",
+"de": "Produktion"
+},
+{
+"key": "feature_ppm.html#66",
+"de": "DOPPELSEITE 05 · 06"
+},
+{
+"key": "feature_ppm.html#67",
+"de": "Budget und Risiko"
+},
+{
+"key": "feature_ppm.html#68",
+"de": "Detailbudget, Regenplan, Alternativen"
+},
+{
+"key": "feature_ppm.html#69",
+"de": "Produktion, Auftraggeber"
+},
+{
+"key": "feature_ppm.html#70",
+"de": "DOPPELSEITE 07"
+},
+{
+"key": "feature_ppm.html#71",
+"de": "<small>DOPPELSEITE 01 · Regieabsicht</small>Tonalitätsboard – die Seite, die Adjektive in Messwerte übersetzt"
+},
+{
+"key": "feature_ppm.html#72",
+"de": "„Warm und edel“ ist keine Vereinbarung. Ein Tonalitätsboard übersetzt Adjektive in messbare Werte für <b>Farbtemperatur · Kontrast · Sättigung · Textur · Tempo</b>, damit Kamera · Ausstattung · Post auf dieselben Zahlen schauen. Sichten Sie Referenzen immer gemeinsam am Bildschirm. Beschreibt man einen Ton mit Worten, stellt ihn sich jeder anders vor."
+},
+{
+"key": "feature_ppm.html#73",
+"de": "Tonalitätsboard · Morgendrink 15 s"
+},
+{
+"key": "feature_ppm.html#74",
+"de": "<b>Licht</b><span>Frühes Seitenlicht · lange Schatten · 5600 K</span>"
+},
+{
+"key": "feature_ppm.html#75",
+"de": "<b>Farbe</b><span>Warmgrau 60 · Staubblau 30 · Weinrot 10</span>"
+},
+{
+"key": "feature_ppm.html#76",
+"de": "<b>Textur</b><span>Leinen · Glas · Tropfen · Holzmaserung</span>"
+},
+{
+"key": "feature_ppm.html#77",
+"de": "<b>Bewegung</b><span>nur langsamer Dolly · keine Handkamera</span>"
+},
+{
+"key": "feature_ppm.html#78",
+"de": "<b>Personen</b><span>Zurückhaltende Mimik · Blick unten→Kamera</span>"
+},
+{
+"key": "feature_ppm.html#79",
+"de": "<b>✕ Anti-Referenz</b><span>Übersättigter Kurzvideo-Look – so nicht</span>"
+},
+{
+"key": "feature_ppm.html#80",
+"de": "<b>Klar</b><span>Mittelhoher Kontrast · Weiß nicht ausgefressen</span>"
+},
+{
+"key": "feature_ppm.html#81",
+"de": "<b>Früh</b><span>Nur Fensterlicht · lange Schatten</span>"
+},
+{
+"key": "feature_ppm.html#82",
+"de": "<b>Luftig</b><span>Ø Einstellung 2,5 s · Klavier 92 BPM</span>"
+},
+{
+"key": "feature_ppm.html#83",
+"de": "<b>Tafel PPM-1</b> Tonalitätsboard – drei Adjektive, fünf Referenzen und eine Anti-Referenz, dazu eine Palette. Ein Blatt wird zur gemeinsamen Sprache von Kamera · Ausstattung · Post."
+},
+{
+"key": "feature_ppm.html#84",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "feature_ppm.html#85",
+"de": "Wenden Sie die Palette gleichermaßen auf Kostüm · Requisiten · Hintergrund · Grafik an. Schicken Sie die Farbcodes in derselben Datei an Ausstattung und Post."
+},
+{
+"key": "feature_ppm.html#86",
+"de": "Schreiben Sie in jedes Referenzfeld ein Wort dazu, „worauf Sie sich beziehen“ (Licht · Farbe · Textur · Bewegung · Personen). Eine ganze Referenz zu kopieren ist Plagiat; ein Element zu übernehmen ist Studium. Das eine Anti-Referenz-Feld spart mehr Meetingzeit als jedes andere."
+},
+{
+"key": "feature_ppm.html#87",
+"de": "<small>DOPPELSEITE 02 · Drehort</small>Drehort-Referenzblatt – vier Fotos und ein Grundriss"
+},
+{
+"key": "feature_ppm.html#88",
+"de": "Drehort-Referenzblatt · L-01 Café, 1. OG"
+},
+{
+"key": "feature_ppm.html#89",
+"de": "<b>N Fenster</b><span>Hauptset · Direktsonne 7–10 Uhr</span>"
+},
+{
+"key": "feature_ppm.html#90",
+"de": "<b>O Theke</b><span>Lärmquelle · bei Takes 10 Min. Pause</span>"
+},
+{
+"key": "feature_ppm.html#91",
+"de": "<b>S Treppe</b><span>Technik zu zweit tragen · kein Aufzug</span>"
+},
+{
+"key": "feature_ppm.html#92",
+"de": "<b>W Wand</b><span>Hintergrund für den Gegenschuss</span>"
+},
+{
+"key": "feature_ppm.html#93",
+"de": "Fenster (SO) · Direktsonne 7–10 Uhr"
+},
+{
+"key": "feature_ppm.html#94",
+"de": "Tisch"
+},
+{
+"key": "feature_ppm.html#95",
+"de": "Darsteller A"
+},
+{
+"key": "feature_ppm.html#96",
+"de": "Dollyfahrt 2 m"
+},
+{
+"key": "feature_ppm.html#97",
+"de": "K Haupt-LED 600 W"
+},
+{
+"key": "feature_ppm.html#98",
+"de": "F Aufheller 4×4"
+},
+{
+"key": "feature_ppm.html#99",
+"de": "B Röhre 3200 K"
+},
+{
+"key": "feature_ppm.html#100",
+"de": "Treppe"
+},
+{
+"key": "feature_ppm.html#101",
+"de": "Theke"
+},
+{
+"key": "feature_ppm.html#102",
+"de": "<b>Messwerte</b><span>Strom 220 V, Zweifachsteckdose × 3 (3 kW) → Licht max. 2 kW</span><span>Decke 2,9 m · Fensterbreite 3,2 m · Holzboden (Dolly OK)</span><span>Lärm 72 dB (Maschine) · 2 Parkplätze · Toilette im EG</span><span>Genehmigung: Miete 07:00–10:30 · Versicherung ✔</span><b>Regenplan</b><span>Fensterlicht mit der Haupt-LED nachbilden oder Ersatztag D+2 · Studio L-02 reserviert</span>"
+},
+{
+"key": "feature_ppm.html#103",
+"de": "<b>Tafel PPM-2</b> Drehortblatt – Fotos in vier Richtungen (gleiche Uhrzeit, gleiches 24-mm-Objektiv) und ein Grundriss. Tragen Sie Kamera · Licht · Dolly · Strom · Lärmquellen in den Plan ein, und der Aufbau am Drehtag halbiert sich."
+},
+{
+"key": "feature_ppm.html#104",
+"de": "Prüfpunkt"
+},
+{
+"key": "feature_ppm.html#105",
+"de": "L-01 Café (1. Wahl)"
+},
+{
+"key": "feature_ppm.html#106",
+"de": "L-02 Studio (Ersatz)"
+},
+{
+"key": "feature_ppm.html#107",
+"de": "Ausschlaggebend"
+},
+{
+"key": "feature_ppm.html#108",
+"de": "Licht"
+},
+{
+"key": "feature_ppm.html#109",
+"de": "Tageslicht: 7–10 Uhr direkt, danach diffus"
+},
+{
+"key": "feature_ppm.html#110",
+"de": "Kunstlicht, voll kontrollierbar"
+},
+{
+"key": "feature_ppm.html#111",
+"de": "Tonalität „frühes Licht“ → L-01"
+},
+{
+"key": "feature_ppm.html#112",
+"de": "Lärm"
+},
+{
+"key": "feature_ppm.html#113",
+"de": "Maschine 72 dB, 10 Min. Pause vereinbart"
+},
+{
+"key": "feature_ppm.html#114",
+"de": "Ruhig"
+},
+{
+"key": "feature_ppm.html#115",
+"de": "Nur 1 SYNC-Einstellung → vertretbar"
+},
+{
+"key": "feature_ppm.html#116",
+"de": "Strom · Raum"
+},
+{
+"key": "feature_ppm.html#117",
+"de": "3 kW, Decke 2,9 m, Dolly OK"
+},
+{
+"key": "feature_ppm.html#118",
+"de": "15 kW, 4,5 m, Kran OK"
+},
+{
+"key": "feature_ppm.html#119",
+"de": "Kraneinstellung (04) auf den Treppenabsatz (L-01) verlegt"
+},
+{
+"key": "feature_ppm.html#120",
+"de": "Kosten · Genehmigungen"
+},
+{
+"key": "feature_ppm.html#121",
+"de": "Miete 3,5 Std., Versicherung ✔, 2 Parkplätze"
+},
+{
+"key": "feature_ppm.html#122",
+"de": "Miete 8 Std., 10 Parkplätze"
+},
+{
+"key": "feature_ppm.html#123",
+"de": "Im Budget → L-01"
+},
+{
+"key": "feature_ppm.html#124",
+"de": "Regenplan"
+},
+{
+"key": "feature_ppm.html#125",
+"de": "Keine Fenstersonne → mit Führungslicht nachbilden"
+},
+{
+"key": "feature_ppm.html#126",
+"de": "Keine Folgen"
+},
+{
+"key": "feature_ppm.html#127",
+"de": "Ersatztag D+2, Extra-LED 600 W bereit"
+},
+{
+"key": "feature_ppm.html#128",
+"de": "<small>DOPPELSEITE 03 · Casting</small>Darstellerblatt – Wirkungsbegriffe und Verfügbarkeit im selben Feld"
+},
+{
+"key": "feature_ppm.html#129",
+"de": "Eine Casting-Seite ist keine Reihe von Porträtfotos. Notieren Sie zuerst <b>die Wirkung, die das Konzept verlangt</b>, als Schlagwörter und tragen Sie ins selbe Feld ein, wie gut jede Person sie trifft, dazu Termin · Gage · Vertragsbedingungen. Der Auftraggeber genehmigt kein Gesicht, sondern „was diese Person 15 Sekunden lang tun wird“."
+},
+{
+"key": "feature_ppm.html#130",
+"de": "Darstellerblatt · Rolle A „jemand, der in den Morgen startet“"
+},
+{
+"key": "feature_ppm.html#131",
+"de": "<b>Kandidat A – 1. Wahl ★</b><span>Wirkung ●●●●○ · 3 Werbespots</span><span>Verfügbar 9.4. · 11.4. · Ersatztag ○</span><span>Bildrechte 1 Jahr online + Außenwerbung</span><span>Kleines Lächeln, aber die Augen lächeln zuerst</span>"
+},
+{
+"key": "feature_ppm.html#132",
+"de": "<b>Kandidat B – 2. Wahl</b><span>Wirkung ●●●○○ · 1 Musikvideo</span><span>Nur 9.4. verfügbar · Ersatztag ✕</span><span>Bildrechte 6 Monate online</span><span>Breites Lächeln → „nur die Mundwinkel“</span>"
+},
+{
+"key": "feature_ppm.html#133",
+"de": "<b>Kandidat C – Reserve</b><span>Wirkung ●●○○○ · keine Erfahrung</span><span>An allen Tagen verfügbar · Ersatztag ○</span><span>Nur für Bildungszwecke</span><span>Probe +30 Min. · 1. Wahl für einen Studentenfilm</span>"
+},
+{
+"key": "feature_ppm.html#134",
+"de": "<b>Tafel PPM-3</b> Castingblatt – ein Frontalbild mit gleichem Hintergrund · gleichem Licht plus vier Zeilen (Wirkung · Verfügbarkeit · Bildrechte · Auswahlgrund). Formulieren Sie den Grund in der Sprache der Tonalität."
+},
+{
+"key": "feature_ppm.html#135",
+"de": "<small>Fotos</small>Vier Aufnahmen unter gleichen Bedingungen"
+},
+{
+"key": "feature_ppm.html#136",
+"de": "Neutral frontal · natürliches Lächeln · Profil · Standbild aus der Bewegung"
+},
+{
+"key": "feature_ppm.html#137",
+"de": "Unretuschiert, gleiches Licht – es geht um den Vergleich"
+},
+{
+"key": "feature_ppm.html#138",
+"de": "Selfies · Glamourfotos nur als Referenz"
+},
+{
+"key": "feature_ppm.html#139",
+"de": "<small>Konditionen</small>Vor dem Gesicht notieren"
+},
+{
+"key": "feature_ppm.html#140",
+"de": "Verfügbare Termine und ob der Ersatztag passt"
+},
+{
+"key": "feature_ppm.html#141",
+"de": "Gagenbasis (Tag/Stunde) und Umfang der Bildrechte (Medien · Dauer · Region)"
+},
+{
+"key": "feature_ppm.html#142",
+"de": "Konfektionsgrößen, Allergien, bevorzugte Seite, Begleitpersonen"
+},
+{
+"key": "feature_ppm.html#143",
+"de": "<small>Regienotiz</small>Vorab im PPM abstimmen"
+},
+{
+"key": "feature_ppm.html#144",
+"de": "Eine Zeile: „was diese Person nicht tun soll“"
+},
+{
+"key": "feature_ppm.html#145",
+"de": "Probenzeit (+30 Min. bei wenig Erfahrung)"
+},
+{
+"key": "feature_ppm.html#146",
+"de": "Bei SYNC-Dialog eine Stimmprobe beilegen"
+},
+{
+"key": "feature_ppm.html#147",
+"de": "<small>DOPPELSEITE 04 · Kostüm · Ausstattung · Requisite</small>Kostümboard und Mise-en-scène-Plan – jedes Objekt im Bild benennen"
+},
+{
+"key": "feature_ppm.html#148",
+"de": "Kostümboard · Mise-en-scène-Plan (CUT 06)"
+},
+{
+"key": "feature_ppm.html#149",
+"de": "<b>LOOK 1 · Darsteller A</b><span>Leinenhemd Warmgrau + Baumwollhose Anthrazit · CUT 02 · 03 · 05 · 06 · 1 Ersatzset · tabu: Logos · Streifen · Reinweiß</span>"
+},
+{
+"key": "feature_ppm.html#150",
+"de": "<b>LOOK 2 · Darsteller B</b><span>Strick Staubblau + Naturweiß · CUT 05 · 2 Tonwerte Abstand zu A</span>"
+},
+{
+"key": "feature_ppm.html#151",
+"de": "<i>1</i>Produkt – Etikett nach vorn; Weinrot nur hier"
+},
+{
+"key": "feature_ppm.html#152",
+"de": "<i>2</i>Kaffeetasse – Morgensignal, die Farbe mit 60 %"
+},
+{
+"key": "feature_ppm.html#153",
+"de": "<i>3</i>Buch + Leinenserviette – die Farbe mit 30 %, Tiefe im Vordergrund"
+},
+{
+"key": "feature_ppm.html#154",
+"de": "<i>4</i>Fenster + Jalousie – zeigt, woher das Licht kommt"
+},
+{
+"key": "feature_ppm.html#155",
+"de": "<i>5</i>Eukalyptus – Negativraum links, Führungslinie"
+},
+{
+"key": "feature_ppm.html#156",
+"de": "<i>6</i>Holztischplatte – Textur-Schlagwort"
+},
+{
+"key": "feature_ppm.html#157",
+"de": "Entfernt: Speisekarte · Serviettenhalter · Steckdose · Poster"
+},
+{
+"key": "feature_ppm.html#158",
+"de": "<b>Tafel PPM-4</b> Kostümboard und Mise-en-scène-Plan. Wenn Sie für ein Objekt im Bild nicht aufschreiben können, „warum es da ist“, entfernen Sie es – mehr ist Mise-en-scène nicht."
+},
+{
+"key": "feature_ppm.html#159",
+"de": "<b>Referenzfotos 2.2D</b>Generiertes Bild – Kostüm · Requisiten · Set-Unterlagen"
+},
+{
+"key": "feature_ppm.html#160",
+"de": "<span class=\"ph-id\">P06-CALLSHEET</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Tagesdisposition – das erste Dokument im Morgengrauen</b></span>"
+},
+{
+"key": "feature_ppm.html#161",
+"de": "<b>Hinweis</b>Tagesdisposition – das erste Dokument im Morgengrauen"
+},
+{
+"key": "feature_ppm.html#162",
+"de": "<span class=\"ph-id\">P06-SLATE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Klappe – Einstellungsnummer · Take verbinden Ton und Bild</b></span>"
+},
+{
+"key": "feature_ppm.html#163",
+"de": "<b>Hinweis</b>Klappe – Einstellungsnummer · Take verbinden Ton und Bild"
+},
+{
+"key": "feature_ppm.html#164",
+"de": "<small>DOPPELSEITE 05 · Zeitplan</small>Drehplan – gebaut um „Licht und Darsteller“, nicht um Termine"
+},
+{
+"key": "feature_ppm.html#165",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "feature_ppm.html#166",
+"de": "Ordnen Sie den Drehplan nicht nach Szenenfolge, sondern nach <b>Drehort → Licht → Verfügbarkeit der Darsteller</b>. Einstellungen mit gleichem Drehort · gleichem Lichtaufbau am Stück zu drehen spart 80 % der Zeit."
+},
+{
+"key": "feature_ppm.html#167",
+"de": "Der Drehplan ist eine Tabelle für „Was drehen wir an welchem Tag?“; der Tagesablauf (nächste Seite) ist eine Tabelle für „Was tun wir an diesem Tag wann?“. Mischen Sie beide in einer Tabelle, ist keine mehr lesbar."
+},
+{
+"key": "feature_ppm.html#168",
+"de": "Tag"
+},
+{
+"key": "feature_ppm.html#169",
+"de": "Zeit"
+},
+{
+"key": "feature_ppm.html#170",
+"de": "Drehort"
+},
+{
+"key": "feature_ppm.html#171",
+"de": "Einst. (Board)"
+},
+{
+"key": "feature_ppm.html#172",
+"de": "Inhalt"
+},
+{
+"key": "feature_ppm.html#173",
+"de": "Besetzung"
+},
+{
+"key": "feature_ppm.html#174",
+"de": "Haupttechnik · Licht"
+},
+{
+"key": "feature_ppm.html#175",
+"de": "Notizen"
+},
+{
+"key": "feature_ppm.html#176",
+"de": "DREHTAG 1 · 9.4. (Mi) · Café L-01 · Sonnenaufgang 06:12 · Direktsonne am Fenster 07:00–10:00 · Miete 07:00–10:30"
+},
+{
+"key": "feature_ppm.html#177",
+"de": "Café 1. OG"
+},
+{
+"key": "feature_ppm.html#178",
+"de": "Aufbau: Dolly-Schiene, Haupt-LED, Ausstattung"
+},
+{
+"key": "feature_ppm.html#179",
+"de": "LED 600 W, Aufheller 4×4"
+},
+{
+"key": "feature_ppm.html#180",
+"de": "Darsteller A bestellt 07:15, Maskenmobil"
+},
+{
+"key": "feature_ppm.html#181",
+"de": "Fenstertisch"
+},
+{
+"key": "feature_ppm.html#182",
+"de": "Greift zur Flasche (MCU, Ranfahrt) · ein Schluck (CU)"
+},
+{
+"key": "feature_ppm.html#183",
+"de": "50 mm · 85 mm, Tageslicht + Führungslicht"
+},
+{
+"key": "feature_ppm.html#184",
+"de": "<b>Direktsonne zuerst</b>"
+},
+{
+"key": "feature_ppm.html#185",
+"de": "Fenstertisch"
+},
+{
+"key": "feature_ppm.html#186",
+"de": "Schluss: Produkt mittig, Platz für Logo-CG (Ranfahrt, langsam)"
+},
+{
+"key": "feature_ppm.html#187",
+"de": "50 mm, Tracking-Marker, Clean Plate"
+},
+{
+"key": "feature_ppm.html#188",
+"de": "CG-Referenzeinstellung – 1 LOCKED-Take Pflicht"
+},
+{
+"key": "feature_ppm.html#189",
+"de": "Fenstertisch"
+},
+{
+"key": "feature_ppm.html#190",
+"de": "Anstoßen mit dem Kollegen (2S)"
+},
+{
+"key": "feature_ppm.html#191",
+"de": "35 mm, Aufheller"
+},
+{
+"key": "feature_ppm.html#192",
+"de": "B bestellt 09:00, meist von hinten"
+},
+{
+"key": "feature_ppm.html#193",
+"de": "Produkttisch"
+},
+{
+"key": "feature_ppm.html#194",
+"de": "01 · 02 INS"
+},
+{
+"key": "feature_ppm.html#195",
+"de": "Tropfen ECU · Hand-Insert"
+},
+{
+"key": "feature_ppm.html#196",
+"de": "Hand von A"
+},
+{
+"key": "feature_ppm.html#197",
+"de": "Makro 100 mm, Glycerin"
+},
+{
+"key": "feature_ppm.html#198",
+"de": "Flasche 6× frisch getauscht"
+},
+{
+"key": "feature_ppm.html#199",
+"de": "Alle"
+},
+{
+"key": "feature_ppm.html#200",
+"de": "Abbau, Drehort wiederherstellen, 1. Backup"
+},
+{
+"key": "feature_ppm.html#201",
+"de": "Drehschluss nach 3-2-1-Backup"
+},
+{
+"key": "feature_ppm.html#202",
+"de": "DREHTAG 2 · 11.4. (Fr) · Campus-Dach + Labor · Sonnenuntergang 19:02 · Goldene Stunde 18:20–19:00"
+},
+{
+"key": "feature_ppm.html#203",
+"de": "Treppenabsatz zum Dach"
+},
+{
+"key": "feature_ppm.html#204",
+"de": "Aufbau: Einbeinstativ-Neigung statt Kran, Sicherungsseil"
+},
+{
+"key": "feature_ppm.html#205",
+"de": "24 mm, ND 8"
+},
+{
+"key": "feature_ppm.html#206",
+"de": "Abbruch bei Wind über 12 m/s"
+}
+]

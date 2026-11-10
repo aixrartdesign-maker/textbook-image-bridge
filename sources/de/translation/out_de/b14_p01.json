@@ -1,0 +1,602 @@
+[
+{
+"key": "part12.html#846",
+"de": "Zwischen Drehort · Set · LED-Wand · Chroma-Key+Generierung wählen, aber erst den Hintergrund festlegen, dann das Licht."
+},
+{
+"key": "part12.html#847",
+"de": "11.6 Elemente und Partikel"
+},
+{
+"key": "part12.html#848",
+"de": "Produkt und zentrale Physik simulieren, Atmosphäre und Partikel generieren. In Ebenen trennen und zusammensetzen."
+},
+{
+"key": "part12.html#849",
+"de": "11.7 Klassische Produktion und KI-Produktion"
+},
+{
+"key": "part12.html#850",
+"de": "Keine Rivalen, sondern Werkzeuge für verschiedene Aufgaben. Ebenen mit Markenelementen selbst steuern, den Rest abgeben."
+},
+{
+"key": "part12.html#851",
+"de": "11.8 Der koreanische Arbeitsmarkt"
+},
+{
+"key": "part12.html#852",
+"de": "Es verschwinden nicht die Jobs, sondern die untersten Sprossen der Leiter. KI ist in bestehenden Stellen zur Anforderung geworden."
+},
+{
+"key": "part12.html#853",
+"de": "11.9 Portfolio-Plattformen"
+},
+{
+"key": "part12.html#854",
+"de": "Je Arbeitsschritt nach den strengsten Regeln kennzeichnen, auf allen Kanälen gleich. Aufgebauschte Ergebnisse sind fatal."
+},
+{
+"key": "part12.html#855",
+"de": "11.10 Auslandsmärkte und LinkedIn"
+},
+{
+"key": "part12.html#856",
+"de": "Stellenanzeigen verlangen zunehmend nicht Prompting, sondern Bildgrammatik · Konsistenz · Führung. Mehr Nachfrage heißt nicht höhere Honorare."
+},
+{
+"key": "part12.html#857",
+"de": "11.11 Vision und Expertise"
+},
+{
+"key": "part12.html#858",
+"de": "Problemdefinition · Begründung · Gespür für das Echte · Sprachkompetenz behalten ihren Wert. Besenförmig werden, den senkrechten Balken aber behalten."
+},
+{
+"key": "part12.html#859",
+"de": "11.12 Kernbotschaft und Text"
+},
+{
+"key": "part12.html#860",
+"de": "Eine Botschaft ist eine Wahl, keine Zusammenfassung. Sie besteht den Gegenteiltest und den Absendertausch und bewegt durch Konkretes · Wendung · Leerstelle."
+},
+{
+"key": "part12.html#861",
+"de": "11.13 Planung und Konzept"
+},
+{
+"key": "part12.html#862",
+"de": "Einzeilige Definition, Tabuliste, Erfolgskriterien. In der 7-Seiten-Struktur muss jeder Seitentitel ein Fazit in Satzform sein."
+},
+{
+"key": "part12.html#863",
+"de": "11.14 Mit Arbeiten zum Job"
+},
+{
+"key": "part12.html#864",
+"de": "Mit Ordnerregel und den 30 Minuten am letzten Tag sammeln, 5 Arbeiten pro Rolle wählen, jede als „Absicht-Einschränkung-Entscheidung-Ergebnis“ erklären."
+},
+{
+"key": "part01.html#0",
+"de": "TEIL"
+},
+{
+"key": "part01.html#1",
+"de": "<small>TEIL</small>01"
+},
+{
+"key": "part01.html#2",
+"de": "<b>Das erstellen Sie in diesem TEIL</b>"
+},
+{
+"key": "part01.html#3",
+"de": "Ein 1-Sekunden-Video aus 12 Serienfotos"
+},
+{
+"key": "part01.html#4",
+"de": "Der Kuleschow-Effekt in 3 Fassungen"
+},
+{
+"key": "part01.html#5",
+"de": "Eine Lochkamera und ihr kopfstehendes Bild"
+},
+{
+"key": "part01.html#6",
+"de": "Was ist Video?"
+},
+{
+"key": "part01.html#7",
+"de": "Die erste Wand, gegen die Lernende laufen, ist nicht die Technik, sondern die Informationsflut. Werkzeuge wechseln alle 10 Jahre; die Sprache des Videos steht seit über 100 Jahren fast still. Dieser TEIL fragt die Geschichte, warum 24 Bilder und warum Gesichter wachsen, wenn Bildschirme schrumpfen – für ein Urteil, das vor jedem neuen Werkzeug standhält."
+},
+{
+"key": "part01.html#8",
+"de": "Foto P-01 Filmprojektor und Filmrollen – als Video noch etwas Physisches war · generiertes Bild"
+},
+{
+"key": "part01.html#9",
+"de": "<b>P-01</b> Filmprojektor und Filmrollen – als Video noch etwas Physisches war"
+},
+{
+"key": "part01.html#10",
+"de": "Dieses Kapitel im Unterricht"
+},
+{
+"key": "part01.html#11",
+"de": "Erklären, warum Video seine heutige Form hat"
+},
+{
+"key": "part01.html#12",
+"de": "<b>Material</b>3 Referenzvideos, Zeitleisten-Tafel, Projektor"
+},
+{
+"key": "part01.html#13",
+"de": "<b>10 Min.</b><i>Einstieg</i><span>Die ersten 30 s eines Lieblingsvideos gemeinsam ansehen, Schnitte zählen</span>"
+},
+{
+"key": "part01.html#14",
+"de": "<b>15 Min.</b><i>Grundlagen</i><span>Wahrnehmung und Ursprung der Bildrate. Woher kommt die Zahl 24?</span>"
+},
+{
+"key": "part01.html#15",
+"de": "<b>10 Min.</b><i>Tafeln</i><span>Medienumbrüche im Zeitleisten-Diagramm genau verorten</span>"
+},
+{
+"key": "part01.html#16",
+"de": "<b>10 Min.</b><i>Übung</i><span>3 Fassungen des Kuleschow-Effekts erstellen oder entwerfen</span>"
+},
+{
+"key": "part01.html#17",
+"de": "<b>5 Min.</b><i>Abschluss</i><span>„Auf einen Blick“ laut vorlesen, Ausblick auf die nächste Sitzung</span>"
+},
+{
+"key": "part01.html#18",
+"de": "<b>Kontrollpunkt</b>Können Sie ein Beispiel nennen, wie Medienbedingungen die Form ändern?"
+},
+{
+"key": "part01.html#19",
+"de": "TEIL 01"
+},
+{
+"key": "part01.html#20",
+"de": "Einführung"
+},
+{
+"key": "part01.html#21",
+"de": "Die erste Wand, gegen die jeder läuft, der Video lernen möchte, ist nicht die Technik, sondern die Informationsflut. Zu Kameraeinstellungen gibt es Zehntausende Videos, Schnittprogramme ändern jedes Jahr ihre Oberfläche, und seit 2022 mischt generative KI mit – was Sie gestern gelernt haben, ist heute veraltet. Viele reiben sich auf, weil sie Werkzeugen hinterherjagen."
+},
+{
+"key": "part01.html#22",
+"de": "Treten Sie einen Schritt zurück, und das Bild ändert sich. Als die Brüder Lumière 1895 einen einfahrenden Zug filmten, waren die Fragen schon da: Wie viel kommt ins Bild, wie lange zeigt man es? Die Prinzipien, die sowjetische Filmemacher in den 1920er-Jahren bei Montageexperimenten entdeckten, bestimmen noch heute den Schnitt von Kurzvideos. Werkzeuge wechseln alle 10 Jahre; die Sprache des Videos steht seit über 100 Jahren fast still."
+},
+{
+"key": "part01.html#23",
+"de": "Deshalb beginnt dieser Teil mit der Geschichte. Wer weiß, warum 24 Bilder, warum ein 180-Grad-Shutter, warum Gesichter wachsen, wenn Bildschirme schrumpfen, urteilt sicher, wenn ein neues Werkzeug auftaucht. Es geht nicht ums Auswendiglernen einer Zeitleiste, sondern darum zu verstehen, welche Zwänge und Kompromisse jeden heute selbstverständlichen Standard hervorbrachten."
+},
+{
+"key": "part01.html#24",
+"de": "Hintergrund 1"
+},
+{
+"key": "part01.html#25",
+"de": "Was hält das bewegte Bild fest?"
+},
+{
+"key": "part01.html#26",
+"de": "Video ist eine Technik, Licht aufzuzeichnen, und ein alter Wunsch, die Zeit festzuhalten. In „Ontologie des photographischen Bildes“ (1945) führte der französische Kritiker André Bazin den Ursprung der bildenden Künste auf die ägyptische Mumie zurück: den Wunsch, die Gestalt des Körpers gegen den Tod zu bewahren, den „Mumienkomplex“. Die Fotografie ist besonders, weil das Licht, nicht die Hand des Menschen, die Spur des Objekts direkt hinterlässt; das Kino geht einen Schritt weiter und balsamiert die Zeit selbst ein."
+},
+{
+"key": "part01.html#27",
+"de": "Etwa zur selben Zeit stellte Walter Benjamin in „Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit“ (erste Fassung 1935) eine ganz andere Frage. Ein Gemälde besitzt eine Einmaligkeit, die nur hier und jetzt existiert – seine „Aura“. Fotografie und Film dagegen vervielfältigen dasselbe Bild endlos, und das Publikum begegnet ihm im Kino und im Wohnzimmer. Benjamin sah darin einen Wandel, der die Autorität der Kunst stürzt und zugleich den Massen eine neue Wahrnehmungsweise eröffnet. Ein Kurzvideo, das Millionen Smartphones gleichzeitig erreicht, steht am äußersten Rand der Welt, die er vorhersah."
+},
+{
+"key": "part01.html#28",
+"de": "Wie aber kommt es, dass sich Standbilder zu bewegen scheinen? Lange erklärten Lehrbücher das mit der „Trägheit des Auges“: Das auf der Netzhaut nachwirkende Bild überlagere das nächste. Seit Max Wertheimers Experimenten zur Scheinbewegung von 1912 versteht die Forschung Bewegungswahrnehmung jedoch als Deutung des Gehirns, nicht der Netzhaut. Zwei Lichter, die im richtigen Abstand abwechselnd aufleuchten, wirken wie ein einziges Licht, das sich bewegt. Video ist letztlich eine Illusion, die erst im Gehirn des Zuschauers vollendet wird, und diese Tatsache ist der Ausgangspunkt, um Schnitt und Animation zu verstehen."
+},
+{
+"key": "part01.html#29",
+"de": "In den beiden „Kino“-Bänden der 1980er-Jahre teilte der Philosoph Gilles Deleuze das Filmbild in das „Bewegungs-Bild“ und das „Zeit-Bild“. Im klassischen Kino fließt die Zeit entlang einer Kette von Aktion und Reaktion. Im europäischen Nachkriegskino begannen Szenen, in denen Figuren nicht handeln können und nur schauen, und ziellos dahintreibende Zeit die Leinwand zu füllen. Ein Werbespot, der binnen 3 Sekunden eine Reaktion auslösen soll, spricht die Sprache des Bewegungs-Bildes; ein Markenfilm, der mit langen Einstellungen Raum lässt, leiht sich das Gefühl des Zeit-Bildes."
+},
+{
+"key": "part01.html#30",
+"de": "Jede Technik in diesem Buch führt auf drei Fragen zurück. Was man festhält, wem man es übermittelt und was man sich im Kopf des Zuschauers vollenden lässt. Wer Videos macht, ist Techniker des Lichts und Gestalter von Wahrnehmung und Erinnerung des Publikums."
+},
+{
+"key": "part01.html#31",
+"de": "Weiterführende Literatur – André Bazin, „Ontologie des photographischen Bildes“, in: Was ist Film? · Walter Benjamin, „Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit“ · Gilles Deleuze, Das Bewegungs-Bild. Kino 1, Das Zeit-Bild. Kino 2"
+},
+{
+"key": "part01.html#32",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#33",
+"de": "Definition von Video und Wahrnehmungsprinzipien"
+},
+{
+"key": "part01.html#34",
+"de": "Nichts bewegt sich wirklich. Bewegung entsteht nicht auf dem Bildschirm, sondern in unserer Wahrnehmung."
+},
+{
+"key": "part01.html#35",
+"de": "<span class=\"ph-id\">P01-PERSIST</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Ein sich drehendes Zoetrop – Nachbilder erzeugen Bewegung</b>Ein Kind blickt bei warmem Lampenlicht durch die Schlitze einer rotierenden Trommel</span>"
+},
+{
+"key": "part01.html#36",
+"de": "<b>Hinweis</b> Die Schlitze des Zoetrops wirken als Verschluss, das Gehirn füllt die Lücken zwischen den Bildern mit Bewegung"
+},
+{
+"key": "part01.html#37",
+"de": "<b>Abb. 1</b> Das Phi-Phänomen – das Gehirn füllt die Lücke zwischen zwei ruhenden Reizen mit Bewegung"
+},
+{
+"key": "part01.html#38",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "part01.html#39",
+"de": "Scheinbewegung – tatsächlich ruhende Reize scheinen sich durch die Deutung des Gehirns zu bewegen."
+},
+{
+"key": "part01.html#40",
+"de": "Video ist ein Medium, das Standbilder so schnell aneinanderreiht, dass sie als Bewegung wahrgenommen werden. Hier beginnt die Einsicht, dass Videoproduktion letztlich die Gestaltung der Kognition des Zuschauers ist."
+},
+{
+"key": "part01.html#41",
+"de": "Nachbilder und Phi-Phänomen"
+},
+{
+"key": "part01.html#42",
+"de": "<small>Die alte Erklärung</small>Trägheit des Auges"
+},
+{
+"key": "part01.html#43",
+"de": "Das Netzhautbild bleibt nach dem Reiz ca. 0,05 s bestehen"
+},
+{
+"key": "part01.html#44",
+"de": "Kann den Eindruck fließender Bewegung nicht erklären"
+},
+{
+"key": "part01.html#45",
+"de": "<small>1912 · Wertheimer</small>Phi-Phänomen"
+},
+{
+"key": "part01.html#46",
+"de": "Das Gehirn füllt die Lücke zwischen zwei Reizen an verschiedenen Positionen mit Bewegung"
+},
+{
+"key": "part01.html#47",
+"de": "Heute die gängige Erklärung der Bewegungswahrnehmung"
+},
+{
+"key": "part01.html#48",
+"de": "<small>Integration</small>Beta-Bewegung"
+},
+{
+"key": "part01.html#49",
+"de": "Standbilder in Folge an verschiedenen Positionen verschmelzen zu einem bewegten Objekt"
+},
+{
+"key": "part01.html#50",
+"de": "<small>Ca. 50 Hz</small>Kritische Flimmerfrequenz"
+},
+{
+"key": "part01.html#51",
+"de": "Die Frequenz, ab der Flimmern wie stetiges Licht wirkt"
+},
+{
+"key": "part01.html#52",
+"de": "Darum ließen frühe Projektoren jedes Bild zwei- oder dreimal aufblitzen"
+},
+{
+"key": "part01.html#53",
+"de": "<b>16<em>fps</em></b>Bewegung wird wahrgenommen, aber es ruckelt noch"
+},
+{
+"key": "part01.html#54",
+"de": "<b>24<em>fps</em></b>Der Kompromiss zwischen flüssiger Bewegung und Filmverbrauch"
+},
+{
+"key": "part01.html#55",
+"de": "<b>0,05<em>s</em></b>So lange bleibt ein Nachbild auf der Netzhaut"
+},
+{
+"key": "part01.html#56",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part01.html#57",
+"de": "Die Kinoanmutung von 24 fps ist kein physikalisches Muss, sondern eine in 100 Jahren erlernte Konvention. Nutzen Sie die Bildrate als emotionales Werkzeug."
+},
+{
+"key": "part01.html#58",
+"de": "Video ist letztlich eine Illusion, die erst im Gehirn des Zuschauers vollendet wird.<small>12.1 Definition von Video und Wahrnehmungsprinzipien</small>"
+},
+{
+"key": "part01.html#59",
+"de": "<small>Übung</small>12.1"
+},
+{
+"key": "part01.html#60",
+"de": "Aufgabe"
+},
+{
+"key": "part01.html#61",
+"de": "Nehmen Sie mit dem Smartphone 12 Serienfotos für 1 Sekunde Bewegung auf. Spielen Sie dieselben 12 Bilder mit 6, 12 und 24 fps ab und vergleichen Sie."
+},
+{
+"key": "part01.html#62",
+"de": "Tipp"
+},
+{
+"key": "part01.html#63",
+"de": "Nutzen Sie ein Stativ und bewegen Sie nur das Motiv, Stück für Stück. Verschiebt sich der Hintergrund, sieht man erst Wackeln, dann Bewegung."
+},
+{
+"key": "part01.html#64",
+"de": "Bewertung"
+},
+{
+"key": "part01.html#65",
+"de": "Wurde in einem Satz erklärt, wie die Bildrate den Bewegungseindruck verändert? Sind die Abstände gleichmäßig?"
+},
+{
+"key": "part01.html#66",
+"de": "Musterlösung"
+},
+{
+"key": "part01.html#67",
+"de": "Muybridges Serie des galoppierenden Pferdes. Stellen Sie dieselben 12 Bilder in verschiedenen Tempi nebeneinander und belegen Sie den Unterschied selbst."
+},
+{
+"key": "part01.html#68",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#69",
+"de": "Geräte vor dem Kino"
+},
+{
+"key": "part01.html#70",
+"de": "Eine Geschichte der Geräte, die Bewegung einfangen wollten. Das Kino wurde nicht an einem Tag erfunden; es entstand auf einem Fundament angehäufter Apparate. Jeder enthielt bereits ein Konzept der heutigen Videoproduktion."
+},
+{
+"key": "part01.html#71",
+"de": "<span class=\"ph-id\">P01-PREFILM</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Eine Laterna-magica-Vorführung</b>Eine Messinglaterne projiziert Glasbilder auf ein Tuch, eine Familie schaut bei Kerzenlicht zu</span>"
+},
+{
+"key": "part01.html#72",
+"de": "<b>Hinweis</b> Schon vor dem Kino war die Form des gemeinsamen Schauens im dunklen Raum voll ausgebildet"
+},
+{
+"key": "part01.html#73",
+"de": "<b>17. Jh.</b><i>Laterna magica</i>Glasbilder, groß an die Wand projiziert. Direkter Vorfahr des Projection Mappings"
+},
+{
+"key": "part01.html#74",
+"de": "<b>1832</b><i>Phenakistiskop · Zoetrop</i>Einzelbild und Verschluss erstmals kombiniert"
+},
+{
+"key": "part01.html#75",
+"de": "<b>1878</b><i>Muybridge</i>12+ Kameras beweisen: Alle vier Hufe heben vom Boden ab. Der Beginn der Hochgeschwindigkeitsfotografie"
+},
+{
+"key": "part01.html#76",
+"de": "<b>1882</b><i>Marey</i>Chronofotografie. Bewegungsphasen auf einer Platte überlagert, um Zeit sichtbar zu machen"
+},
+{
+"key": "part01.html#77",
+"de": "<b>1888</b><i>Le Prince</i>Roundhay Garden Scene. Der älteste erhaltene Film"
+},
+{
+"key": "part01.html#78",
+"de": "<b>1891</b><i>Kinetoskop</i>Eine Person schaut allein hinein. Dieselbe Struktur wie mobiles Schauen"
+},
+{
+"key": "part01.html#79",
+"de": "<b>Die Lehre daraus</b>"
+},
+{
+"key": "part01.html#80",
+"de": "Das Prinzip, dass die physischen Bedingungen eines Mediums seine Form bestimmen, gilt heute wie vor 130 Jahren."
+},
+{
+"key": "part01.html#81",
+"de": "Ändert sich die Art des Schauens, ändert sich die Form der Inhalte"
+},
+{
+"key": "part01.html#82",
+"de": "Das Kinetoskop war für kurzes Schauen allein gedacht und zeigte entsprechend kurze Attraktionen. Der vertikale Smartphone-Bildschirm brachte nach derselben Logik das Kurzvideoformat hervor."
+},
+{
+"key": "part01.html#83",
+"de": "<small>Übung</small>12.2"
+},
+{
+"key": "part01.html#84",
+"de": "Aufgabe"
+},
+{
+"key": "part01.html#85",
+"de": "Basteln Sie ein Thaumatrop oder Daumenkino aus Papier und filmen Sie es 10 Sekunden lang."
+},
+{
+"key": "part01.html#86",
+"de": "Tipp"
+},
+{
+"key": "part01.html#87",
+"de": "Je einfacher die Zeichnung, desto besser die Bewegung. Beginnen Sie mit einem hüpfenden Kreis."
+},
+{
+"key": "part01.html#88",
+"de": "Bewertung"
+},
+{
+"key": "part01.html#89",
+"de": "Wurde das Nachbildprinzip richtig erklärt? Funktioniert das Gerät tatsächlich?"
+},
+{
+"key": "part01.html#90",
+"de": "Musterlösung"
+},
+{
+"key": "part01.html#91",
+"de": "Restaurierte Zoetrop-Arbeiten. Verbinden Sie das Prinzip des Geräts mit heutigen GIF- und Kurzvideo-Loops."
+},
+{
+"key": "part01.html#92",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#93",
+"de": "Die Geburt des Kinos und die Stummfilmzeit"
+},
+{
+"key": "part01.html#94",
+"de": "28. Dezember 1895, Grand Café in Paris: die Cinématographe-Vorführung der Brüder Lumière gegen Eintritt. Der Moment, in dem Video zum Medium kollektiver Erfahrung wurde."
+},
+{
+"key": "part01.html#95",
+"de": "<span class=\"ph-id\">P01-SILENT</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Die Handkurbelkamera</b>Ein Team der 1900er-Jahre kurbelt eine Holzkastenkamera auf einem Stativ</span>"
+},
+{
+"key": "part01.html#96",
+"de": "<b>Hinweis</b> Ein Set der Stummfilmzeit, an dem das Kurbeltempo die Bildrate war"
+},
+{
+"key": "part01.html#97",
+"de": "30 Jahre Stummfilm – von der Aufzeichnung zur Magie und dann zum Ton"
+},
+{
+"key": "part01.html#98",
+"de": "<b>Ankunft eines Zuges, 1896 · Lumière</b><span>Eine statische Einstellung, 50 Sekunden. Ein Zug nähert sich diagonal – der Legende nach floh das Publikum</span>"
+},
+{
+"key": "part01.html#99",
+"de": "<b>Die Reise zum Mond, 1902 · Méliès</b><span>Stopptrick · Mehrfachbelichtung · Handkolorierung. Der Moment, als Film von der „Aufzeichnung“ zur „Magie“ wurde</span>"
+},
+{
+"key": "part01.html#100",
+"de": "<b>Die Handkurbelkamera, 1910er-Jahre</b><span>Das Kurbeltempo war die Bildrate. Etwa 16 Bilder pro Sekunde – darum wirkt Stummfilm schnell</span>"
+},
+{
+"key": "part01.html#101",
+"de": "<b>Der Jazzsänger, 1927 · der erste Tonspielfilm</b><span>Gesang und Dialog synchron zum Bild. Die Stummfilmzeit endete binnen 2 Jahren</span>"
+},
+{
+"key": "part01.html#102",
+"de": "<b>Abb. 5-1</b> Vier Szenen der Stummfilmzeit – Aufzeichnung (Lumière), Magie (Méliès), das Tempo der Hand (Kurbel) und Ton (Tonfilm). Mit generierten Bildern nachgestellte Szenen, keine echten Filmbilder."
+},
+{
+"key": "part01.html#103",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "part01.html#104",
+"de": "Cinématographe – das Gerät der Lumières, das Kamera, Kopiergerät und Projektor in einem war."
+},
+{
+"key": "part01.html#105",
+"de": "Kategorie"
+},
+{
+"key": "part01.html#106",
+"de": "Edison-Kinetoskop"
+},
+{
+"key": "part01.html#107",
+"de": "Lumière-Cinématographe"
+},
+{
+"key": "part01.html#108",
+"de": "Schauen"
+},
+{
+"key": "part01.html#109",
+"de": "Eine Person schaut hinein"
+},
+{
+"key": "part01.html#110",
+"de": "Viele zugleich"
+},
+{
+"key": "part01.html#111",
+"de": "Gewicht"
+},
+{
+"key": "part01.html#112",
+"de": "Schwer, ortsfest"
+},
+{
+"key": "part01.html#113",
+"de": "Leicht, tragbar"
+},
+{
+"key": "part01.html#114",
+"de": "Antrieb"
+},
+{
+"key": "part01.html#115",
+"de": "Elektrisch"
+},
+{
+"key": "part01.html#116",
+"de": "Handkurbel"
+},
+{
+"key": "part01.html#117",
+"de": "Drehort"
+},
+{
+"key": "part01.html#118",
+"de": "Meist Studio"
+},
+{
+"key": "part01.html#119",
+"de": "Meist im Freien"
+},
+{
+"key": "part01.html#120",
+"de": "Erbe"
+},
+{
+"key": "part01.html#121",
+"de": "Modell Einzelsehen"
+},
+{
+"key": "part01.html#122",
+"de": "Modell Kinosaal"
+},
+{
+"key": "part01.html#123",
+"de": "Die Grammatik des frühen Kinos"
+},
+{
+"key": "part01.html#124",
+"de": "<small>Méliès</small>Spezialeffekte"
+},
+{
+"key": "part01.html#125",
+"de": "Stopptricks, Mehrfachbelichtung, Miniaturen"
+},
+{
+"key": "part01.html#126",
+"de": "„Die Reise zum Mond“, 1902 – Ausgangspunkt der inszenierten Fiktion"
+},
+{
+"key": "part01.html#127",
+"de": "<small>Porter · 1903</small>Entdeckung der Montage"
+},
+{
+"key": "part01.html#128",
+"de": "„Der große Eisenbahnraub“ montiert Szenen an verschiedenen Orten im Wechsel"
+},
+{
+"key": "part01.html#129",
+"de": "Verschiedene Räume, verbunden, ergeben eine Geschichte"
+},
+{
+"key": "part01.html#130",
+"de": "<small>Griffith</small>Klassischer Schnitt"
+}
+]

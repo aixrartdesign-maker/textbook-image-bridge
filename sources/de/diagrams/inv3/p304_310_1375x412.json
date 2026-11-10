@@ -1,0 +1,858 @@
+{
+ "stem": "p304_310_1375x412",
+ "size": [
+  3069,
+  894
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "15 seconds isn't a short ad but the densest story unit",
+   "en": "15 seconds isn't a short ad but the densest story unit",
+   "lines": [
+    [
+     933,
+     77,
+     2112,
+     123
+    ]
+   ],
+   "ocr": "15 seconds isn't a short ad but the densest story unit",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    933,
+    77,
+    2112,
+    123
+   ],
+   "ltexts": [
+    "15 seconds isn't a short ad but the densest story unit"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    35,
+    36,
+    39
+   ],
+   "weight": "Regular",
+   "size": 48.62,
+   "baselines": [
+    113
+   ],
+   "xs": [
+    929
+   ],
+   "inkboxes": [
+    [
+     933,
+     77,
+     2112,
+     123
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.27,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 933,
+    "right": 957,
+    "up": 77,
+    "down": 126,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Hook",
+   "en": "Hook",
+   "lines": [
+    [
+     484,
+     333,
+     596,
+     371
+    ]
+   ],
+   "ocr": "Hook",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    484,
+    333,
+    596,
+    371
+   ],
+   "ltexts": [
+    "Hook"
+   ],
+   "bg": [
+    198,
+    198,
+    203
+   ],
+   "bgstd": 1.7,
+   "color": [
+    29,
+    30,
+    34
+   ],
+   "weight": "Bold",
+   "size": 45.06,
+   "baselines": [
+    370
+   ],
+   "xs": [
+    480
+   ],
+   "inkboxes": [
+    [
+     484,
+     334,
+     596,
+     371
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.88,
+   "align": "center",
+   "room": {
+    "left": 202,
+    "right": 184,
+    "up": 54,
+    "down": 162,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Body",
+   "en": "Body",
+   "lines": [
+    [
+     1392,
+     333,
+     1501,
+     381
+    ]
+   ],
+   "ocr": "Body",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    1392,
+    333,
+    1501,
+    381
+   ],
+   "ltexts": [
+    "Body"
+   ],
+   "bg": [
+    230,
+    229,
+    235
+   ],
+   "bgstd": 1.6,
+   "color": [
+    28,
+    29,
+    32
+   ],
+   "weight": "Bold",
+   "size": 45.56,
+   "baselines": [
+    370
+   ],
+   "xs": [
+    1388
+   ],
+   "inkboxes": [
+    [
+     1392,
+     334,
+     1501,
+     381
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.79,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 601,
+    "right": 607,
+    "up": 54,
+    "down": 152,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Wrap-up",
+   "en": "Wrap-up",
+   "lines": [
+    [
+     2357,
+     337,
+     2545,
+     381
+    ]
+   ],
+   "ocr": "Wrap-up",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    2357,
+    337,
+    2545,
+    381
+   ],
+   "ltexts": [
+    "Wrap-up"
+   ],
+   "bg": [
+    197,
+    196,
+    202
+   ],
+   "bgstd": 1.4,
+   "color": [
+    29,
+    30,
+    33
+   ],
+   "weight": "Bold",
+   "size": 44.93,
+   "baselines": [
+    370
+   ],
+   "xs": [
+    2356
+   ],
+   "inkboxes": [
+    [
+     2357,
+     337,
+     2544,
+     380
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.76,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 237,
+    "right": 244,
+    "up": 58,
+    "down": 152,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Question·oddity·sound·motion",
+   "en": "Question·oddity·sound·motion",
+   "lines": [
+    [
+     306,
+     434,
+     761,
+     467
+    ]
+   ],
+   "ocr": "Question-oddity-sound:-motion",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    306,
+    434,
+    761,
+    467
+   ],
+   "ltexts": [
+    "Question·oddity·sound·motion"
+   ],
+   "bg": [
+    198,
+    197,
+    203
+   ],
+   "bgstd": 1.2,
+   "color": [
+    57,
+    57,
+    61
+   ],
+   "weight": "Regular",
+   "size": 30.63,
+   "baselines": [
+    460
+   ],
+   "xs": [
+    304
+   ],
+   "inkboxes": [
+    [
+     306,
+     435,
+     761,
+     467
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.3,
+   "align": "center",
+   "room": {
+    "left": 23,
+    "right": 19,
+    "up": 155,
+    "down": 66,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Visually prove a single benefit",
+   "en": "Visually prove a single benefit",
+   "lines": [
+    [
+     1194,
+     435,
+     1698,
+     473
+    ]
+   ],
+   "ocr": "Visually prove a single benefit",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    1194,
+    435,
+    1698,
+    473
+   ],
+   "ltexts": [
+    "Visually prove a single benefit"
+   ],
+   "bg": [
+    230,
+    229,
+    235
+   ],
+   "bgstd": 0.9,
+   "color": [
+    56,
+    56,
+    61
+   ],
+   "weight": "Regular",
+   "size": 36.41,
+   "baselines": [
+    464
+   ],
+   "xs": [
+    1194
+   ],
+   "inkboxes": [
+    [
+     1194,
+     435,
+     1698,
+     473
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 403,
+    "right": 410,
+    "up": 156,
+    "down": 60,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Logo · sound logo · call to action",
+   "en": "Logo · sound logo · call to action",
+   "lines": [
+    [
+     2181,
+     437,
+     2728,
+     475
+    ]
+   ],
+   "ocr": "Logo sound logo call to action",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    2181,
+    437,
+    2728,
+    475
+   ],
+   "ltexts": [
+    "Logo · sound logo · call to action"
+   ],
+   "bg": [
+    197,
+    197,
+    202
+   ],
+   "bgstd": 1.1,
+   "color": [
+    59,
+    59,
+    63
+   ],
+   "weight": "Regular",
+   "size": 35.44,
+   "baselines": [
+    466
+   ],
+   "xs": [
+    2178
+   ],
+   "inkboxes": [
+    [
+     2182,
+     438,
+     2727,
+     475
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.35,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 61,
+    "right": 61,
+    "up": 158,
+    "down": 58,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "manual",
+   "en": "0s",
+   "lines": [
+    [
+     254,
+     625,
+     292,
+     655
+    ]
+   ],
+   "ocr": "",
+   "ratio": null,
+   "src": [
+    "manual"
+   ],
+   "id": 7,
+   "box": [
+    254,
+    625,
+    292,
+    655
+   ],
+   "ltexts": [
+    "0s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.7,
+   "color": [
+    26,
+    27,
+    30
+   ],
+   "weight": "Regular",
+   "size": 41.01,
+   "baselines": [
+    655
+   ],
+   "xs": [
+    252
+   ],
+   "inkboxes": [
+    [
+     254,
+     625,
+     293,
+     655
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.84,
+   "align": "left",
+   "room": {
+    "left": 254,
+    "right": 2777,
+    "up": 37,
+    "down": 239,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "3s",
+   "en": "3s",
+   "lines": [
+    [
+     764,
+     625,
+     802,
+     655
+    ]
+   ],
+   "ocr": "3s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    764,
+    625,
+    802,
+    655
+   ],
+   "ltexts": [
+    "3s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    27,
+    28,
+    33
+   ],
+   "weight": "Regular",
+   "size": 40.06,
+   "baselines": [
+    655
+   ],
+   "xs": [
+    763
+   ],
+   "inkboxes": [
+    [
+     764,
+     625,
+     802,
+     655
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.79,
+   "align": "left",
+   "room": {
+    "left": 764,
+    "right": 2267,
+    "up": 37,
+    "down": 239,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "manual",
+   "en": "11s",
+   "lines": [
+    [
+     2083,
+     625,
+     2142,
+     655
+    ]
+   ],
+   "ocr": "",
+   "ratio": null,
+   "src": [
+    "manual"
+   ],
+   "id": 9,
+   "box": [
+    2083,
+    625,
+    2142,
+    655
+   ],
+   "ltexts": [
+    "11s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    24,
+    26,
+    30
+   ],
+   "weight": "Regular",
+   "size": 40.14,
+   "baselines": [
+    655
+   ],
+   "xs": [
+    2081
+   ],
+   "inkboxes": [
+    [
+     2084,
+     626,
+     2142,
+     655
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.64,
+   "align": "left",
+   "room": {
+    "left": 2083,
+    "right": 927,
+    "up": 37,
+    "down": 239,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "15s",
+   "en": "15s",
+   "lines": [
+    [
+     2762,
+     626,
+     2821,
+     655
+    ]
+   ],
+   "ocr": "15s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 10,
+   "box": [
+    2762,
+    626,
+    2821,
+    655
+   ],
+   "ltexts": [
+    "15s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.4,
+   "color": [
+    24,
+    25,
+    29
+   ],
+   "weight": "Regular",
+   "size": 40.48,
+   "baselines": [
+    655
+   ],
+   "xs": [
+    2759
+   ],
+   "inkboxes": [
+    [
+     2762,
+     626,
+     2821,
+     655
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.72,
+   "align": "left",
+   "room": {
+    "left": 2762,
+    "right": 248,
+    "up": 38,
+    "down": 239,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Show the brand once in the first 5s, once at the end",
+   "en": "Show the brand once in the first 5s, once at the end",
+   "lines": [
+    [
+     1045,
+     743,
+     2009,
+     781
+    ]
+   ],
+   "ocr": "Show the brand once in the first 5s, once at the end",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 11,
+   "box": [
+    1045,
+    743,
+    2009,
+    781
+   ],
+   "ltexts": [
+    "Show the brand once in the first 5s, once at the end"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    41,
+    41,
+    45
+   ],
+   "weight": "Regular",
+   "size": 40.97,
+   "baselines": [
+    774
+   ],
+   "xs": [
+    1043
+   ],
+   "inkboxes": [
+    [
+     1045,
+     743,
+     2009,
+     781
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.32,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 1045,
+    "right": 1060,
+    "up": 199,
+    "down": 113,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "Os",
+   "box": [
+    254,
+    625,
+    293,
+    656
+   ],
+   "conf": 96.5
+  },
+  {
+   "text": "lls",
+   "box": [
+    2084,
+    625,
+    2142,
+    655
+   ],
+   "conf": 87.0
+  }
+ ]
+}

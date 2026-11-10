@@ -1,0 +1,602 @@
+[
+{
+"key": "part01.html#431",
+"de": "<b>02</b><i>Objektiv</i>Bündelt mehr Licht in einem Punkt als ein Loch. Die Brennweite bestimmt den Bildwinkel"
+},
+{
+"key": "part01.html#432",
+"de": "<b>03</b><i>Blende</i>Größe der Öffnung, durch die Licht fällt. Ändert Helligkeit und Schärfentiefe zugleich"
+},
+{
+"key": "part01.html#433",
+"de": "<b>04</b><i>Verschluss</i>Wie lange Licht einfällt. Friert Bewegung ein oder lässt sie fließen"
+},
+{
+"key": "part01.html#434",
+"de": "<b>05</b><i>Aufnahmefläche</i>Auf Film werden Silberhalogenidkörner schwarz und hinterlassen ein Bild; im Sensor wandeln Pixel Licht in Ladung um, die als Zahlen gespeichert wird"
+},
+{
+"key": "part01.html#435",
+"de": "Die Kamera entwickelte sich hin zu kürzerer Belichtung, kleineren Gehäusen und einfacheren Abzügen"
+},
+{
+"key": "part01.html#436",
+"de": "<b class=\"yr\">16. Jh.–</b><b>Camera obscura</b><span>Zeichenhilfe für Maler</span>"
+},
+{
+"key": "part01.html#437",
+"de": "<b class=\"yr\">1839</b><b>Daguerreotypie</b><span>Minutenlange Belichtung, ein Unikat</span>"
+},
+{
+"key": "part01.html#438",
+"de": "<b class=\"yr\">1851</b><b>Nassplatte · Großformat</b><span>Glasnegativ, endlos kopierbar</span>"
+},
+{
+"key": "part01.html#439",
+"de": "<b class=\"yr\">1888</b><b>Rollfilm-Boxkamera</b><span>Fotos für jedermann</span>"
+},
+{
+"key": "part01.html#440",
+"de": "<b class=\"yr\">1925</b><b>Kleinbildkamera</b><span>Kinofilm für Fotos</span>"
+},
+{
+"key": "part01.html#441",
+"de": "<b class=\"yr\">1948</b><b>Sofortbildkamera</b><span>Ein Abzug in Minuten</span>"
+},
+{
+"key": "part01.html#442",
+"de": "<b class=\"yr\">1950er–60er</b><b>Spiegelreflex (SLR)</b><span>Aufnehmen, was man sieht</span>"
+},
+{
+"key": "part01.html#443",
+"de": "<b class=\"yr\">1975</b><b>Digitalkamera-Prototyp</b><span>Elektrische Signale, kein Film</span>"
+},
+{
+"key": "part01.html#444",
+"de": "<b class=\"yr\">1990er–2000er</b><b>Digitalkompakte boomen</b><span>Aufnehmen und sofort prüfen</span>"
+},
+{
+"key": "part01.html#445",
+"de": "<b class=\"yr\">2000–</b><b>Fotohandy · Smartphone</b><span>Aufnehmen, bearbeiten, posten</span>"
+},
+{
+"key": "part01.html#446",
+"de": "<b>Abb. 4</b> Wie sich die Kamera wandelte – 200 Jahre schrumpfender Belichtungszeiten, Größen und Arbeitsschritte bis zum Abzug. Von links oben nach rechts unten wächst der Kreis derer, „die fotografieren“, von Malern zu allen."
+},
+{
+"key": "part01.html#447",
+"de": "Die Entwicklung"
+},
+{
+"key": "part01.html#448",
+"de": "<b>1826–27 Niépce</b> Die älteste erhaltene Fotografie, „Blick aus dem Fenster in Le Gras“. Eine Belichtung von mehreren Stunden"
+},
+{
+"key": "part01.html#449",
+"de": "<b>1839 Daguerre</b> Die Daguerreotypie. Sehr scharf auf einer Silberplatte, aber ein Einzelbild, das sich nicht kopieren lässt"
+},
+{
+"key": "part01.html#450",
+"de": "<b>1841 Talbot</b> Die Kalotypie. Viele Positive von einem Papiernegativ – der Beginn des Negativ-Positiv-Verfahrens zur Vervielfältigung"
+},
+{
+"key": "part01.html#451",
+"de": "<b>1851 Archer</b> Nassplatte (Kollodium). Die Schärfe von Glasnegativen bei Belichtungszeiten von Sekunden. Porträtstudios werden alltäglich"
+},
+{
+"key": "part01.html#452",
+"de": "<b>1888 Eastman</b> Rollfilm-Boxkamera. „Sie drücken auf den Knopf, wir erledigen den Rest“ – Aufnahme und Entwicklung werden getrennt"
+},
+{
+"key": "part01.html#453",
+"de": "<b>1907 Autochrome · 1935 Kodachrome</b> Das erste kommerzielle Farbfotoverfahren und Farbfilm mit Mehrschichtemulsion"
+},
+{
+"key": "part01.html#454",
+"de": "<b>1925 Kleinbildkamera</b> Kinofilm für Fotos. Straßenfotografie und Fotojournalismus; Grundlage des heutigen Vollformatsensors"
+},
+{
+"key": "part01.html#455",
+"de": "<b>1948 Sofortbildfotografie</b> Ein Foto binnen Minuten in der Hand. Der Anfang davon, Ergebnisse sofort zu sehen"
+},
+{
+"key": "part01.html#456",
+"de": "<b>1975 Digitaler Prototyp</b> Steven Sasson von Kodak speichert ca. 0,01 Megapixel auf Kassettenband"
+},
+{
+"key": "part01.html#457",
+"de": "<b>Ab den 2000ern</b> Fotohandys und Smartphones vereinen Aufnahme · Retusche · Teilen in einem Gerät. Rechnergestützte Fotografie, die viele Einzelbilder verrechnet, wird Standard"
+},
+{
+"key": "part01.html#458",
+"de": "<b>Referenzfotos 12.12A</b>Generierte Bilder – Inszenierungsreferenz"
+},
+{
+"key": "part01.html#459",
+"de": "<b>a</b>Camera obscura – die Szene draußen kopfüber an der Wand"
+},
+{
+"key": "part01.html#460",
+"de": "<b>b</b>Daguerreotypie-Kamera – Holzkasten und Messingobjektiv"
+},
+{
+"key": "part01.html#461",
+"de": "<b>c</b>Großformat-Fachkamera – Faltenbalg und Einstelltuch"
+},
+{
+"key": "part01.html#462",
+"de": "<b>Referenzfotos 12.12B</b>Generierte Bilder – Inszenierungsreferenz"
+},
+{
+"key": "part01.html#463",
+"de": "<b>a</b>Rollfilm-Boxkamera – die Zeit, als jeder fotografieren konnte"
+},
+{
+"key": "part01.html#464",
+"de": "<b>b</b>Kleinbild-Messsucherkamera – Fotografie auf der Straße"
+},
+{
+"key": "part01.html#465",
+"de": "<b>c</b>Analoge Spiegelreflexkamera und eine Filmrolle"
+},
+{
+"key": "part01.html#466",
+"de": "<b>Referenzfotos 12.12C</b>Generierte Bilder – Inszenierungsreferenz"
+},
+{
+"key": "part01.html#467",
+"de": "<b>a</b>Sofortbildkamera – ein Foto, das in Minuten erscheint"
+},
+{
+"key": "part01.html#468",
+"de": "<b>b</b>Frühe digitale Kompaktkamera und Speicherkarte"
+},
+{
+"key": "part01.html#469",
+"de": "<b>c</b>Smartphone mit Mehrfachkamera"
+},
+{
+"key": "part01.html#470",
+"de": "<b>Bezug zum Video</b>"
+},
+{
+"key": "part01.html#471",
+"de": "Kinofilm ist die Technik, fotografischen Film mit 24 Bildern pro Sekunde zu belichten. Blende, Verschluss und Empfindlichkeit gingen direkt ins Video über (3.5)."
+},
+{
+"key": "part01.html#472",
+"de": "In der Geschichte der Fotografie weitete sich mit kürzeren Belichtungszeiten das Fotografierbare auf Bewegtes aus. Muybridges Serie eines laufenden Pferdes von 1878 ist die Brücke zwischen Fotografie und Kino."
+},
+{
+"key": "part01.html#473",
+"de": "Welche neue Kamera auch erscheint, es gibt nur fünf Prinzipien. Prüfen Sie zuerst, welches sich geändert hat: Gehäuse, Objektiv, Blende, Verschluss oder Aufnahmefläche.<small>12.12 Ein Satz fürs Set</small>"
+},
+{
+"key": "part01.html#474",
+"de": "<small>Übung</small>12.12"
+},
+{
+"key": "part01.html#475",
+"de": "Aufgabe"
+},
+{
+"key": "part01.html#476",
+"de": "Bauen Sie aus Schachtel und Alufolie eine Lochkamera und fotografieren Sie das kopfstehende Bild der Fensteraussicht."
+},
+{
+"key": "part01.html#477",
+"de": "Tipp"
+},
+{
+"key": "part01.html#478",
+"de": "Stechen Sie mit einer Nadel ein kleines, rundes Loch und verdunkeln Sie den Raum möglichst stark."
+},
+{
+"key": "part01.html#479",
+"de": "Bewertung"
+},
+{
+"key": "part01.html#480",
+"de": "Bildentstehung mit einer Zeichnung erklärt; Zusammenhang von Lochgröße und Schärfe"
+},
+{
+"key": "part01.html#481",
+"de": "Musterlösung"
+},
+{
+"key": "part01.html#482",
+"de": "Aufzeichnungen zur Camera obscura. Testet drei Lochgrößen, um den Zielkonflikt zwischen Schärfe und Helligkeit zu zeigen."
+},
+{
+"key": "part01.html#483",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#484",
+"de": "Von der Dunkelkammer zum Druck"
+},
+{
+"key": "part01.html#485",
+"de": "Vom Silbergelatineabzug zum CMYK-Druck. Vor dem Digitalen stand zwischen Aufnahme und Betrachten ein chemischer Prozess. Bildschirme addieren Licht, Druck subtrahiert es."
+},
+{
+"key": "part01.html#486",
+"de": "Die Dunkelkammer – wie aus belichtetem Film ein Foto auf Papier wird"
+},
+{
+"key": "part01.html#487",
+"de": "<b>① Negativ und Positiv</b><span>Das Negativ (Film), auf dem Helles dunkel erscheint, wird erneut zum Positiv (Fotopapier) umgekehrt</span>"
+},
+{
+"key": "part01.html#488",
+"de": "<b>② Vergrößerer – unter rotem Schutzlicht</b><span>Licht fällt durch das Negativ und wird auf Fotopapier projiziert. Ein Objektiv bestimmt Größe und Schärfe</span>"
+},
+{
+"key": "part01.html#489",
+"de": "<b>③ Filmentwicklung – in der lichtdichten Dose</b><span>Entwickeln → Stoppen → Fixieren → Wässern → Trocknen. Bei 20 °C bestimmen Temperatur und Zeit das Ergebnis</span>"
+},
+{
+"key": "part01.html#490",
+"de": "<b>④ Papierentwicklung – das Bild erscheint</b><span>Ca. 1 Min. im Entwickler, während das Bild auf dem Papier dunkler wird → Stoppen → Fixieren → Wässern</span>"
+},
+{
+"key": "part01.html#491",
+"de": "<b>Abb. 5</b> Dunkelkammerarbeit – vom Negativ zum Positiv. Vor dem Digitalen kosteten Entwickeln und Abziehen mehr Zeit als die Aufnahme."
+},
+{
+"key": "part01.html#492",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "part01.html#493",
+"de": "Negativ – Film, dessen belichtete Stellen schwarz werden: Hell und Dunkel sind vertauscht. Erneut auf Fotopapier projiziert, ergibt es ein Positiv mit den ursprünglichen Tonwerten."
+},
+{
+"key": "part01.html#494",
+"de": "Die fünf Schritte der Filmentwicklung"
+},
+{
+"key": "part01.html#495",
+"de": "<b>01</b><i>Entwickeln</i>Macht aus belichteten Silberkörnern schwarzes metallisches Silber. Temperatur und Zeit bestimmen das Ergebnis"
+},
+{
+"key": "part01.html#496",
+"de": "<b>02</b><i>Stoppen</i>Ein schwaches Säurebad beendet die Entwicklung"
+},
+{
+"key": "part01.html#497",
+"de": "<b>03</b><i>Fixieren</i>Löst unbelichtetes Silber, damit es nicht mehr reagiert"
+},
+{
+"key": "part01.html#498",
+"de": "<b>04</b><i>Wässern und Trocknen</i>Chemikalien gründlich auswaschen und staubfrei trocknen. Rückstände verursachen Jahre später Verfärbungen"
+},
+{
+"key": "part01.html#499",
+"de": "Abzüge – Bearbeitung unter dem Vergrößerer"
+},
+{
+"key": "part01.html#500",
+"de": "<small>Auswählen</small>Kontaktabzug"
+},
+{
+"key": "part01.html#501",
+"de": "Negative auf Fotopapier gelegt, um alle Bilder auf einem Blatt zu sehen"
+},
+{
+"key": "part01.html#502",
+"de": "Die Auswahl der Bilder ist der Ursprung des Schnitts"
+},
+{
+"key": "part01.html#503",
+"de": "<small>Vergrößern</small>Vergrößerer"
+},
+{
+"key": "part01.html#504",
+"de": "Ein Objektiv projiziert das Negativ groß, abgezogen in der gewünschten Größe"
+},
+{
+"key": "part01.html#505",
+"de": "Belichtungszeit ist Helligkeit"
+},
+{
+"key": "part01.html#506",
+"de": "<small>Verfeinern</small>Abwedeln und Nachbelichten"
+},
+{
+"key": "part01.html#507",
+"de": "Hände oder Karton dosieren das Licht stellenweise"
+},
+{
+"key": "part01.html#508",
+"de": "Daher die Namen der Photoshop-Werkzeuge Abwedler · Nachbelichter"
+},
+{
+"key": "part01.html#509",
+"de": "<small>Arbeitsplatz</small>Rotes Schutzlicht"
+},
+{
+"key": "part01.html#510",
+"de": "Schwarz-Weiß-Papier reagiert kaum auf rotes Licht"
+},
+{
+"key": "part01.html#511",
+"de": "So sieht man, was man tut"
+},
+{
+"key": "part01.html#512",
+"de": "<b>Referenzfotos 12.13A</b>Generierte Bilder – Inszenierungsreferenz"
+},
+{
+"key": "part01.html#513",
+"de": "<b>a</b>Dunkelkammer unter rotem Schutzlicht"
+},
+{
+"key": "part01.html#514",
+"de": "<b>b</b>Vergrößerer – projiziert ein Negativ auf Fotopapier"
+},
+{
+"key": "part01.html#515",
+"de": "<b>c</b>Ein Bild erscheint im Entwickler"
+},
+{
+"key": "part01.html#516",
+"de": "<b>Referenzfotos 12.13B</b>Generierte Bilder – Inszenierungsreferenz"
+},
+{
+"key": "part01.html#517",
+"de": "<b>a</b>Negativfilm und Lupe auf einem Leuchtpult"
+},
+{
+"key": "part01.html#518",
+"de": "<b>b</b>Kontaktabzug – ausgewählte Bilder markiert"
+},
+{
+"key": "part01.html#519",
+"de": "<b>c</b>Abzüge trocknen nach dem Wässern"
+},
+{
+"key": "part01.html#520",
+"de": "Wie Farbe gedruckt wird"
+},
+{
+"key": "part01.html#521",
+"de": "<b>Abb. 6</b> Lichtfarbe, Druckfarbe – RGB, CMYK, Rasterpunkte"
+},
+{
+"key": "part01.html#522",
+"de": "<small>Additive Mischung</small>RGB"
+},
+{
+"key": "part01.html#523",
+"de": "Die drei Grundfarben des Lichts. Addieren macht heller; alle zusammen ergeben Weiß"
+},
+{
+"key": "part01.html#524",
+"de": "Monitore · Smartphones · Projektoren"
+},
+{
+"key": "part01.html#525",
+"de": "<small>Subtraktive Mischung</small>CMY + K"
+},
+{
+"key": "part01.html#526",
+"de": "Druckgrundfarben Cyan · Magenta · Gelb. Überlagern macht dunkler"
+},
+{
+"key": "part01.html#527",
+"de": "CMY übereinander ergibt trübes Braun, daher eine eigene Schwarzfarbe (K, Key)"
+},
+{
+"key": "part01.html#528",
+"de": "<small>Tonwerte</small>Rasterpunkte"
+},
+{
+"key": "part01.html#529",
+"de": "Erzeugt Tonwerte über Punktgröße und -abstand statt über Farbdichte"
+},
+{
+"key": "part01.html#530",
+"de": "Jede Platte in einem anderen Winkel, um Moiré zu vermeiden"
+},
+{
+"key": "part01.html#531",
+"de": "<small>Prüfdruck</small>Farbkonvertierung"
+},
+{
+"key": "part01.html#532",
+"de": "Ein RGB-Bild unverändert gedruckt verliert an Sättigung"
+},
+{
+"key": "part01.html#533",
+"de": "In CMYK umwandeln, dann am Proof prüfen"
+},
+{
+"key": "part01.html#534",
+"de": "<b>Referenzfotos 12.13C</b>Generierte Bilder – Inszenierungsreferenz"
+},
+{
+"key": "part01.html#535",
+"de": "<b>a</b>4-Farb-Offsetmaschine – vier Platten, C · M · Y · K"
+},
+{
+"key": "part01.html#536",
+"de": "<b>b</b>Raster in Großaufnahme – CMYK-Rosettenmuster"
+},
+{
+"key": "part01.html#537",
+"de": "<b>c</b>Proof und Lupe – Druckfarbe prüfen"
+},
+{
+"key": "part01.html#538",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part01.html#539",
+"de": "Verwenden Sie nicht dieselbe Datei für Bildschirm und Druck."
+},
+{
+"key": "part01.html#540",
+"de": "Warum Videomacher das brauchen"
+},
+{
+"key": "part01.html#541",
+"de": "<b>72–150<em>ppi</em></b>Bildschirm · RGB"
+},
+{
+"key": "part01.html#542",
+"de": "<b>300<em>ppi</em></b>Druck · CMYK"
+},
+{
+"key": "part01.html#543",
+"de": "Filmplakate, Verpackungen, Merchandise, Ausstellungskataloge: Videoarbeit geht am Ende mit Gedrucktem hinaus. Photoshops Ebenen, Kurven, Abwedler, Nachbelichter und Masken führen allesamt die Arbeit von Dunkelkammer und Druckerei fort. Kennen Sie die Prinzipien, fallen Ihnen die Werkzeuge leicht."
+},
+{
+"key": "part01.html#544",
+"de": "Bildschirme addieren Licht, Druck subtrahiert es. Prüfen Sie jedes Bild, das in den Druck geht, immer an einem CMYK-Proof.<small>12.13 Ein Satz fürs Set</small>"
+},
+{
+"key": "part01.html#545",
+"de": "<small>Übung</small>12.13"
+},
+{
+"key": "part01.html#546",
+"de": "Aufgabe"
+},
+{
+"key": "part01.html#547",
+"de": "Wandeln Sie ein Foto in RGB und CMYK um, drucken Sie beide und notieren Sie die Farbunterschiede."
+},
+{
+"key": "part01.html#548",
+"de": "Tipp"
+},
+{
+"key": "part01.html#549",
+"de": "Senken Sie die Monitorhelligkeit und prüfen Sie zuerst mit einer Druckvorschau (Softproof)."
+},
+{
+"key": "part01.html#550",
+"de": "Bewertung"
+},
+{
+"key": "part01.html#551",
+"de": "Erklärt additive · subtraktive Mischung korrekt; findet Farben außerhalb des Farbraums"
+},
+{
+"key": "part01.html#552",
+"de": "Musterlösung"
+},
+{
+"key": "part01.html#553",
+"de": "Markiert Farben, die im Druck nicht funktionieren, etwa leuchtendes Blau · Neongrün, und schlägt Alternativen vor."
+},
+{
+"key": "part01.html#554",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#555",
+"de": "Geräte, auf denen wir schauten"
+},
+{
+"key": "part01.html#556",
+"de": "Von der Laterna magica bis zum Smartphone bestimmten Wiedergabegeräte die Form des Videos ebenso wie die Aufnahmetechnik (12.2). Mit jedem neuen Gerät änderten sich Länge, Größe und Grammatik des Videos."
+},
+{
+"key": "part01.html#557",
+"de": "<b>Abb. 7</b> Optische Spielzeuge für bewegte Bilder"
+},
+{
+"key": "part01.html#558",
+"de": "Spielzeug, das Bewegung zeigte"
+},
+{
+"key": "part01.html#559",
+"de": "<b>1825</b><i>Thaumatrop</i>Bei schneller Drehung verschmelzen Vorder- und Rückseitenbild der Scheibe. Ein Vogel und ein Käfig"
+},
+{
+"key": "part01.html#560",
+"de": "<b>1832</b><i>Phenakistiskop</i>Plateaus Drehscheibe. Bilder, im Spiegel durch Schlitze betrachtet"
+},
+{
+"key": "part01.html#561",
+"de": "<b>1834</b><i>Zoetrop</i>Horners Drehtrommel. Mehrere Personen sehen zugleich durch Schlitze einen Bildstreifen"
+},
+{
+"key": "part01.html#562",
+"de": "<b>1868</b><i>Daumenkino</i>Das einfachste Gerät, betrachtet durch Blättern. Das beste Werkzeug, um das Prinzip zu lehren"
+},
+{
+"key": "part01.html#563",
+"de": "<b>1877</b><i>Praxinoskop</i>Reynaud nutzte Spiegel statt Schlitzen für ein helleres, schärferes Bild. Führte zum Théâtre Optique"
+},
+{
+"key": "part01.html#564",
+"de": "<b>Referenzfotos 12.14A</b>Generierte Bilder – Inszenierungsreferenz"
+},
+{
+"key": "part01.html#565",
+"de": "<b>a</b>Laterna magica – projiziert Glasbilder"
+},
+{
+"key": "part01.html#566",
+"de": "<b>b</b>Zoetrop – Bewegung durch Schlitze gesehen"
+},
+{
+"key": "part01.html#567",
+"de": "<b>c</b>Phenakistiskop – eine Drehscheibe im Spiegel"
+},
+{
+"key": "part01.html#568",
+"de": "Das Schauen wanderte vom gemeinsamen dunklen Raum zum privaten Bildschirm in der Hand"
+},
+{
+"key": "part01.html#569",
+"de": "<b class=\"yr\">17. Jh.</b><b>Laterna magica</b><span>Glasbilder an der Wand</span>"
+},
+{
+"key": "part01.html#570",
+"de": "<b class=\"yr\">1834</b><b>Zoetrop</b><span>Drehen und hineinschauen</span>"
+},
+{
+"key": "part01.html#571",
+"de": "<b class=\"yr\">1893</b><b>Kinetoskop</b><span>Ein Kasten für eine Person</span>"
+},
+{
+"key": "part01.html#572",
+"de": "<b class=\"yr\">1895</b><b>Cinématographe</b><span>Ein dunkler Raum, viele zusammen</span>"
+},
+{
+"key": "part01.html#573",
+"de": "<b class=\"yr\">1930er–</b><b>Röhren-TV</b><span>Helles Wohnzimmer, die ganze Familie</span>"
+},
+{
+"key": "part01.html#574",
+"de": "<b class=\"yr\">1960er</b><b>Diaprojektor</b><span>Fotos groß, der Reihe nach</span>"
+},
+{
+"key": "part01.html#575",
+"de": "<b class=\"yr\">1960er–90er</b><b>OHP</b><span>Leinwand in Klassen- und Besprechungsräumen</span>"
+},
+{
+"key": "part01.html#576",
+"de": "<b class=\"yr\">1976</b><b>VHS-Video</b><span>Jederzeit wieder ansehen</span>"
+},
+{
+"key": "part01.html#577",
+"de": "<b class=\"yr\">1996</b><b>DVD</b><span>Digitale Qualität und Menüs</span>"
+},
+{
+"key": "part01.html#578",
+"de": "<b class=\"yr\">2000er</b><b>Flachbild-TV</b><span>Dünne, große 16:9-Bildschirme</span>"
+},
+{
+"key": "part01.html#579",
+"de": "<b class=\"yr\">2005–</b><b>Onlinevideo</b><span>Suchen und teilen</span>"
+},
+{
+"key": "part01.html#580",
+"de": "<b class=\"yr\">2007–</b><b>Smartphone</b><span>Ein persönlicher Bildschirm in der Hand</span>"
+}
+]

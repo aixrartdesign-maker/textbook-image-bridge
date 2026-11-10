@@ -1,0 +1,425 @@
+{
+ "stem": "p122_131_1375x571",
+ "size": [
+  2888,
+  1107
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "14mm  angle of view 104°",
+   "en": "14mm  angle of view 104°",
+   "lines": [
+    [
+     1602,
+     116,
+     2053,
+     154
+    ]
+   ],
+   "ocr": "14mm angle of view 104°",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    1602,
+    116,
+    2053,
+    154
+   ],
+   "ltexts": [
+    "14mm  angle of view 104°"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    86,
+    87,
+    91
+   ],
+   "weight": "Regular",
+   "size": 38.71,
+   "baselines": [
+    145
+   ],
+   "xs": [
+    1599
+   ],
+   "inkboxes": [
+    [
+     1602,
+     116,
+     2053,
+     154
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.31,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 48,
+    "right": 835,
+    "up": 116,
+    "down": 953,
+    "lb": true,
+    "rb": false,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "24mm  angle of view 74°",
+   "en": "24mm  angle of view 74°",
+   "lines": [
+    [
+     1600,
+     251,
+     2031,
+     289
+    ]
+   ],
+   "ocr": "24mm angle of view 74°",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    1600,
+    251,
+    2031,
+    289
+   ],
+   "ltexts": [
+    "24mm  angle of view 74°"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    86,
+    87,
+    91
+   ],
+   "weight": "Regular",
+   "size": 38.65,
+   "baselines": [
+    281
+   ],
+   "xs": [
+    1598
+   ],
+   "inkboxes": [
+    [
+     1600,
+     251,
+     2031,
+     289
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.28,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 46,
+    "right": 857,
+    "up": 251,
+    "down": 818,
+    "lb": true,
+    "rb": false,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "50mm  angle of view 40°",
+   "en": "50mm  angle of view 40°",
+   "lines": [
+    [
+     1600,
+     385,
+     2031,
+     423
+    ]
+   ],
+   "ocr": "50mm angle of view 40°",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    1600,
+    385,
+    2031,
+    423
+   ],
+   "ltexts": [
+    "50mm  angle of view 40°"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    85,
+    86,
+    90
+   ],
+   "weight": "Regular",
+   "size": 38.62,
+   "baselines": [
+    415
+   ],
+   "xs": [
+    1599
+   ],
+   "inkboxes": [
+    [
+     1600,
+     385,
+     2031,
+     423
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.29,
+   "align": "left",
+   "room": {
+    "left": 46,
+    "right": 857,
+    "up": 385,
+    "down": 684,
+    "lb": true,
+    "rb": false,
+    "ub": false,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "85mm  angle of view 24°",
+   "en": "85mm  angle of view 24°",
+   "lines": [
+    [
+     1600,
+     521,
+     2031,
+     559
+    ]
+   ],
+   "ocr": "85mm angle of view 24°",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    1600,
+    521,
+    2031,
+    559
+   ],
+   "ltexts": [
+    "85mm  angle of view 24°"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    85,
+    85,
+    90
+   ],
+   "weight": "Regular",
+   "size": 38.69,
+   "baselines": [
+    551
+   ],
+   "xs": [
+    1598
+   ],
+   "inkboxes": [
+    [
+     1600,
+     521,
+     2031,
+     559
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.3,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 46,
+    "right": 857,
+    "up": 521,
+    "down": 548,
+    "lb": true,
+    "rb": false,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "135mm  angle of view 15°",
+   "en": "135mm  angle of view 15°",
+   "lines": [
+    [
+     1601,
+     656,
+     2046,
+     694
+    ]
+   ],
+   "ocr": "135mm angle of view 15°",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    1601,
+    656,
+    2046,
+    694
+   ],
+   "ltexts": [
+    "135mm  angle of view 15°"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    84,
+    84,
+    89
+   ],
+   "weight": "Regular",
+   "size": 37.19,
+   "baselines": [
+    685
+   ],
+   "xs": [
+    1598
+   ],
+   "inkboxes": [
+    [
+     1601,
+     656,
+     2046,
+     694
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.32,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 47,
+    "right": 842,
+    "up": 656,
+    "down": 413,
+    "lb": true,
+    "rb": false,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "From one spot, a new focal length changes both framing and compression",
+   "en": "From one spot, a new focal length changes both framing and compression",
+   "lines": [
+    [
+     796,
+     1014,
+     1959,
+     1052
+    ]
+   ],
+   "ocr": "From one spot, a new focal length changes both framing and compression",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    796,
+    1014,
+    1959,
+    1052
+   ],
+   "ltexts": [
+    "From one spot, a new focal length changes both framing and compression"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    85,
+    86,
+    90
+   ],
+   "weight": "Regular",
+   "size": 35.15,
+   "baselines": [
+    1043
+   ],
+   "xs": [
+    793
+   ],
+   "inkboxes": [
+    [
+     796,
+     1014,
+     1959,
+     1052
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.23,
+   "align": "left",
+   "room": {
+    "left": 796,
+    "right": 929,
+    "up": 33,
+    "down": 55,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  }
+ ],
+ "missing": [],
+ "noise": []
+}

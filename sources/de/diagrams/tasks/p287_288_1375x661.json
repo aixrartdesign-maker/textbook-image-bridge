@@ -1,0 +1,258 @@
+{
+ "stem": "p287_288_1375x661",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p287_288_1375x661.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "The surface sets resolution · brightness · viewing distance",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 59,
+    "chars_per_line_max": 94,
+    "chars_per_line_if_shrunk": 115,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Areas show relative screen size",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 31,
+    "chars_per_line_max": 76,
+    "chars_per_line_if_shrunk": 93,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "2",
+   "en": "Cinema screen",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "Phone",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 20,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Outdoor LED",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "Monitor",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Home TV",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 32,
+    "chars_per_line_if_shrunk": 39,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "7",
+   "en": "4K standard",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 39,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "By pixel pitch",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 48,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "14 fL",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 54,
+    "chars_per_line_if_shrunk": 66,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "5000 nit+",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 37,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "10–20m",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 38,
+    "chars_per_line_if_shrunk": 46,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "2–3m",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 31,
+    "chars_per_line_if_shrunk": 38,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "17",
+   "en": "50–70cm",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "18",
+   "en": "25–35cm",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "19",
+   "en": "30m+",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 31,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "20",
+   "en": "What planners check first",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 25,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 35,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "21",
+   "en": "① Final surface and resolution",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 78,
+    "chars_per_line_if_shrunk": 96,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "22",
+   "en": "② Ambient light and needed luminance",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 36,
+    "chars_per_line_max": 70,
+    "chars_per_line_if_shrunk": 85,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "23",
+   "en": "③ Closest viewing distance",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 26,
+    "chars_per_line_max": 76,
+    "chars_per_line_if_shrunk": 92,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "24",
+   "en": "④ Can you use sound?",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 72,
+    "chars_per_line_if_shrunk": 88,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,602 @@
+[
+ {
+  "key": "part12.html#20",
+  "de": "Was teuer wird, wenn Werkzeuge billig werden"
+ },
+ {
+  "key": "part12.html#21",
+  "de": "1965 veröffentlichte Intel-Mitgründer Gordon Moore seine Beobachtung, dass sich die Zahl der Bauelemente auf einem integrierten Schaltkreis in regelmäßigen Abständen verdoppelt. Entscheidend an dieser als Moore’sches Gesetz bekannten Faustregel ist nicht die Zahl, sondern die Folge. Wird eine Ressource immer billiger, ändern Menschen ihre Arbeitsweise, um sie großzügig zu nutzen. Ökonomen sprechen von der Aufwertung der Komplementärgüter: Wird ein Gut billig, gewinnt an Wert, was zusammen mit ihm genutzt wird."
+ },
+ {
+  "key": "part12.html#22",
+  "de": "In den letzten 100 Jahren war das Teuerste an der Videoproduktion „die Kosten eines weiteren Takes“. Jeder Meter Film, jeder Tag mit Besetzung und Crew kostete Geld. Deshalb war jede Produktionspraxis, vom Storyboard über Proben bis zum Testdreh, darauf ausgelegt, Fehlschläge zu verringern. Als der digitale Dreh die Filmkosten beseitigte, änderte sich am Set als Erstes die Zahl der Takes."
+ },
+ {
+  "key": "part12.html#23",
+  "de": "Generative Tools gehen noch einen Schritt weiter. Die Kosten eines Entwurfs sind nahezu auf 0 gefallen. Drei Konzeptbilder kosteten früher Tage an Illustrationsarbeit, also überlegte man lange, welche drei man in Auftrag gibt. Heute sehen Sie 100 in 30 Minuten. Das gründliche Nachdenken hat sich von „Was gebe ich in Auftrag?“ zu „Was wähle ich aus?“ verlagert."
+ },
+ {
+  "key": "part12.html#24",
+  "de": "Was ist also teuer geworden? Erstens das Urteilsvermögen. Die Fähigkeit, zu erkennen, welches von 100 Bildern zur Marke passt und beim Publikum funktioniert, lässt sich nicht generieren. Zweitens Vertrauen. Wenn jeder ein plausibles Bild machen kann, bezahlen Auftraggeber nicht das Bild, sondern die Gewissheit: „Gibt man es dieser Person, wird es verantwortungsvoll erledigt.“ Drittens das Echte. Was sich nicht generieren lässt, etwa echte Produkte, echte Läden und die Gesichter echter Menschen, ist als Drehmotiv sogar wertvoller geworden."
+ },
+ {
+  "key": "part12.html#25",
+  "de": "Wer diese Struktur kennt, sieht auch, wofür Studierende ihre Zeit einsetzen sollten. Ein Tool zu bedienen lernt man in wenigen Tagen. Doch die Fähigkeit, zu sagen, warum ein Schnitt funktioniert, das Vertrauen, das aus eingehaltenen Deadlines entsteht, und der Blick, der am Set das Licht liest, wachsen nur durch Erfahrung. Für die Zahlen in den folgenden Abschnitten gibt es einen Maßstab: Was hat diese Veränderung billig gemacht – und was ist dadurch wertvoll geworden?"
+ },
+ {
+  "key": "part12.html#26",
+  "de": "Weiterführende Literatur – Carl Shapiro · Hal Varian, Information Rules · Erik Brynjolfsson · Andrew McAfee, The Second Machine Age · Ethan Mollick, Co-Intelligence"
+ },
+ {
+  "key": "part12.html#27",
+  "de": "<b>TEIL 12</b>Praxis und Karriere im KI-Wandel"
+ },
+ {
+  "key": "part12.html#28",
+  "de": "Wie sehr die Produktionszeit schrumpfte"
+ },
+ {
+  "key": "part12.html#29",
+  "de": "Seit 2024 häufen sich Behauptungen, generative KI habe die Werbeproduktion verändert, doch nur wenige Fälle legen Zahlen offen, und diese widersprechen sich. Nur anhand gut belegter Fälle fragen wir zuerst, was jede Zahl genau vergleicht."
+ },
+ {
+  "key": "part12.html#30",
+  "de": "<b>Ca. 1 Jahr<em>→ ca. 1 Monat</em></b>Produktionszeit des Coca-Cola-Weihnachtsspots (2025)"
+ },
+ {
+  "key": "part12.html#31",
+  "de": "<b>300–400<em>→ 15 Clips</em></b>Kalshi-Spot zu den NBA Finals: generiert vs. verwendet"
+ },
+ {
+  "key": "part12.html#32",
+  "de": "<b>1/5</b>Produktionskosten des KI-Spielfilms von CJ ENM (2026)"
+ },
+ {
+  "key": "part12.html#33",
+  "de": "<b>1/10</b>Szenenkosten Massen · Action, MBC-Drama (bestenfalls)"
+ },
+ {
+  "key": "part12.html#34",
+  "de": "Fall"
+ },
+ {
+  "key": "part12.html#35",
+  "de": "Produktionsweise"
+ },
+ {
+  "key": "part12.html#36",
+  "de": "Veröffentlichte Zahlen"
+ },
+ {
+  "key": "part12.html#37",
+  "de": "Quelle"
+ },
+ {
+  "key": "part12.html#38",
+  "de": "Kalshi-Spot NBA Finals (06/2025)"
+ },
+ {
+  "key": "part12.html#39",
+  "de": "1 Regisseur, Google Veo 3"
+ },
+ {
+  "key": "part12.html#40",
+  "de": "Ca. 2.000 $ · 2–3 Tage · 15 von 300–400 generierten Clips verwendet"
+ },
+ {
+  "key": "part12.html#41",
+  "de": "Creator-Interview"
+ },
+ {
+  "key": "part12.html#42",
+  "de": "Coca-Cola-Weihnachtsspot (2025)"
+ },
+ {
+  "key": "part12.html#43",
+  "de": "Kernteam aus 5 KI-Spezialisten"
+ },
+ {
+  "key": "part12.html#44",
+  "de": "Über 70.000 Clips generiert · ca. 1 Monat Produktion (früher ca. 1 Jahr)"
+ },
+ {
+  "key": "part12.html#45",
+  "de": "Unternehmen · Presseberichte"
+ },
+ {
+  "key": "part12.html#46",
+  "de": "Toys\"R\"Us-Markenfilm (06/2024)"
+ },
+ {
+  "key": "part12.html#47",
+  "de": "Agentur + OpenAI Sora"
+ },
+ {
+  "key": "part12.html#48",
+  "de": "Hunderte Clips → Dutzende · Wochen"
+ },
+ {
+  "key": "part12.html#49",
+  "de": "Agenturmitteilung"
+ },
+ {
+  "key": "part12.html#50",
+  "de": "Innocean × Hyundai (06/2024)"
+ },
+ {
+  "key": "part12.html#51",
+  "de": "Über 15 KI-Technologien"
+ },
+ {
+  "key": "part12.html#52",
+  "de": "Eine der ersten Voll-KI-Kampagnen Koreas (Zeit · Kosten nicht genannt)"
+ },
+ {
+  "key": "part12.html#53",
+  "de": "Fachmedien"
+ },
+ {
+  "key": "part12.html#54",
+  "de": "KI-Spielfilm von CJ ENM (2026)"
+ },
+ {
+  "key": "part12.html#55",
+  "de": "Echte Darsteller, Rest per KI"
+ },
+ {
+  "key": "part12.html#56",
+  "de": "Kosten ca. 1/5"
+ },
+ {
+  "key": "part12.html#57",
+  "de": "Presseberichte"
+ },
+ {
+  "key": "part12.html#58",
+  "de": "MBC-Drama: Massen · Action (2026)"
+ },
+ {
+  "key": "part12.html#59",
+  "de": "Inhouse beim Sender"
+ },
+ {
+  "key": "part12.html#60",
+  "de": "Szenenkosten bis auf 1/10"
+ },
+ {
+  "key": "part12.html#61",
+  "de": "Presseberichte"
+ },
+ {
+  "key": "part12.html#62",
+  "de": "<b>Hinweis</b>"
+ },
+ {
+  "key": "part12.html#63",
+  "de": "Spektakuläre Zahlen wie „6 Wochen auf wenige Stunden“ stammen meist aus einem einzigen Medium und lassen sich in der Originalquelle nicht bestätigen. Zitieren Sie so etwas, nennen Sie Quelle und Bedingungen."
+ },
+ {
+  "key": "part12.html#64",
+  "de": "Worauf bei Zahlen zu achten ist"
+ },
+ {
+  "key": "part12.html#65",
+  "de": "Was schrumpfte"
+ },
+ {
+  "key": "part12.html#66",
+  "de": "Generierungskosten – Kalshi verwendete 15 von 300–400 generierten Clips, eine Trefferquote von ca. 5 %"
+ },
+ {
+  "key": "part12.html#67",
+  "de": "Produktionszeit – Coca-Cola, von ca. 1 Jahr auf ca. 1 Monat"
+ },
+ {
+  "key": "part12.html#68",
+  "de": "Die Art menschlicher Arbeit"
+ },
+ {
+  "key": "part12.html#69",
+  "de": "Was nicht schrumpfte"
+ },
+ {
+  "key": "part12.html#70",
+  "de": "Gesamtpersonal – der Generierungskern bei Coca-Cola bestand aus 5 Personen, die ganze Kampagne brauchte aber wie früher rund 100 Leute"
+ },
+ {
+  "key": "part12.html#71",
+  "de": "Auswahlzeit – aus 70.000 Clips auszuwählen kostet menschliche Zeit"
+ },
+ {
+  "key": "part12.html#72",
+  "de": "Der Aufwand, Zahlen mit unklarer Bezugsgröße zu prüfen"
+ },
+ {
+  "key": "part12.html#73",
+  "de": "Verbreitung in der Branche"
+ },
+ {
+  "key": "part12.html#74",
+  "de": "<b>Ca. 50<em>%</em></b>IAB-Umfrage 2025 – Werbetreibende, die schon Videospots mit generativer KI machen. 86 % der Mediaeinkäufer nutzen sie oder planen es; 2026 sollen KI-Werbemittel 40 % aller Anzeigen stellen"
+ },
+ {
+  "key": "part12.html#75",
+  "de": "<b>32,1<em>%</em></b>KOCCA 2025 – Anteil der Content-Unternehmen, die generative KI nutzen. Spiele 70,0 %, Animation 51,6 %, Werbung 40,9 %, Rundfunk 31,9 % (2023: 7,8 %, 2024: 13,2 %)"
+ },
+ {
+  "key": "part12.html#76",
+  "de": "<b>15<em>/66 Spots</em></b>Super-Bowl-Spots (02/2026), bei deren Produktion KI eingesetzt wurde. Nur 1 wurde als vollständig KI-generiert ausgewiesen"
+ },
+ {
+  "key": "part12.html#77",
+  "de": "Die Behauptung „Werbung entsteht nur noch mit KI“ trifft noch nicht zu."
+ },
+ {
+  "key": "part12.html#78",
+  "de": "Heißt es, die Produktionszeit sei geschrumpft, fragen Sie nach: Was wurde generiert, wie viel erstellt, wie viel verwendet, und wie viele Tage dauerte die Auswahl?<small>11.1 Wie sehr die Produktionszeit schrumpfte</small>"
+ },
+ {
+  "key": "part12.html#79",
+  "de": "<small>Übung</small>11.1"
+ },
+ {
+  "key": "part12.html#80",
+  "de": "Aufgabe"
+ },
+ {
+  "key": "part12.html#81",
+  "de": "Wählen Sie einen aktuellen Spot Ihrer Lieblingsmarke und schätzen Sie in einer Tabelle Phase für Phase den Aufwand klassisch und mit generativen Tools. Begründen Sie jede Schätzung in einer Zeile."
+ },
+ {
+  "key": "part12.html#82",
+  "de": "Tipp"
+ },
+ {
+  "key": "part12.html#83",
+  "de": "Gliedern Sie in Planung, Storyboard, Buchung, Dreh, Schnitt, Korrekturen und Abgabe. Am häufigsten werden die Korrekturen unterschätzt."
+ },
+ {
+  "key": "part12.html#84",
+  "de": "Bewertung"
+ },
+ {
+  "key": "part12.html#85",
+  "de": "Sind die Schätzungen begründet? Werden sowohl schrumpfende als auch wachsende Phasen erkannt?"
+ },
+ {
+  "key": "part12.html#86",
+  "de": "Musterlösung"
+ },
+ {
+  "key": "part12.html#87",
+  "de": "Eine Schätzung, deren Tabelle zeigt, dass die durch Generierung gesparte Zeit als „Auswahl- und Korrekturzeit“ zurückkehrt."
+ },
+ {
+  "key": "part12.html#88",
+  "de": "<b>TEIL 12</b>Praxis und Karriere im KI-Wandel"
+ },
+ {
+  "key": "part12.html#89",
+  "de": "Die Pipeline im Umbau"
+ },
+ {
+  "key": "part12.html#90",
+  "de": "Wie wurde die Pipeline umgebaut? Klassische Produktion verlief in eine Richtung: Planung → Dreh → Postproduktion. Mit generativen Tools ist daraus eine Schleife geworden, und das Festlegen des Konzepts und das Erstellen der finalen Bilder geschehen nun in derselben Phase."
+ },
+ {
+  "key": "part12.html#91",
+  "de": "<b>01</b><i>Prompt</i>Referenzen und Bedingungen in Worte fassen"
+ },
+ {
+  "key": "part12.html#92",
+  "de": "<b>02</b><i>Generieren</i>Viele Varianten zugleich erzeugen"
+ },
+ {
+  "key": "part12.html#93",
+  "de": "<b>03</b><i>Auswählen</i>Treffer nach Kriterien wählen"
+ },
+ {
+  "key": "part12.html#94",
+  "de": "<b>04</b><i>Anpassen</i>Prompt korrigieren, zurück zu 01"
+ },
+ {
+  "key": "part12.html#95",
+  "de": "Von der Einbahnstraße zur Schleife – Entscheidungen bis zuletzt offen"
+ },
+ {
+  "key": "part12.html#96",
+  "de": "Klassisch – Einbahnstraße"
+ },
+ {
+  "key": "part12.html#97",
+  "de": "Planung"
+ },
+ {
+  "key": "part12.html#98",
+  "de": "Storyboard"
+ },
+ {
+  "key": "part12.html#99",
+  "de": "Buchung · Dreh"
+ },
+ {
+  "key": "part12.html#100",
+  "de": "Schnitt"
+ },
+ {
+  "key": "part12.html#101",
+  "de": "Korrektur"
+ },
+ {
+  "key": "part12.html#102",
+  "de": "Abgabe"
+ },
+ {
+  "key": "part12.html#103",
+  "de": "Nach dem Dreh kein Zurück – vorher entscheiden; Kostenspitze am Drehtag"
+ },
+ {
+  "key": "part12.html#104",
+  "de": "Generativ – Schleife"
+ },
+ {
+  "key": "part12.html#105",
+  "de": "Prompt"
+ },
+ {
+  "key": "part12.html#106",
+  "de": "Generieren"
+ },
+ {
+  "key": "part12.html#107",
+  "de": "Auswählen"
+ },
+ {
+  "key": "part12.html#108",
+  "de": "Anpassen"
+ },
+ {
+  "key": "part12.html#109",
+  "de": "Dutzende Male"
+ },
+ {
+  "key": "part12.html#110",
+  "de": "Fixieren"
+ },
+ {
+  "key": "part12.html#111",
+  "de": "Bis zuletzt offen"
+ },
+ {
+  "key": "part12.html#112",
+  "de": "Korrektur · Compositing"
+ },
+ {
+  "key": "part12.html#113",
+  "de": "Meiste Handarbeit"
+ },
+ {
+  "key": "part12.html#114",
+  "de": "QC · Abgabe"
+ },
+ {
+  "key": "part12.html#115",
+  "de": "Rechte · Fakten · Qualität"
+ },
+ {
+  "key": "part12.html#116",
+  "de": "Der Engpass Dreh entfällt; Auswahl und Qualitätskontrolle werden zum Engpass – „Postproduktion ist die neue Vorproduktion“"
+ },
+ {
+  "key": "part12.html#117",
+  "de": "<b>Abb. 89-1</b> Die Pipeline im Umbau – oben die klassische lineare Struktur, unten die Schleife Generieren ↔ Auswählen ↔ Anpassen. Festzulegen, wie viele Runden die Schleife dreht, ist die neue Zeitplanung."
+ },
+ {
+  "key": "part12.html#118",
+  "de": "<b>Begriff</b>"
+ },
+ {
+  "key": "part12.html#119",
+  "de": "„Postproduktion ist die neue Vorproduktion.“ Ein Satz aus dem Making-of von Coca-Cola, der eine Struktur zusammenfasst, in der Entscheidungen bis zuletzt offen bleiben."
+ },
+ {
+  "key": "part12.html#120",
+  "de": "Beide Strukturen im Vergleich"
+ },
+ {
+  "key": "part12.html#121",
+  "de": "Klassische lineare Struktur"
+ },
+ {
+  "key": "part12.html#122",
+  "de": "Ablauf – Planung → Dreh → Post"
+ },
+ {
+  "key": "part12.html#123",
+  "de": "Rückgängig – nicht möglich"
+ },
+ {
+  "key": "part12.html#124",
+  "de": "Entscheidungen – meist vor dem Dreh fixiert"
+ },
+ {
+  "key": "part12.html#125",
+  "de": "Engpass – Drehplan und Budget"
+ },
+ {
+  "key": "part12.html#126",
+  "de": "Risiko – was am Set fehlt, fehlt endgültig"
+ },
+ {
+  "key": "part12.html#127",
+  "de": "Nötige Steuerung – Vorausplanung"
+ },
+ {
+  "key": "part12.html#128",
+  "de": "Iterative KI-Struktur"
+ },
+ {
+  "key": "part12.html#129",
+  "de": "Ablauf – Generieren ↔ Auswählen ↔ Neugenerieren"
+ },
+ {
+  "key": "part12.html#130",
+  "de": "Rückgängig – jederzeit neu generieren"
+ },
+ {
+  "key": "part12.html#131",
+  "de": "Entscheidungen – bis zuletzt offen"
+ },
+ {
+  "key": "part12.html#132",
+  "de": "Engpass – Auswahl und Qualitätskontrolle"
+ },
+ {
+  "key": "part12.html#133",
+  "de": "Risiko – endlose Korrekturen dehnen den Zeitplan"
+ },
+ {
+  "key": "part12.html#134",
+  "de": "Nötige Steuerung – Stopp- und Auswahlkriterien"
+ },
+ {
+  "key": "part12.html#135",
+  "de": "Welche Arbeit zunahm und welche schrumpfte"
+ },
+ {
+  "key": "part12.html#136",
+  "de": "<small>Neue Rollen</small>Generierungsspezialist · Workflow-Designer · Kurator · Prüfer"
+ },
+ {
+  "key": "part12.html#137",
+  "de": "Kuratierung der Ergebnisflut"
+ },
+ {
+  "key": "part12.html#138",
+  "de": "Marken- und Rechtsprüfung"
+ },
+ {
+  "key": "part12.html#139",
+  "de": "Orchestrierung vieler Tools zu einem reproduzierbaren Ablauf"
+ },
+ {
+  "key": "part12.html#140",
+  "de": "<small>Schrumpfende Arbeit</small>Einfache Routineaufgaben"
+ },
+ {
+  "key": "part12.html#141",
+  "de": "Einfache Rotoskopie und Retusche"
+ },
+ {
+  "key": "part12.html#142",
+  "de": "Bannervarianten nach Größe, repetitive Asset-Produktion"
+ },
+ {
+  "key": "part12.html#143",
+  "de": "In einer US-Agenturumfrage hat über die Hälfte der Firmen Einstiegsstellen reduziert oder gestrichen"
+ },
+ {
+  "key": "part12.html#144",
+  "de": "<small>Unveränderte Arbeit</small>Urteil und Koordination"
+ },
+ {
+  "key": "part12.html#145",
+  "de": "Supervision, Art Direction"
+ },
+ {
+  "key": "part12.html#146",
+  "de": "Entscheidungen mit dem Auftraggeber"
+ },
+ {
+  "key": "part12.html#147",
+  "de": "Urteil über Schlüsseleinstellungen und Anschlüsse"
+ },
+ {
+  "key": "part12.html#148",
+  "de": "Drei Sicherungen, die den Zeitplan halten"
+ },
+ {
+  "key": "part12.html#149",
+  "de": "<b>01</b><span><b>Stoppkriterien</b> – Legen Sie vorab fest: „Nach N Generierungen wird aus diesen ausgewählt.“ Ohne Regel macht man auch nach einem guten Ergebnis immer weiter.</span>"
+ },
+ {
+  "key": "part12.html#150",
+  "de": "<b>02</b><span><b>Fixierte Zonen</b> – Fixieren Sie zuerst, was sich nicht ändern darf, etwa Produkt, Logo und Kernbotschaft, und variieren Sie dann den Rest.</span>"
+ },
+ {
+  "key": "part12.html#151",
+  "de": "<b>03</b><span><b>Versionsprotokoll</b> – Notieren Sie, welche Prompts und Referenzen welche Ergebnisse lieferten. Was sich nicht reproduzieren lässt, kann bei Korrekturwünschen nicht neu erstellt werden.</span>"
+ },
+ {
+  "key": "part12.html#152",
+  "de": "Generierung ist unendlich, Zeitpläne sind es nicht. Schreiben Sie vor dem Start auf, „wie viele Sie erzeugen, bevor Sie aufhören“.<small>11.2 Die Pipeline im Umbau</small>"
+ },
+ {
+  "key": "part12.html#153",
+  "de": "<small>Übung</small>11.2"
+ },
+ {
+  "key": "part12.html#154",
+  "de": "Aufgabe"
+ },
+ {
+  "key": "part12.html#155",
+  "de": "Zeichnen Sie die Produktion eines kurzen Spots als Diagramm, einmal klassisch und einmal iterativ mit KI, und markieren Sie jeweils die Engpässe. Legen Sie eigene Stoppkriterien und fixierte Zonen schriftlich fest."
+ },
+ {
+  "key": "part12.html#156",
+  "de": "Tipp"
+ },
+ {
+  "key": "part12.html#157",
+  "de": "Ein Flussdiagramm braucht nur Kästen und Pfeile. Zeichnen Sie unbedingt die Pfeile ein, die zurückführen."
+ },
+ {
+  "key": "part12.html#158",
+  "de": "Bewertung"
+ },
+ {
+  "key": "part12.html#159",
+  "de": "Liegen die Engpässe der beiden Strukturen an unterschiedlichen Stellen? Sind die Stoppkriterien als Zahlen formuliert?"
+ },
+ {
+  "key": "part12.html#160",
+  "de": "Musterlösung"
+ },
+ {
+  "key": "part12.html#161",
+  "de": "Ein Plan, der Anzahl und Kriterien zusammen nennt, etwa „Runde 1: 30 generieren, 3 auswählen; Runde 2: bis zu 10 aus der Auswahl“."
+ },
+ {
+  "key": "part12.html#162",
+  "de": "<b>TEIL 12</b>Praxis und Karriere im KI-Wandel"
+ },
+ {
+  "key": "part12.html#163",
+  "de": "Wo im Prozess KI zum Einsatz kommt"
+ },
+ {
+  "key": "part12.html#164",
+  "de": "Welche Phasen nutzen KI wirklich? Laut Umfragen dienen generative Tools meist nicht dazu, ein Werk komplett zu erstellen, sondern Vorhandenes in viele Versionen zu verwandeln."
+ },
+ {
+  "key": "part12.html#165",
+  "de": "<span class=\"ph-id\">P12-AIASSIST</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>KI-gestützte Arbeit</b>Ein Cutter überarbeitet Storyboard-Bilder, die ein KI-Panel auf dem Bildschirm vorgeschlagen hat</span>"
+ },
+ {
+  "key": "part12.html#166",
+  "de": "<b>Hinweis</b>KI-gestützte Arbeit – die Maschine liefert viele Entwürfe, Menschen wählen aus und korrigieren"
+ },
+ {
+  "key": "part12.html#167",
+  "de": "<b>42<em>%</em></b>Häufigster Einsatz generativer KI in der IAB-Umfrage – Versionen nach Zielgruppe (Änderung des visuellen Stils 38 %, Anpassung an den Kontext 36 %)"
+ },
+ {
+  "key": "part12.html#168",
+  "de": "<b>Ca. 80<em>Typen</em></b>Werbeformate, die das hauseigene Tool von Cheil Worldwide automatisch aus einem Asset erzeugt. Über 90 % Ersparnis pro Banner (Angabe des Unternehmens)"
+ },
+ {
+  "key": "part12.html#169",
+  "de": "<b>48,6<em>%</em></b>Umfrage unter US-Videoproduzenten 2026 – umfangreicher Einsatz generativer KI bei VFX. Dreh · Aufzeichnung 13,3 %, Kamera · Lichtdesign 8,3 %"
+ }
+]

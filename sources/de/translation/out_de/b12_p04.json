@@ -1,0 +1,602 @@
+[
+{
+"key": "part11.html#641",
+"de": "Musterlösung"
+},
+{
+"key": "part11.html#642",
+"de": "So konkret, dass der Kommilitone die Korrekturen umsetzen kann."
+},
+{
+"key": "part11.html#643",
+"de": "<b>TEIL 11</b>Jobs und Karriere"
+},
+{
+"key": "part11.html#644",
+"de": "Tipps zur Jobsuche"
+},
+{
+"key": "part11.html#645",
+"de": "Fünf Vorbereitungen vor der Bewerbung, wie Sie auf dem Papier punkten, wo Interviews entschieden werden und Gewohnheiten, die Sie durch die ersten 3 Monate bringen."
+},
+{
+"key": "part11.html#646",
+"de": "<b>Abb. 90</b> Matrix zur Jobvorbereitung je Rolle"
+},
+{
+"key": "part11.html#647",
+"de": "Vor der Bewerbung"
+},
+{
+"key": "part11.html#648",
+"de": "<b>01</b><i>Fünf Unternehmen</i>Von jedem drei aktuelle Arbeiten ansehen; nach fünfzehn erkennen Sie den Ton des Marktes"
+},
+{
+"key": "part11.html#649",
+"de": "<b>02</b><i>Arbeiten im passenden Ton</i>Prüfen, ob Ihr Portfolio solche enthält; wenn nicht, vor der Bewerbung eine erstellen"
+},
+{
+"key": "part11.html#650",
+"de": "<b>03</b><i>Aufmacher tauschen</i>An die Stelle anpassen. Für jedes Unternehmen neu zu ordnen ist Sorgfalt, kein Trick"
+},
+{
+"key": "part11.html#651",
+"de": "<b>04</b><i>Kurzprofil in drei Zeilen</i>Für jedes Unternehmen neu schreiben. Eine recycelte Datei merkt man meist"
+},
+{
+"key": "part11.html#652",
+"de": "<b>05</b><i>Links prüfen</i>Im Inkognito-Fenster. Ein Berechtigungsfehler führt zur sofortigen Absage"
+},
+{
+"key": "part11.html#653",
+"de": "So punkten Sie auf dem Papier"
+},
+{
+"key": "part11.html#654",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part11.html#655",
+"de": "Aufrufe, Wiedergabedauer, Follower-Zuwachs, Zahl der produzierten Videos und eingesparte Zeit sind alles gültige Zahlen."
+},
+{
+"key": "part11.html#656",
+"de": "Nennen Sie Zahlen und Ihre Rolle. Wenn Sie nicht sagen, was Sie in einem Teamprojekt gemacht haben, kann es niemand beurteilen."
+},
+{
+"key": "part11.html#657",
+"de": "Legen Sie Prozessmaterial bei. Nur wenige reichen Konzepte und Storyboards ein – schon das hebt Sie ab."
+},
+{
+"key": "part11.html#658",
+"de": "Schreiben Sie eine Zeile über einen Fehlschlag. Ein Satz wie „Beim nächsten Mal würde ich eine Leuchte mehr setzen“ beweist technisches Urteilsvermögen."
+},
+{
+"key": "part11.html#659",
+"de": "Nennen Sie in Ihrer Motivation konkrete Arbeiten des Unternehmens."
+},
+{
+"key": "part11.html#660",
+"de": "Wo Interviews oft entschieden werden"
+},
+{
+"key": "part11.html#661",
+"de": "Situation"
+},
+{
+"key": "part11.html#662",
+"de": "Schwach"
+},
+{
+"key": "part11.html#663",
+"de": "Stark"
+},
+{
+"key": "part11.html#664",
+"de": "Eigene Arbeit erklären"
+},
+{
+"key": "part11.html#665",
+"de": "Es sollte schön aussehen"
+},
+{
+"key": "part11.html#666",
+"de": "Ich habe dieses Problem so gelöst"
+},
+{
+"key": "part11.html#667",
+"de": "Frage nach Fehlern"
+},
+{
+"key": "part11.html#668",
+"de": "Nichts Besonderes"
+},
+{
+"key": "part11.html#669",
+"de": "Das war eine Fehlentscheidung, so korrigierte ich sie"
+},
+{
+"key": "part11.html#670",
+"de": "Frage nach Tools"
+},
+{
+"key": "part11.html#671",
+"de": "Ich kann es bedienen"
+},
+{
+"key": "part11.html#672",
+"de": "Diese Aufgabe schaffe ich in X Std."
+},
+{
+"key": "part11.html#673",
+"de": "Frage nach Feedback"
+},
+{
+"key": "part11.html#674",
+"de": "Ich tue, was man sagt"
+},
+{
+"key": "part11.html#675",
+"de": "Ich kläre die Absicht und biete zwei Optionen an"
+},
+{
+"key": "part11.html#676",
+"de": "Frage nach Deadlines"
+},
+{
+"key": "part11.html#677",
+"de": "Notfalls die ganze Nacht"
+},
+{
+"key": "part11.html#678",
+"de": "So setze ich Prioritäten"
+},
+{
+"key": "part11.html#679",
+"de": "Eigene Fragen"
+},
+{
+"key": "part11.html#680",
+"de": "Keine"
+},
+{
+"key": "part11.html#681",
+"de": "Was tue ich in den ersten 3 Monaten vor allem"
+},
+{
+"key": "part11.html#682",
+"de": "Arbeitsgewohnheiten für die ersten 3 Monate"
+},
+{
+"key": "part11.html#683",
+"de": "<b>01</b><span>Wiederholen Sie Anweisungen zur Bestätigung.</span>"
+},
+{
+"key": "part11.html#684",
+"de": "<b>02</b><span>Melden Sie den Stand, bevor Sie gefragt werden. Vertrauen entsteht mehr aus Berechenbarkeit als aus Leistung.</span>"
+},
+{
+"key": "part11.html#685",
+"de": "<b>03</b><span>Melden Sie Fehler sofort.</span>"
+},
+{
+"key": "part11.html#686",
+"de": "<b>04</b><span>Machen Sie aus wiederkehrenden Aufgaben im ersten Monat Vorlagen und Presets. Das verschafft Ihnen im zweiten Monat Luft.</span>"
+},
+{
+"key": "part11.html#687",
+"de": "<b>05</b><span>Öffnen Sie die Arbeitsdateien erfahrener Kollegen und studieren Sie deren Aufbau. Aus Projektdateien lernen Sie mehr als aus fertigen Arbeiten.</span>"
+},
+{
+"key": "part11.html#688",
+"de": "<b>06</b><span>Melden Sie sich in jedem Meeting mindestens einmal zu Wort. Stille Neulinge werden freundlich behandelt, aber vergessen.</span>"
+},
+{
+"key": "part11.html#689",
+"de": "<b>Abb. 91</b> Portfolio-Fahrplan für 6 Monate"
+},
+{
+"key": "part11.html#690",
+"de": "Der schnellste Weg ohne Erfahrung"
+},
+{
+"key": "part11.html#691",
+"de": "Warten Sie nicht auf Aufträge, schaffen Sie sich Ihre Auftraggeber selbst. Videos mit echtem Zweck – für einen Laden um die Ecke, ein Event des Studiengangs, die Arbeit eines Freundes – werden zu Ihren Referenzen. Berufserfahrung heißt nicht, bezahlt worden zu sein, sondern für den Zweck eines anderen gearbeitet zu haben."
+},
+{
+"key": "part11.html#692",
+"de": "<small>Übung</small>10.15"
+},
+{
+"key": "part11.html#693",
+"de": "Aufgabe"
+},
+{
+"key": "part11.html#694",
+"de": "Erstellen Sie eine Bewerbungs-Checkliste fürs Semester und prüfen Sie sie wöchentlich."
+},
+{
+"key": "part11.html#695",
+"de": "Tipp"
+},
+{
+"key": "part11.html#696",
+"de": "Nur kleine Schritte werden erledigt."
+},
+{
+"key": "part11.html#697",
+"de": "Bewertung"
+},
+{
+"key": "part11.html#698",
+"de": "Erledigungsquote"
+},
+{
+"key": "part11.html#699",
+"de": "Musterlösung"
+},
+{
+"key": "part11.html#700",
+"de": "Nutzt am Semesterende die Checkliste als Basis für den nächsten Semesterplan."
+},
+{
+"key": "part11.html#701",
+"de": "<b>TEIL 11</b>Jobs und Karriere"
+},
+{
+"key": "part11.html#702",
+"de": "Jenseits der Tools"
+},
+{
+"key": "part11.html#703",
+"de": "Was wollen Sie sagen? Dieses Buch hat Hunderte Seiten der Technik gewidmet, doch am Ende sollte ein Satz bleiben: Ein Schnittprogramm ist nur ein Werkzeug."
+},
+{
+"key": "part11.html#704",
+"de": "Software ändert ihre Oberfläche binnen 3 Jahren, und binnen 5 löst ein neues Tool den Standard ab. Die Tastenkürzel, die Sie heute auswendig können, sind für die nächste Generation seltsame Relikte. Doch die Fähigkeit, zu entscheiden, was gezeigt wird, diese Wahl zu begründen und zu gestalten, wohin der Blick des Publikums geht, wächst stetig."
+},
+{
+"key": "part11.html#705",
+"de": "Technik nutzt sich ab, Urteilskraft baut sich auf.<small>10.16 Jenseits der Tools</small>"
+},
+{
+"key": "part11.html#706",
+"de": "Generative KI hat diesen Unterschied verschärft. Je billiger ein plausibles Bild wird, desto wertvoller ist, wer sagen kann, warum es genau dieses Bild sein muss. Etwas zu sagen zu haben ist schwerer geworden, als Tools schnell zu lernen."
+},
+{
+"key": "part11.html#707",
+"de": "Die These, die dieses Buch durchzieht"
+},
+{
+"key": "part11.html#708",
+"de": "Video ist keine Technik, sondern Sprache. Eine Sprache zu lernen heißt nicht, Grammatik zu pauken, sondern genau zu sagen, was man meint. Wir lernen die Blende nicht, um richtig zu belichten, sondern um zu bestimmen, wohin das Publikum schaut. Kehrt sich diese Ordnung um, werden wir vielleicht Techniker, aber nie Gestalter."
+},
+{
+"key": "part11.html#709",
+"de": "<small>Übung</small>10.16"
+},
+{
+"key": "part11.html#710",
+"de": "Aufgabe"
+},
+{
+"key": "part11.html#711",
+"de": "Beantworten Sie die Frage „Was sage ich mit Video?“ in einem Satz und drehen Sie dann ein 1-minütiges Video, das diesen Satz belegt."
+},
+{
+"key": "part11.html#712",
+"de": "Tipp"
+},
+{
+"key": "part11.html#713",
+"de": "Notieren Sie Probleme und Menschen, die Ihnen wichtig sind, nicht Tools."
+},
+{
+"key": "part11.html#714",
+"de": "Bewertung"
+},
+{
+"key": "part11.html#715",
+"de": "Klarheit des Themas"
+},
+{
+"key": "part11.html#716",
+"de": "Musterlösung"
+},
+{
+"key": "part11.html#717",
+"de": "Satz und Video erklären sich gegenseitig."
+},
+{
+"key": "part11.html#718",
+"de": "<b>TEIL 11</b>Jobs und Karriere"
+},
+{
+"key": "part11.html#719",
+"de": "Die Ära der Ein-Personen-Firma"
+},
+{
+"key": "part11.html#720",
+"de": "Und die Kraft der Kultur. Kreative machen nicht mehr nur Werke, sie führen sich selbst als Unternehmen. Und die Summe dieses Könnens wird zur Kraft der Kultur."
+},
+{
+"key": "part11.html#721",
+"de": "Lee O-young sagte schon vor langer Zeit ein Zeitalter voraus, in dem jeder Einzelne zum Unternehmen wird. Damals eine Metapher, heute eine Beschreibung. Mit einem Smartphone planen, drehen, schneiden und weltweit veröffentlichen – das ist heute Realität. Deshalb behandelt dieses Buch neben Planung und Produktion auch Plattformbetreuung, Erfolgsauswertung, Verträge und Karriere."
+},
+{
+"key": "part11.html#722",
+"de": "In seiner Autobiografie Baekbeom Ilji schrieb Kim Gu, er wünsche sich kein reiches und mächtiges Land, sondern eines mit hoher Kraft der Kultur, denn die Kraft der Kultur mache uns glücklich und bringe auch anderen Glück. Eine kühne Erklärung: Sie erhob die Kultur zum nationalen Ziel, in einer Zeit ohne militärische oder wirtschaftliche Macht."
+},
+{
+"key": "part11.html#723",
+"de": "<b>Merke</b>"
+},
+{
+"key": "part11.html#724",
+"de": "Das ist nicht die Leistung einiger weniger Genies. Es ist das gesammelte Können Zehntausender, und dieses Können beginnt mit der Ausbildung."
+},
+{
+"key": "part11.html#725",
+"de": "Koreanische Videoinhalte stehen heute dort, wo sich dieser Satz erfüllt hat. Sie gewinnen in Cannes und bei den Oscars, stellen weltweite Streaming-Rekorde auf, und ihre Verbindung von Musik und Video ist zu einem globalen Standard geworden. Wer dieses Buch liest, wird dieses Können für die nächste Generation einbringen. Richtig belichten, sauberen Ton aufnehmen, mit Grund schneiden, Deadlines einhalten. Aus dieser Summe wird die Kraft der Kultur."
+},
+{
+"key": "part11.html#726",
+"de": "Letzte Aufgabe"
+},
+{
+"key": "part11.html#727",
+"de": "Legen Sie alle Tabellen und Diagramme dieses Buches beiseite und schreiben Sie in einem Satz auf, was Sie jetzt sagen wollen. Können Sie daraus 15 Sekunden machen, hat dieses Buch seinen Zweck erfüllt."
+},
+{
+"key": "part11.html#728",
+"de": "<small>Übung</small>10.17"
+},
+{
+"key": "part11.html#729",
+"de": "Aufgabe"
+},
+{
+"key": "part11.html#730",
+"de": "Drehen Sie ein 30-sekündiges Vorstellungsvideo für ein Ein-Personen-Unternehmen unter Ihrem eigenen Namen."
+},
+{
+"key": "part11.html#731",
+"de": "Tipp"
+},
+{
+"key": "part11.html#732",
+"de": "Nennen Sie das Warum vor dem Was."
+},
+{
+"key": "part11.html#733",
+"de": "Bewertung"
+},
+{
+"key": "part11.html#734",
+"de": "Identität, Feinschliff"
+},
+{
+"key": "part11.html#735",
+"de": "Musterlösung"
+},
+{
+"key": "part11.html#736",
+"de": "Logo, Farbe und sogar der Tonfall bilden eine Welt."
+},
+{
+"key": "part11.html#737",
+"de": "TEIL 11 – Abschluss"
+},
+{
+"key": "part11.html#738",
+"de": "Übungen und Wiederholung"
+},
+{
+"key": "part11.html#739",
+"de": "<b>Portfolio-Tabelle</b>Wählen Sie 5–8 Arbeiten und erfassen Sie für jede Rolle, Zeitraum, Tools und Ergebnisse in einer Tabelle."
+},
+{
+"key": "part11.html#740",
+"de": "<b>Showreel</b>Erstellen Sie ein 60–90-Sekunden-Showreel mit Rollenangabe je Clip."
+},
+{
+"key": "part11.html#741",
+"de": "<b>STAR-Antworten</b>Schreiben Sie drei Interview-Antworten und üben Sie sie laut."
+},
+{
+"key": "part11.html#742",
+"de": "<b>Übergabe-Mail</b>Schreiben Sie mit der Vorlage im Anhang eine Übergabe-Mail."
+},
+{
+"key": "part11.html#743",
+"de": "Auf einen Blick"
+},
+{
+"key": "part11.html#744",
+"de": "10.1 · 10.2 Berufslandkarte und Bewertung von Einsteigern"
+},
+{
+"key": "part11.html#745",
+"de": "Ein Unternehmen will nur eines wissen: Bringt diese Person eine übertragene Aufgabe zu Ende?"
+},
+{
+"key": "part11.html#746",
+"de": "10.3 Ein Portfolio aufbauen"
+},
+{
+"key": "part11.html#747",
+"de": "5–8 Arbeiten genügen. Ihre schwächste Arbeit gilt als Ihr Niveau."
+},
+{
+"key": "part11.html#748",
+"de": "10.4 Showreel"
+},
+{
+"key": "part11.html#749",
+"de": "60–90 Sekunden, stärkste Szene in den ersten 5 Sekunden, Rollenangabe je Clip, Musik mit geklärten Rechten."
+},
+{
+"key": "part11.html#750",
+"de": "10.5 Lebenslauf und Anschreiben"
+},
+{
+"key": "part11.html#751",
+"de": "Beschreiben Sie Erfolge als Situation, Handlung, Ergebnis – mit Zahlen."
+},
+{
+"key": "part11.html#752",
+"de": "10.6 · 10.13 Jobinterviews"
+},
+{
+"key": "part11.html#753",
+"de": "Kennen Sie die Details Ihres Portfolios. Sie müssen bis hin zu Objektiven und Schnittstunden antworten können. Antworten Sie nach STAR."
+},
+{
+"key": "part11.html#754",
+"de": "10.7 · 10.12 Haltung und Kommunikation"
+},
+{
+"key": "part11.html#755",
+"de": "Anweisungen wiederholen, Fortschritt von sich aus teilen, Fehler sofort melden."
+},
+{
+"key": "part11.html#756",
+"de": "10.8 · 10.9 Karrierewege und Fälle"
+},
+{
+"key": "part11.html#757",
+"de": "Das Tempo der Entwicklung bestimmt nicht Talent, sondern Arbeitsmenge und Feedback-Häufigkeit."
+},
+{
+"key": "part11.html#758",
+"de": "10.11 Portfolioseite"
+},
+{
+"key": "part11.html#759",
+"de": "Ein Portfolio, das nur Ergebnisse zeigt, fällt nicht auf. Zeigen Sie auch Prozess und Erkenntnisse."
+},
+{
+"key": "part11.html#760",
+"de": "10.10 · 10.15 Freelancing in der Praxis"
+},
+{
+"key": "part11.html#761",
+"de": "Arbeiten Sie mit Angebot und Vertrag, und statt auf Aufträge zu warten, schaffen Sie sich Ihre Auftraggeber selbst."
+},
+{
+"key": "part11.html#762",
+"de": "10.16 · 10.17 Jenseits der Tools"
+},
+{
+"key": "part11.html#763",
+"de": "Technik nutzt sich ab, Urteilskraft baut sich auf. Video ist keine Technik, sondern Sprache."
+},
+{
+"key": "part11.html#764",
+"de": "Denkanstöße"
+},
+{
+"key": "part11.html#765",
+"de": "Was sieht ein Recruiter, der sich mein Portfolio 1 Minute lang ansieht?"
+},
+{
+"key": "part11.html#766",
+"de": "Ihre erste Arbeit samt Rolle · Zeitraum · Tools · Ergebnissen. Bauen Sie das Portfolio so auf, als sähe er nur das."
+},
+{
+"key": "part11.html#767",
+"de": "Mit wem möchte ich arbeiten? Bin ich selbst so ein Mensch?"
+},
+{
+"key": "part11.html#768",
+"de": "Prüfen Sie sich an den sieben Grundregeln aus 10.7."
+},
+{
+"key": "part11.html#769",
+"de": "Praxistipps"
+},
+{
+"key": "part11.html#770",
+"de": "Anweisungen zur Bestätigung wiederholen. Melden, bevor man gefragt wird. Routinearbeit im ersten Monat in Vorlagen fassen. Projektdateien erfahrener Kollegen öffnen, nicht ihre fertigen Videos."
+},
+{
+"key": "part12.html#0",
+"de": "TEIL"
+},
+{
+"key": "part12.html#1",
+"de": "<small>TEIL</small>12"
+},
+{
+"key": "part12.html#2",
+"de": "<b>Das erstellen Sie in diesem TEIL</b>"
+},
+{
+"key": "part12.html#3",
+"de": "Aufwandsschätzung je Phase: klassische vs. KI-Produktion"
+},
+{
+"key": "part12.html#4",
+"de": "Ein Produktions-Flussdiagramm mit Stoppkriterien und fixierten Zonen"
+},
+{
+"key": "part12.html#5",
+"de": "Kernbotschaft in einem Satz und 7-seitiges Konzept"
+},
+{
+"key": "part12.html#6",
+"de": "5 rollenbezogene Portfolio-Arbeiten, Eigenanteil markiert"
+},
+{
+"key": "part12.html#7",
+"de": "Praxis und Karriere im KI-Wandel"
+},
+{
+"key": "part12.html#8",
+"de": "Wenn Maschinen Bilder machen können, welche Arbeit bleibt dann für Menschen? Dieser TEIL sammelt gut belegte Produktionsfälle und Arbeitsmarktzahlen: Was haben generative Tools billig gemacht – und was dadurch wertvoll? Darauf aufbauend behandelt er die Kompetenzen, die Studierende aufbauen sollten, und die Praxis von Planung · Werbetext · Portfolio."
+},
+{
+"key": "part12.html#9",
+"de": "Foto OPEN-12 Trennseite TEIL, ganzseitiges Foto · generiertes Bild"
+},
+{
+"key": "part12.html#10",
+"de": "Dieses Kapitel im Unterricht"
+},
+{
+"key": "part12.html#11",
+"de": "Lesen Sie an Zahlen ab, wie generative Tools Produktion und Arbeitsmarkt verändert haben, entscheiden Sie, welche Einstellungen klassisch oder per KI entstehen, und machen Sie Ihre Arbeiten zu einem Beleg Ihrer Urteile, der zum Job führt."
+},
+{
+"key": "part12.html#12",
+"de": "<b>Material</b>1 aktueller Spot einer Lieblingsmarke, 10 ausgedruckte Stellenanzeigen, eine Liste Ihrer bisherigen Arbeiten, Stifte"
+},
+{
+"key": "part12.html#13",
+"de": "<b>10 Min.</b><i>Einstieg</i><span>Einen Artikel vom Typ „6 Wochen auf wenige Stunden“ lesen und fragen, was verglichen wird</span>"
+},
+{
+"key": "part12.html#14",
+"de": "<b>20 Min.</b><i>Fälle lesen</i><span>In den öffentlichen Falltabellen von 11.1–12.3 Zahl der generierten und verwendeten Clips sowie Auswahlzeit suchen und markieren</span>"
+},
+{
+"key": "part12.html#15",
+"de": "<b>30 Min.</b><i>Urteilstraining</i><span>Mit den Kriterien aus 11.7 einen Spot Einstellung für Einstellung in klassisch · KI einteilen, je eine Zeile Begründung</span>"
+},
+{
+"key": "part12.html#16",
+"de": "<b>30 Min.</b><i>Markt lesen</i><span>Stellenanzeigen aus 11.8 · 11.10 nach Bildsprache · Tools · Konsistenz · Zusammenarbeit · Auswertung sortieren</span>"
+},
+{
+"key": "part12.html#17",
+"de": "<b>30 Min.</b><i>Abschluss</i><span>1 eigene Arbeit in den vier Sätzen aus 11.14 vorstellen: „Absicht-Einschränkung-Entscheidung-Ergebnis“</span>"
+},
+{
+"key": "part12.html#18",
+"de": "<b>Kontrollpunkt</b>Können Sie statt des Tool-Namens in einem Satz die Entscheidung benennen, die Sie damit getroffen haben?"
+},
+{
+"key": "part12.html#19",
+"de": "Hintergrund 22"
+}
+]

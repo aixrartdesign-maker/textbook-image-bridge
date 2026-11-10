@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#101",
+"de": "<b>2S · LOCKED</b><span>Flaschen stoßen an · SYNC Lachen</span>"
+},
+{
+"key": "feature_storyboard.html#102",
+"de": "<b>MS · Ranfahrt</b><span>Produkt mittig · Logo-CG · N Auch heute</span>"
+},
+{
+"key": "feature_storyboard.html#103",
+"de": "<b>Tafel SB-9</b> Beispiel für ein Hochformat-Board – Kurzvideo-Spot mit 15 Sekunden (9:16, 6 Einstellungen). Hochformat-Felder sind schmal: eine Zeile Regieanweisung, ein Wort Ton."
+},
+{
+"key": "feature_storyboard.html#104",
+"de": "Auch ein Hochformat-Board bleibt mit bis zu 6 Feldern pro Reihe lesbar. Weil Hochformat-Felder schmal sind, werden die Angaben darunter lang; schreiben Sie <b>eine Zeile Regieanweisung, ein Wort Ton</b>. Zeichnen Sie Untertitel nur im mittleren Band, außerhalb der UI-Bereiche (grau)."
+},
+{
+"key": "feature_storyboard.html#105",
+"de": "<small>DOPPELSEITE 04</small>360 · VR-Boards – „Aufmerksamkeitsachse“ statt Zeitleiste"
+},
+{
+"key": "feature_storyboard.html#106",
+"de": "Ein Board für 2D-Video hält fest, „was in dieser Einstellung zu sehen ist“. Ein 360-Board hält fest, <b>wohin das Publikum schauen wird</b> und <b>was es dazu bringt, sich umzudrehen</b>. Das Feld ist eine equirektanguläre 2:1-Abwicklung, immer mit einer Draufsicht darüber."
+},
+{
+"key": "feature_storyboard.html#107",
+"de": "360 · VR-Board – die Aufmerksamkeitsachse gestalten"
+},
+{
+"key": "feature_storyboard.html#108",
+"de": "<b><i>01</i>0–8 s · Front fixiert</b><span>Monolog von A; das Publikum lernt den Raum kennen</span>"
+},
+{
+"key": "feature_storyboard.html#109",
+"de": "<b><i>02</i>8–14 s · Ton lockt</b><span>Türgeräusch hinten links → A dreht sich um → das Publikum dreht sich mit</span>"
+},
+{
+"key": "feature_storyboard.html#110",
+"de": "<b><i>03</i>14–22 s · neue Front</b><span>−130° wird zur neuen Front. B tritt auf</span>"
+},
+{
+"key": "feature_storyboard.html#111",
+"de": "Kamera = Publikum"
+},
+{
+"key": "feature_storyboard.html#112",
+"de": "Frontbereich 90°"
+},
+{
+"key": "feature_storyboard.html#113",
+"de": "<b>Draufsicht</b><span>Ereignisorte als Winkel markieren. Summieren sich die Drehungen einer Szene auf über 180°, droht Übelkeit.</span><span>In jedem Feld: erwarteter Frontwinkel · Aufmerksamkeitsreize (Ton · Licht · Blick) · Drehzeit (2 s+ pro 90°)</span>"
+},
+{
+"key": "feature_storyboard.html#114",
+"de": "<b>Tafel SB-3</b> 360 · VR-Board – drei abgewickelte Felder und eine Draufsicht. Ereignisse hinter dem Betrachter kündigt der Ton an, nicht das Bild."
+},
+{
+"key": "feature_storyboard.html#115",
+"de": "<span class=\"ph-id\">P06-SB-360</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Skizze eines 360-Boards – Winkel und Tonpositionen auf der Abwicklung markieren</b></span>"
+},
+{
+"key": "feature_storyboard.html#116",
+"de": "<b>Hinweis</b>Skizze eines 360-Boards – Winkel und Tonpositionen auf der Abwicklung markieren"
+},
+{
+"key": "feature_storyboard.html#117",
+"de": "<small>360-Video</small>Das Publikum dreht sich um"
+},
+{
+"key": "feature_storyboard.html#118",
+"de": "Kamera fixiert, Augenhöhe 1,2–1,6 m"
+},
+{
+"key": "feature_storyboard.html#119",
+"de": "Lange Einstellungen (8 s+), Auf-/Abblenden"
+},
+{
+"key": "feature_storyboard.html#120",
+"de": "Nahe Motive mind. 1,5 m entfernt – Stereoverzerrung"
+},
+{
+"key": "feature_storyboard.html#121",
+"de": "<small>VR (Headset)</small>Das Publikum steht in der Szene"
+},
+{
+"key": "feature_storyboard.html#122",
+"de": "FOV 90–110°; Hauptbühne 2–5 m vor den Augen"
+},
+{
+"key": "feature_storyboard.html#123",
+"de": "UI · Untertitel nie kopffixiert; in der Welt verankern"
+},
+{
+"key": "feature_storyboard.html#124",
+"de": "Regel gegen Übelkeit: keine Kamerabewegung oder nur gerade Linien mit konstantem Tempo"
+},
+{
+"key": "feature_storyboard.html#125",
+"de": "<small>Board-Ergebnisse</small>Ein Satz aus drei Blättern"
+},
+{
+"key": "feature_storyboard.html#126",
+"de": "Equirektanguläre Abwicklung (Felder)"
+},
+{
+"key": "feature_storyboard.html#127",
+"de": "Draufsicht (Winkel · Bewegung)"
+},
+{
+"key": "feature_storyboard.html#128",
+"de": "Aufmerksamkeitsverlauf (Graph Sekunden × Frontwinkel)"
+},
+{
+"key": "feature_storyboard.html#129",
+"de": "<small>DOPPELSEITE 05</small>Gebogene LED · Kuppel · Medienfassade – „wo man schaut“ zeichnen, nicht „den Bildschirm“"
+},
+{
+"key": "feature_storyboard.html#130",
+"de": "Gebogene LED · Medienfassade – die Betrachterposition zeichnen"
+},
+{
+"key": "feature_storyboard.html#131",
+"de": "<b>Gebogene · zylindrische LED – Grundriss + Abwicklung</b><span>Zuerst den verzerrungsfreien Radius ab dem Betrachterpunkt festlegen · Text und Gesichter nur im Augenhöhenband (1,4–1,8 m über dem Boden) · Text nie auf eine Naht · horizontale Bewegung max. 15° pro Sekunde</span>"
+},
+{
+"key": "feature_storyboard.html#132",
+"de": "<b>Medienfassade – Pixelkarte der Ansicht + Betrachtungsabstand</b><span>Mindestabstand (m) ≈ Pixelabstand (mm) · Texthöhe = 1/250 des Abstands → praktisch kein Text, nur Form und Farbe · an drei Punkten simulieren: zu Fuß 20 m / gegenüber 60 m / Fernsicht 150 m</span>"
+},
+{
+"key": "feature_storyboard.html#133",
+"de": "<b>Tafel SB-4</b> Boards für gebogene LED-Wände und Medienfassaden. Das erste Feld zeigt nicht „den Bildschirm“, sondern „von wo und wie lange das Publikum schaut“."
+},
+{
+"key": "feature_storyboard.html#134",
+"de": "Medientyp"
+},
+{
+"key": "feature_storyboard.html#135",
+"de": "Feldform"
+},
+{
+"key": "feature_storyboard.html#136",
+"de": "Dazuzeichnen"
+},
+{
+"key": "feature_storyboard.html#137",
+"de": "Zeiteinheit"
+},
+{
+"key": "feature_storyboard.html#138",
+"de": "Tabu"
+},
+{
+"key": "feature_storyboard.html#139",
+"de": "Gebogene · zylindrische LED"
+},
+{
+"key": "feature_storyboard.html#140",
+"de": "Abwicklung (Bogenlänge : Höhe)"
+},
+{
+"key": "feature_storyboard.html#141",
+"de": "Grundriss + Betrachterpunkt + Augenhöhenband"
+},
+{
+"key": "feature_storyboard.html#142",
+"de": "Szenen 20–40 s"
+},
+{
+"key": "feature_storyboard.html#143",
+"de": "Text auf Nähten, Horizontalbewegung über 15° pro Sekunde"
+},
+{
+"key": "feature_storyboard.html#144",
+"de": "Kuppel (Fulldome)"
+},
+{
+"key": "feature_storyboard.html#145",
+"de": "Fischaugenkreis (Dome-Master 4096×4096)"
+},
+{
+"key": "feature_storyboard.html#146",
+"de": "Querschnitt + Sitzneigung"
+},
+{
+"key": "feature_storyboard.html#147",
+"de": "Szenen 30 s+"
+},
+{
+"key": "feature_storyboard.html#148",
+"de": "Handlung unter dem Horizont, schnelle Drehung"
+},
+{
+"key": "feature_storyboard.html#149",
+"de": "Medienfassade"
+},
+{
+"key": "feature_storyboard.html#150",
+"de": "Pixelkarte der Ansicht"
+},
+{
+"key": "feature_storyboard.html#151",
+"de": "Simulation aus drei Abständen"
+},
+{
+"key": "feature_storyboard.html#152",
+"de": "Schleife 8–30 s"
+},
+{
+"key": "feature_storyboard.html#153",
+"de": "Fließtext, 100 % Weiß vollflächig"
+},
+{
+"key": "feature_storyboard.html#154",
+"de": "Projektions-Mapping"
+},
+{
+"key": "feature_storyboard.html#155",
+"de": "UV-Maske über Gebäudefoto"
+},
+{
+"key": "feature_storyboard.html#156",
+"de": "Projektorposition · Projektionsabstand · Überlappungszonen"
+},
+{
+"key": "feature_storyboard.html#157",
+"de": "Szenen 15–60 s"
+},
+{
+"key": "feature_storyboard.html#158",
+"de": "Auf schwarzen Hintergrund setzen (Oberflächentextur ignorieren)"
+},
+{
+"key": "feature_storyboard.html#159",
+"de": "Anamorphe Außenwerbung"
+},
+{
+"key": "feature_storyboard.html#160",
+"de": "Zwei Eckflächen abgewickelt + 1 Betrachterpunkt"
+},
+{
+"key": "feature_storyboard.html#161",
+"de": "„Richtigen Punkt“ markieren; andere Positionen simulieren"
+},
+{
+"key": "feature_storyboard.html#162",
+"de": "Inhalt, der abseits des richtigen Punkts Erklärung braucht"
+},
+{
+"key": "feature_storyboard.html#163",
+"de": "<small>DOPPELSEITE 06</small>AR · MR · XR-Boards – das Feld zerfällt in „Ebenen“"
+},
+{
+"key": "feature_storyboard.html#164",
+"de": "Ein Feld für AR · MR ist keine flache Zeichnung; es zerfällt in <b>Realitätsebene / getrackte Fläche / Ebene virtueller Objekte / UI-Ebene</b>. An die Stelle des Übergangszeichens tritt, „was das Publikum tun muss, um zum nächsten Feld zu gelangen (Interaktion)“. Ein XR-Studio (virtuelle Produktion mit LED-Wand) funktioniert umgekehrt: Das Board teilt sich in vier Spuren für Kamera · LED-Hintergrund · physisches Set · Licht."
+},
+{
+"key": "feature_storyboard.html#165",
+"de": "AR · MR · XR-Boards"
+},
+{
+"key": "feature_storyboard.html#166",
+"de": "<b>AR – das Feld zerfällt in Ebenen</b><span>Vier Ebenen getrennt zeichnen: Realität / getrackte Fläche / virtuelles Objekt / UI · statt Übergangszeichen „was geschehen muss, um zum nächsten Feld zu gelangen“ (Tippen · Drehen · Annähern) · ein Feld für den Fehlerfall ist Pflicht</span>"
+},
+{
+"key": "feature_storyboard.html#167",
+"de": "<b>MR – auf einem Raumplan zeichnen</b><span>Virtuelle Objekte an Ankern auf Wand · Boden · Tisch befestigen · echte Möbel müssen virtuelle Objekte verdecken, damit diese glaubhaft wirken · Bewegungsradius 2 m; Nutzer nie über die Guardian-Grenze hinausführen</span>"
+},
+{
+"key": "feature_storyboard.html#168",
+"de": "<b>XR-Studio – ein Board mit vier Spuren</b><span>Physisches Set · Darsteller / LED-Hintergrund (Unreal) / Kameratracking / Lichtsynchronisation als vier Zeilen pro Einstellung · inneres/äußeres Frustum, Plate-Version, Wandhelligkeit notieren</span>"
+},
+{
+"key": "feature_storyboard.html#169",
+"de": "<b>Tafel SB-5</b> AR in Ebenen, MR auf dem Raumplan, XR in Spuren – mit dem Medium ändert sich die Definition von „einem Feld“. Gemeinsam ist allen: Zuerst zeichnen, wo das Publikum (oder die Kamera) ist."
+},
+{
+"key": "feature_storyboard.html#170",
+"de": "<small>DOPPELSEITE 07</small>Kamerasprache im Feld – ein Symbolsatz für Einstellung · Winkel · Bewegung · Komposition"
+},
+{
+"key": "feature_storyboard.html#171",
+"de": "Kamerasprache im Feld – 8 Bewegungssymbole"
+},
+{
+"key": "feature_storyboard.html#172",
+"de": "<b>PAN</b><span>Doppelpfeil links–rechts</span>"
+},
+{
+"key": "feature_storyboard.html#173",
+"de": "<b>TILT</b><span>Senkrechter Pfeil</span>"
+},
+{
+"key": "feature_storyboard.html#174",
+"de": "<b>ZOOM IN</b><span>Vier Pfeile nach innen</span>"
+},
+{
+"key": "feature_storyboard.html#175",
+"de": "<b>ZOOM OUT</b><span>Vier Pfeile nach außen</span>"
+},
+{
+"key": "feature_storyboard.html#176",
+"de": "<b>DOLLY IN</b><span>Pfeil am Boden entlang nach vorn</span>"
+},
+{
+"key": "feature_storyboard.html#177",
+"de": "<b>TRACK</b><span>Langer Pfeil parallel zur Figur</span>"
+},
+{
+"key": "feature_storyboard.html#178",
+"de": "<b>KRAN</b><span>Großer, nach oben gebogener Pfeil</span>"
+},
+{
+"key": "feature_storyboard.html#179",
+"de": "<b>HANDKAMERA</b><span>Zickzack an den Ecken</span>"
+},
+{
+"key": "feature_storyboard.html#180",
+"de": "<b>Tafel SB-6</b> So zeichnen Sie Kamerabewegung ins Board – Bewegung im Bild in Schwarz, nur die Kamera in Rot. Halten Sie die Symbole als Legende im ersten Feld fest."
+},
+{
+"key": "feature_storyboard.html#181",
+"de": "Vier Storyboard-Stile"
+},
+{
+"key": "feature_storyboard.html#182",
+"de": "<b>Thumbnail – Zeichnen zum Denken</b><span>Ein Feld in 10 Sekunden, nur für die Augen der Regie. Gut, weil man es leicht wegwirft</span>"
+},
+{
+"key": "feature_storyboard.html#183",
+"de": "<b>Reinzeichnung – Zeichnen fürs Set</b><span>Klare Information. Standard für Unterlagen zu Werbung · PPM</span>"
+},
+{
+"key": "feature_storyboard.html#184",
+"de": "<b>Tonwert-Board – das Licht zeichnen</b><span>Schattierung in drei Tonwerten, bis hin zur Lichtrichtung. Spielfilme · Markenfilme</span>"
+},
+{
+"key": "feature_storyboard.html#185",
+"de": "<b>Farbstudie – kurz vor dem Animatic</b><span>Testet Farbe und Rhythmus zusammen. Motion Design · Animation</span>"
+},
+{
+"key": "feature_storyboard.html#186",
+"de": "<b>Tafel SB-6′</b> Vier Storyboard-Stile. Der Zweck bestimmt die Genauigkeit – eine Zeichnung für sich selbst ist keine Zeichnung für zehn Menschen."
+},
+{
+"key": "feature_storyboard.html#187",
+"de": "<small>DOPPELSEITE 08</small>Sprechertext und Ton „sichtbar“ machen – das 3-Spur-Board und ein fertiger 15-Sekunden-Spot"
+},
+{
+"key": "feature_storyboard.html#188",
+"de": "Ton ist die Information, die im Board am häufigsten fehlt. Als eine Zeile unter dem Bild bleibt seine Länge unsichtbar. Legen Sie <b>Bildspur / Sprachspur / Tonspur</b> auf einer Zeitleiste nebeneinander, und Sie sehen wie mit dem Lineal, ob der Sprechertext länger ist als die Einstellung und ob Musikwechsel auf die Schnitte fallen."
+},
+{
+"key": "feature_storyboard.html#189",
+"de": "Sprechertext und Ton sichtbar machen – das 3-Spur-Board"
+},
+{
+"key": "feature_storyboard.html#190",
+"de": "BILD"
+},
+{
+"key": "feature_storyboard.html#191",
+"de": "<span>ECU · Tropfen</span>"
+},
+{
+"key": "feature_storyboard.html#192",
+"de": "<span>MCU · greift zur Flasche</span>"
+},
+{
+"key": "feature_storyboard.html#193",
+"de": "<span>CU · ein Schluck</span>"
+},
+{
+"key": "feature_storyboard.html#194",
+"de": "<span>LS · Stadt am Morgen</span>"
+},
+{
+"key": "feature_storyboard.html#195",
+"de": "<span>ECU · auf dem Tisch</span>"
+},
+{
+"key": "feature_storyboard.html#196",
+"de": "<span>MS · Logo-CG</span>"
+},
+{
+"key": "feature_storyboard.html#197",
+"de": "SPRACHE"
+},
+{
+"key": "feature_storyboard.html#198",
+"de": "N Ihr Tag beginnt anders"
+},
+{
+"key": "feature_storyboard.html#199",
+"de": "SYNC „Mmh.“"
+},
+{
+"key": "feature_storyboard.html#200",
+"de": "N Bevor die Stadt erwacht"
+},
+{
+"key": "feature_storyboard.html#201",
+"de": "N Auch heute, Markenname"
+},
+{
+"key": "feature_storyboard.html#202",
+"de": "MUSIK"
+},
+{
+"key": "feature_storyboard.html#203",
+"de": "MUTE"
+},
+{
+"key": "feature_storyboard.html#204",
+"de": "♪ Klavier ein"
+},
+{
+"key": "feature_storyboard.html#205",
+"de": "Beat"
+},
+{
+"key": "feature_storyboard.html#206",
+"de": "Schlussakkord · Ausblende"
+},
+{
+"key": "feature_storyboard.html#207",
+"de": "SE"
+},
+{
+"key": "feature_storyboard.html#208",
+"de": "Tropfen"
+},
+{
+"key": "feature_storyboard.html#209",
+"de": "Verschluss"
+},
+{
+"key": "feature_storyboard.html#210",
+"de": "ATM Stadt"
+},
+{
+"key": "feature_storyboard.html#211",
+"de": "Wusch"
+},
+{
+"key": "feature_storyboard.html#212",
+"de": "CAP"
+},
+{
+"key": "feature_storyboard.html#213",
+"de": "Tagesbeginn"
+},
+{
+"key": "feature_storyboard.html#214",
+"de": "SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#215",
+"de": "<b>Tafel SB-7</b> Ein 3-Spur-Board für einen 15-Sekunden-Spot mit 6 Einstellungen. Die Feldbreite ist Zeit – ist der Sprechertext länger als das Feld, kürzen Sie ihn genau dort. Legen Sie Musikwechsel auf die Schnittgrenzen."
+},
+{
+"key": "feature_storyboard.html#216",
+"de": "<b>3<em>Zeichen/s</em></b>Sprechtempo im Koreanischen"
+},
+{
+"key": "feature_storyboard.html#217",
+"de": "<b>35–45<em>Zeichen</em></b>Obergrenze für einen ganzen 15-Sekunden-Spot"
+},
+{
+"key": "feature_storyboard.html#218",
+"de": "<b>150–180<em>Zeichen</em></b>Obergrenze für ein 1-Minuten-Video"
+},
+{
+"key": "feature_storyboard.html#219",
+"de": "<b>0,5<em>s</em></b>Vom Einstellungsbeginn bis zur ersten Silbe"
+},
+{
+"key": "feature_storyboard.html#220",
+"de": "<small>DOPPELSEITE 09</small>Lesbar zeichnen – das Set ist dunkel, der Leser in Eile"
+},
+{
+"key": "feature_storyboard.html#221",
+"de": "Lesbar zeichnen"
+},
+{
+"key": "feature_storyboard.html#222",
+"de": "<b>✕ Ein unlesbares Feld</b><span>Dünne graue Linien · vier Pfeilfarben · winziger Text · keine Nummern</span>"
+},
+{
+"key": "feature_storyboard.html#223",
+"de": "<span>CUT 02</span><span class=\"sc\">S#1 Café · Tag · INNEN</span><span>2,5 s · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#224",
+"de": "MCU · EYE · 50 mm · DOLLY IN langsam · CUT TO"
+},
+{
+"key": "feature_storyboard.html#225",
+"de": "Handlung: greift zum Produkt · Blick aufs Produkt"
+},
+{
+"key": "feature_storyboard.html#226",
+"de": "N Ihr Tag beginnt anders · SE Verschluss · M Klavier ein"
+},
+{
+"key": "feature_storyboard.html#227",
+"de": "<b>○ Ein Feld, lesbar aus 3 m</b><span>Drei Tonwerte · eine Pfeilfarbe · große Nummer und Zeit · Text in zwei Zeilen unter dem Feld</span>"
+},
+{
+"key": "feature_storyboard.html#228",
+"de": "<b>Tafel SB-8</b> Gleiche Information, andere Lesbarkeit. Ein Board ist nicht für den Monitor; es hängt am Set an der Wand und wird aus 3 m gelesen."
+},
+{
+"key": "feature_storyboard.html#229",
+"de": "<b>01</b><span><b>In drei Tonwerten zeichnen.</b> Hintergrund (hell), Mittelgrund (mittel), Personen/Produkt (dunkel). Drei Tonwerte zeigen Form, fünf ergeben ein Gemälde – ein Board ist kein Gemälde.</span>"
+},
+{
+"key": "feature_storyboard.html#230",
+"de": "<b>02</b><span><b>Nur zwei Strichstärken.</b> Dick für Umrisse, dünn für Details. Sind alle Linien gleich stark, tritt nichts hervor.</span>"
+},
+{
+"key": "feature_storyboard.html#231",
+"de": "<b>03</b><span><b>Eine Farbe für Pfeile, Schwarz für Figurenbewegung.</b> Kamerabewegungen in einer Farbe, Weinrot (oder Rot). Bei mehr als drei Farben suchen alle nach der Legende.</span>"
+},
+{
+"key": "feature_storyboard.html#232",
+"de": "<b>04</b><span><b>Einstellungsnummer und Dauer sind der größte Text im Feld.</b> Am Set ruft man am häufigsten „welche Einstellung, wie viele Sekunden“.</span>"
+},
+{
+"key": "feature_storyboard.html#233",
+"de": "<b>05</b><span><b>Kein Text in der Zeichnung.</b> Untertitel und Logos nur mit gepunktetem Kasten andeuten. Aller Text steht unter dem Feld.</span>"
+},
+{
+"key": "feature_storyboard.html#234",
+"de": "<b>06</b><span><b>Zwei Infozeilen unter dem Feld.</b> Zeile eins: Messwerte (SIZE · ANGLE · LENS · MOVE). Zeile zwei: Wort und Ton (N · SYNC · M · SE). Eine dritte Zeile liest niemand.</span>"
+},
+{
+"key": "feature_storyboard.html#235",
+"de": "<b>07</b><span><b>Text mind. 11 pt (auf A4), 1/40 der Feldbreite.</b> Zeichnen Sie so, als würde das Board auf A3 vergrößert und angepinnt.</span>"
+},
+{
+"key": "feature_storyboard.html#236",
+"de": "<b>08</b><span><b>Figurengröße im Bild = Einstellungsgröße.</b> Wechselt die Figurengröße zwischen Feldern mit MS, lügt das Board. Bauen Sie sich ein Silhouetten-Lineal und nutzen Sie es.</span>"
+},
+{
+"key": "feature_storyboard.html#237",
+"de": "<b>09</b><span><b>3–6 Felder pro Reihe, links→rechts, oben→unten.</b> Zickzack- oder Spaltenlayouts liest man am Set immer in falscher Folge.</span>"
+},
+{
+"key": "feature_storyboard.html#238",
+"de": "<b>10</b><span><b>Die Legende gehört ins erste Feld.</b> Seitenverhältnis, Auflösung, Symbolschlüssel, Version und Datum stehen in Feld eins. Sobald zwei Board-Versionen kursieren, ist der Dreh verloren.</span>"
+},
+{
+"key": "feature_storyboard.html#239",
+"de": "Gute Spielanweisungen"
+},
+{
+"key": "feature_storyboard.html#240",
+"de": "Handlung (Verben) und Gefühl (Adjektive) trennen"
+},
+{
+"key": "feature_storyboard.html#241",
+"de": "Verhalten statt Ergebnis beschreiben"
+},
+{
+"key": "feature_storyboard.html#242",
+"de": "Blickrichtung immer angeben"
+},
+{
+"key": "feature_storyboard.html#243",
+"de": "z. B. Produkt anheben und Blick zur Kamera wenden"
+},
+{
+"key": "feature_storyboard.html#244",
+"de": "z. B. Einmal einatmen, dann nur die Mundwinkel heben"
+},
+{
+"key": "feature_storyboard.html#245",
+"de": "Schlechte Spielanweisungen"
+},
+{
+"key": "feature_storyboard.html#246",
+"de": "Glücklich aussehen (kein klares Kriterium)"
+},
+{
+"key": "feature_storyboard.html#247",
+"de": "Natürlich sein (die verantwortungsloseste Anweisung)"
+},
+{
+"key": "feature_storyboard.html#248",
+"de": "Nicht nervös sein (negative Anweisung)"
+},
+{
+"key": "feature_storyboard.html#249",
+"de": "Mehr Gefühl (niemand weiß, was das heißt)"
+},
+{
+"key": "feature_storyboard.html#250",
+"de": "Einfach mal machen (Regie aus der Hand gegeben)"
+}
+]

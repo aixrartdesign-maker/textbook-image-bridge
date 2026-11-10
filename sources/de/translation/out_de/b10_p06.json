@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#637",
+"de": "Sehr gering"
+},
+{
+"key": "part09.html#638",
+"de": "Direkter Draht"
+},
+{
+"key": "part09.html#639",
+"de": "Rohmaterial"
+},
+{
+"key": "part09.html#640",
+"de": "Making-of-Kurzvideo"
+},
+{
+"key": "part09.html#641",
+"de": "Sehr gering"
+},
+{
+"key": "part09.html#642",
+"de": "Nähe"
+},
+{
+"key": "part09.html#643",
+"de": "Wiederverwertung ist keine Faulheit, sondern Strategie.<small>8.10 Kanalbetrieb und Redaktionsplan</small>"
+},
+{
+"key": "part09.html#644",
+"de": "Generative KI zeichnet nicht – sie räumt Rauschen weg"
+},
+{
+"key": "part09.html#645",
+"de": "<b>Diffusionsmodelle – ein Bild aus dem Rauschen „freilegen“</b><span>Im Training lernt das Modell, wie ein Foto durch schrittweise hinzugefügtes Rauschen zerstört wird; bei der Generierung geht es umgekehrt vor und trägt, ausgehend von reinem Rauschen, Schritt für Schritt das Rauschen ab. Der Prompt ist der Kompass, der die Richtung des Freilegens bestimmt</span>"
+},
+{
+"key": "part09.html#646",
+"de": "<b>① Prompt</b><span>Text wird zu einem Zahlenvektor – „Morgensonne, weiße Tasse“</span>"
+},
+{
+"key": "part09.html#647",
+"de": "<b>② Rauschen</b><span>Start mit einem Bild aus zufälligen Punkten</span>"
+},
+{
+"key": "part09.html#648",
+"de": "<b>③ 20–50 Entrauschungsschritte</b><span>Jeder Schritt sagt voraus, „was zu löschen ist, damit dieses Bild dem Prompt näherkommt“</span>"
+},
+{
+"key": "part09.html#649",
+"de": "<b>④ Ergebnis</b><span>Gleicher Prompt, anderes Startrauschen (Seed), anderes Bild</span>"
+},
+{
+"key": "part09.html#650",
+"de": "<b>Abb. 83-1</b> So funktioniert generative KI – das Diffusionsmodell. Videogenerierungsmodelle erweitern dasselbe Prinzip entlang der Zeitachse. Deshalb sind sie besser bei „so eine Stimmung“ als bei „genau diese Szene“ und liegen bei Details wie der Zahl der Finger daneben."
+},
+{
+"key": "part09.html#651",
+"de": "<small>Übung</small>8.10"
+},
+{
+"key": "part09.html#652",
+"de": "Aufgabe"
+},
+{
+"key": "part09.html#653",
+"de": "Erstellen Sie einen Redaktionsplan für einen Monat und setzen Sie ihn 2 Wochen lang tatsächlich um."
+},
+{
+"key": "part09.html#654",
+"de": "Tipp"
+},
+{
+"key": "part09.html#655",
+"de": "Wählen Sie ein Tempo, das Sie halten können, etwa 2 Beiträge pro Woche."
+},
+{
+"key": "part09.html#656",
+"de": "Bewertung"
+},
+{
+"key": "part09.html#657",
+"de": "Umsetzung gemessen am Plan, Rückblick"
+},
+{
+"key": "part09.html#658",
+"de": "Musterlösung"
+},
+{
+"key": "part09.html#659",
+"de": "Dokumentiert, wie der Plan während der Umsetzung anhand der Kennzahlen angepasst wurde."
+},
+{
+"key": "part09.html#660",
+"de": "<b>TEIL 09</b>Plattformbetrieb und generative KI"
+},
+{
+"key": "part09.html#661",
+"de": "Titel und Hooks schreiben"
+},
+{
+"key": "part09.html#662",
+"de": "Je nach Titel kann dasselbe Video ein Vielfaches an Aufrufen erzielen. Texten ist eine eigene Fähigkeit, und jeder Videomacher muss sie lernen."
+},
+{
+"key": "part09.html#663",
+"de": "Die ersten 12 Zeichen entscheiden über den Titel – so viel zeigt ein Handybildschirm"
+},
+{
+"key": "part09.html#664",
+"de": "10 kg in 3 Tagen? "
+},
+{
+"key": "part09.html#665",
+"de": "Warum Ärzte abraten"
+},
+{
+"key": "part09.html#666",
+"de": "12 Z."
+},
+{
+"key": "part09.html#667",
+"de": "<b style=\"color:#7A1C2B\">○ Zahl + Frage – Kernpunkt in den ersten 12</b><span>10 kg in 3 Tagen? Warum Ärzte abraten</span>"
+},
+{
+"key": "part09.html#668",
+"de": "Unsere Firma: neues"
+},
+{
+"key": "part09.html#669",
+"de": "Gesundheitsprogramm im…"
+},
+{
+"key": "part09.html#670",
+"de": "12 Z."
+},
+{
+"key": "part09.html#671",
+"de": "<b style=\"color:#7A7A80\">✕ In den ersten 12 nur das Subjekt – Kernpunkt erst später</b><span>Unsere Firma: neues Gesundheitsprogramm im Vorstellungsvideo</span>"
+},
+{
+"key": "part09.html#672",
+"de": "Wohnheim-Mikrowellenküche"
+},
+{
+"key": "part09.html#673",
+"de": ": so bitte nicht"
+},
+{
+"key": "part09.html#674",
+"de": "12 Z."
+},
+{
+"key": "part09.html#675",
+"de": "<b style=\"color:#7A1C2B\">○ Zielgruppe + Warnung – in Zeile eins entschieden</b><span>Wohnheim-Mikrowellenküche: so bitte nicht</span>"
+},
+{
+"key": "part09.html#676",
+"de": "Frühjahr 2024: neue "
+},
+{
+"key": "part09.html#677",
+"de": "Produktlinie vorgestellt…"
+},
+{
+"key": "part09.html#678",
+"de": "12 Z."
+},
+{
+"key": "part09.html#679",
+"de": "<b style=\"color:#7A7A80\">✕ Datum · vorgestellt · geteilt – Wörter ohne Information</b><span>Frühjahr 2024: neue Produktlinie vorgestellt und Nutzerbewertungen geteilt</span>"
+},
+{
+"key": "part09.html#680",
+"de": "<b>Fünf Hook-Formeln – in echten Titeln</b><span><b>Zahl</b> Color Grading in 30 Sekunden erledigt</span><span><b>Frage</b> Warum meine Videos keine Aufrufe bekommen</span><span><b>Warnung</b> Objektive, die Anfänger nie kaufen sollten</span><span><b>Vorher-nachher</b> Was eine Leuchte für 50.000 Won ausmacht</span><span><b>Geheimnis</b> Die Schnittfolge, die Werbeprofis verschweigen</span>"
+},
+{
+"key": "part09.html#681",
+"de": "<b>Abb. 85-1</b> Die ersten 12 Zeichen entscheiden über den Titel – so viele Zeichen zeigt ein mobiler Feed. Die rote Linie markiert die Grenze von 12 Zeichen; steht davor kein Schlüsselwort, wird der Rest nicht gelesen. Wählen Sie nur eine der fünf Formeln."
+},
+{
+"key": "part09.html#682",
+"de": "12 Titeltypen"
+},
+{
+"key": "part09.html#683",
+"de": "Typ"
+},
+{
+"key": "part09.html#684",
+"de": "Aufbau"
+},
+{
+"key": "part09.html#685",
+"de": "Beispiel"
+},
+{
+"key": "part09.html#686",
+"de": "Zahl"
+},
+{
+"key": "part09.html#687",
+"de": "N Dinge + Zielgruppe"
+},
+{
+"key": "part09.html#688",
+"de": "5 Dinge, die Videoanfänger wissen müssen"
+},
+{
+"key": "part09.html#689",
+"de": "Ergebnis zuerst"
+},
+{
+"key": "part09.html#690",
+"de": "Ergebnis + Methode"
+},
+{
+"key": "part09.html#691",
+"de": "Der Schnitt, der 10× mehr Aufrufe brachte"
+},
+{
+"key": "part09.html#692",
+"de": "Gegenthese"
+},
+{
+"key": "part09.html#693",
+"de": "Gegen den Konsens"
+},
+{
+"key": "part09.html#694",
+"de": "Warum eine teure Kamera unnötig ist"
+},
+{
+"key": "part09.html#695",
+"de": "Frage"
+},
+{
+"key": "part09.html#696",
+"de": "Neugier wecken"
+},
+{
+"key": "part09.html#697",
+"de": "Warum meine Videos nach 3 Sekunden weggewischt werden"
+},
+{
+"key": "part09.html#698",
+"de": "Zielgruppe nennen"
+},
+{
+"key": "part09.html#699",
+"de": "Sagen, für wen"
+},
+{
+"key": "part09.html#700",
+"de": "Drehgrundlagen für Erstsemester"
+},
+{
+"key": "part09.html#701",
+"de": "Vergleich"
+},
+{
+"key": "part09.html#702",
+"de": "A vs. B"
+},
+{
+"key": "part09.html#703",
+"de": "Premiere oder Final Cut: Was lernen?"
+},
+{
+"key": "part09.html#704",
+"de": "Zeitlimit"
+},
+{
+"key": "part09.html#705",
+"de": "Zeitraum nennen"
+},
+{
+"key": "part09.html#706",
+"de": "Ein 15-Sekunden-Spot in einer Woche"
+},
+{
+"key": "part09.html#707",
+"de": "Scheitern"
+},
+{
+"key": "part09.html#708",
+"de": "Erfahrung teilen"
+},
+{
+"key": "part09.html#709",
+"de": "7 Pannen bei meinem ersten Dreh"
+},
+{
+"key": "part09.html#710",
+"de": "Tool nennen"
+},
+{
+"key": "part09.html#711",
+"de": "Ein bestimmtes Tool"
+},
+{
+"key": "part09.html#712",
+"de": "Ein Spot, nur mit dem Smartphone gedreht"
+},
+{
+"key": "part09.html#713",
+"de": "Vorher-nachher"
+},
+{
+"key": "part09.html#714",
+"de": "Veränderung betonen"
+},
+{
+"key": "part09.html#715",
+"de": "Was eine einzige Leuchte ausmacht"
+},
+{
+"key": "part09.html#716",
+"de": "Geheimnis"
+},
+{
+"key": "part09.html#717",
+"de": "Seltenes Wissen"
+},
+{
+"key": "part09.html#718",
+"de": "Kürzel, die man nur am Set kennt"
+},
+{
+"key": "part09.html#719",
+"de": "Checkliste"
+},
+{
+"key": "part09.html#720",
+"de": "Praxisnutzen"
+},
+{
+"key": "part09.html#721",
+"de": "Was am Tag vor dem Dreh zu prüfen ist"
+},
+{
+"key": "part09.html#722",
+"de": "Regeln für Hooks"
+},
+{
+"key": "part09.html#723",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part09.html#724",
+"de": "Im Kurzvideo übernimmt die erste Texteinblendung die Rolle des Titels. Sie muss in 0,5 Sekunden lesbar sein."
+},
+{
+"key": "part09.html#725",
+"de": "<b>01</b><span>Das wichtigste Wort an den Anfang. Mobil wird das Ende abgeschnitten.</span>"
+},
+{
+"key": "part09.html#726",
+"de": "<b>02</b><span>Konkrete Wörter schlagen abstrakte: „in 3 Sekunden“ statt „ein guter Weg“.</span>"
+},
+{
+"key": "part09.html#727",
+"de": "<b>03</b><span>Wer die Zielgruppe nennt, steigert die Klickrate. Ein Titel für alle erreicht niemanden.</span>"
+},
+{
+"key": "part09.html#728",
+"de": "<b>04</b><span>Übertriebener Clickbait bringt anfangs Klicks, senkt aber die Wiedergabedauer, und am Ende sinken die Impressionen.</span>"
+},
+{
+"key": "part09.html#729",
+"de": "<b>05</b><span>Den Markennamen ans Ende. Vorn wirkt er wie Werbung.</span>"
+},
+{
+"key": "part09.html#730",
+"de": "Beschreibung und Bildtext"
+},
+{
+"key": "part09.html#731",
+"de": "Plattform"
+},
+{
+"key": "part09.html#732",
+"de": "Erste Zeile"
+},
+{
+"key": "part09.html#733",
+"de": "Länge"
+},
+{
+"key": "part09.html#734",
+"de": "Abschluss"
+},
+{
+"key": "part09.html#735",
+"de": "YouTube-Beschreibung"
+},
+{
+"key": "part09.html#736",
+"de": "Videoüberblick und wichtige Links"
+},
+{
+"key": "part09.html#737",
+"de": "2–3 Zeilen + Details"
+},
+{
+"key": "part09.html#738",
+"de": "Kapitel und ähnliche Videos"
+},
+{
+"key": "part09.html#739",
+"de": "Instagram-Bildtext"
+},
+{
+"key": "part09.html#740",
+"de": "Fazit oder Frage"
+},
+{
+"key": "part09.html#741",
+"de": "1–3 Zeilen"
+},
+{
+"key": "part09.html#742",
+"de": "Mit einer Frage zu Kommentaren einladen"
+},
+{
+"key": "part09.html#743",
+"de": "TikTok-Bildtext"
+},
+{
+"key": "part09.html#744",
+"de": "Kurzer Hook"
+},
+{
+"key": "part09.html#745",
+"de": "1 Zeile"
+},
+{
+"key": "part09.html#746",
+"de": "3–5 Hashtags"
+},
+{
+"key": "part09.html#747",
+"de": "Threads"
+},
+{
+"key": "part09.html#748",
+"de": "Gesprächseinstieg"
+},
+{
+"key": "part09.html#749",
+"de": "2–4 Zeilen"
+},
+{
+"key": "part09.html#750",
+"de": "Nach Meinungen fragen"
+},
+{
+"key": "part09.html#751",
+"de": "Blog"
+},
+{
+"key": "part09.html#752",
+"de": "Kurzfassung mit Suchbegriffen"
+},
+{
+"key": "part09.html#753",
+"de": "3–5 Zeilen"
+},
+{
+"key": "part09.html#754",
+"de": "Link zum nächsten Beitrag"
+},
+{
+"key": "part09.html#755",
+"de": "<small>Übung</small>8.11"
+},
+{
+"key": "part09.html#756",
+"de": "Aufgabe"
+},
+{
+"key": "part09.html#757",
+"de": "Erstellen Sie für dasselbe Video 5 Titel und 5 Thumbnails und fragen Sie 20 Bekannte, worauf sie klicken würden."
+},
+{
+"key": "part09.html#758",
+"de": "Tipp"
+},
+{
+"key": "part09.html#759",
+"de": "Schreiben Sie jeden Titel in einem Modus: Neugier, Nutzen, Zahl oder Kontrast. Übertreibung und Clickbait kosten Vertrauen."
+},
+{
+"key": "part09.html#760",
+"de": "Bewertung"
+},
+{
+"key": "part09.html#761",
+"de": "Klarheit der Texte, Nutzung der Testergebnisse"
+},
+{
+"key": "part09.html#762",
+"de": "Musterlösung"
+},
+{
+"key": "part09.html#763",
+"de": "Prüft anschließend, ob die meistgeklickte Kombination zum tatsächlichen Inhalt passt."
+},
+{
+"key": "part09.html#764",
+"de": "<b>TEIL 09</b>Plattformbetrieb und generative KI"
+},
+{
+"key": "part09.html#765",
+"de": "Grundlagen der SNS-Werbung"
+},
+{
+"key": "part09.html#766",
+"de": "Ein fertiges Video mit Werbegeld zu verbreiten, gehört inzwischen auch zum Job von Videomachern. Ohne Kenntnis der Mechanik bringen selbst gute Werbemittel nichts."
+},
+{
+"key": "part09.html#767",
+"de": "<span class=\"ph-id\">P09-LIVECOM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Live-Shopping</b>Ein Moderator präsentiert vor einem Ringlicht ein Hautpflegeprodukt in die Smartphone-Kamera; Kommentarblasen als abstrakte Lichtsplitter</span>"
+},
+{
+"key": "part09.html#768",
+"de": "<b>Hinweis</b>Live-Shopping – Sendung und Laden sind ein Bildschirm geworden. Videomacher produzieren die Werbung und schalten sie auch"
+},
+{
+"key": "part09.html#769",
+"de": "Wie SNS zum Shop wurden"
+},
+{
+"key": "part09.html#770",
+"de": "<b>01</b><i>Online-Marktplätze</i>Produktlisten und Suche. Video unterstützt die Detailseite"
+},
+{
+"key": "part09.html#771",
+"de": "<b>02</b><i>Social Commerce</i>Sammelbestellungen und Deals. Produkte tauchen erstmals in Timelines auf"
+},
+{
+"key": "part09.html#772",
+"de": "<b>03</b><i>Shopping-Tags · Live-Shopping</i>Direkt aus einem Beitrag oder während eines Streams kaufen. Video wird zum Laden"
+},
+{
+"key": "part09.html#773",
+"de": "<b>04</b><i>Kurzvideo-Shopping · Werbeautomatik</i>Produktlinks im Video. Gebote per maschinellem Lernen und automatisierte Werbemittel kombinieren die Bausteine"
+},
+{
+"key": "part09.html#774",
+"de": "<b>Referenzfotos 8.12A</b>Betrieb und Automatisierung"
+},
+{
+"key": "part09.html#775",
+"de": "<span class=\"ph-id\">P09-ECOM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Onlineshop-Betrieb</b>Der Betreiber eines kleinen Onlineshops packt am Schreibtisch Bestellungen, ein Laptop zeigt ein Bestell-Dashboard, Versandkartons</span>"
+},
+{
+"key": "part09.html#776",
+"de": "<b>Hinweis</b>Onlineshop-Betrieb – ein einziges Video führt bis zur Bestellseite"
+},
+{
+"key": "part09.html#777",
+"de": "<span class=\"ph-id\">P09-AUTOMATION</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Werbeautomatik</b>Zwei Monitore mit dem Dashboard einer automatisierten Werbekampagne, abstrakte Diagramme und Zielgruppensegmente, ein dunkles Büro</span>"
+},
+{
+"key": "part09.html#778",
+"de": "<b>Hinweis</b>Werbeautomatik – Maschinen übernehmen Gebote und Kombinationen, Menschen Werbemittel und Botschaft"
+},
+{
+"key": "part09.html#779",
+"de": "Aufbau eines Werbekontos"
+},
+{
+"key": "part09.html#780",
+"de": "Ebene"
+},
+{
+"key": "part09.html#781",
+"de": "Festlegung"
+},
+{
+"key": "part09.html#782",
+"de": "Rolle der Videomacher"
+},
+{
+"key": "part09.html#783",
+"de": "Kampagne"
+},
+{
+"key": "part09.html#784",
+"de": "Ziel (Bekanntheit, Traffic, Conversion)"
+},
+{
+"key": "part09.html#785",
+"de": "Länge und Aufbau der Werbemittel passend zum Ziel"
+},
+{
+"key": "part09.html#786",
+"de": "Anzeigengruppe"
+}
+]

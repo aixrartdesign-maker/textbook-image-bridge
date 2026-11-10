@@ -1,0 +1,602 @@
+[
+{
+"key": "part00.html#0",
+"de": "Impressum"
+},
+{
+"key": "part00.html#1",
+"de": "Titel"
+},
+{
+"key": "part00.html#2",
+"de": "Videoproduktion: Ein Praxislehrbuch – 13 Kapitel für Unterricht und Set"
+},
+{
+"key": "part00.html#3",
+"de": "Autorin"
+},
+{
+"key": "part00.html#4",
+"de": "Jia Ahn"
+},
+{
+"key": "part00.html#5",
+"de": "Auflage"
+},
+{
+"key": "part00.html#6",
+"de": "1. Auflage"
+},
+{
+"key": "part00.html#7",
+"de": "Inhalt"
+},
+{
+"key": "part00.html#8",
+"de": "13 Kapitel · 23 Hintergrundtexte · 91 Diagramme · 24 Erklärtafeln · 56 Figurenzeichnungen · 29 Gerätezeichnungen · 135 Referenzfotos · 170 Abschnittsübungen"
+},
+{
+"key": "part00.html#9",
+"de": "Einsatz"
+},
+{
+"key": "part00.html#10",
+"de": "Hochschullehrbuch, berufliche Bildung, Nachschlagewerk für die Praxis"
+},
+{
+"key": "part00.html#11",
+"de": "Preis"
+},
+{
+"key": "part00.html#12",
+"de": "25.000 KRW"
+},
+{
+"key": "part00.html#13",
+"de": "Alle Diagramme in diesem Buch hat die Autorin gestaltet. Figuren- und Gerätezeichnungen, Erklärtafeln und Referenzfotos wurden mit generativen Bildmodellen erstellt; die Generierungsbedingungen sind in Anhang S offengelegt. Die Referenzfotos im Text sind mit generativer KI inszenierte Bilder, keine Fotografien realer Personen oder bestimmter Werke. Regisseure und Produktionsfirmen werden ausschließlich zur Analyse der Technik genannt."
+},
+{
+"key": "part00.html#14",
+"de": "Über die Autorin"
+},
+{
+"key": "part00.html#15",
+"de": "Jia Ahn <small>AHN JIA</small>"
+},
+{
+"key": "part00.html#16",
+"de": "Geboren in Deutschland. BA, MA und PhD in Mediendesign an der Ewha Womans University; Absolventin des Global Executive Program der Seoul National University."
+},
+{
+"key": "part00.html#17",
+"de": "Derzeit"
+},
+{
+"key": "part00.html#18",
+"de": "Assistenzprofessorin, Fachbereich Videomedien und Content, Kyungbok University · Leiterin des PR-Designzentrums"
+},
+{
+"key": "part00.html#19",
+"de": "Zuvor"
+},
+{
+"key": "part00.html#20",
+"de": "Bilddesignerin im PR-Team des Presseamts der Stadt Seongnam"
+},
+{
+"key": "part00.html#21",
+"de": "Zuvor"
+},
+{
+"key": "part00.html#22",
+"de": "Geschäftsführerin, Doshim Co., Ltd."
+},
+{
+"key": "part00.html#23",
+"de": "<b>Bücher</b> <i>Was ist UX?</i> · <i>ChatGPT im Unterricht: code &amp; play</i> &nbsp;<b>Bilderbücher</b> <i>Der Roboter, der das Gehirn weckt</i> · <i>Von der Erde zur KI</i> · <i>Träume mit Sion</i> · <i>Warum tragen wir Masken?</i>"
+},
+{
+"key": "part00.html#24",
+"de": "Vorwort – warum dieses Buch, warum jetzt"
+},
+{
+"key": "part00.html#25",
+"de": "Das Umfeld der Videoproduktion ist 2026 in jeder Hinsicht reicher als vor einem Jahrzehnt. Das Gerät in Ihrer Tasche filmt in 4K, kostenlose Schnittsoftware liefert Ergebnisse in kommerzieller Qualität, und ein paar Sätze beschwören Szenen herauf, die es nie gab. Was Lernende jetzt brauchen, ist weder Ausrüstung noch Information. Es ist Ordnung."
+},
+{
+"key": "part00.html#26",
+"de": "Genau hier beginnt das Problem. Wenn Informationen grenzenlos verstreut sind, können Lernende nicht erkennen, was sie zuerst lernen sollen. Sie beschäftigen sich mit Color Grading, bevor sie die Blende verstehen, und laden Übergangseffekte herunter, bevor sie den Schnitt begreifen. Mehr Werkzeuge, weniger fertige Werke – daher rührt das Paradox. Die Suche liefert Wissen, aber nicht die Anordnung des Wissens."
+},
+{
+"key": "part00.html#27",
+"de": "Generative KI hat die Kluft vergrößert. Die Hürde zum Ergebnis ist gesunken, die Messlatte für das Urteil gestiegen. Der alte Satz, dass stärkere Werkzeuge den Wert derer steigern, die die Prinzipien kennen, hat sich nie so deutlich bestätigt."
+},
+{
+"key": "part00.html#28",
+"de": "Dieses Buch ist der Versuch, diese Anordnung zu liefern. Von der Frage, was Video ist, über Sprache, Technik und Planung bis zu Medien, Markt und Beruf legt es einen Weg an, den man von Anfang bis Ende gehen kann. Jeder Teil steht für sich, sodass Sie mittendrin einsteigen können; der Reihe nach gelesen, ergeben alle Teile eine einzige Erzählung."
+},
+{
+"key": "part00.html#29",
+"de": "Zugleich ist dieses Buch durch und durch praktisch. Erst erklärt ein Kapitel, warum die Verschlusszeit festgelegt wird, dann liefert es Voreinstellungen je Kameramodell; erst erklärt ein anderes, was ein Storyboard bedeutet, dann liefert es den vollständigen Notationssatz und leere Vorlagen. Wer Prinzip und Umsetzung getrennt lernt, hat von beidem nur die Hälfte. Die Tabellen und Checklisten hier sind nicht zum Lesen da, sondern zum Aufschlagen am Set."
+},
+{
+"key": "part00.html#30",
+"de": "Schließlich bekommt der Berufseinstieg einen eigenen Teil. Die meisten, die zu diesem Buch greifen, wollen vom Video leben. Zu wissen, welche Firmen wen einstellen, was ein Portfolio beweisen muss und wie man die ersten drei Monate übersteht, ist auch eine Fähigkeit. Ein Lehrbuch, das dies nicht lehrt, ist nur halb ehrlich."
+},
+{
+"key": "part00.html#31",
+"de": "Anmerkung der Autorin – ein Modell für die Lehre schaffen"
+},
+{
+"key": "part00.html#32",
+"de": "Die Videoproduktion ist als Branche gewachsen, bevor sie sich als Fach etabliert hat. Das Feld hat einen riesigen Bestand an Praxiswissen angesammelt, doch Texte, die es zu einem System ordnen, sind selten. Das Drehen steht in Kamerahandbüchern, der Schnitt in Softwareanleitungen, die Karriere in Bewerbungsratgebern, und die Lernenden müssen die Teile allein zusammenfügen. Dieses Zusammenfügen fällt Anfängern am schwersten, denn schon zu wissen, was man zuerst lernen sollte, erfordert beträchtliches Wissen."
+},
+{
+"key": "part00.html#33",
+"de": "Bei der Lehre ist es nicht anders. In einem Fach ohne Standardlehrbuch hängt der Unterricht von persönlicher Erfahrung ab. Erfahrung ist lebendig, aber nicht reproduzierbar. Reproduzierbarkeit ist die Mindestanforderung an Bildung, und sie beginnt mit einem gemeinsamen Text."
+},
+{
+"key": "part00.html#34",
+"de": "Dieses Buch versucht, einen solchen Text einmal zu schaffen. Ziel ist kein fertiger Kanon, sondern ein Fundament, auf dem spätere Überarbeitungen und Widerlegungen stehen können. Daher galt bei der Auswahl ein einziges Kriterium: Hat es auch in fünf Jahren noch Bestand? Menüpfade einzelner Programme und Daten einzelner Kameras kommen nur am Rande vor; die Seiten gehören stattdessen der Ordnung des Urteilens. Werkzeuge werden ersetzt, die Ordnung nicht."
+},
+{
+"key": "part00.html#35",
+"de": "Der Aufbau denkt an Einsteiger ebenso wie an Lehrende. Jeder Teil beginnt mit einer erzählenden Einführung, die den Kontext setzt, ordnet das Wissen Punkt für Punkt und schließt mit einer einseitigen Zusammenfassung, die direkt im Unterricht einsetzbar ist. Alle Tafeln sind monochrom – eine praktische Entscheidung, damit in Schwarz-Weiß-Kopien und auf niedrig auflösenden Beamern nichts verloren geht."
+},
+{
+"key": "part00.html#36",
+"de": "Aus demselben Grund steht im Teil über generative KI im Mittelpunkt, was an welcher Stelle der Pipeline eingesetzt wird, und nicht die Bedienung einzelner Dienste. Werkzeuge leben kurz, Strukturen lange. In einer Umgebung, in der jeder ein plausibles Bild erzeugen kann, liegt die Aufgabe der Bildung nicht in der Vermittlung von Funktionen, sondern in der Schulung des Urteilsvermögens."
+},
+{
+"key": "part00.html#37",
+"de": "Ein Wort zum Umgang mit Beispielen. Dieses Buch reproduziert kein einziges Bild aus bestehenden Werken. Alle Diagramme wurden von Grund auf neu gestaltet; Figuren- und Gerätezeichnungen sowie Referenzbilder entstanden mit generativen Bildmodellen, die Generierungsbedingungen sind im Anhang offengelegt. Ein Text, der lehrt, wie man gutes Video macht, sollte nicht auf den Ergebnissen anderer aufbauen."
+},
+{
+"key": "part00.html#38",
+"de": "Wird dieses Buch für jemanden zum ersten Lehrbuch oder zum Lehrplan, oder liegt es aufgeschlagen auf einem Tisch am Set, hat es seine Aufgabe erfüllt. Sagen Sie mir, wo die Erklärung stockt und wo sie nicht zur Praxis passte; dort beginnt die nächste Auflage."
+},
+{
+"key": "part00.html#39",
+"de": "Frühjahr 2026, Jia Ahn"
+},
+{
+"key": "part00.html#40",
+"de": "Hinweise zum Buch"
+},
+{
+"key": "part00.html#41",
+"de": "<b>FÜR WEN DIESES BUCH IST</b>"
+},
+{
+"key": "part00.html#42",
+"de": "Sie müssen noch keine Kamera in der Hand gehabt haben. Doch wenn Sie dieses Buch zuklappen, sollten Sie einen 15-Sekunden-Spot, ein 1-minütiges Kurzvideo und einen 3-minütigen Markenfilm allein von der Planung bis zur Abgabe umsetzen können. Nach diesem Maßstab wurden die Inhalte ausgewählt."
+},
+{
+"key": "part00.html#43",
+"de": "Dieses Buch ist zum Benutzen gemacht, nicht nur zum Lesen. Jedes der 13 Kapitel ist eine abgeschlossene Unterrichtseinheit mit denselben Elementen in derselben Reihenfolge: Unterrichtsplan, erzählende Einführung, Begriffe, Tafeln, Übungsaufgaben, einseitige Zusammenfassung. Nutzen Sie nur die Kapitel, die Sie brauchen, oder arbeiten Sie ein ganzes Semester lang der Reihe nach."
+},
+{
+"key": "part00.html#44",
+"de": "<small>Anfang</small>Einsatz im Unterricht"
+},
+{
+"key": "part00.html#45",
+"de": "Zeitplan für eine 50-minütige Einheit, Material, Kontrollpunkte"
+},
+{
+"key": "part00.html#46",
+"de": "Direkt als Unterrichtsplan verwendbar"
+},
+{
+"key": "part00.html#47",
+"de": "<small>Tafeln</small>Erst das Bild ansehen"
+},
+{
+"key": "part00.html#48",
+"de": "Alle Tafeln stehen direkt im Text"
+},
+{
+"key": "part00.html#49",
+"de": "Die meisten Begriffe erklärt ein einziges Diagramm"
+},
+{
+"key": "part00.html#50",
+"de": "<small>Tabellen</small>Referenztabellen zum Kopieren"
+},
+{
+"key": "part00.html#51",
+"de": "Referenztabellen für den direkten Praxiseinsatz"
+},
+{
+"key": "part00.html#52",
+"de": "Zum Aufschlagen am Set gedacht"
+},
+{
+"key": "part00.html#53",
+"de": "<small>Ende</small>Aufgaben · Denkanstöße · Praxistipps"
+},
+{
+"key": "part00.html#54",
+"de": "Direkt als Hausaufgabe einsetzbar"
+},
+{
+"key": "part00.html#55",
+"de": "Zugleich Checkliste fürs Selbststudium"
+},
+{
+"key": "part00.html#56",
+"de": "<small>Anhang</small>Arbeitsblätter und Notizseiten"
+},
+{
+"key": "part00.html#57",
+"de": "Arbeitsblätter im Anhang ausdrucken und direkt verwenden"
+},
+{
+"key": "part00.html#58",
+"de": "Fragen auf der ersten Kapitelseite notieren, Wiederholung auf der letzten: je 5 Minuten vor und nach dem Unterricht"
+},
+{
+"key": "part00.html#59",
+"de": "<small>TEIL</small>Frage → Hintergrund → Abschnitte"
+},
+{
+"key": "part00.html#60",
+"de": "Erste Seite: eine Frage und „So ist dieser TEIL aufgebaut“"
+},
+{
+"key": "part00.html#61",
+"de": "Dann „Hintergrund“ (2–3 Seiten): Theorie und Geschichte in erzählender Form"
+},
+{
+"key": "part00.html#62",
+"de": "<small>Abschnitt</small>Immer dieselbe Reihenfolge"
+},
+{
+"key": "part00.html#63",
+"de": "Jeder Abschnitt beginnt mit einer weinroten Abschnittsnummer und einer kräftigen Linie"
+},
+{
+"key": "part00.html#64",
+"de": "Text und Diagramme → Praxissatz (grauer Kasten) → Referenzfotos (REF) → Erklärtafel (G) → Übungskasten (Aufgabe · Tipp · Bewertungskriterien · Musterlösung)"
+},
+{
+"key": "part00.html#65",
+"de": "<small>Bilder · Zahlen</small>Generierte Zeichnungen, Zahlen zum Redaktionsschluss"
+},
+{
+"key": "part00.html#66",
+"de": "Personen und Geräte in Referenzfotos und Tafeln sind Bleistiftzeichnungen, die für dieses Buch mit generativen Bildmodellen erstellt wurden (Bedingungen: Anhang S)"
+},
+{
+"key": "part00.html#67",
+"de": "Produktnamen, Preise und Plattformvorgaben ändern sich; Zahlen gelten zum Redaktionsschluss"
+},
+{
+"key": "part00.html#68",
+"de": "So arbeiten Sie mit diesem Buch"
+},
+{
+"key": "part00.html#69",
+"de": "Ein Kapitel ist eine Unterrichtseinheit. 13 Kapitel plus eine Wiederholung zur Semestermitte und Projektwochen füllen ein Semester von 15 Wochen; den Wochenplan zeigt Anhang H. Wer allein lernt, kann die Zeiteinteilung im Unterrichtsleitfaden jedes Kapitels als Lernplan übernehmen."
+},
+{
+"key": "part00.html#70",
+"de": "Lehrform"
+},
+{
+"key": "part00.html#71",
+"de": "Empfohlener Ablauf"
+},
+{
+"key": "part00.html#72",
+"de": "Bewertung"
+},
+{
+"key": "part00.html#73",
+"de": "Theorieunterricht"
+},
+{
+"key": "part00.html#74",
+"de": "Einleitungsessay des Teils lesen + Tafeln durchgehen + Tabellenübung"
+},
+{
+"key": "part00.html#75",
+"de": "Selbstkontrolle als Quiz nutzen"
+},
+{
+"key": "part00.html#76",
+"de": "Praxisunterricht"
+},
+{
+"key": "part00.html#77",
+"de": "5 Minuten Erklärung an einer Tafel, dann sofort drehen"
+},
+{
+"key": "part00.html#78",
+"de": "Übungen als wöchentliche Abgabe"
+},
+{
+"key": "part00.html#79",
+"de": "Teamprojekt"
+},
+{
+"key": "part00.html#80",
+"de": "Konzeptvorlage aus TEIL 6 und PPM-Dokument als Abgaben"
+},
+{
+"key": "part00.html#81",
+"de": "Arbeitsblätter aus Anhang K abgeben"
+},
+{
+"key": "part00.html#82",
+"de": "Flipped Classroom"
+},
+{
+"key": "part00.html#83",
+"de": "Teil vorab lesen; im Unterricht Kritik und Feedback"
+},
+{
+"key": "part00.html#84",
+"de": "Peer-Review mit den 50 Fehlern aus Anhang P"
+},
+{
+"key": "part00.html#85",
+"de": "Die Tafeln sind monochrom und lassen sich so direkt in Vorlesungsfolien übernehmen. Informationen trennt allein der Helligkeitskontrast; so bleiben sie auch im Schwarz-Weiß-Druck und auf niedrig auflösenden Beamern lesbar."
+},
+{
+"key": "part00.html#86",
+"de": "Lernpfad"
+},
+{
+"key": "part00.html#87",
+"de": "Ziel"
+},
+{
+"key": "part00.html#88",
+"de": "Empfohlener Weg"
+},
+{
+"key": "part00.html#89",
+"de": "Dauer ca."
+},
+{
+"key": "part00.html#90",
+"de": "Ich muss jetzt ein Kurzvideo machen"
+},
+{
+"key": "part00.html#91",
+"de": "TEIL 2 → 3 → 5 → 7 → 9"
+},
+{
+"key": "part00.html#92",
+"de": "2 Wochen"
+},
+{
+"key": "part00.html#93",
+"de": "Als Lehrbuch im Studium"
+},
+{
+"key": "part00.html#94",
+"de": "Ab TEIL 1 der Reihe nach; siehe Anhang H"
+},
+{
+"key": "part00.html#95",
+"de": "Ein Semester"
+},
+{
+"key": "part00.html#96",
+"de": "Ich soll ein Werbevideo planen"
+},
+{
+"key": "part00.html#97",
+"de": "TEIL 6 → 8 → 7 → 9"
+},
+{
+"key": "part00.html#98",
+"de": "3 Wochen"
+},
+{
+"key": "part00.html#99",
+"de": "Ich möchte in Motion Graphics einsteigen"
+},
+{
+"key": "part00.html#100",
+"de": "TEIL 2 → 5, Schwerpunkt Kapitel zu After Effects"
+},
+{
+"key": "part00.html#101",
+"de": "6 Wochen"
+},
+{
+"key": "part00.html#102",
+"de": "Immersive Inhalte oder eine Ausstellung vorbereiten"
+},
+{
+"key": "part00.html#103",
+"de": "TEIL 7 → 8 → 10"
+},
+{
+"key": "part00.html#104",
+"de": "3 Wochen"
+},
+{
+"key": "part00.html#105",
+"de": "Die Jobsuche drängt"
+},
+{
+"key": "part00.html#106",
+"de": "Erst TEIL 11, dann schwache Teile rückwärts"
+},
+{
+"key": "part00.html#107",
+"de": "4 Wochen"
+},
+{
+"key": "part00.html#108",
+"de": "Stufe"
+},
+{
+"key": "part00.html#109",
+"de": "Zeit"
+},
+{
+"key": "part00.html#110",
+"de": "Was Sie umsetzen können sollten"
+},
+{
+"key": "part00.html#111",
+"de": "Kriterium"
+},
+{
+"key": "part00.html#112",
+"de": "Einstieg"
+},
+{
+"key": "part00.html#113",
+"de": "1–2 Monate"
+},
+{
+"key": "part00.html#114",
+"de": "1-Minuten-Vlog, Info-Kurzvideo mit Untertiteln"
+},
+{
+"key": "part00.html#115",
+"de": "Sind Belichtung und Ton gleichmäßig?"
+},
+{
+"key": "part00.html#116",
+"de": "Basis"
+},
+{
+"key": "part00.html#117",
+"de": "3–4 Monate"
+},
+{
+"key": "part00.html#118",
+"de": "15-Sekunden-Spot, 6-teiliges Storyboard"
+},
+{
+"key": "part00.html#119",
+"de": "Sind die Schnitte bewusst gesetzt?"
+},
+{
+"key": "part00.html#120",
+"de": "Mittelstufe"
+},
+{
+"key": "part00.html#121",
+"de": "6–9 Monate"
+},
+{
+"key": "part00.html#122",
+"de": "Chroma-Key-Compositing, 3D-Titel, Endfassung mit Grading"
+},
+{
+"key": "part00.html#123",
+"de": "Fügt sich das Compositing ins Bild ein?"
+},
+{
+"key": "part00.html#124",
+"de": "Profi"
+},
+{
+"key": "part00.html#125",
+"de": "1 Jahr +"
+},
+{
+"key": "part00.html#126",
+"de": "Auftragsarbeit nach Briefing"
+},
+{
+"key": "part00.html#127",
+"de": "Wird es termin- und budgetgerecht fertig?"
+},
+{
+"key": "part00.html#128",
+"de": "Experte"
+},
+{
+"key": "part00.html#129",
+"de": "2 Jahre +"
+},
+{
+"key": "part00.html#130",
+"de": "Team führen, kreative Richtung vorgeben"
+},
+{
+"key": "part00.html#131",
+"de": "Können Sie die Arbeit anderer beurteilen?"
+},
+{
+"key": "part00.html#132",
+"de": "30 Fragen zum Einstieg"
+},
+{
+"key": "part00.html#133",
+"de": "Überfliegen Sie diese Liste vor dem Haupttext. Es sind die Fragen, die im Unterricht und in der Beratung immer wieder auftauchen; beschäftigt Sie eine davon gerade, springen Sie direkt zum Kapitel in Klammern. Das Buch lässt sich der Reihe nach lesen oder über eine Frage erschließen."
+},
+{
+"key": "part00.html#134",
+"de": "<em>F01</em>Soll ich zuerst eine Kamera oder Licht kaufen?"
+},
+{
+"key": "part00.html#135",
+"de": "Licht. Bei gleichem Budget schlägt eine Einsteigerkamera mit Licht eine High-End-Kamera ohne Licht. (TEIL 4)"
+},
+{
+"key": "part00.html#136",
+"de": "<em>F02</em>Kann ich mit dem Smartphone kommerzielle Videos drehen?"
+},
+{
+"key": "part00.html#137",
+"de": "Ja, sofern Sie Belichtungsautomatik und automatischen Weißabgleich abschalten und ein externes Mikrofon verwenden. (3.13)"
+},
+{
+"key": "part00.html#138",
+"de": "<em>F03</em>24 fps oder 30 fps?"
+},
+{
+"key": "part00.html#139",
+"de": "24 für emotionale Spots und Markenfilme; 30 ist die sichere Wahl für informative und textlastige Videos. (3.8)"
+},
+{
+"key": "part00.html#140",
+"de": "<em>F04</em>Brauche ich wirklich 4K?"
+},
+{
+"key": "part00.html#141",
+"de": "Drehen Sie in 4K, auch wenn die Endfassung FHD ist. Das lässt Spielraum zum Nachkadrieren und für Hochformat-Ausschnitte. (3.7)"
+},
+{
+"key": "part00.html#142",
+"de": "<em>F05</em>Ist Log immer besser?"
+},
+{
+"key": "part00.html#143",
+"de": "Nur wenn Sie in der Postproduktion ein Color Grading machen. Bei Chroma-Key-Drehs ist es sogar ein Nachteil. (3.10)"
+},
+{
+"key": "part00.html#144",
+"de": "<em>F06</em>Welches Schnittprogramm sollte ich zuerst lernen?"
+},
+{
+"key": "part00.html#145",
+"de": "Gemessen an den Anforderungen koreanischer Arbeitgeber: die Kombination aus Premiere Pro und After Effects. (5.3)"
+},
+{
+"key": "part00.html#146",
+"de": "<em>F07</em>Kann ich in After Effects schneiden?"
+},
+{
+"key": "part00.html#147",
+"de": "Nicht empfehlenswert. Ein Werkzeug, das Zeit horizontal anordnet, und eines, das Ebenen vertikal stapelt, haben verschiedene Aufgaben. (5.5)"
+},
+{
+"key": "part00.html#148",
+"de": "<em>F08</em>Meine Compositings wirken immer aufgeklebt"
+},
+{
+"key": "part00.html#149",
+"de": "Prüfen Sie drei Dinge: Schwarzwert, Luftperspektive, Korn. (5.7)"
+}
+]

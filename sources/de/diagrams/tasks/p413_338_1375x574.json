@@ -1,0 +1,102 @@
+{
+ "stem": "p413_338_1375x574",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p413_338_1375x574.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Standard page layout for one project",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 36,
+    "chars_per_line_max": 127,
+    "chars_per_line_if_shrunk": 155,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Hero image — the strongest cut",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 79,
+    "chars_per_line_if_shrunk": 96,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "2",
+   "en": "Title and one-line summary",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 26,
+    "chars_per_line_max": 81,
+    "chars_per_line_if_shrunk": 99,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Basics — role · period · tools · length",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 39,
+    "chars_per_line_max": 86,
+    "chars_per_line_if_shrunk": 104,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Intent — what you solved and how",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 32,
+    "chars_per_line_max": 78,
+    "chars_per_line_if_shrunk": 95,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Process — proposal · storyboard · set · before/after",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 52,
+    "chars_per_line_max": 85,
+    "chars_per_line_if_shrunk": 104,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Results — link and metrics · lessons",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 36,
+    "chars_per_line_max": 88,
+    "chars_per_line_if_shrunk": 107,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "One format for 5–8 projects shows expertise by itself",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 53,
+    "chars_per_line_max": 150,
+    "chars_per_line_if_shrunk": 183,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

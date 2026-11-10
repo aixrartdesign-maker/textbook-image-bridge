@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#664",
+"de": "De-facto-Branchenstandard"
+},
+{
+"key": "part03.html#665",
+"de": "ProRes 4444"
+},
+{
+"key": "part03.html#666",
+"de": "Unterstützt Alphakanal"
+},
+{
+"key": "part03.html#667",
+"de": "Sehr groß"
+},
+{
+"key": "part03.html#668",
+"de": "Motion-Design-Zwischendateien"
+},
+{
+"key": "part03.html#669",
+"de": "Ideal für AE-Renderings"
+},
+{
+"key": "part03.html#670",
+"de": "DNxHR"
+},
+{
+"key": "part03.html#671",
+"de": "ProRes-Alternative"
+},
+{
+"key": "part03.html#672",
+"de": "Groß"
+},
+{
+"key": "part03.html#673",
+"de": "Windows-Schnitt"
+},
+{
+"key": "part03.html#674",
+"de": "Avid-kompatibel"
+},
+{
+"key": "part03.html#675",
+"de": "RAW"
+},
+{
+"key": "part03.html#676",
+"de": "Sensor-Rohdaten"
+},
+{
+"key": "part03.html#677",
+"de": "Riesig"
+},
+{
+"key": "part03.html#678",
+"de": "Top-Werbespots"
+},
+{
+"key": "part03.html#679",
+"de": "Eigene Entwicklung nötig"
+},
+{
+"key": "part03.html#680",
+"de": "<small>Bittiefe</small>10 Bit ist die Basis"
+},
+{
+"key": "part03.html#681",
+"de": "8 Bit: 256 Stufen pro Kanal, ca. 16,7 Mio. Farben"
+},
+{
+"key": "part03.html#682",
+"de": "10 Bit: 1024 Stufen pro Kanal, über 1 Mrd. Farben"
+},
+{
+"key": "part03.html#683",
+"de": "8 Bit zeigt Banding im Himmel und in Verläufen"
+},
+{
+"key": "part03.html#684",
+"de": "Je stärker das Grading, desto wichtiger 10 Bit"
+},
+{
+"key": "part03.html#685",
+"de": "Auch bei Studienprojekten in 10 Bit drehen"
+},
+{
+"key": "part03.html#686",
+"de": "<small>Chroma-Subsampling</small>Für Chroma-Key mind. 4:2:2"
+},
+{
+"key": "part03.html#687",
+"de": "4:4:4 ohne Farbverlust, ideal fürs Compositing"
+},
+{
+"key": "part03.html#688",
+"de": "4:2:2 halbe Farbinformation, Werbestandard"
+},
+{
+"key": "part03.html#689",
+"de": "4:2:0 1/4 der Farbinformation, Consumer-Codecs"
+},
+{
+"key": "part03.html#690",
+"de": "Keying von 4:2:0 gibt immer gezackte Kanten"
+},
+{
+"key": "part03.html#691",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part03.html#692",
+"de": "Für Chroma-Key-Drehs ist Log nicht zu empfehlen. Der geringe Kontrast entzieht dem Grün Sättigung, und die Kanten beim Keying zerfallen."
+},
+{
+"key": "part03.html#693",
+"de": "Log-Aufnahme"
+},
+{
+"key": "part03.html#694",
+"de": "Log komprimiert den großen Helligkeitsumfang, den der Sensor erfasst. Das Bild wirkt blass und flau, doch die Zeichnung in Lichtern und Schatten bleibt erhalten und lässt viel Spielraum für die Post. Allerdings ist Log anfällig für Unterbelichtung; etwas heller drehen und in der Post absenken reduziert das Rauschen."
+},
+{
+"key": "part03.html#695",
+"de": "Eine Look-LUT auf dem Setmonitor zeigt allen das Ergebnis – aufgezeichnet wird aber immer das originale Log."
+},
+{
+"key": "part03.html#696",
+"de": "Etwas heller drehen, in der Post absenken.<small>3.10 Log-Aufnahme</small>"
+},
+{
+"key": "part03.html#697",
+"de": "Log-Workflow"
+},
+{
+"key": "part03.html#698",
+"de": "<b>01</b><span>In Log drehen</span>"
+},
+{
+"key": "part03.html#699",
+"de": "<b>02</b><span>Proxys erstellen</span>"
+},
+{
+"key": "part03.html#700",
+"de": "<b>03</b><span>Rohschnitt</span>"
+},
+{
+"key": "part03.html#701",
+"de": "<b>04</b><span>Technische LUT anwenden</span>"
+},
+{
+"key": "part03.html#702",
+"de": "<b>05</b><span>Primärkorrektur</span>"
+},
+{
+"key": "part03.html#703",
+"de": "<b>06</b><span>Composite-Abgleich</span>"
+},
+{
+"key": "part03.html#704",
+"de": "<b>07</b><span>Finales Grading</span>"
+},
+{
+"key": "part03.html#705",
+"de": "Container sind keine Codecs"
+},
+{
+"key": "part03.html#706",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "part03.html#707",
+"de": "Der <b>Container</b> ist das Gefäß (MP4 · MOV), der <b>Codec</b> die Art, wie der Inhalt komprimiert wird (H.264 · ProRes), und die <b>Bitrate</b> die Datenmenge pro Sekunde (Mbit/s). Zwei .mp4-Dateien können unterschiedliche Codecs enthalten."
+},
+{
+"key": "part03.html#708",
+"de": "Typ"
+},
+{
+"key": "part03.html#709",
+"de": "Name"
+},
+{
+"key": "part03.html#710",
+"de": "Einsatz"
+},
+{
+"key": "part03.html#711",
+"de": "Stärken"
+},
+{
+"key": "part03.html#712",
+"de": "Hinweis"
+},
+{
+"key": "part03.html#713",
+"de": "Container"
+},
+{
+"key": "part03.html#714",
+"de": "MP4"
+},
+{
+"key": "part03.html#715",
+"de": "Abgabe · Web · SNS-Standard"
+},
+{
+"key": "part03.html#716",
+"de": "Beste Kompatibilität, kleine Dateien"
+},
+{
+"key": "part03.html#717",
+"de": "Für den Schnitt stark komprimiert (Long-GOP)"
+},
+{
+"key": "part03.html#718",
+"de": "Container"
+},
+{
+"key": "part03.html#719",
+"de": "MOV"
+},
+{
+"key": "part03.html#720",
+"de": "Originale · Schnitt · Abgabe (TV)"
+},
+{
+"key": "part03.html#721",
+"de": "Fasst hochwertige Codecs wie ProRes"
+},
+{
+"key": "part03.html#722",
+"de": "Groß; Windows-Kompatibilität prüfen"
+},
+{
+"key": "part03.html#723",
+"de": "Container"
+},
+{
+"key": "part03.html#724",
+"de": "AVI"
+},
+{
+"key": "part03.html#725",
+"de": "Altes Windows · manche Geräte"
+},
+{
+"key": "part03.html#726",
+"de": "Einfach"
+},
+{
+"key": "part03.html#727",
+"de": "Kaum Metadaten; heute selten genutzt"
+},
+{
+"key": "part03.html#728",
+"de": "Container"
+},
+{
+"key": "part03.html#729",
+"de": "MXF"
+},
+{
+"key": "part03.html#730",
+"de": "TV · Kinokamera-Originale"
+},
+{
+"key": "part03.html#731",
+"de": "Timecode · reiche Metadaten"
+},
+{
+"key": "part03.html#732",
+"de": "Läuft nicht in normalen Playern"
+},
+{
+"key": "part03.html#733",
+"de": "Container"
+},
+{
+"key": "part03.html#734",
+"de": "MKV · WebM"
+},
+{
+"key": "part03.html#735",
+"de": "Web · Archiv"
+},
+{
+"key": "part03.html#736",
+"de": "Untertitel · mehrere Spuren"
+},
+{
+"key": "part03.html#737",
+"de": "Wenig Support in Schnittsoftware"
+},
+{
+"key": "part03.html#738",
+"de": "Codec"
+},
+{
+"key": "part03.html#739",
+"de": "H.264 (AVC)"
+},
+{
+"key": "part03.html#740",
+"de": "Dreh (XAVC-S) · Abgabe"
+},
+{
+"key": "part03.html#741",
+"de": "Läuft überall"
+},
+{
+"key": "part03.html#742",
+"de": "Meist 8 Bit 4:2:0 → wenig Spielraum fürs Grading"
+},
+{
+"key": "part03.html#743",
+"de": "Codec"
+},
+{
+"key": "part03.html#744",
+"de": "HEVC (H.265)"
+},
+{
+"key": "part03.html#745",
+"de": "4K · 10-Bit-Dreh (XAVC-HS) · Streaming"
+},
+{
+"key": "part03.html#746",
+"de": "Halbe Größe bei gleicher Qualität"
+},
+{
+"key": "part03.html#747",
+"de": "Schnitt träge → Proxys"
+},
+{
+"key": "part03.html#748",
+"de": "Codec"
+},
+{
+"key": "part03.html#749",
+"de": "ProRes · DNxHR"
+},
+{
+"key": "part03.html#750",
+"de": "Schnitt · Master · Abgabe (TV)"
+},
+{
+"key": "part03.html#751",
+"de": "Einzelbildkompression, leicht zu schneiden"
+},
+{
+"key": "part03.html#752",
+"de": "10–20-fache Dateigröße"
+},
+{
+"key": "part03.html#753",
+"de": "Codec"
+},
+{
+"key": "part03.html#754",
+"de": "AV1"
+},
+{
+"key": "part03.html#755",
+"de": "YouTube · Netflix serverseitig"
+},
+{
+"key": "part03.html#756",
+"de": "Next-Gen-Effizienz"
+},
+{
+"key": "part03.html#757",
+"de": "Selten selbst kodiert"
+},
+{
+"key": "part03.html#758",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part03.html#759",
+"de": "Eine Regel: <b>in bester Qualität drehen, mit dem Leichtesten schneiden (Proxys), abgeben, was der Auftraggeber vorgibt.</b> Ohne Vorgabe: MP4 / H.264 / 1080p / 20–30 Mbit/s."
+},
+{
+"key": "part03.html#760",
+"de": "<small>Übung</small>3.10"
+},
+{
+"key": "part03.html#761",
+"de": "Aufgabe"
+},
+{
+"key": "part03.html#762",
+"de": "Drehen Sie dieselbe Szene mit Standard- und mit Log-Profil und vergleichen Sie beide vor und nach dem Grading."
+},
+{
+"key": "part03.html#763",
+"de": "Tipp"
+},
+{
+"key": "part03.html#764",
+"de": "Log wird oft etwa 1 Blende heller belichtet. Prüfen Sie den empfohlenen Wert Ihrer Kamera."
+},
+{
+"key": "part03.html#765",
+"de": "Bewertung"
+},
+{
+"key": "part03.html#766",
+"de": "Bittiefe · Codecs verstanden; Grading-Spielraum geprüft"
+},
+{
+"key": "part03.html#767",
+"de": "Musterlösung"
+},
+{
+"key": "part03.html#768",
+"de": "Belegen Sie den Unterschied im Dynamikumfang mit einer Gegenlichtszene, die Himmel und Schatten zeigt."
+},
+{
+"key": "part03.html#769",
+"de": "<b>TEIL 03</b>Kameras und Aufnahmetechnik"
+},
+{
+"key": "part03.html#770",
+"de": "Kamerahalterung und -bewegung"
+},
+{
+"key": "part03.html#771",
+"de": "Schaffen Sie Stativ → Slider → Gimbal in dieser Reihenfolge an, und Sie decken fast jede Einstellung eines 15-Sekunden-Spots ab. Ein Stativ mit Licht schlägt immer einen Gimbal ohne Licht."
+},
+{
+"key": "part03.html#772",
+"de": "<b>Referenzfotos 3.11A</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part03.html#773",
+"de": "<b>a</b>Stativ mit Fluidkopf"
+},
+{
+"key": "part03.html#774",
+"de": "<b>b</b>Slider"
+},
+{
+"key": "part03.html#775",
+"de": "<b>c</b>3-Achsen-Gimbal"
+},
+{
+"key": "part03.html#776",
+"de": "<b>d</b>360°-Kamera – zwei Fischaugen erfassen alle Richtungen zugleich; der Bildausschnitt entsteht im Schnitt"
+},
+{
+"key": "part03.html#777",
+"de": "<small>Stativ</small>Die wichtigste Ausrüstung"
+},
+{
+"key": "part03.html#778",
+"de": "Weiche Schwenks · Neigungen erfordern Halbkugel und Fluidkopf"
+},
+{
+"key": "part03.html#779",
+"de": "Unverzichtbar für Compositing-Plates"
+},
+{
+"key": "part03.html#780",
+"de": "<small>Slider</small>Kurze, präzise Horizontalfahrten"
+},
+{
+"key": "part03.html#781",
+"de": "Standard bei Produktwerbung"
+},
+{
+"key": "part03.html#782",
+"de": "Beste Preis-Leistung"
+},
+{
+"key": "part03.html#783",
+"de": "<small>Gimbal</small>3-Achsen-Stabilisierung"
+},
+{
+"key": "part03.html#784",
+"de": "Verfolgungsfahrten solo"
+},
+{
+"key": "part03.html#785",
+"de": "Balance und Kalibrierung sind entscheidend"
+},
+{
+"key": "part03.html#786",
+"de": "<small>Dolly und Schienen</small>Lange gerade Fahrten"
+},
+{
+"key": "part03.html#787",
+"de": "Raumgefühl und Gewicht"
+},
+{
+"key": "part03.html#788",
+"de": "Langer Aufbau"
+},
+{
+"key": "part03.html#789",
+"de": "<small>Kran, Jib</small>Große vertikale Bewegungen"
+},
+{
+"key": "part03.html#790",
+"de": "Dimension zeigen"
+},
+{
+"key": "part03.html#791",
+"de": "Fürs Finale aufheben"
+},
+{
+"key": "part03.html#792",
+"de": "<small>Drohne</small>Luftperspektive"
+},
+{
+"key": "part03.html#793",
+"de": "Fluggenehmigung und Sicherheitscheck vor dem Dreh"
+},
+{
+"key": "part03.html#794",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part03.html#795",
+"de": "Gehen Sie mit dem Gimbal im „Ninja-Gang“, die Knie gebeugt – das dämpft das Auf und Ab."
+},
+{
+"key": "part03.html#796",
+"de": "Prioritäten für Studierende und Solo-Creator"
+},
+{
+"key": "part03.html#797",
+"de": "<b>01</b><i>Stativ</i>Statische Einstellungen und Compositing-Plates"
+},
+{
+"key": "part03.html#798",
+"de": "<b>02</b><i>Slider</i>Präzise Horizontalfahrten an Produkten"
+},
+{
+"key": "part03.html#799",
+"de": "<b>03</b><i>Gimbal</i>Verfolgungsfahrten"
+},
+{
+"key": "part03.html#800",
+"de": "Ein Stativ mit Licht schlägt immer einen Gimbal ohne.<small>3.11 Kamerahalterung und -bewegung</small>"
+},
+{
+"key": "part03.html#801",
+"de": "<b>G-10</b> Kamerahalterungen – Stativ · Slider · Gimbal · Schulterrig · Drohne"
+},
+{
+"key": "part03.html#802",
+"de": "Ein Stativ wählen"
+},
+{
+"key": "part03.html#803",
+"de": "<b>Referenzfotos 3.11B</b>Generierte Bilder – Kamerahalterungen"
+},
+{
+"key": "part03.html#804",
+"de": "<span class=\"ph-id\">P03-TRIPOD</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Fluidkopfstativ – erst der Widerstand (Dämpfung) bei Schwenk · Neigung macht es zum Videostativ</b></span>"
+},
+{
+"key": "part03.html#805",
+"de": "<b>Hinweis</b>Fluidkopfstativ – erst der Widerstand (Dämpfung) bei Schwenk · Neigung macht es zum Videostativ"
+},
+{
+"key": "part03.html#806",
+"de": "<span class=\"ph-id\">P03-GIMBAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Gimbal – Standard für Gehaufnahmen. Erst die Balance, dann die Motoren</b></span>"
+},
+{
+"key": "part03.html#807",
+"de": "<b>Hinweis</b>Gimbal – Standard für Gehaufnahmen. Erst die Balance, dann die Motoren"
+},
+{
+"key": "part03.html#808",
+"de": "<small>Für Video</small>Fluidkopfstativ"
+},
+{
+"key": "part03.html#809",
+"de": "Fluiddämpfung bei Schwenk · Neigung → sanfter Start · Stopp"
+},
+{
+"key": "part03.html#810",
+"de": "Nivellierung per Halbkugel ist Pflicht"
+},
+{
+"key": "part03.html#811",
+"de": "Tragkraft mind. 1,5-fache Last (Kamera+Objektiv+Monitor)"
+},
+{
+"key": "part03.html#812",
+"de": "<small>Für Foto · Reise</small>Kugelkopfstativ"
+},
+{
+"key": "part03.html#813",
+"de": "Leicht und schnell, aber Schwenks ruckeln"
+}
+]

@@ -1,0 +1,174 @@
+{
+ "stem": "p046_021_1831x852",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p046_021_1831x852.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "RGB — adds light",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 17,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "CMY — subtracts light",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 21,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 25,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Halftone — tone from dot size",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 29,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Light",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 32,
+    "chars_per_line_if_shrunk": 39,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Dark",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 6,
+    "chars_per_line_if_shrunk": 8,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "Monitor · phone · projector",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 27,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "Ink · printing · photo prints",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 29,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "4-color separation",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Color print",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "9",
+   "en": "K deepens black, uses less ink",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 31,
+    "chars_per_line_if_shrunk": 38,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "10",
+   "en": "Y yellow",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 8,
+    "chars_per_line_if_shrunk": 10,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "K black",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 7,
+    "chars_per_line_if_shrunk": 9,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "C cyan",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 8,
+    "chars_per_line_if_shrunk": 10,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "M magenta",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 9,
+    "chars_per_line_if_shrunk": 11,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

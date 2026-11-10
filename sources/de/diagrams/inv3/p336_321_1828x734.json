@@ -1,0 +1,703 @@
+{
+ "stem": "p336_321_1828x734",
+ "size": [
+  2702,
+  1062
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "15s = 0s  seamless",
+   "en": "15s = 0s  seamless",
+   "lines": [
+    [
+     1373,
+     180,
+     1688,
+     209
+    ]
+   ],
+   "ocr": "15s =0s seamless",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    1373,
+    180,
+    1688,
+    209
+   ],
+   "ltexts": [
+    "15s = 0s  seamless"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    6,
+    6,
+    6
+   ],
+   "weight": "Regular",
+   "size": 38.34,
+   "baselines": [
+    209
+   ],
+   "xs": [
+    1371
+   ],
+   "inkboxes": [
+    [
+     1374,
+     180,
+     1688,
+     209
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.35,
+   "align": "left",
+   "room": {
+    "left": 360,
+    "right": 169,
+    "up": 180,
+    "down": 138,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "0s  eye-catching motion",
+   "en": "0s  eye-catching motion",
+   "lines": [
+    [
+     2202,
+     180,
+     2607,
+     217
+    ]
+   ],
+   "ocr": "Os eye-catching motion",
+   "ratio": 0.95,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    2202,
+    180,
+    2607,
+    217
+   ],
+   "ltexts": [
+    "0s  eye-catching motion"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "weight": "Regular",
+   "size": 36.18,
+   "baselines": [
+    208
+   ],
+   "xs": [
+    2200
+   ],
+   "inkboxes": [
+    [
+     2202,
+     180,
+     2607,
+     217
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.28,
+   "align": "left",
+   "room": {
+    "left": 107,
+    "right": 95,
+    "up": 180,
+    "down": 80,
+    "lb": true,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Silent",
+   "en": "Silent",
+   "lines": [
+    [
+     1896,
+     453,
+     2035,
+     493
+    ]
+   ],
+   "ocr": "Silent",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    1896,
+    453,
+    2035,
+    493
+   ],
+   "ltexts": [
+    "Silent"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.4,
+   "color": [
+    122,
+    28,
+    44
+   ],
+   "weight": "Bold",
+   "size": 48.34,
+   "baselines": [
+    492
+   ],
+   "xs": [
+    1894
+   ],
+   "inkboxes": [
+    [
+     1896,
+     454,
+     2035,
+     493
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.78,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 204,
+    "right": 202,
+    "up": 209,
+    "down": 282,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "15s loop",
+   "en": "15s loop",
+   "lines": [
+    [
+     1880,
+     535,
+     2046,
+     578
+    ]
+   ],
+   "ocr": "15s loop",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    1880,
+    535,
+    2046,
+    578
+   ],
+   "ltexts": [
+    "15s loop"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    72,
+    73,
+    74
+   ],
+   "weight": "Regular",
+   "size": 42.83,
+   "baselines": [
+    569
+   ],
+   "xs": [
+    1876
+   ],
+   "inkboxes": [
+    [
+     1880,
+     535,
+     2046,
+     578
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.3,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 185,
+    "right": 188,
+    "up": 287,
+    "down": 193,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Big, short text",
+   "en": "Big, short text",
+   "lines": [
+    [
+     417,
+     584,
+     730,
+     631
+    ]
+   ],
+   "ocr": "Big, short text",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    417,
+    584,
+    730,
+    631
+   ],
+   "ltexts": [
+    "Big, short text"
+   ],
+   "bg": [
+    59,
+    59,
+    63
+   ],
+   "bgstd": 1.3,
+   "color": [
+    251,
+    251,
+    251
+   ],
+   "weight": "Bold",
+   "size": 45.43,
+   "baselines": [
+    620
+   ],
+   "xs": [
+    413
+   ],
+   "inkboxes": [
+    [
+     417,
+     584,
+     730,
+     631
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.68,
+   "align": "center",
+   "room": {
+    "left": 247,
+    "right": 234,
+    "up": 53,
+    "down": 75,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "3s  brand · one line",
+   "en": "3s  brand · one line",
+   "lines": [
+    [
+     2335,
+     604,
+     2659,
+     633
+    ]
+   ],
+   "ocr": "3s brand one line",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    2335,
+    604,
+    2659,
+    633
+   ],
+   "ltexts": [
+    "3s  brand · one line"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    14,
+    14,
+    15
+   ],
+   "weight": "Regular",
+   "size": 36.1,
+   "baselines": [
+    633
+   ],
+   "xs": [
+    2334
+   ],
+   "inkboxes": [
+    [
+     2335,
+     604,
+     2659,
+     633
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.18,
+   "align": "left",
+   "room": {
+    "left": 65,
+    "right": 43,
+    "up": 604,
+    "down": 429,
+    "lb": true,
+    "rb": false,
+    "ub": false,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "12s  logo hold",
+   "en": "12s  logo hold",
+   "lines": [
+    [
+     1355,
+     608,
+     1590,
+     644
+    ]
+   ],
+   "ocr": "12s logo hold",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    1355,
+    608,
+    1590,
+    644
+   ],
+   "ltexts": [
+    "12s  logo hold"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    7,
+    7,
+    7
+   ],
+   "weight": "Regular",
+   "size": 37.72,
+   "baselines": [
+    636
+   ],
+   "xs": [
+    1352
+   ],
+   "inkboxes": [
+    [
+     1355,
+     608,
+     1590,
+     644
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.33,
+   "align": "left",
+   "room": {
+    "left": 342,
+    "right": 70,
+    "up": 608,
+    "down": 111,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "8s  visual proof",
+   "en": "8s  visual proof",
+   "lines": [
+    [
+     1834,
+     871,
+     2094,
+     907
+    ]
+   ],
+   "ocr": "8s visual proof",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    1834,
+    871,
+    2094,
+    907
+   ],
+   "ltexts": [
+    "8s  visual proof"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    6,
+    6,
+    6
+   ],
+   "weight": "Regular",
+   "size": 37.57,
+   "baselines": [
+    900
+   ],
+   "xs": [
+    1832
+   ],
+   "inkboxes": [
+    [
+     1834,
+     871,
+     2094,
+     907
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.32,
+   "align": "left",
+   "room": {
+    "left": 322,
+    "right": 608,
+    "up": 46,
+    "down": 155,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Viewing distance 20–80m · red-light wait 30–90s",
+   "en": "Viewing distance 20–80m · red-light wait 30–90s",
+   "lines": [
+    [
+     189,
+     942,
+     988,
+     978
+    ]
+   ],
+   "ocr": "Viewing distance 20-80m red-light wait 30-90s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    189,
+    942,
+    988,
+    978
+   ],
+   "ltexts": [
+    "Viewing distance 20–80m · red-light wait 30–90s"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    65,
+    66,
+    67
+   ],
+   "weight": "Regular",
+   "size": 35.02,
+   "baselines": [
+    969
+   ],
+   "xs": [
+    189
+   ],
+   "inkboxes": [
+    [
+     189,
+     942,
+     988,
+     978
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.26,
+   "align": "left",
+   "room": {
+    "left": 189,
+    "right": 156,
+    "up": 29,
+    "down": 84,
+    "lb": false,
+    "rb": true,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "y 4",
+   "box": [
+    1712,
+    267,
+    1799,
+    325
+   ],
+   "conf": 65.5
+  },
+  {
+   "text": "ee",
+   "box": [
+    359,
+    422,
+    606,
+    520
+   ],
+   "conf": 22.5
+  },
+  {
+   "text": "AQ",
+   "box": [
+    1679,
+    646,
+    1798,
+    739
+   ],
+   "conf": 54.1
+  },
+  {
+   "text": "A",
+   "box": [
+    2171,
+    690,
+    2217,
+    782
+   ],
+   "conf": 62.7
+  },
+  {
+   "text": "y",
+   "box": [
+    1721,
+    704,
+    1816,
+    777
+   ],
+   "conf": 48.0
+  },
+  {
+   "text": "a",
+   "box": [
+    1481,
+    760,
+    1505,
+    788
+   ],
+   "conf": 86.3
+  },
+  {
+   "text": "pil:",
+   "box": [
+    1148,
+    799,
+    1487,
+    942
+   ],
+   "conf": 38.2
+  }
+ ]
+}

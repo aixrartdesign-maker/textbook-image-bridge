@@ -1,0 +1,1097 @@
+{
+ "stem": "p277_275_1375x731",
+ "size": [
+  2698,
+  1410
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "AR · MR · VR lie between real and virtual",
+   "en": "AR · MR · VR lie between real and virtual",
+   "lines": [
+    [
+     685,
+     33,
+     2013,
+     93
+    ]
+   ],
+   "ocr": "AR- MR: VRlie between real and virtual",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    685,
+    33,
+    2013,
+    93
+   ],
+   "ltexts": [
+    "AR · MR · VR lie between real and virtual"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    45,
+    50,
+    58
+   ],
+   "weight": "Bold",
+   "size": 73.17,
+   "baselines": [
+    91
+   ],
+   "xs": [
+    685
+   ],
+   "inkboxes": [
+    [
+     685,
+     33,
+     2012,
+     93
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.29,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 685,
+    "right": 685,
+    "up": 33,
+    "down": 355,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "MR",
+   "lines": [
+    [
+     1353,
+     242,
+     1450,
+     291
+    ]
+   ],
+   "ocr": "MR",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 97.0,
+   "id": 1,
+   "box": [
+    1353,
+    242,
+    1450,
+    291
+   ],
+   "ltexts": [
+    "MR"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    130,
+    20,
+    50
+   ],
+   "weight": "Bold",
+   "size": 66.91,
+   "baselines": [
+    292
+   ],
+   "xs": [
+    1347
+   ],
+   "inkboxes": [
+    [
+     1353,
+     242,
+     1449,
+     291
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.71,
+   "align": "left",
+   "room": {
+    "left": 1353,
+    "right": 1248,
+    "up": 242,
+    "down": 157,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "AR",
+   "lines": [
+    [
+     597,
+     245,
+     687,
+     295
+    ]
+   ],
+   "ocr": "AR",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.2,
+   "id": 2,
+   "box": [
+    597,
+    245,
+    687,
+    295
+   ],
+   "ltexts": [
+    "AR"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    130,
+    20,
+    51
+   ],
+   "weight": "Bold",
+   "size": 68.01,
+   "baselines": [
+    295
+   ],
+   "xs": [
+    598
+   ],
+   "inkboxes": [
+    [
+     598,
+     245,
+     687,
+     295
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.87,
+   "align": "left",
+   "room": {
+    "left": 597,
+    "right": 2011,
+    "up": 245,
+    "down": 165,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "VR",
+   "lines": [
+    [
+     2131,
+     245,
+     2220,
+     295
+    ]
+   ],
+   "ocr": "VR",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.0,
+   "id": 3,
+   "box": [
+    2131,
+    245,
+    2220,
+    295
+   ],
+   "ltexts": [
+    "VR"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    132,
+    20,
+    51
+   ],
+   "weight": "Bold",
+   "size": 68.16,
+   "baselines": [
+    296
+   ],
+   "xs": [
+    2131
+   ],
+   "inkboxes": [
+    [
+     2131,
+     245,
+     2219,
+     295
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.72,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 2131,
+    "right": 478,
+    "up": 245,
+    "down": 71,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "1G",
+   "lines": [
+    [
+     2132,
+     556,
+     2259,
+     676
+    ]
+   ],
+   "ocr": "1G",
+   "ratio": null,
+   "src": [
+    "crop"
+   ],
+   "conf": 39.5,
+   "id": 4,
+   "box": [
+    2132,
+    556,
+    2259,
+    676
+   ],
+   "ltexts": [
+    "1G"
+   ],
+   "bg": [
+    210,
+    210,
+    210
+   ],
+   "bgstd": 43.7,
+   "color": [
+    78,
+    79,
+    79
+   ],
+   "weight": "Regular",
+   "size": 167.11,
+   "baselines": [
+    681
+   ],
+   "xs": [
+    2129
+   ],
+   "inkboxes": [
+    [
+     2144,
+     553,
+     2263,
+     680
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.02,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 36,
+    "right": 36,
+    "up": 36,
+    "down": 36,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Overlays info on reality",
+   "en": "Overlays info on reality",
+   "lines": [
+    [
+     420,
+     831,
+     866,
+     875
+    ]
+   ],
+   "ocr": "Overlays info on reality",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    420,
+    831,
+    866,
+    875
+   ],
+   "ltexts": [
+    "Overlays info on reality"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    55,
+    61,
+    71
+   ],
+   "weight": "Bold",
+   "size": 41.9,
+   "baselines": [
+    864
+   ],
+   "xs": [
+    419
+   ],
+   "inkboxes": [
+    [
+     421,
+     831,
+     866,
+     875
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.34,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 420,
+    "right": 1832,
+    "up": 156,
+    "down": 155,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Virtual content senses real space",
+   "en": "Virtual content senses real space",
+   "lines": [
+    [
+     1086,
+     831,
+     1712,
+     875
+    ]
+   ],
+   "ocr": "Virtual content senses real space",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    1086,
+    831,
+    1712,
+    875
+   ],
+   "ltexts": [
+    "Virtual content senses real space"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    55,
+    60,
+    70
+   ],
+   "weight": "Bold",
+   "size": 41.75,
+   "baselines": [
+    865
+   ],
+   "xs": [
+    1086
+   ],
+   "inkboxes": [
+    [
+     1086,
+     831,
+     1712,
+     874
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.33,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1086,
+    "right": 986,
+    "up": 144,
+    "down": 155,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Virtual space, reality blocked",
+   "en": "Virtual space, reality blocked",
+   "lines": [
+    [
+     1915,
+     832,
+     2449,
+     875
+    ]
+   ],
+   "ocr": "Virtual space, reality blocked",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    1915,
+    832,
+    2449,
+    875
+   ],
+   "ltexts": [
+    "Virtual space, reality blocked"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    58,
+    63,
+    73
+   ],
+   "weight": "Bold",
+   "size": 41.35,
+   "baselines": [
+    865
+   ],
+   "xs": [
+    1915
+   ],
+   "inkboxes": [
+    [
+     1915,
+     832,
+     2449,
+     875
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.29,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1915,
+    "right": 249,
+    "up": 86,
+    "down": 155,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Smartphone · glasses",
+   "en": "Smartphone · glasses",
+   "lines": [
+    [
+     458,
+     900,
+     829,
+     940
+    ]
+   ],
+   "ocr": "Smartphone glasses",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    458,
+    900,
+    829,
+    940
+   ],
+   "ltexts": [
+    "Smartphone · glasses"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.2,
+   "color": [
+    147,
+    149,
+    157
+   ],
+   "weight": "Regular",
+   "size": 37.34,
+   "baselines": [
+    930
+   ],
+   "xs": [
+    456
+   ],
+   "inkboxes": [
+    [
+     458,
+     900,
+     829,
+     940
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.33,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 458,
+    "right": 1869,
+    "up": 225,
+    "down": 90,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Passthrough headset",
+   "en": "Passthrough headset",
+   "lines": [
+    [
+     1221,
+     900,
+     1584,
+     940
+    ]
+   ],
+   "ocr": "Passthrough headset",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    1221,
+    900,
+    1584,
+    940
+   ],
+   "ltexts": [
+    "Passthrough headset"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    148,
+    150,
+    158
+   ],
+   "weight": "Regular",
+   "size": 37.89,
+   "baselines": [
+    930
+   ],
+   "xs": [
+    1217
+   ],
+   "inkboxes": [
+    [
+     1221,
+     900,
+     1584,
+     940
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.59,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1221,
+    "right": 1114,
+    "up": 213,
+    "down": 90,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Immersive headset",
+   "en": "Immersive headset",
+   "lines": [
+    [
+     2023,
+     900,
+     2346,
+     931
+    ]
+   ],
+   "ocr": "Immersive headset",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 10,
+   "box": [
+    2023,
+    900,
+    2346,
+    931
+   ],
+   "ltexts": [
+    "Immersive headset"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.2,
+   "color": [
+    150,
+    151,
+    159
+   ],
+   "weight": "Regular",
+   "size": 37.66,
+   "baselines": [
+    930
+   ],
+   "xs": [
+    2019
+   ],
+   "inkboxes": [
+    [
+     2023,
+     900,
+     2346,
+     931
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.29,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 2023,
+    "right": 352,
+    "up": 154,
+    "down": 99,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Real environment",
+   "en": "Real environment",
+   "lines": [
+    [
+     200,
+     1082,
+     548,
+     1116
+    ]
+   ],
+   "ocr": "Real environment",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 11,
+   "box": [
+    200,
+    1082,
+    548,
+    1116
+   ],
+   "ltexts": [
+    "Real environment"
+   ],
+   "bg": [
+    238,
+    239,
+    241
+   ],
+   "bgstd": 5.8,
+   "color": [
+    69,
+    73,
+    83
+   ],
+   "weight": "Bold",
+   "size": 40.88,
+   "baselines": [
+    1115
+   ],
+   "xs": [
+    196
+   ],
+   "inkboxes": [
+    [
+     200,
+     1082,
+     549,
+     1116
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.55,
+   "align": "left",
+   "room": {
+    "left": 35,
+    "right": 89,
+    "up": 42,
+    "down": 44,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Virtual environment",
+   "en": "Virtual environment",
+   "lines": [
+    [
+     2170,
+     1086,
+     2514,
+     1116
+    ]
+   ],
+   "ocr": "Virtual environment",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 12,
+   "box": [
+    2170,
+    1086,
+    2514,
+    1116
+   ],
+   "ltexts": [
+    "Virtual environment"
+   ],
+   "bg": [
+    133,
+    135,
+    141
+   ],
+   "bgstd": 6.6,
+   "color": [
+    252,
+    252,
+    253
+   ],
+   "weight": "Bold",
+   "size": 35.56,
+   "baselines": [
+    1115
+   ],
+   "xs": [
+    2171
+   ],
+   "inkboxes": [
+    [
+     2171,
+     1086,
+     2514,
+     1116
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.37,
+   "align": "center",
+   "room": {
+    "left": 16,
+    "right": 20,
+    "up": 46,
+    "down": 45,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "XR — umbrella term for all three",
+   "en": "XR — umbrella term for all three",
+   "lines": [
+    [
+     1002,
+     1236,
+     1689,
+     1274
+    ]
+   ],
+   "ocr": "XR umbrella term for all three",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 13,
+   "box": [
+    1002,
+    1236,
+    1689,
+    1274
+   ],
+   "ltexts": [
+    "XR — umbrella term for all three"
+   ],
+   "bg": [
+    246,
+    233,
+    237
+   ],
+   "bgstd": 1.6,
+   "color": [
+    129,
+    19,
+    49
+   ],
+   "weight": "Bold",
+   "size": 44.22,
+   "baselines": [
+    1273
+   ],
+   "xs": [
+    1001
+   ],
+   "inkboxes": [
+    [
+     1002,
+     1237,
+     1689,
+     1274
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.48,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 841,
+    "right": 847,
+    "up": 26,
+    "down": 107,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Defined by the real/virtual mix, not the device",
+   "en": "Defined by the real/virtual mix, not the device",
+   "lines": [
+    [
+     933,
+     1312,
+     1761,
+     1355
+    ]
+   ],
+   "ocr": "Defined by the real/virtual mix, not the device",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 14,
+   "box": [
+    933,
+    1312,
+    1761,
+    1355
+   ],
+   "ltexts": [
+    "Defined by the real/virtual mix, not the device"
+   ],
+   "bg": [
+    246,
+    233,
+    236
+   ],
+   "bgstd": 1.1,
+   "color": [
+    101,
+    106,
+    116
+   ],
+   "weight": "Regular",
+   "size": 40.59,
+   "baselines": [
+    1345
+   ],
+   "xs": [
+    929
+   ],
+   "inkboxes": [
+    [
+     933,
+     1312,
+     1761,
+     1355
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.27,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 772,
+    "right": 775,
+    "up": 102,
+    "down": 26,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "a",
+   "box": [
+    2119,
+    384,
+    2288,
+    484
+   ],
+   "conf": 54.1
+  },
+  {
+   "text": "(\\y?",
+   "box": [
+    421,
+    464,
+    858,
+    671
+   ],
+   "conf": 20.7
+  },
+  {
+   "text": "Le",
+   "box": [
+    664,
+    472,
+    858,
+    581
+   ],
+   "conf": 62.0
+  },
+  {
+   "text": "et",
+   "box": [
+    2207,
+    510,
+    2421,
+    583
+   ],
+   "conf": 34.7
+  },
+  {
+   "text": "aa",
+   "box": [
+    586,
+    558,
+    799,
+    671
+   ],
+   "conf": 27.1
+  }
+ ]
+}

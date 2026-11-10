@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_lighting.html#76",
+"de": "Umgebung↓ / dunkle Farbflächenmaske"
+},
+{
+"key": "feature_lighting.html#77",
+"de": "Prüfen Sie vor dem Leuchtennamen: hart oder weich, eng oder breit, wie viel K. Die letzte Spalte nennt das 3D-Licht in After Effects, das dasselbe Licht nachbildet."
+},
+{
+"key": "feature_lighting.html#78",
+"de": "<small>DOPPELSEITE 02</small>Vom Pinspot bis zum Umgebungslicht – fünf Lichtarten nach Abstrahlwinkel"
+},
+{
+"key": "feature_lighting.html#79",
+"de": "Vom Pinspot bis zum Umgebungslicht – fünf Lichtarten nach Abstrahlwinkel"
+},
+{
+"key": "feature_lighting.html#80",
+"de": "<b>PINSPOT</b><span class=\"deg\">4–10° · sehr eng</span><span>Nur ein Gesicht – Bühnensolo, Produktakzent</span>"
+},
+{
+"key": "feature_lighting.html#81",
+"de": "<b>SPOT</b><span class=\"deg\">15–30° · eng</span><span>Ein Kreis mit sichtbarem Rand – Stufenlinse, Profilscheinwerfer · Akzent und Trennung</span>"
+},
+{
+"key": "feature_lighting.html#82",
+"de": "<b>FLUTER</b><span class=\"deg\">45–70° · breit</span><span>Breit und gleichmäßig – offener Strahler, LED-Panel · Grundlicht</span>"
+},
+{
+"key": "feature_lighting.html#83",
+"de": "<b>WEICH</b><span class=\"deg\">gestreut · ohne Kante</span><span>Umhüllendes Licht – Softbox, Booklight · Haut · Interviews</span>"
+},
+{
+"key": "feature_lighting.html#84",
+"de": "<b>UMGEBUNG</b><span class=\"deg\">ungerichtet · rundum</span><span>Schattenlose Grundhelligkeit – Deckenreflexion, bewölkter Tag</span>"
+},
+{
+"key": "feature_lighting.html#85",
+"de": "<span>← eng · hart · scharfe Kante · dramatisch</span><span>breit · weich · ohne Kante · flächig →</span>"
+},
+{
+"key": "feature_lighting.html#86",
+"de": "<b>Tafel LT-2</b> Fünf Lichtarten nach Abstrahlwinkel – gleiche Person, gleiche Stelle; nur das Werkzeug vor der Lampe wechselt. Nach links hin entscheiden Sie, „was gezeigt wird“, nach rechts hin, „wie hell“."
+},
+{
+"key": "feature_lighting.html#87",
+"de": "Strahl"
+},
+{
+"key": "feature_lighting.html#88",
+"de": "Winkel"
+},
+{
+"key": "feature_lighting.html#89",
+"de": "Schattenkante"
+},
+{
+"key": "feature_lighting.html#90",
+"de": "Einsatz"
+},
+{
+"key": "feature_lighting.html#91",
+"de": "Typische Leuchten · Zubehör"
+},
+{
+"key": "feature_lighting.html#92",
+"de": "AE-3D-Lichtwerte"
+},
+{
+"key": "feature_lighting.html#93",
+"de": "Häufiger Fehler"
+},
+{
+"key": "feature_lighting.html#94",
+"de": "Pinspot"
+},
+{
+"key": "feature_lighting.html#95",
+"de": "Messerscharf"
+},
+{
+"key": "feature_lighting.html#96",
+"de": "Einzelner Produktakzent, Augenreflex, Gobo-Muster"
+},
+{
+"key": "feature_lighting.html#97",
+"de": "Dedolight, Spotvorsatz, Projektionsvorsatz"
+},
+{
+"key": "feature_lighting.html#98",
+"de": "Spot · Kegel 5–10 · weiche Kante 10"
+},
+{
+"key": "feature_lighting.html#99",
+"de": "Pinspot aufs Gesicht → fleckig"
+},
+{
+"key": "feature_lighting.html#100",
+"de": "Spotlicht"
+},
+{
+"key": "feature_lighting.html#101",
+"de": "Klar"
+},
+{
+"key": "feature_lighting.html#102",
+"de": "Porträt-Führungslicht (dramatisch), Bühne, Gegenlicht"
+},
+{
+"key": "feature_lighting.html#103",
+"de": "Stufenlinse (eng), COB-Standardreflektor, Torblenden"
+},
+{
+"key": "feature_lighting.html#104",
+"de": "Spot · Kegel 30 · weiche Kante 40"
+},
+{
+"key": "feature_lighting.html#105",
+"de": "Keine Torblenden; Streulicht an der Wand"
+},
+{
+"key": "feature_lighting.html#106",
+"de": "Fluter"
+},
+{
+"key": "feature_lighting.html#107",
+"de": "Unscharf"
+},
+{
+"key": "feature_lighting.html#108",
+"de": "Hintergründe · Chroma-Key-Wand · Gruppen"
+},
+{
+"key": "feature_lighting.html#109",
+"de": "Offener Strahler, LED-Panel, Stufenlinse (breit)"
+},
+{
+"key": "feature_lighting.html#110",
+"de": "Spot · Kegel 70 · weiche Kante 80"
+},
+{
+"key": "feature_lighting.html#111",
+"de": "Motiv und Hintergrund gleich hell"
+},
+{
+"key": "feature_lighting.html#112",
+"de": "Weich"
+},
+{
+"key": "feature_lighting.html#113",
+"de": "Flächenquelle"
+},
+{
+"key": "feature_lighting.html#114",
+"de": "Kaum"
+},
+{
+"key": "feature_lighting.html#115",
+"de": "Führungs- und Aufhelllicht im Porträt, Beauty, matte Produkte"
+},
+{
+"key": "feature_lighting.html#116",
+"de": "Softbox 60–120, Diffusion 216/250, Aufheller"
+},
+{
+"key": "feature_lighting.html#117",
+"de": "Spot · Kegel 90 · weiche Kante 100 · Schattenstreuung 20+"
+},
+{
+"key": "feature_lighting.html#118",
+"de": "Quelle zu weit weg; wird wieder hart"
+},
+{
+"key": "feature_lighting.html#119",
+"de": "Umgebung"
+},
+{
+"key": "feature_lighting.html#120",
+"de": "Ungerichtet"
+},
+{
+"key": "feature_lighting.html#121",
+"de": "Keine"
+},
+{
+"key": "feature_lighting.html#122",
+"de": "Grundhelligkeit, Bewölkungs-Look"
+},
+{
+"key": "feature_lighting.html#123",
+"de": "Deckenreflexion, großes Booklight, diffuses Fensterlicht"
+},
+{
+"key": "feature_lighting.html#124",
+"de": "Umgebung · Intensität 10–30 %"
+},
+{
+"key": "feature_lighting.html#125",
+"de": "Nur Umgebungslicht, dann Rätseln, warum es „flach“ wirkt"
+},
+{
+"key": "feature_lighting.html#126",
+"de": "<small>DOPPELSEITE 03</small>Werkzeuge, die Licht verändern – Größe · Abstand · Richtung · Intensität · Farbe, fünf Stellschrauben"
+},
+{
+"key": "feature_lighting.html#127",
+"de": "Weichheit = scheinbare Größe der Quelle"
+},
+{
+"key": "feature_lighting.html#128",
+"de": "<b>Links hart · rechts weich</b><span>Gleiches Gesicht, gleiche Belichtung. Links: eine nackte Glühbirne; rechts: eine 2-m-Softbox</span>"
+},
+{
+"key": "feature_lighting.html#129",
+"de": "Kleine Quelle · weit → hart"
+},
+{
+"key": "feature_lighting.html#130",
+"de": "Messerscharfe Schattenkante"
+},
+{
+"key": "feature_lighting.html#131",
+"de": "Große Quelle · nah → weich"
+},
+{
+"key": "feature_lighting.html#132",
+"de": "Schatten läuft weich aus"
+},
+{
+"key": "feature_lighting.html#133",
+"de": "<b>Was hart von weich trennt</b><span>Nicht die Lampenart, sondern die <b>Größe</b> der Quelle aus Sicht des Motivs. Machen Sie sie größer (Diffusion · Aufheller) oder rücken Sie sie näher, und das Licht wird weicher</span>"
+},
+{
+"key": "feature_lighting.html#134",
+"de": "<b>Lichtformer – was jeder steuert</b><span>Softbox · Diffusion → Größe (Weichheit)</span><span>Aufheller (Decke · Wand · Styroporplatte) → Größe + Richtung</span><span>Wabe · Torblenden → Streulicht begrenzen</span><span>Abschatter → blockt Licht</span><span>Farbfolie (CTO · CTB) → Farbe</span><span>ND → nur Helligkeit</span>"
+},
+{
+"key": "feature_lighting.html#135",
+"de": "<b>Tafel LT-3</b> Hart und weich – bestimmt durch die „scheinbare Größe“ der Quelle und den Abstand. Lichtformer sind die Regler für genau diese zwei Werte."
+},
+{
+"key": "feature_lighting.html#136",
+"de": "<b>2<em>x</em></b>Abstand → 1/4 Helligkeit (−2 Blendenstufen)"
+},
+{
+"key": "feature_lighting.html#137",
+"de": "<b>216<em>/ 250</em></b>Volle / halbe Diffusion – ca. −1,5 / −0,8 Blendenstufen"
+},
+{
+"key": "feature_lighting.html#138",
+"de": "<b>5600<em>K</em></b>Tageslicht · <b>3200<em>K</em></b>Kunstlicht · CTO = 5600→3200"
+},
+{
+"key": "feature_lighting.html#139",
+"de": "<b>1<em> einzige</em></b>Schattenrichtung pro Bild"
+},
+{
+"key": "feature_lighting.html#140",
+"de": "<small>DOPPELSEITE 04</small>Acht Lichtaufbauten – als Pläne von oben lernen"
+},
+{
+"key": "feature_lighting.html#141",
+"de": "Acht Aufbauten – von oben gesehen"
+},
+{
+"key": "feature_lighting.html#142",
+"de": "<b>01 3-Punkt-Basis</b><span>Führungslicht 45° + Aufhelllicht + Spitzlicht · Basis für Interviews</span>"
+},
+{
+"key": "feature_lighting.html#143",
+"de": "<b>02 Rembrandt</b><span>Führungslicht 45° hoch + schwarze Platte · Lichtdreieck auf der Wange</span>"
+},
+{
+"key": "feature_lighting.html#144",
+"de": "<b>03 Schmetterling</b><span>Führungslicht vorn oben + Reflektor unter dem Kinn · Beauty</span>"
+},
+{
+"key": "feature_lighting.html#145",
+"de": "<b>04 Split</b><span>Ein Führungslicht auf 90° · Gesicht halbiert</span>"
+},
+{
+"key": "feature_lighting.html#146",
+"de": "<b>05 Loop</b><span>Führungslicht 35° + schwaches Aufhelllicht · die sicherste Wahl</span>"
+},
+{
+"key": "feature_lighting.html#147",
+"de": "<b>06 Booklight</b><span>Führungslicht → Aufheller → Diffusion · das weichste Licht</span>"
+},
+{
+"key": "feature_lighting.html#148",
+"de": "<b>07 Gegenlicht · Kante</b><span>Zwei Lampen hinten, beidseitig + Aufheller vorn · nur Kontur</span>"
+},
+{
+"key": "feature_lighting.html#149",
+"de": "<b>08 Produkt-Oberlicht</b><span>Große Softbox oben + Streifenbox hinten + weiße Platten beidseitig</span>"
+},
+{
+"key": "feature_lighting.html#150",
+"de": "<b>Tafel LT-4</b> Acht Lichtaufbauten – dasselbe Studio, dasselbe Motiv an derselben Stelle; in diesem 3D-Aufbau ändern sich nur die Lampenpositionen. Als Fotos bleiben sie als „Stimmung“ im Gedächtnis, als Pläne als „Winkel“."
+},
+{
+"key": "feature_lighting.html#151",
+"de": "<small>DOPPELSEITE 05</small>Licht in der Software – vier 3D-Lichter in After Effects und Lichteffekt-Werkzeuge"
+},
+{
+"key": "feature_lighting.html#152",
+"de": "3D-Lichter in After Effects sind ein maßstäbliches Modell der Lichtsetzung am Set. Sie nutzen dieselben Begriffe (Spot · Punkt · Umgebung) und steuern dieselben Eigenschaften (Intensität · Farbe · Kegelwinkel · Abfall · Schatten). Wer Licht am Set beherrscht, trifft in der Software dieselben Entscheidungen."
+},
+{
+"key": "feature_lighting.html#153",
+"de": "Licht in der Software – vier Lichter"
+},
+{
+"key": "feature_lighting.html#154",
+"de": "<b>Parallel</b><span class=\"deg\">Am Set · Sonne · HMI</span><span>Parallel und gleichmäßig – alle Schatten fallen gleich, unabhängig vom Abstand</span>"
+},
+{
+"key": "feature_lighting.html#155",
+"de": "<b>Spot</b><span class=\"deg\">Am Set · Stufenlinse · Softbox</span><span>Kegel – das Standard-Führungslicht. Kegelwinkel · weiche Kante · Abfall</span>"
+},
+{
+"key": "feature_lighting.html#156",
+"de": "<b>Punkt</b><span class=\"deg\">Am Set · Birne · Kerze · Röhre</span><span>In alle Richtungen – wird mit dem Abstand schwächer (Abfall)</span>"
+},
+{
+"key": "feature_lighting.html#157",
+"de": "<b>Umgebung</b><span class=\"deg\">Am Set · Deckenreflexion · bewölkter Tag</span><span>Schattenlose Grundhelligkeit – nur 10–30 %; mehr wirkt flach</span>"
+},
+{
+"key": "feature_lighting.html#158",
+"de": "<b>Reihenfolge</b><span>① Umgebung auf 10–20 % als Grundhelligkeit</span><span>② Ein Spot als Führungslicht (Schatten an)</span><span>③ Punkt oder schwacher Spot als Aufhelllicht (Schatten aus)</span><span>④ Spot von hinten als Spitzlicht</span><span>⑤ Materialoptionen: Akzeptiert Schatten · Wirft Schatten</span>"
+},
+{
+"key": "feature_lighting.html#159",
+"de": "<b>Tafel LT-5</b> Vier 3D-Lichter in After Effects und ihre Entsprechungen am Set – dieselbe Kugel und Box, jeweils nur von einem der vier Lichter beleuchtet. Licht in der Software ist ein maßstäbliches Modell der Lichtsetzung am Set."
+},
+{
+"key": "feature_lighting.html#160",
+"de": "Aufgabe am Set"
+},
+{
+"key": "feature_lighting.html#161",
+"de": "After Effects"
+},
+{
+"key": "feature_lighting.html#162",
+"de": "Premiere Pro bzw. Resolve"
+},
+{
+"key": "feature_lighting.html#163",
+"de": "Wichtige Parameter · Tipps"
+},
+{
+"key": "feature_lighting.html#164",
+"de": "Einen Punkt mit einem Spot beleuchten"
+},
+{
+"key": "feature_lighting.html#165",
+"de": "3D-Spotlicht · oder weiße Farbfläche + weiche Maske, Modus Addieren/Ineinanderkopieren"
+},
+{
+"key": "feature_lighting.html#166",
+"de": "Lumetri-Vignette (invertiert) · maskierte Kurven"
+},
+{
+"key": "feature_lighting.html#167",
+"de": "Weiche Maskenkante 200+ · Deckkraft 20–40 % · etwas Farbe am Rand (warm)"
+},
+{
+"key": "feature_lighting.html#168",
+"de": "Gobo-Muster: Fensterkreuz · Blätter"
+},
+{
+"key": "feature_lighting.html#169",
+"de": "Fraktales Rauschen → Tonwertkorrektur → Track Matte bzw. Lichtdurchlässigkeit"
+},
+{
+"key": "feature_lighting.html#170",
+"de": "2× Lumetri mit Maske (hell/dunkel)"
+},
+{
+"key": "feature_lighting.html#171",
+"de": "Entwicklung langsam animieren für „im Wind schwankende Schatten“"
+},
+{
+"key": "feature_lighting.html#172",
+"de": "Spitzlicht · Bloom"
+},
+{
+"key": "feature_lighting.html#173",
+"de": "Light Wrap (mit Keylight) · Glow (Schwellenwert 70–85) · CC Light Rays"
+},
+{
+"key": "feature_lighting.html#174",
+"de": "Lumetri-Lichter↑ + Glow (Plug-in)"
+},
+{
+"key": "feature_lighting.html#175",
+"de": "Bei Glow „Composite Original“ auf „Behind“ stellen, damit es dezent bleibt · Light Rays auf die Position der Quelle setzen"
+},
+{
+"key": "feature_lighting.html#176",
+"de": "Blendenfleck"
+},
+{
+"key": "feature_lighting.html#177",
+"de": "Blendenflecke (integriert) · Optical Flares (Plug-in) · CC Light Burst 2.5"
+},
+{
+"key": "feature_lighting.html#178",
+"de": "Blendenflecke (integriert)"
+},
+{
+"key": "feature_lighting.html#179",
+"de": "Position der Quelle an Tracking-Daten koppeln · Helligkeit 60–80 % · Modus Negativ multiplizieren"
+},
+{
+"key": "feature_lighting.html#180",
+"de": "Licht über ein Logo streichen lassen"
+},
+{
+"key": "feature_lighting.html#181",
+"de": "CC Light Sweep · Shine (Trapcode)"
+},
+{
+"key": "feature_lighting.html#182",
+"de": "Light Sweep (Legacy) · Maskenanimation"
+},
+{
+"key": "feature_lighting.html#183",
+"de": "Breite 30–60 · Sweep-Intensität 20–40 · einmal innerhalb 1 Sekunde, nie zweimal"
+},
+{
+"key": "feature_lighting.html#184",
+"de": "Schatten werfen (Compositing)"
+},
+{
+"key": "feature_lighting.html#185",
+"de": "Schlagschatten (2D) · Radialer Schatten · 3D-Licht mit Schattenwurf · Shadow Catcher"
+},
+{
+"key": "feature_lighting.html#186",
+"de": "Schlagschatten (integriert)"
+},
+{
+"key": "feature_lighting.html#187",
+"de": "Weichheit 20–40 · Deckkraft 40–60 · Richtung wie das Führungslicht"
+},
+{
+"key": "feature_lighting.html#188",
+"de": "Gesamtbelichtung · Kontrast verfeinern"
+},
+{
+"key": "feature_lighting.html#189",
+"de": "Lumetri-Farbe · Kurven · Belichtung · Tonwertkorrektur"
+},
+{
+"key": "feature_lighting.html#190",
+"de": "Lumetri-Grundkorrektur: Belichtung · Kontrast · Lichter · Tiefen · Weiß · Schwarz"
+},
+{
+"key": "feature_lighting.html#191",
+"de": "Reihenfolge: Belichtung → Weißabgleich → Kontrast → Lichter/Tiefen → erst dann der Look"
+},
+{
+"key": "feature_lighting.html#192",
+"de": "Abschatten (abdunkeln)"
+},
+{
+"key": "feature_lighting.html#193",
+"de": "Schwarze Farbfläche + Maske + Multiplizieren · Vignette"
+},
+{
+"key": "feature_lighting.html#194",
+"de": "Lumetri-Vignette: Betrag −1 bis −2 · maskierte Kurven"
+},
+{
+"key": "feature_lighting.html#195",
+"de": "Ränder um 1 Blendenstufe abdunkeln – der Blick wandert zur Mitte"
+},
+{
+"key": "feature_lighting.html#196",
+"de": "Farbtemperatur-Folie"
+},
+{
+"key": "feature_lighting.html#197",
+"de": "Färben · Farbbalance · Lumetri-Temperatur"
+},
+{
+"key": "feature_lighting.html#198",
+"de": "Lumetri: Temperatur / Farbton"
+},
+{
+"key": "feature_lighting.html#199",
+"de": "CTO-Look: Temperatur +10–20 · warme Lichter/kühle Tiefen über Farbräder"
+},
+{
+"key": "feature_lighting.html#200",
+"de": "Flackernde Practicals · Kerzenlicht"
+},
+{
+"key": "feature_lighting.html#201",
+"de": "Expression wiggle(4, 20) auf die Intensität des Punktlichts"
+},
+{
+"key": "feature_lighting.html#202",
+"de": "Deckkraft-Keyframes · Plug-ins"
+},
+{
+"key": "feature_lighting.html#203",
+"de": "Frequenz 2–5 Hz, Amplitude 10–20 % – mehr wirkt wie eine kaputte Leuchtstoffröhre"
+},
+{
+"key": "feature_lighting.html#204",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "feature_lighting.html#205",
+"de": "Licht aus der Software „ergänzt“ das Licht vom Set, es „erschafft“ es nicht. Stimmt die eine Schattenrichtung schon beim Dreh, können Sie in der Postproduktion alles darüberlegen."
+},
+{
+"key": "feature_lighting.html#206",
+"de": "Namen ändern sich (Versionen · Plug-ins). Was bleibt, ist die Reihenfolge <b>Intensität → Richtung → Größe → Farbe</b> und die Regel, dass es nur eine Schattenrichtung gibt."
+},
+{
+"key": "feature_lighting.html#207",
+"de": "<small>DOPPELSEITE 06</small>Spickzettel Lichtsetzung am Set – eine Reihenfolge für den Aufbau in 10 Minuten"
+},
+{
+"key": "feature_lighting.html#208",
+"de": "<b>01</b><i>Aus</i>Alle Leuchtstoffröhren · Streulichter im Raum ausschalten. Im Dunkeln beginnen."
+},
+{
+"key": "feature_lighting.html#209",
+"de": "<b>02</b><i>Ein Führungslicht</i>Führungslicht 45°/45° zum Motiv. Auf das Führungslicht belichten (Basis: f/2,8, ISO 800)."
+},
+{
+"key": "feature_lighting.html#210",
+"de": "<b>03</b><i>Aufhellen</i>Reflektor auf der Gegenseite oder weiches Licht mit 1/3 Intensität. Das bestimmt das Kontrastverhältnis."
+},
+{
+"key": "feature_lighting.html#211",
+"de": "<b>04</b><i>Trennen</i>Spitz- oder Hintergrundlicht. Hintergrund 1 Blendenstufe dunkler als das Motiv."
+},
+{
+"key": "feature_lighting.html#212",
+"de": "<b>05</b><i>Farbe · Ordnung</i>Farbtemperatur vereinheitlichen, Streulicht mit Torblenden · Abschattern begrenzen, Sicherheit (Sandsäcke · Kabel)."
+},
+{
+"key": "feature_lighting.html#213",
+"de": "<small>Kontrastverhältnis</small>Führung : Aufhellung"
+},
+{
+"key": "feature_lighting.html#214",
+"de": "2:1 (1 Blendenstufe) – hell, Werbung, Beauty"
+},
+{
+"key": "feature_lighting.html#215",
+"de": "4:1 (2 Blendenstufen) – normale Spielszenen, Interviews"
+},
+{
+"key": "feature_lighting.html#216",
+"de": "Ab 8:1 (3+ Blendenstufen) – Noir, Thriller"
+},
+{
+"key": "feature_lighting.html#217",
+"de": "Ohne Aufhellung – Silhouette, Split"
+},
+{
+"key": "feature_lighting.html#218",
+"de": "<small>Farbtemperatur</small>Wenn mischen, dann bewusst"
+},
+{
+"key": "feature_lighting.html#219",
+"de": "Tageslicht 5600 K · Kunstlicht 3200 K · Leuchtstoff 4000–4500 K"
+},
+{
+"key": "feature_lighting.html#220",
+"de": "Fenster + Kunstlicht → CTO ans Fenster oder CTB an die Lampe"
+},
+{
+"key": "feature_lighting.html#221",
+"de": "Nur in eine Richtung mischen: „Fenster=kühl, innen=warm“"
+},
+{
+"key": "feature_lighting.html#222",
+"de": "Kamera-Weißabgleich auf das Führungslicht"
+},
+{
+"key": "feature_lighting.html#223",
+"de": "<small>Sicherheit</small>Unfälle beginnen beim Licht"
+},
+{
+"key": "feature_lighting.html#224",
+"de": "Sandsack auf jedes Stativ, Kabel am Boden abkleben"
+},
+{
+"key": "feature_lighting.html#225",
+"de": "Keine Folie · kein Stoff näher als 30 cm an Halogen (Brandgefahr)"
+}
+]

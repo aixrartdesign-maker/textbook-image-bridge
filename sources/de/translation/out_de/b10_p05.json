@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#487",
+"de": "Sora vorgestellt · Kling · Veo"
+},
+{
+"key": "part09.html#488",
+"de": "MCP (Model Context Protocol) vorgestellt"
+},
+{
+"key": "part09.html#489",
+"de": "Videomodell-Wettlauf beginnt, Tool-Protokoll"
+},
+{
+"key": "part09.html#490",
+"de": "Veo 3 · Seedance 1.0"
+},
+{
+"key": "part09.html#491",
+"de": "Higgsfield · Nano Banana"
+},
+{
+"key": "part09.html#492",
+"de": "Tongenerierung, Tools für Figurenkonsistenz"
+},
+{
+"key": "part09.html#493",
+"de": "Seedance 2.0 u. a."
+},
+{
+"key": "part09.html#494",
+"de": "Modelle wechseln jedes Quartal"
+},
+{
+"key": "part09.html#495",
+"de": "Lesehilfe – 2014–2020 war die Ära der Fachaufsätze; 2022 erreichten Bilder die breite Masse, ab 2023 folgte Video."
+},
+{
+"key": "part09.html#496",
+"de": "Merken Sie sich ab 2024 die Trends, nicht die Modellnamen: der Wettlauf der Videomodelle, ein Protokoll, mit dem Agenten Tools direkt bedienen (MCP), Konsistenz von Figur·Szene."
+},
+{
+"key": "part09.html#497",
+"de": "Jahreszahlen bezeichnen Veröffentlichung·Ankündigung. Dienstnamen ändern sich, die Kategorien bleiben (siehe Tool-Karte in 9.13)."
+},
+{
+"key": "part09.html#498",
+"de": "<b>Abb. 83-1</b> 10 Jahre generative KI-Videotools – vom GAN (2014) über den Transformer (2017), die massentaugliche Bildgenerierung (2022) sowie Videomodell-Wettlauf und MCP (2024) bis zum Generationswechsel 2026"
+},
+{
+"key": "part09.html#499",
+"de": "Aktuelle Trends"
+},
+{
+"key": "part09.html#500",
+"de": "<small>Trend 1</small>Wettlauf der Videomodelle"
+},
+{
+"key": "part09.html#501",
+"de": "Veo · Sora · Kling · Seedance · Runway: jedes Quartal eine neue Generation"
+},
+{
+"key": "part09.html#502",
+"de": "Verglichen nach Länge, Ton und physikalischer Genauigkeit"
+},
+{
+"key": "part09.html#503",
+"de": "Statt ein Tool zu wählen, eine Pipeline bauen, in der sich Tools austauschen lassen"
+},
+{
+"key": "part09.html#504",
+"de": "<small>Trend 2</small>Agenten und MCP"
+},
+{
+"key": "part09.html#505",
+"de": "Ein Verbindungsprotokoll, mit dem Sprachmodelle wie Claude Generierungstools direkt bedienen"
+},
+{
+"key": "part09.html#506",
+"de": "Das Modell ruft die Tools auf; niemand kopiert Prompts hin und her"
+},
+{
+"key": "part09.html#507",
+"de": "Die Referenzfotos dieses Buches sind so entstanden – ein durchgehender Ablauf vom Konzeptpapier bis zur Generierung"
+},
+{
+"key": "part09.html#508",
+"de": "<small>Trend 3</small>Konsistenz-Tools"
+},
+{
+"key": "part09.html#509",
+"de": "Funktionen, die Figuren und Szenen über Einstellungen hinweg konsistent halten"
+},
+{
+"key": "part09.html#510",
+"de": "Mehrbild-Referenzen – Gesicht, Kostüm und Raum mit mehreren Bildern fixieren"
+},
+{
+"key": "part09.html#511",
+"de": "Das größte Problem aus Hintergrund 17 wird zur Produktfunktion"
+},
+{
+"key": "part09.html#512",
+"de": "<span class=\"ph-id\">P09-MCP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Tools verknüpfen – MCP</b>Abstrakte Illustration: Leuchtende Linien führen von einem Laptop auf dem Schreibtisch zu schwebenden, durchscheinenden Dienst-Panels</span>"
+},
+{
+"key": "part09.html#513",
+"de": "<b>Hinweis</b>Tools verknüpfen – MCP. Ein Sprachmodell ruft Generierungstools, Speicher und Kalender direkt auf"
+},
+{
+"key": "part09.html#514",
+"de": "Bereich"
+},
+{
+"key": "part09.html#515",
+"de": "Tool-Typ"
+},
+{
+"key": "part09.html#516",
+"de": "Praxiseinsatz"
+},
+{
+"key": "part09.html#517",
+"de": "Beachten"
+},
+{
+"key": "part09.html#518",
+"de": "Planung, Text"
+},
+{
+"key": "part09.html#519",
+"de": "Chat-Sprachmodelle"
+},
+{
+"key": "part09.html#520",
+"de": "Ideen erweitern, Drehbuchentwürfe, Textvarianten"
+},
+{
+"key": "part09.html#521",
+"de": "Fakten prüfen; Endentscheidung trifft ein Mensch"
+},
+{
+"key": "part09.html#522",
+"de": "Bild"
+},
+{
+"key": "part09.html#523",
+"de": "Bildgenerierungsmodelle"
+},
+{
+"key": "part09.html#524",
+"de": "Moodboards, Concept Art, Storyboard-Entwürfe"
+},
+{
+"key": "part09.html#525",
+"de": "Kommerzielle Nutzung prüfen"
+},
+{
+"key": "part09.html#526",
+"de": "Video"
+},
+{
+"key": "part09.html#527",
+"de": "Video aus Text oder Bild"
+},
+{
+"key": "part09.html#528",
+"de": "Inserts, Hintergründe, unmögliche Bilder"
+},
+{
+"key": "part09.html#529",
+"de": "Konsistenz ist die Hürde"
+},
+{
+"key": "part09.html#530",
+"de": "Stimme"
+},
+{
+"key": "part09.html#531",
+"de": "Sprachsynthese"
+},
+{
+"key": "part09.html#532",
+"de": "Probesprecher, mehrsprachige Synchronisation"
+},
+{
+"key": "part09.html#533",
+"de": "Nie die Stimme realer Personen klonen"
+},
+{
+"key": "part09.html#534",
+"de": "Untertitel, Rohschnitt"
+},
+{
+"key": "part09.html#535",
+"de": "Schnitttools mit Spracherkennung"
+},
+{
+"key": "part09.html#536",
+"de": "1. Rohschnitt, Untertitel erzeugen"
+},
+{
+"key": "part09.html#537",
+"de": "Eigennamen immer auf Fehler prüfen"
+},
+{
+"key": "part09.html#538",
+"de": "Bild-zu-3D-Generierung"
+},
+{
+"key": "part09.html#539",
+"de": "Requisiten, Figurenprototypen"
+},
+{
+"key": "part09.html#540",
+"de": "Polygon-Bereinigung nötig"
+},
+{
+"key": "part09.html#541",
+"de": "Übersetzung"
+},
+{
+"key": "part09.html#542",
+"de": "Maschinelle Übersetzung"
+},
+{
+"key": "part09.html#543",
+"de": "Fremdsprachige Untertitel und Quellen"
+},
+{
+"key": "part09.html#544",
+"de": "Fachbegriffe auf Fehler prüfen"
+},
+{
+"key": "part09.html#545",
+"de": "Sprachmodelle gut und schlecht nutzen"
+},
+{
+"key": "part09.html#546",
+"de": "Gut genutzt"
+},
+{
+"key": "part09.html#547",
+"de": "Ideen erweitern – Bedingungen setzen, 20 erhalten, auf 3 eingrenzen"
+},
+{
+"key": "part09.html#548",
+"de": "Drehbuchentwurf – erst das Gerüst festlegen, dann das Fleisch anfordern"
+},
+{
+"key": "part09.html#549",
+"de": "Textvarianten – 10 Versionen einer freigegebenen Zeile anfordern"
+},
+{
+"key": "part09.html#550",
+"de": "Recherche ordnen – Gesammeltes einfügen und um Struktur bitten"
+},
+{
+"key": "part09.html#551",
+"de": "Feedback – das eigene Konzept einfügen und nach Schwachstellen fragen"
+},
+{
+"key": "part09.html#552",
+"de": "Übersetzung – Kontext und Glossar mitliefern"
+},
+{
+"key": "part09.html#553",
+"de": "Zu vermeiden"
+},
+{
+"key": "part09.html#554",
+"de": "Erste Antwort einfach übernehmen"
+},
+{
+"key": "part09.html#555",
+"de": "Alles vom leeren Blatt schreiben lassen"
+},
+{
+"key": "part09.html#556",
+"de": "Das Konzept selbst abgeben"
+},
+{
+"key": "part09.html#557",
+"de": "Ohne Faktencheck zitieren"
+},
+{
+"key": "part09.html#558",
+"de": "Beim Lob stehen bleiben"
+},
+{
+"key": "part09.html#559",
+"de": "Fachjargon ungeprüft nutzen"
+},
+{
+"key": "part09.html#560",
+"de": "Beispiel-Workflow mit KI"
+},
+{
+"key": "part09.html#561",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part09.html#562",
+"de": "Das Konzept in einem Satz schreibt ein Mensch. Dieser Schritt wird nie delegiert."
+},
+{
+"key": "part09.html#563",
+"de": "<b>01</b><span>Mit einem Sprachmodell eine Zielpersona und 20 Pain Points generieren und selbst auf 3 eingrenzen.</span>"
+},
+{
+"key": "part09.html#564",
+"de": "<b>02</b><span>Aus den eingegrenzten Ideen schreibt ein Mensch das Konzept in einem Satz.</span>"
+},
+{
+"key": "part09.html#565",
+"de": "<b>03</b><span>Moodboards und Storyboard-Entwürfe mit einem Bildgenerator erstellen. Die Einigung auf Tonalität und Stil geht so viel schneller.</span>"
+},
+{
+"key": "part09.html#566",
+"de": "<b>04</b><span>Nur die Inserts generieren, die sich nicht real drehen lassen. Wer das ganze Werk mit generiertem Material füllt, verliert die Konsistenz.</span>"
+},
+{
+"key": "part09.html#567",
+"de": "<b>05</b><span>Mit Sprachsynthese eine vorläufige Sprecherfassung erstellen, um Länge und Rhythmus zu testen. Für die Endfassung durch einen Sprecher oder eine eigene Aufnahme ersetzen.</span>"
+},
+{
+"key": "part09.html#568",
+"de": "<b>06</b><span>Erste Untertitel automatisch erstellen, dann Eigennamen und Rechtschreibung von einem Menschen prüfen lassen.</span>"
+},
+{
+"key": "part09.html#569",
+"de": "<b>07</b><span>KI-Nutzung in den Produktionsunterlagen festhalten. Wettbewerbe und Auftraggeber verlangen zunehmend Offenlegung.</span>"
+},
+{
+"key": "part09.html#570",
+"de": "Was KI nicht ersetzen kann"
+},
+{
+"key": "part09.html#571",
+"de": "Das Urteil darüber, was gedreht wird; die Sprache, um zu erklären, warum es genau diese Einstellung sein muss; die Abstimmung, die zur Einigung mit dem Auftraggeber führt; die Entscheidungen, die Überraschungen am Set auffangen. Je mächtiger die Werkzeuge, desto mehr ist Urteilskraft wert. Bei Berufseinsteigern zählt inzwischen die Begründung mehr als die Tool-Kenntnis."
+},
+{
+"key": "part09.html#572",
+"de": "<small>Übung</small>8.9"
+},
+{
+"key": "part09.html#573",
+"de": "Aufgabe"
+},
+{
+"key": "part09.html#574",
+"de": "Erzeugen Sie dieselbe Einstellung mit 3 generativen KI-Tools und vergleichen Sie Qualität, Tempo, Kosten und Rechtelage."
+},
+{
+"key": "part09.html#575",
+"de": "Tipp"
+},
+{
+"key": "part09.html#576",
+"de": "Prüfen Sie in den Nutzungsbedingungen die Klausel zur kommerziellen Nutzung."
+},
+{
+"key": "part09.html#577",
+"de": "Bewertung"
+},
+{
+"key": "part09.html#578",
+"de": "Faire Vergleichskriterien, Rechte geprüft"
+},
+{
+"key": "part09.html#579",
+"de": "Musterlösung"
+},
+{
+"key": "part09.html#580",
+"de": "Veröffentlicht Prompts und Einstellungen mit den Ergebnissen, damit sie reproduzierbar sind."
+},
+{
+"key": "part09.html#581",
+"de": "<b>TEIL 09</b>Plattformbetrieb und generative KI"
+},
+{
+"key": "part09.html#582",
+"de": "Kanalbetrieb und Redaktionsplan"
+},
+{
+"key": "part09.html#583",
+"de": "Zehn beständige Videos bauen einen Kanal besser auf als ein gutes. Einen Kanal zu betreiben ist eine andere Fähigkeit als Videos zu machen – und genau diese Erfahrung bewerten Arbeitgeber bei Berufseinsteigern am höchsten."
+},
+{
+"key": "part09.html#584",
+"de": "Kanalgestaltung in 5 Schritten"
+},
+{
+"key": "part09.html#585",
+"de": "<b>01</b><i>Ein-Satz-Definition</i>Was der Kanal wem gibt"
+},
+{
+"key": "part09.html#586",
+"de": "<b>02</b><i>2–3 feste Formate</i>Den Zuschauern einen Grund zur Vorfreude geben"
+},
+{
+"key": "part09.html#587",
+"de": "<b>03</b><i>Upload-Plan</i>1 Video pro Woche durchhalten ist besser als 3 pro Woche und dann aufhören"
+},
+{
+"key": "part09.html#588",
+"de": "<b>04</b><i>Feste Bildregeln</i>Thumbnail-Layout, Untertitel-Schrift, Intro ja oder nein"
+},
+{
+"key": "part09.html#589",
+"de": "<b>05</b><i>Eine Erfolgskennzahl</i>Nicht Abonnenten, sondern etwas Verbesserbares wie die durchschnittliche Wiedergabedauer"
+},
+{
+"key": "part09.html#590",
+"de": "Beispiel: Monats-Redaktionsplan"
+},
+{
+"key": "part09.html#591",
+"de": "Woche"
+},
+{
+"key": "part09.html#592",
+"de": "Inhaltstyp"
+},
+{
+"key": "part09.html#593",
+"de": "Zweck"
+},
+{
+"key": "part09.html#594",
+"de": "Aufwand"
+},
+{
+"key": "part09.html#595",
+"de": "Recycling"
+},
+{
+"key": "part09.html#596",
+"de": "Woche 1"
+},
+{
+"key": "part09.html#597",
+"de": "1 langes Infovideo"
+},
+{
+"key": "part09.html#598",
+"de": "Suchtraffic"
+},
+{
+"key": "part09.html#599",
+"de": "Hoch"
+},
+{
+"key": "part09.html#600",
+"de": "In 3 Kurzvideos aufteilen"
+},
+{
+"key": "part09.html#601",
+"de": "Woche 2"
+},
+{
+"key": "part09.html#602",
+"de": "3 Kurzvideos"
+},
+{
+"key": "part09.html#603",
+"de": "Neue Reichweite"
+},
+{
+"key": "part09.html#604",
+"de": "Gering"
+},
+{
+"key": "part09.html#605",
+"de": "Zugleich auf Instagram und TikTok posten"
+},
+{
+"key": "part09.html#606",
+"de": "Woche 3"
+},
+{
+"key": "part09.html#607",
+"de": "Interview oder Kollab"
+},
+{
+"key": "part09.html#608",
+"de": "Vertrauen und Wachstum"
+},
+{
+"key": "part09.html#609",
+"de": "Mittel"
+},
+{
+"key": "part09.html#610",
+"de": "Zum Blogbeitrag machen"
+},
+{
+"key": "part09.html#611",
+"de": "Woche 4"
+},
+{
+"key": "part09.html#612",
+"de": "Community-Inhalte"
+},
+{
+"key": "part09.html#613",
+"de": "Beziehungspflege"
+},
+{
+"key": "part09.html#614",
+"de": "Sehr gering"
+},
+{
+"key": "part09.html#615",
+"de": "Ideen für Folgemonat"
+},
+{
+"key": "part09.html#616",
+"de": "Eine Idee, viele Medien"
+},
+{
+"key": "part09.html#617",
+"de": "<b>Eine Quelle, viele Wege</b>"
+},
+{
+"key": "part09.html#618",
+"de": "Dieselbe Botschaft in der Grammatik jedes Mediums neu umsetzen. Das ist der sicherste Weg, mit dem Produktionsbudget mehr Reichweite zu erzielen."
+},
+{
+"key": "part09.html#619",
+"de": "Quelle"
+},
+{
+"key": "part09.html#620",
+"de": "Ableitung"
+},
+{
+"key": "part09.html#621",
+"de": "Aufwand"
+},
+{
+"key": "part09.html#622",
+"de": "Ertrag"
+},
+{
+"key": "part09.html#623",
+"de": "10-Min.-Langvideo"
+},
+{
+"key": "part09.html#624",
+"de": "3 Kurzvideos"
+},
+{
+"key": "part09.html#625",
+"de": "Gering"
+},
+{
+"key": "part09.html#626",
+"de": "Neue Zuschauer"
+},
+{
+"key": "part09.html#627",
+"de": "10-Min.-Langvideo"
+},
+{
+"key": "part09.html#628",
+"de": "1 Blogbeitrag"
+},
+{
+"key": "part09.html#629",
+"de": "Gering"
+},
+{
+"key": "part09.html#630",
+"de": "Suchtraffic"
+},
+{
+"key": "part09.html#631",
+"de": "10-Min.-Langvideo"
+},
+{
+"key": "part09.html#632",
+"de": "1 Karussell-Set"
+},
+{
+"key": "part09.html#633",
+"de": "Gering"
+},
+{
+"key": "part09.html#634",
+"de": "Speicherungen"
+},
+{
+"key": "part09.html#635",
+"de": "10-Min.-Langvideo"
+},
+{
+"key": "part09.html#636",
+"de": "1 Newsletter-Ausgabe"
+}
+]

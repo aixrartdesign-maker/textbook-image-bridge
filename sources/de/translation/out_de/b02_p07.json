@@ -1,0 +1,442 @@
+[
+{
+"key": "part02.html#1234",
+"de": "1.18 · 1.20 Blick, Zeit und Raum"
+},
+{
+"key": "part02.html#1235",
+"de": "Setzen Sie die nächste Einstellung dorthin, wo der Blick landet, und legen Sie zuerst fest, wie viel Zeit und Distanz zwischen zwei Einstellungen liegt."
+},
+{
+"key": "part02.html#1236",
+"de": "Denkanstöße"
+},
+{
+"key": "part02.html#1237",
+"de": "Welche Einstellungsgrößen nutze ich am häufigsten? Ist das Gewohnheit oder Absicht?"
+},
+{
+"key": "part02.html#1238",
+"de": "Markieren Sie auf der Tafel der 8 Einstellungsgrößen die Größe, die Sie am häufigsten gedreht haben, und die, die Sie nie gedreht haben."
+},
+{
+"key": "part02.html#1239",
+"de": "Welche Einstellung aus etwas, das Sie zuletzt gesehen haben, ist Ihnen am stärksten im Gedächtnis geblieben – und warum?"
+},
+{
+"key": "part02.html#1240",
+"de": "Zerlegen Sie sie nach Größe, Perspektive und Länge."
+},
+{
+"key": "part02.html#1241",
+"de": "Wie geben Sie am Set Anweisungen zum Bildausschnitt?"
+},
+{
+"key": "part02.html#1242",
+"de": "Nutzen Sie Fachbegriffe wie „etwas enger“ – „mach es ein bisschen kleiner“ verstehen drei Leute auf drei Arten."
+},
+{
+"key": "feature_storyboard.html#0",
+"de": "Spezial · STORYBOARD"
+},
+{
+"key": "feature_storyboard.html#1",
+"de": "Das Storyboard,<br>ein Versprechen in Bildern"
+},
+{
+"key": "feature_storyboard.html#2",
+"de": "Ein Storyboard ist eine Frage des Informationsdesigns, nicht des Zeichentalents. Dieses Spezial zeigt gebündelt, was ein Feld aussagen muss, damit zehn Menschen dieselbe Szene drehen, und wie sich das Feld je nach Medium verändert: Querformat · Hochformat · Ultrabreitformat · 360° · gekrümmte Flächen · Fassaden · AR/VR/MR/XR."
+},
+{
+"key": "feature_storyboard.html#3",
+"de": "<b>G-18</b> Storyboarding – in jedes Feld Einstellung · Bewegung · Zeit eintragen. Die Zeichnung darf grob sein, die Information nicht."
+},
+{
+"key": "feature_storyboard.html#4",
+"de": "<b>01</b><i>Scribble</i>Die Regie ordnet ihre Ideen. Grobe Skizzen, mehrere Versionen im Vergleich, für interne Besprechungen. 1–2 Std."
+},
+{
+"key": "feature_storyboard.html#5",
+"de": "<b>02</b><i>Storyboard</i>Der Bauplan für das ganze Team. Exakter Bildausschnitt · Timing · Ton. Nach der PPM-Freigabe kaum noch Änderungen. 1–2 Tage."
+},
+{
+"key": "feature_storyboard.html#6",
+"de": "<b>03</b><i>Animatic</i>Die Boards auf einer Timeline mit Layoutmusik · Sprechertext. Probleme mit Rhythmus und Länge zeigen sich sofort. 2–3 Tage."
+},
+{
+"key": "feature_storyboard.html#7",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "feature_storyboard.html#8",
+"de": "Gehen Sie bei einem 15-Sekunden-Spot oder einem 1-minütigen Kurzvideo bis zum Animatic. Rhythmusprobleme zeigen sich nicht in Standbildern."
+},
+{
+"key": "feature_storyboard.html#9",
+"de": "Das Storyboard ist der letzte Punkt der Produktionskette, an dem sich Fehler billig beheben lassen. Kostet eine Änderung in der Konzeptphase 1, kostet sie in der Storyboard-Phase 3, am Drehtag 20 und in der Postproduktion 50. Ein Board ist darum kein Dokument zum Schönzeichnen, sondern <b>ein Dokument, um schnell Fehler zu machen</b>."
+},
+{
+"key": "feature_storyboard.html#10",
+"de": "<b>Referenzfotos 1.1A</b>Generiertes Bild – vier Gesichter des Storyboards"
+},
+{
+"key": "feature_storyboard.html#11",
+"de": "<span class=\"ph-id\">P06-SB-HAND</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Handgezeichnetes Storyboard – Felder · Pfeile · Timing-Notizen auf einem Blatt</b></span>"
+},
+{
+"key": "feature_storyboard.html#12",
+"de": "<b>Hinweis</b>Handgezeichnetes Storyboard – Felder · Pfeile · Timing-Notizen auf einem Blatt"
+},
+{
+"key": "feature_storyboard.html#13",
+"de": "<span class=\"ph-id\">P06-SB-VERT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Storyboard für Hochformat – Felder werden schmal und hoch</b></span>"
+},
+{
+"key": "feature_storyboard.html#14",
+"de": "<b>Hinweis</b>Storyboard für Hochformat – Felder werden schmal und hoch"
+},
+{
+"key": "feature_storyboard.html#15",
+"de": "<span class=\"ph-id\">P06-SB-DIGITAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Digitales Storyboard – auf dem Tablet gezeichnet, direkt zum Animatic</b></span>"
+},
+{
+"key": "feature_storyboard.html#16",
+"de": "<b>Hinweis</b>Digitales Storyboard – auf dem Tablet gezeichnet, direkt zum Animatic"
+},
+{
+"key": "feature_storyboard.html#17",
+"de": "<span class=\"ph-id\">P06-ANIMATIC</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Animatic – die Boards auf eine Timeline legen und den Rhythmus testen</b></span>"
+},
+{
+"key": "feature_storyboard.html#18",
+"de": "<b>Hinweis</b>Animatic – die Boards auf eine Timeline legen und den Rhythmus testen"
+},
+{
+"key": "feature_storyboard.html#19",
+"de": "<b>Referenzfotos 1.1B</b>Generiertes Bild – Regiereferenzen"
+},
+{
+"key": "feature_storyboard.html#20",
+"de": "<b>a</b>Handgezeichnetes Storyboard"
+},
+{
+"key": "feature_storyboard.html#21",
+"de": "<b>b</b>Animatic im Schnittprogramm"
+},
+{
+"key": "feature_storyboard.html#22",
+"de": "<b>c</b>Motivsuche"
+},
+{
+"key": "feature_storyboard.html#23",
+"de": "<small>DOPPELSEITE 01</small>Anatomie eines Felds – alle neun Angaben, sonst kann kein anderer danach drehen"
+},
+{
+"key": "feature_storyboard.html#24",
+"de": "Anatomie eines Felds – neun Angaben"
+},
+{
+"key": "feature_storyboard.html#25",
+"de": "<span>CUT 02</span><span class=\"sc\">S#1 Café · Tag · INNEN</span><span>2,5 s · 02:30–05:00</span>"
+},
+{
+"key": "feature_storyboard.html#26",
+"de": "MCU · EYE · 50 mm · DOLLY IN langsam · CUT TO"
+},
+{
+"key": "feature_storyboard.html#27",
+"de": "Regieanweisung: nimmt das Produkt · Blick geht zum Produkt"
+},
+{
+"key": "feature_storyboard.html#28",
+"de": "N Dein Tag beginnt anders · SE Deckel · M Klavier setzt ein"
+},
+{
+"key": "feature_storyboard.html#29",
+"de": "<i>1</i><b>Einstellung · Szene</b><span>Basis für Reihenfolge und Verweise</span>"
+},
+{
+"key": "feature_storyboard.html#30",
+"de": "<i>2</i><b>Zeit</b><span>Dauer in Sekunden + laufender Timecode</span>"
+},
+{
+"key": "feature_storyboard.html#31",
+"de": "<i>3</i><b>Bild (Ausschnitt)</b><span>Bildaufbau · Position · Blick · Pfeile</span>"
+},
+{
+"key": "feature_storyboard.html#32",
+"de": "<i>4</i><b>Größe · Perspektive · Objektiv</b><span>ELS–ECU · EYE/HIGH/LOW</span>"
+},
+{
+"key": "feature_storyboard.html#33",
+"de": "<i>5</i><b>Kamerabewegung</b><span>Richtung + ein Wort fürs Tempo</span>"
+},
+{
+"key": "feature_storyboard.html#34",
+"de": "<i>6</i><b>Regieanweisung</b><span>Das Geschehen als Verb</span>"
+},
+{
+"key": "feature_storyboard.html#35",
+"de": "<i>7</i><b>Sprechertext · Dialog</b><span>N / V.O. / SYNC</span>"
+},
+{
+"key": "feature_storyboard.html#36",
+"de": "<i>8</i><b>Ton</b><span>M · SE · ATM</span>"
+},
+{
+"key": "feature_storyboard.html#37",
+"de": "<i>9</i><b>Übergang</b><span>CUT / DIS / FI / FO</span>"
+},
+{
+"key": "feature_storyboard.html#38",
+"de": "<b>Abb. 57</b> Elemente eines Storyboard-Felds. Erst wenn alle neun eingetragen sind, kann jemand anderes dasselbe Bild drehen."
+},
+{
+"key": "feature_storyboard.html#39",
+"de": "<small>Im Feld</small>Nur, was man sieht"
+},
+{
+"key": "feature_storyboard.html#40",
+"de": "Position und Größe von Personen · Objekten (Einstellungsgröße = Zeichengröße)"
+},
+{
+"key": "feature_storyboard.html#41",
+"de": "Blickrichtung, Bewegungspfeile (Motiv = schwarz, Kamera = weinrot)"
+},
+{
+"key": "feature_storyboard.html#42",
+"de": "Text- und Logoflächen im Bild als gestrichelte Kästen"
+},
+{
+"key": "feature_storyboard.html#43",
+"de": "Gestrichelte Linie des Sicherheitsbereichs – Texte nur innerhalb"
+},
+{
+"key": "feature_storyboard.html#44",
+"de": "<small>Außerhalb des Felds</small>Was man hört, und Messwerte"
+},
+{
+"key": "feature_storyboard.html#45",
+"de": "Zeit: Dauer in Sekunden und laufender Timecode"
+},
+{
+"key": "feature_storyboard.html#46",
+"de": "Kürzel: SIZE / ANGLE / LENS / MOVE / TR"
+},
+{
+"key": "feature_storyboard.html#47",
+"de": "Regieanweisungen als Verben, Emotionen als Adjektive – getrennt halten"
+},
+{
+"key": "feature_storyboard.html#48",
+"de": "N · V.O. · SYNC · M · SE – vier Tonebenen in einer Zeile"
+},
+{
+"key": "feature_storyboard.html#49",
+"de": "<small>DOPPELSEITE 02</small>Feldvorlagen nach Seitenverhältnis – ein anderes Format ändert die Grammatik der Komposition"
+},
+{
+"key": "feature_storyboard.html#50",
+"de": "Zeichnen Sie Storyboard-Felder immer <b>im exakten Seitenverhältnis der Abgabe</b>. Ein in 16:9 gezeichnetes und dann ins Hochformat beschnittenes Board ist kein Board. Jede Vorlage unten inszeniert dieselbe Szene (Person · Produkt · Hintergrund) für ihr Format neu. Die gestrichelten Linien markieren den Aktionsbereich (90 %) und den Titelbereich (80 %)."
+},
+{
+"key": "feature_storyboard.html#51",
+"de": "Feldvorlagen nach Seitenverhältnis"
+},
+{
+"key": "feature_storyboard.html#52",
+"de": "<b>4:3</b><span>1440×1080 · Retro</span>"
+},
+{
+"key": "feature_storyboard.html#53",
+"de": "<b>16:9</b><span>1920×1080 · Standard</span>"
+},
+{
+"key": "feature_storyboard.html#54",
+"de": "<b>21:9</b><span>3840×1608 · Kino</span>"
+},
+{
+"key": "feature_storyboard.html#55",
+"de": "<b>1:1</b><span>1080×1080 · Feed</span>"
+},
+{
+"key": "feature_storyboard.html#56",
+"de": "<b>4:5</b><span>1080×1350 · Feed max.</span>"
+},
+{
+"key": "feature_storyboard.html#57",
+"de": "<b>9:16</b><span>1080×1920 · Kurzvideo</span>"
+},
+{
+"key": "feature_storyboard.html#58",
+"de": "<b>9:21</b><span>1080×2520 · Hochkant-LED</span>"
+},
+{
+"key": "feature_storyboard.html#59",
+"de": "<b>2:1 equirektangulär</b><span>4096×2048 · 360/VR – roter Rahmen = vordere 90°</span>"
+},
+{
+"key": "feature_storyboard.html#60",
+"de": "<b>Tafel SB-1</b> Eine Szene, neun Formate. Ändert sich das Format, ändern sich die Größe des Motivs und der Anteil des Hintergrunds – zeichnen Sie das Board im exakten Seitenverhältnis der Abgabe."
+},
+{
+"key": "feature_storyboard.html#61",
+"de": "Format"
+},
+{
+"key": "feature_storyboard.html#62",
+"de": "Typische Auflösung"
+},
+{
+"key": "feature_storyboard.html#63",
+"de": "Einsatz"
+},
+{
+"key": "feature_storyboard.html#64",
+"de": "Kompositionsregel in einer Zeile"
+},
+{
+"key": "feature_storyboard.html#65",
+"de": "Beim Zeichnen beachten"
+},
+{
+"key": "feature_storyboard.html#66",
+"de": "YouTube, TV, Monitore, Präsentationen"
+},
+{
+"key": "feature_storyboard.html#67",
+"de": "Augen und Produkt auf den Drittellinien"
+},
+{
+"key": "feature_storyboard.html#68",
+"de": "In 4K drehen → Spielraum fürs Hochformat"
+},
+{
+"key": "feature_storyboard.html#69",
+"de": "Kino, Markenfilme"
+},
+{
+"key": "feature_storyboard.html#70",
+"de": "Horizontaler Leerraum ist Emotion; zwei Personen in einer Einstellung"
+},
+{
+"key": "feature_storyboard.html#71",
+"de": "Abgabe mit Letterbox in 16:9; Textposition prüfen"
+},
+{
+"key": "feature_storyboard.html#72",
+"de": "Instagram Reels · YouTube Shorts · TikTok"
+},
+{
+"key": "feature_storyboard.html#73",
+"de": "Mittlere 60 %, Gesicht im oberen Drittel"
+},
+{
+"key": "feature_storyboard.html#74",
+"de": "UI verdeckt oben 14 % · unten 25 %"
+},
+{
+"key": "feature_storyboard.html#75",
+"de": "Hochkant-LED, Aufzüge · Säulen"
+},
+{
+"key": "feature_storyboard.html#76",
+"de": "Fluss oben→unten, senkrechte Mittellinie"
+},
+{
+"key": "feature_storyboard.html#77",
+"de": "Betrachtungsabstand ab 2 m → Text mind. 60 px"
+},
+{
+"key": "feature_storyboard.html#78",
+"de": "Feed-Werbung"
+},
+{
+"key": "feature_storyboard.html#79",
+"de": "Zentriert, gleichmäßige Ränder"
+},
+{
+"key": "feature_storyboard.html#80",
+"de": "16:9-Material verliert seitlich 44 %"
+},
+{
+"key": "feature_storyboard.html#81",
+"de": "VR-Headsets, 360°-Player"
+},
+{
+"key": "feature_storyboard.html#82",
+"de": "Handlung in den vorderen 90°, Ton von hinten"
+},
+{
+"key": "feature_storyboard.html#83",
+"de": "Verzerrung an Zenit · Nadir, Stativ wegretuschieren"
+},
+{
+"key": "feature_storyboard.html#84",
+"de": "Freies Format"
+},
+{
+"key": "feature_storyboard.html#85",
+"de": "Anzahl LED-Module × Pixelabstand"
+},
+{
+"key": "feature_storyboard.html#86",
+"de": "Gekrümmt · Fassade · Kuppel"
+},
+{
+"key": "feature_storyboard.html#87",
+"de": "Bezug ist die „Betrachterposition“, nicht die Fläche"
+},
+{
+"key": "feature_storyboard.html#88",
+"de": "Abwicklung + Draufsicht, zwei Blätter zusammen"
+},
+{
+"key": "feature_storyboard.html#89",
+"de": "<small>DOPPELSEITE 03</small>Quer- und Hochformat sind keine verschiedenen Medien, sondern verschiedene Sprachen – dieselbe Einstellung zweimal gestalten"
+},
+{
+"key": "feature_storyboard.html#90",
+"de": "Dieselbe Einstellung zweimal gestalten"
+},
+{
+"key": "feature_storyboard.html#91",
+"de": "<b>✕ Hochformat mittig aus 16:9 beschnitten</b><span>Halbe Person, halbes Fenster – Beschneiden ist kein Gestalten</span>"
+},
+{
+"key": "feature_storyboard.html#92",
+"de": "<b>○ Einstellung neu fürs Hochformat gestaltet</b><span>Gesicht im oberen Drittel, Produkt mittig, weniger Hintergrund</span>"
+},
+{
+"key": "feature_storyboard.html#93",
+"de": "<b>Wechsel ins Hochformat</b><span>Einstellungen eine Größe enger</span><span>Hintergrund in eigene Einstellung</span><span>Blick und Bewegung von oben nach unten</span><span>Texte im mittleren 60-%-Band</span><span>20–30 % mehr Einstellungen</span>"
+},
+{
+"key": "feature_storyboard.html#94",
+"de": "<b>Tafel SB-2</b> Quer- und Hochformat sind verschiedene Sprachen. Der Unterschied zwischen mittigem Beschnitt (links) und Neugestaltung (Mitte)."
+},
+{
+"key": "feature_storyboard.html#95",
+"de": "Hochformat-Board – Kurzvideo-Spot, 15 s (9:16, 6 Einstellungen)"
+},
+{
+"key": "feature_storyboard.html#96",
+"de": "Hochformat-Board (Beispiel)"
+},
+{
+"key": "feature_storyboard.html#97",
+"de": "<b>CU · LOCKED</b><span>Gähnen · Text „Jeden Morgen das?“</span>"
+},
+{
+"key": "feature_storyboard.html#98",
+"de": "<b>ECU · HIGH · Ranfahrt</b><span>Hand nimmt die Flasche · SE Deckel</span>"
+},
+{
+"key": "feature_storyboard.html#99",
+"de": "<b>MCU · HH</b><span>Ein Schluck, die Augen gehen auf · „Oh.“</span>"
+},
+{
+"key": "feature_storyboard.html#100",
+"de": "<b>LS · LOW · TILT UP</b><span>Stadt vor dem Fenster · N Bevor die Stadt erwacht</span>"
+}
+]

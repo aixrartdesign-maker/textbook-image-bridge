@@ -1,0 +1,54 @@
+{
+ "stem": "p322_316_1831x681",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p322_316_1831x681.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Line of action: one curve through the body — an axis makes the pose read",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 72,
+    "chars_per_line_max": 113,
+    "chars_per_line_if_shrunk": 138,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "C curve — one force",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 45,
+    "chars_per_line_if_shrunk": 55,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Weak pose — no axis",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "S curve — balance & rhythm",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 26,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 40,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

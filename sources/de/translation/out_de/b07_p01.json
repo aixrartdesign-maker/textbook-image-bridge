@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#300",
+"de": "Kernbegriffe"
+},
+{
+"key": "part05.html#301",
+"de": "<small>Einheit</small>Komposition"
+},
+{
+"key": "part05.html#302",
+"de": "Die Arbeitsfläche als Grundeinheit. Auflösung · Bildrate · Dauer werden hier festgelegt"
+},
+{
+"key": "part05.html#303",
+"de": "Zuerst prüfen – ist sie falsch angelegt, beginnt alles von vorn"
+},
+{
+"key": "part05.html#304",
+"de": "<small>Element</small>Ebene"
+},
+{
+"key": "part05.html#305",
+"de": "Obere Ebenen verdecken untere"
+},
+{
+"key": "part05.html#306",
+"de": "Footage, Farbfläche, Text, Form, Kamera, Licht, Null-Objekt"
+},
+{
+"key": "part05.html#307",
+"de": "<small>Bewegung</small>Keyframe"
+},
+{
+"key": "part05.html#308",
+"de": "Markiert, wann sich ein Wert ändert"
+},
+{
+"key": "part05.html#309",
+"de": "Grundlagen: Position · Skalierung · Drehung · Deckkraft, Kürzel P S R T"
+},
+{
+"key": "part05.html#310",
+"de": "<small>Bündeln</small>Vorkomponieren"
+},
+{
+"key": "part05.html#311",
+"de": "Fasst mehrere Ebenen zu einer zusammen"
+},
+{
+"key": "part05.html#312",
+"de": "Schlüssel zur Steuerung der Effektreihenfolge"
+},
+{
+"key": "part05.html#313",
+"de": "<small>Freistellen</small>Track Matte"
+},
+{
+"key": "part05.html#314",
+"de": "Stellt anhand der Form (Alpha) oder Helligkeit (Luma) einer anderen Ebene frei"
+},
+{
+"key": "part05.html#315",
+"de": "Ständig im Einsatz, um 3D-Text zu maskieren"
+},
+{
+"key": "part05.html#316",
+"de": "<small>Hierarchie</small>Parenting"
+},
+{
+"key": "part05.html#317",
+"de": "Verknüpft eine Ebene so mit einer anderen, dass sich beide gemeinsam bewegen"
+},
+{
+"key": "part05.html#318",
+"de": "Über ein übergeordnetes Null-Objekt komplexe Bewegungen gemeinsam steuern"
+},
+{
+"key": "part05.html#319",
+"de": "<small>Formeln</small>Expressions"
+},
+{
+"key": "part05.html#320",
+"de": "Werte per Formel: Schleifen · wiggle · Verknüpfungen ohne Keyframes"
+},
+{
+"key": "part05.html#321",
+"de": "wiggle und loopOut sind das Pflichtprogramm für den Einstieg"
+},
+{
+"key": "part05.html#322",
+"de": "Funktionen nach Kategorie"
+},
+{
+"key": "part05.html#323",
+"de": "Kategorie"
+},
+{
+"key": "part05.html#324",
+"de": "Hauptfunktionen"
+},
+{
+"key": "part05.html#325",
+"de": "Praxiseinsatz"
+},
+{
+"key": "part05.html#326",
+"de": "Texte"
+},
+{
+"key": "part05.html#327",
+"de": "Textanimatoren, Quelltext, Pfadtext"
+},
+{
+"key": "part05.html#328",
+"de": "Titel, animierte Untertitel, Texteinblendungen"
+},
+{
+"key": "part05.html#329",
+"de": "Formen"
+},
+{
+"key": "part05.html#330",
+"de": "Formebenen, Trim Paths, Repeater"
+},
+{
+"key": "part05.html#331",
+"de": "Infografiken, Linienanimationen, Formübergänge"
+},
+{
+"key": "part05.html#332",
+"de": "Masken"
+},
+{
+"key": "part05.html#333",
+"de": "Zeichenstiftmasken, weiche Maskenkante, Maskenausweitung"
+},
+{
+"key": "part05.html#334",
+"de": "Teilbereiche einblenden, Übergänge"
+},
+{
+"key": "part05.html#335",
+"de": "Rotoskopie"
+},
+{
+"key": "part05.html#336",
+"de": "Rotoskopierpinsel, Kante verbessern"
+},
+{
+"key": "part05.html#337",
+"de": "Personen freistellen, wenn kein Chroma-Key möglich ist"
+},
+{
+"key": "part05.html#338",
+"de": "Chroma-Key"
+},
+{
+"key": "part05.html#339",
+"de": "Keylight, (Advanced) Spill Suppressor"
+},
+{
+"key": "part05.html#340",
+"de": "Greenscreen-Compositing"
+},
+{
+"key": "part05.html#341",
+"de": "Motion-Tracking"
+},
+{
+"key": "part05.html#342",
+"de": "2D-Punkt, Corner-Pin, 3D-Kamera-Tracker, Mocha"
+},
+{
+"key": "part05.html#343",
+"de": "Elemente fixieren, Displayinhalte ersetzen"
+},
+{
+"key": "part05.html#344",
+"de": "3D-Ebenen, Kameras, Lichter, Schatten, Schärfentiefe"
+},
+{
+"key": "part05.html#345",
+"de": "3D-Titel, räumliche Inszenierung"
+},
+{
+"key": "part05.html#346",
+"de": "Marionette"
+},
+{
+"key": "part05.html#347",
+"de": "Puppet-Pins, Starch-Werkzeug"
+},
+{
+"key": "part05.html#348",
+"de": "Illustrierte Figuren animieren"
+},
+{
+"key": "part05.html#349",
+"de": "Zeit"
+},
+{
+"key": "part05.html#350",
+"de": "Zeitverzerrung, Force Motion Blur, Pixel Motion"
+},
+{
+"key": "part05.html#351",
+"de": "Tempoänderung, Speed-Ramps"
+},
+{
+"key": "part05.html#352",
+"de": "Farbe"
+},
+{
+"key": "part05.html#353",
+"de": "Lumetri-Farbe, Kurven, Farbbalance"
+},
+{
+"key": "part05.html#354",
+"de": "Farbangleichung der Elemente"
+},
+{
+"key": "part05.html#355",
+"de": "Effekte"
+},
+{
+"key": "part05.html#356",
+"de": "Leuchten, Weichzeichnung, Versatz, Fraktales Rauschen"
+},
+{
+"key": "part05.html#357",
+"de": "Licht, Verzerrung, Textur"
+},
+{
+"key": "part05.html#358",
+"de": "Ausgabe"
+},
+{
+"key": "part05.html#359",
+"de": "Renderliste, Media-Encoder-Anbindung"
+},
+{
+"key": "part05.html#360",
+"de": "Ausgabe mit Alpha, finale Abgabe"
+},
+{
+"key": "part05.html#361",
+"de": "Arbeitsreihenfolge für 3D-Text und Beleuchtung"
+},
+{
+"key": "part05.html#362",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part05.html#363",
+"de": "Gleichen Sie die Brennweite der Kamera an das Objektiv der Realaufnahme an, sonst stimmt die Perspektive nicht."
+},
+{
+"key": "part05.html#364",
+"de": "<b>01</b><span>Schrift wählen. Bei enger Laufweite stoßen die Buchstaben in der 3D-Extrusion zusammen – daher weit sperren und fett setzen.</span>"
+},
+{
+"key": "part05.html#365",
+"de": "<b>02</b><span>Textebene zur 3D-Ebene machen und Extrusionstiefe festlegen. 15–30 % der Buchstabenhöhe sind unbedenklich.</span>"
+},
+{
+"key": "part05.html#366",
+"de": "<b>03</b><span>Material festlegen. Metall: Reflexionen und Glanzlichter; matt: überwiegend diffus.</span>"
+},
+{
+"key": "part05.html#367",
+"de": "<b>04</b><span>Kamera hinzufügen. Brennweite an das Objektiv der Realaufnahme angleichen.</span>"
+},
+{
+"key": "part05.html#368",
+"de": "<b>05</b><span>Lichter setzen. Schattenrichtung in der Aufnahme prüfen und das Führungslicht im selben Winkel setzen.</span>"
+},
+{
+"key": "part05.html#369",
+"de": "<b>06</b><span>Bodenebene anlegen, die die Schatten auffängt. Ohne sie wirkt der Text wie ein Aufkleber, der in der Luft schwebt.</span>"
+},
+{
+"key": "part05.html#370",
+"de": "<b>07</b><span>Bewegung hinzufügen. Standardmäßig Ease-out für Auftritte, Ease-in für Abgänge.</span>"
+},
+{
+"key": "part05.html#371",
+"de": "<b>08</b><span>Bewegungsunschärfe aktivieren und die Körnung an die Realaufnahme anpassen.</span>"
+},
+{
+"key": "part05.html#372",
+"de": "Easing (Beschleunigen · Abbremsen): Richtwerte"
+},
+{
+"key": "part05.html#373",
+"de": "<b>Easing (Tempoverlauf)</b>"
+},
+{
+"key": "part05.html#374",
+"de": "Der Verlauf von Beschleunigung · Abbremsung einer Bewegung. Linear wirkt mechanisch; Easy Ease wird am Anfang und am Ende langsamer. Formen Sie den Verlauf im Diagrammeditor als Geschwindigkeitskurve."
+},
+{
+"key": "part05.html#375",
+"de": "Easing-Typ"
+},
+{
+"key": "part05.html#376",
+"de": "Wirkung"
+},
+{
+"key": "part05.html#377",
+"de": "Einsatz"
+},
+{
+"key": "part05.html#378",
+"de": "Bilder bei 24 fps"
+},
+{
+"key": "part05.html#379",
+"de": "Linear (gleichförmig)"
+},
+{
+"key": "part05.html#380",
+"de": "Mechanisch, leblos"
+},
+{
+"key": "part05.html#381",
+"de": "Endlosschleifen, drehende Hintergründe"
+},
+{
+"key": "part05.html#382",
+"de": "Ease-out"
+},
+{
+"key": "part05.html#383",
+"de": "Kommt schnell an, landet weich"
+},
+{
+"key": "part05.html#384",
+"de": "Auftritte"
+},
+{
+"key": "part05.html#385",
+"de": "10–15 Bilder"
+},
+{
+"key": "part05.html#386",
+"de": "Ease-in"
+},
+{
+"key": "part05.html#387",
+"de": "Startet langsam, zieht dann davon"
+},
+{
+"key": "part05.html#388",
+"de": "Abgänge"
+},
+{
+"key": "part05.html#389",
+"de": "8–12 Bilder"
+},
+{
+"key": "part05.html#390",
+"de": "Ease-in-out"
+},
+{
+"key": "part05.html#391",
+"de": "Am natürlichsten"
+},
+{
+"key": "part05.html#392",
+"de": "Die meisten Bewegungen"
+},
+{
+"key": "part05.html#393",
+"de": "12–18 Bilder"
+},
+{
+"key": "part05.html#394",
+"de": "Überschwingen"
+},
+{
+"key": "part05.html#395",
+"de": "Schießt übers Ziel hinaus, kehrt zurück"
+},
+{
+"key": "part05.html#396",
+"de": "Lebendige Logo-Einblendungen"
+},
+{
+"key": "part05.html#397",
+"de": "15–20 Bilder"
+},
+{
+"key": "part05.html#398",
+"de": "Abprallen"
+},
+{
+"key": "part05.html#399",
+"de": "Prallt ab und kommt zur Ruhe"
+},
+{
+"key": "part05.html#400",
+"de": "Lockere Formate, Kinderinhalte"
+},
+{
+"key": "part05.html#401",
+"de": "20–25 Bilder"
+},
+{
+"key": "part05.html#402",
+"de": "Motion Graphics: Reihenfolge der Korrekturen"
+},
+{
+"key": "part05.html#403",
+"de": "<b>01</b><i>Easing anwenden</i>Keine rechtwinkligen Knicke in der Geschwindigkeitskurve"
+},
+{
+"key": "part05.html#404",
+"de": "<b>02</b><i>Antizipation einbauen</i>Erst in die Gegenrichtung bewegen"
+},
+{
+"key": "part05.html#405",
+"de": "<b>03</b><i>Nachschwingen versetzen</i>Angehängte Teile nachziehen lassen"
+},
+{
+"key": "part05.html#406",
+"de": "<b>04</b><i>Übertreibung steigern</i>Überlebensgroß"
+},
+{
+"key": "part05.html#407",
+"de": "Wenden Sie nur diese vier Schritte der Reihe nach an, und der typische Anfängerlook verschwindet. Eine Geschwindigkeitskurve, die im Diagrammeditor rechtwinklig abknickt, wirkt immer unbeholfen – glätten Sie sie."
+},
+{
+"key": "part05.html#408",
+"de": "Was neuere Updates verändert haben"
+},
+{
+"key": "part05.html#409",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part05.html#410",
+"de": "Funktionsnamen und Verhalten ändern sich von Version zu Version. Prüfen Sie vor der Übung die Neuerungen Ihrer installierten Version."
+},
+{
+"key": "part05.html#411",
+"de": "<small>Rotoskopie</small>Rotoskopierpinsel 3.0"
+},
+{
+"key": "part05.html#412",
+"de": "KI-gestützter Rotoskopierpinsel. Grobe Striche auf einem Einzelbild genügen, um selbst Haare · weiche Kanten zu verfolgen"
+},
+{
+"key": "part05.html#413",
+"de": "Heute Standard, um ohne Chroma-Key gedrehte Personen freizustellen"
+},
+{
+"key": "part05.html#414",
+"de": "<small>3D</small>Advanced-3D-Renderer"
+},
+{
+"key": "part05.html#415",
+"de": "3D-Modelle (.glb · .gltf · .obj · .fbx) direkt in eine Komposition importieren"
+},
+{
+"key": "part05.html#416",
+"de": "3D-Lichter, Schatten und Umgebungslicht, die mit der Realaufnahme verschmelzen"
+},
+{
+"key": "part05.html#417",
+"de": "<small>Kamera</small>3D-Kamera · Null-Objekt"
+},
+{
+"key": "part05.html#418",
+"de": "Kamera einem Null-Objekt unterordnen und Dollyfahrt · Kreisfahrt · Ranfahrt über eine Eigenschaft steuern"
+},
+{
+"key": "part05.html#419",
+"de": "Text · Modelle · flache Ebenen teilen sich eine Perspektive in einem Raum"
+},
+{
+"key": "part05.html#420",
+"de": "<small>Chroma-Key</small>Keylight + Key Cleaner · Advanced Spill Suppressor"
+},
+{
+"key": "part05.html#421",
+"de": "Grund-Key mit Keylight ziehen, Kanten mit Key Cleaner säubern"
+},
+{
+"key": "part05.html#422",
+"de": "Grünen Spill auf der Haut mit Advanced Spill Suppressor entfernen. Die drei in dieser Reihenfolge zu stapeln, ist das Basis-Set"
+},
+{
+"key": "part05.html#423",
+"de": "<small>Eigenschaften</small>Eigenschaften-Bedienfeld · Essential Properties"
+},
+{
+"key": "part05.html#424",
+"de": "Häufig genutzte Eigenschaften der ausgewählten Ebene in einem Bedienfeld – bearbeitbar, ohne die Timeline zu öffnen"
+},
+{
+"key": "part05.html#425",
+"de": "Essential Properties machen Werte in einer Vorkomposition zugänglich, sodass jede Kopie anders sein kann"
+},
+{
+"key": "part05.html#426",
+"de": "<small>Integration</small>Dynamic Link · Textbasierte Bearbeitung · Generatives Erweitern"
+},
+{
+"key": "part05.html#427",
+"de": "Dynamic Link legt AE-Kompositionen ohne Rendern in die Premiere-Timeline"
+},
+{
+"key": "part05.html#428",
+"de": "Textbasierte Bearbeitung (Schnitt anhand des Transkripts) und Generatives Erweitern (zusätzliche Länge an Clipenden generieren) in Premiere beschleunigen den Schnitt"
+},
+{
+"key": "part05.html#429",
+"de": "<b>Referenzfotos 5.5A</b>Generierte Bilder – Compositing und Motion Graphics"
+},
+{
+"key": "part05.html#430",
+"de": "<span class=\"ph-id\">P05-ROTO</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Rotoskopie · Keying · Compositing</b>Links eine Person vor dem Greenscreen mit Maskenlinien, rechts das Ergebnis, in eine Straßenszene eingefügt</span>"
+},
+{
+"key": "part05.html#431",
+"de": "<b>a</b>Rotoskopie · Keying · Compositing – Trennung (Roto · Key), Bereinigung (Spill-Entfernung) und Farbangleichung an den Hintergrund gehören zusammen"
+},
+{
+"key": "part05.html#432",
+"de": "<span class=\"ph-id\">P05-MOGRAPH</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Motion Graphics in der Praxis</b>Ein 3D-Viewport mit Kamera-Rig und Null-Objekt, animierte Textebenen</span>"
+},
+{
+"key": "part05.html#433",
+"de": "<b>b</b>Motion Graphics in der Praxis – Kamerabewegungen mit 3D-Kamera und Null-Objekt gestalten, Easing auf Textebenen anwenden"
+},
+{
+"key": "part05.html#434",
+"de": "<small>Übung</small>5.5"
+},
+{
+"key": "part05.html#435",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#436",
+"de": "Erstellen Sie in After Effects eine 5-sekündige Logo-Animation."
+},
+{
+"key": "part05.html#437",
+"de": "Tipp"
+},
+{
+"key": "part05.html#438",
+"de": "Passen Sie Ease-in · Ease-out im Diagrammeditor an."
+},
+{
+"key": "part05.html#439",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#440",
+"de": "Beschleunigung und Abbremsung, Stimmigkeit mit der Markentonalität"
+},
+{
+"key": "part05.html#441",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#442",
+"de": "Vergleichen Sie die lineare Version und die Version mit Kurve direkt nebeneinander."
+},
+{
+"key": "part05.html#443",
+"de": "Hintergrund 8"
+},
+{
+"key": "part05.html#444",
+"de": "Die Illusion des Lebens<br>– Ursprung der Animationsprinzipien"
+},
+{
+"key": "part05.html#445",
+"de": "Wie man unbewegten Zeichnungen Gewicht, Charakter und Gefühl einhaucht, wurde über Jahrzehnte durch Versuch und Irrtum erarbeitet. Die Animationsprinzipien sind Physik und Schauspieltheorie zugleich."
+},
+{
+"key": "part05.html#446",
+"de": "1914 zeigte Winsor McCays Film Gertie the Dinosaur eine Figur, die vor Publikum Befehle entgegennahm und darauf reagierte – der Beweis, dass Animation ein Wesen mit Persönlichkeit erschaffen kann. Bei der Vorbereitung des Films Schneewittchen und die sieben Zwerge (1937) ließ das Walt Disney Studio seine Animatoren echte Tiere und Menschen in Bewegung beobachten und unterrichtete sie in Zeichnen und Anatomie."
+},
+{
+"key": "part05.html#447",
+"de": "Disneys wichtigste Animatoren jener Zeit wurden die „Nine Old Men“ genannt. Zwei von ihnen, Frank Thomas und Ollie Johnston, verdichteten die Prinzipien des Studios in ihrem Buch The Illusion of Life (1981) auf zwölf: Stauchen und Strecken, Antizipation, Inszenierung, Pose zu Pose, Nachschwingen, Slow-in und Slow-out, Bögen, sekundäre Aktion, Timing, Übertreibung, solides Zeichnen, Ausstrahlung. Sie sind weniger Regeln als Wege, beobachtete Wirklichkeit so zu übersetzen, dass das Publikum sie stärker spürt."
+},
+{
+"key": "part05.html#448",
+"de": "Die Hälfte der Prinzipien ist Physik. Ein Ball, der sich bei der Landung staucht und beim Abspringen streckt, ein schwerer Gegenstand, der langsam anläuft und langsam zum Stehen kommt – das macht Masse und Trägheit sichtbar. Die andere Hälfte ist Schauspiel. Antizipation kündigt die nächste Aktion an, Übertreibung verdeutlicht das Gefühl, und Ausstrahlung lässt das Publikum sein Herz an die Figur verlieren."
+},
+{
+"key": "part05.html#449",
+"de": "1987 stellte John Lasseter von Pixar auf der SIGGRAPH „Principles of Traditional Animation Applied to 3D Computer Animation“ vor. Seine These: Das Werkzeug wechselte vom Bleistift zum Computer, doch wie das Publikum Leben in Bewegung wahrnimmt, blieb gleich. Wer heute als Motion Designer ein Logo im Diagrammeditor mit Easing versieht, folgt denselben Prinzipien."
+}
+]

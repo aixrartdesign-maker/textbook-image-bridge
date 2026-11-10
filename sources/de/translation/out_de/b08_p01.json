@@ -1,0 +1,602 @@
+[
+{
+"key": "part07.html#257",
+"de": "Auflösung"
+},
+{
+"key": "part07.html#258",
+"de": "4K genügt"
+},
+{
+"key": "part07.html#259",
+"de": "Ab 8K (nur Ausschnitt sichtbar)"
+},
+{
+"key": "part07.html#260",
+"de": "Dreh und Sehkomfort"
+},
+{
+"key": "part07.html#261",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "part07.html#262",
+"de": "Nodalpunkt – der optische Mittelpunkt des Objektivs. Drehen Sie die Kamera um diese Achse, um Stitching-Fehler zu minimieren."
+},
+{
+"key": "part07.html#263",
+"de": "<small>Stitching</small>Nähte und Mindestabstand"
+},
+{
+"key": "part07.html#264",
+"de": "An der Nahtlinie überlappen die Objektivränder – Hauptmotive dort meiden"
+},
+{
+"key": "part07.html#265",
+"de": "Unter 1 m Kameraabstand versagt das Stitching. Untergrenze für den Motivabstand"
+},
+{
+"key": "part07.html#266",
+"de": "<small>Gegen Übelkeit</small>Kein Beschleunigen · Fixpunkt · enges Sichtfeld"
+},
+{
+"key": "part07.html#267",
+"de": "Passen Sehen und Innenohr nicht zusammen, wird einem übel. Nur konstantes Tempo"
+},
+{
+"key": "part07.html#268",
+"de": "Ein Fixpunkt im Bild – etwa Cockpit oder Geländer – mindert die Übelkeit deutlich"
+},
+{
+"key": "part07.html#269",
+"de": "Vignettierung engt bei Bewegung das periphere Sehen ein"
+},
+{
+"key": "part07.html#270",
+"de": "Blicklenkung"
+},
+{
+"key": "part07.html#271",
+"de": "Prinzip"
+},
+{
+"key": "part07.html#272",
+"de": "Stärke"
+},
+{
+"key": "part07.html#273",
+"de": "Raumklang"
+},
+{
+"key": "part07.html#274",
+"de": "Lenkt den Kopf zum Klang"
+},
+{
+"key": "part07.html#275",
+"de": "Sehr stark"
+},
+{
+"key": "part07.html#276",
+"de": "Licht, Helligkeit"
+},
+{
+"key": "part07.html#277",
+"de": "Umgebung abdunkeln, nur das Ziel ausleuchten"
+},
+{
+"key": "part07.html#278",
+"de": "Stark"
+},
+{
+"key": "part07.html#279",
+"de": "Bewegung"
+},
+{
+"key": "part07.html#280",
+"de": "Eines bewegt sich, der Rest ruht"
+},
+{
+"key": "part07.html#281",
+"de": "Stark"
+},
+{
+"key": "part07.html#282",
+"de": "Blick"
+},
+{
+"key": "part07.html#283",
+"de": "Darsteller blickt gezielt in eine Richtung"
+},
+{
+"key": "part07.html#284",
+"de": "Mittel"
+},
+{
+"key": "part07.html#285",
+"de": "Farbe, Kontrast"
+},
+{
+"key": "part07.html#286",
+"de": "Komplementär- oder satte Farben"
+},
+{
+"key": "part07.html#287",
+"de": "Mittel"
+},
+{
+"key": "part07.html#288",
+"de": "Endet das Erlebnis, ohne dass sich jemand umgedreht hat, ist die Planung gescheitert.<small>6.5 Der Prüfstein einer 360°-Planung</small>"
+},
+{
+"key": "part07.html#289",
+"de": "<b>G-21</b> 360°-Video und VR – ein Raum, in dem der Betrachter zur Kamera wird (mit GPT generiertes Bild – nur zur Veranschaulichung)"
+},
+{
+"key": "part07.html#290",
+"de": "VR-Raum nach Abstand planen"
+},
+{
+"key": "part07.html#291",
+"de": "In VR gibt es statt eines Rahmens die Distanz. An die Stelle der Einstellungsgröße tritt, was Sie wo rund um den Betrachter platzieren. Zu nah, und die Augen schielen unangenehm; zu weit, und es wird zum Hintergrund."
+},
+{
+"key": "part07.html#292",
+"de": "VR-Raum nach Abstand planen"
+},
+{
+"key": "part07.html#293",
+"de": "Unter 0,5 m – Unbehagenszone"
+},
+{
+"key": "part07.html#294",
+"de": "1–3 m – Interaktionszone"
+},
+{
+"key": "part07.html#295",
+"de": "Über 8 m – Hintergrundzone"
+},
+{
+"key": "part07.html#296",
+"de": "Betrachter"
+},
+{
+"key": "part07.html#297",
+"de": "<b>Drei gleich große Boxen</b><span>1 m – groß und plastisch, fast greifbar</span><span>3 m – mittelgroß, der angenehmste Abstand</span><span>8 m – klein und flach wie Hintergrund</span><b>Fünf Wege gegen Übelkeit</b><span>Nicht beschleunigen – konstant oder per Teleport</span><span>Horizont nicht kippen</span><span>Kamera auf Augenhöhe (1,6 m)</span><span>Wichtiges innerhalb ±60° von vorn</span><span>Ab 60 fps, Latenz max. 20 ms</span>"
+},
+{
+"key": "part07.html#298",
+"de": "<b>Abb. 65-1</b> Distanzgestaltung in VR – dieselbe Box wirkt in 1 m, 3 m und 8 m Abstand vom Betrachter unterschiedlich groß und tief. Interaktion platzieren Sie bei 1–3 m, Hintergrund über 8 m."
+},
+{
+"key": "part07.html#299",
+"de": "<b>Referenzfotos 6.5B</b>Medien, in denen das Publikum steht – VR · 360° · Fulldome"
+},
+{
+"key": "part07.html#300",
+"de": "<span class=\"ph-id\">P07-VR-USER</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>VR – das Publikum steht mittendrin</b>Person mit Headset streckt beide Hände aus, Wohnzimmer</span>"
+},
+{
+"key": "part07.html#301",
+"de": "<b>a</b>Der Körper des Betrachters ist die Kamera – die Armlänge ist das erste Gestaltungsmaß"
+},
+{
+"key": "part07.html#302",
+"de": "<span class=\"ph-id\">P07-VR-WORLD</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>In VR – dreidimensionaler Raum</b>Virtuelle Galerie aus der Ich-Perspektive, Leitmarkierungen am Boden und Hand-Controller</span>"
+},
+{
+"key": "part07.html#303",
+"de": "<b>b</b>Markierungen am Boden ersetzen die Kadrierung"
+},
+{
+"key": "part07.html#304",
+"de": "<span class=\"ph-id\">P07-360RIG</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>360°-Dreh – das Stativ wird wegretuschiert</b>360°-Kamera auf dünnem Einbeinstativ, allein auf einem Platz</span>"
+},
+{
+"key": "part07.html#305",
+"de": "<b>c</b>Kein Versteck fürs Team – daher fernsteuern und den Stativfuß in der Post entfernen"
+},
+{
+"key": "part07.html#306",
+"de": "<span class=\"ph-id\">P07-DOME</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Fulldome</b>Das Meer, auf eine Kuppeldecke projiziert, Zuschauer liegen zurückgelehnt und blicken nach oben</span>"
+},
+{
+"key": "part07.html#307",
+"de": "<b>d</b>Immersion ohne Headset – viele Menschen blicken in denselben Raum hinauf"
+},
+{
+"key": "part07.html#308",
+"de": "<small>Übung</small>6.5"
+},
+{
+"key": "part07.html#309",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#310",
+"de": "Planen Sie mit 360°-Kamera oder Smartphone-Panorama eine 30-Sekunden-Szene, die den Blick lenkt."
+},
+{
+"key": "part07.html#311",
+"de": "Tipp"
+},
+{
+"key": "part07.html#312",
+"de": "Lenken Sie den Blick mit Ton, Licht und Bewegung."
+},
+{
+"key": "part07.html#313",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#314",
+"de": "Blicklenkung, Schutz vor Übelkeit"
+},
+{
+"key": "part07.html#315",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#316",
+"de": "Gestaltet einen Ablauf, dessen Geschichte in jeder Blickrichtung trägt."
+},
+{
+"key": "part07.html#317",
+"de": "<b>TEIL 07</b>Medienspezifikationen und immersive Inhalte"
+},
+{
+"key": "part07.html#318",
+"de": "AR-Werbung und WebAR"
+},
+{
+"key": "part07.html#319",
+"de": "Fragen Sie zuerst, ob es einen Grund gibt, dieses Erlebnis in AR umzusetzen. Reicht ein Video, ist AR Geldverschwendung."
+},
+{
+"key": "part07.html#320",
+"de": "Typ"
+},
+{
+"key": "part07.html#321",
+"de": "Funktionsweise"
+},
+{
+"key": "part07.html#322",
+"de": "Werkzeuge"
+},
+{
+"key": "part07.html#323",
+"de": "Einsatz"
+},
+{
+"key": "part07.html#324",
+"de": "Gesichtsfilter"
+},
+{
+"key": "part07.html#325",
+"de": "Erkennt Gesicht, legt Grafik darüber"
+},
+{
+"key": "part07.html#326",
+"de": "Creator-Tools von Social Media"
+},
+{
+"key": "part07.html#327",
+"de": "Virtuelle Anprobe, Marken-Challenges"
+},
+{
+"key": "part07.html#328",
+"de": "Marker-AR"
+},
+{
+"key": "part07.html#329",
+"de": "Erkennt definiertes Bild, spielt ab"
+},
+{
+"key": "part07.html#330",
+"de": "AR-Autorentools"
+},
+{
+"key": "part07.html#331",
+"de": "Verpackung, Plakate"
+},
+{
+"key": "part07.html#332",
+"de": "AR mit Flächenerkennung"
+},
+{
+"key": "part07.html#333",
+"de": "Erkennt Boden und Wände, platziert dann"
+},
+{
+"key": "part07.html#334",
+"de": "Mobile AR-Frameworks"
+},
+{
+"key": "part07.html#335",
+"de": "Möbel und Geräte probeweise platzieren"
+},
+{
+"key": "part07.html#336",
+"de": "Standortbasierte AR"
+},
+{
+"key": "part07.html#337",
+"de": "Startet an GPS-Koordinaten"
+},
+{
+"key": "part07.html#338",
+"de": "Standort-Plattformen"
+},
+{
+"key": "part07.html#339",
+"de": "Ladenbesuche, lokale Kampagnen"
+},
+{
+"key": "part07.html#340",
+"de": "WebAR"
+},
+{
+"key": "part07.html#341",
+"de": "Läuft im Browser, keine App nötig"
+},
+{
+"key": "part07.html#342",
+"de": "WebAR-Dienste"
+},
+{
+"key": "part07.html#343",
+"de": "QR-Soforterlebnisse"
+},
+{
+"key": "part07.html#344",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part07.html#345",
+"de": "Am wichtigsten ist der erste Bildschirm – erreichbar ohne App-Installation."
+},
+{
+"key": "part07.html#346",
+"de": "Vier Grundsätze für AR-Werbung"
+},
+{
+"key": "part07.html#347",
+"de": "<b>01</b><span>Fragen Sie zuerst, warum es AR sein muss. Reicht ein Video, ist AR Geldverschwendung.</span>"
+},
+{
+"key": "part07.html#348",
+"de": "<b>02</b><span>Halten Sie das Erlebnis unter 30 Sekunden. Die tatsächliche Nutzungsdauer mobiler AR ist sehr kurz.</span>"
+},
+{
+"key": "part07.html#349",
+"de": "<b>03</b><span>Planen Sie immer einen teilenswerten Moment ein. Screenshots und Shares sind die wahren Kennzahlen von AR-Werbung.</span>"
+},
+{
+"key": "part07.html#350",
+"de": "<b>04</b><span>Testen Sie auf Einsteigergeräten. Ein Erlebnis, das nur auf den neuesten Geräten läuft, scheitert.</span>"
+},
+{
+"key": "part07.html#351",
+"de": "AR-Brillen – Untertitel vor Augen"
+},
+{
+"key": "part07.html#352",
+"de": "AR, für die man früher das Smartphone hochhielt, wandert nun auf die Brille. Stand 2025 lassen sich die erhältlichen Datenbrillen grob in drei Typen einteilen; Produktnamen werden sich ändern, die Typen aber noch eine Weile Bestand haben."
+},
+{
+"key": "part07.html#353",
+"de": "<small>Kamera · Sprach-KI</small>Ray-Ban-Meta-Reihe"
+},
+{
+"key": "part07.html#354",
+"de": "Kein Display, nur Kamera, Lautsprecher und Sprach-KI"
+},
+{
+"key": "part07.html#355",
+"de": "Fotos · Videos in Ich-Perspektive, beschreibt, was vor Ihnen liegt"
+},
+{
+"key": "part07.html#356",
+"de": "Spricht Live-Übersetzungen ins Ohr"
+},
+{
+"key": "part07.html#357",
+"de": "Der leichteste, meistverkaufte Typ"
+},
+{
+"key": "part07.html#358",
+"de": "<small>Display</small>Xreal-Reihe · Meta Ray-Ban Display u. a."
+},
+{
+"key": "part07.html#359",
+"de": "Kleines Display im Glas – Untertitel · Navigation · Übersetzung"
+},
+{
+"key": "part07.html#360",
+"de": "Xreal-Modelle zeigen den Bildschirm eines verbundenen Geräts als große virtuelle Leinwand vor Ihnen"
+},
+{
+"key": "part07.html#361",
+"de": "Meta Ray-Ban Display: kleines Farbdisplay in einem Glas, Gestensteuerung per Armband"
+},
+{
+"key": "part07.html#362",
+"de": "Enges Sichtfeld; lange Texte nicht darstellbar"
+},
+{
+"key": "part07.html#363",
+"de": "<small>Spatial-Computing-Headset</small>Apple Vision Pro · Meta-Quest-Reihe"
+},
+{
+"key": "part07.html#364",
+"de": "Passthrough-Kameras blenden Fenster und 3D-Objekte in die Realität ein"
+},
+{
+"key": "part07.html#365",
+"de": "Steuerung über Hände und Blick; spielt räumliche Videos ab"
+},
+{
+"key": "part07.html#366",
+"de": "Gewicht und Preis machen es nicht zum „Alltagsgerät“"
+},
+{
+"key": "part07.html#367",
+"de": "Erste Wahl für Erlebnisse in Innenräumen · Ausstellungen · Bildung"
+},
+{
+"key": "part07.html#368",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part07.html#369",
+"de": "Denken Sie Untertitel für Brillen zeilenweise: eine Zeile, wenige Wörter. Sprechen Sie zuerst das Ohr an, nicht das Auge, und setzen Sie Text nur unterstützend ein."
+},
+{
+"key": "part07.html#370",
+"de": "Für Kreative ändern sich drei Dinge. Erstens erscheint Text klein am Rand des Sichtfelds, nicht mitten auf einem Bildschirm. Ist er nicht kurz, groß und kontrastreich, wird er nicht gelesen."
+},
+{
+"key": "part07.html#371",
+"de": "Zweitens: Sprache zuerst. Brillen bedient man freihändig, daher ersetzt ein Wechsel aus Fragen und Antworten die Berührung. Drittens wird Video in Ich-Perspektive zum Standardformat. Jede Kopfbewegung wird mit aufgezeichnet, und die Seitenverhältnisse variieren je Gerät – 16:9 quer ist keine sichere Annahme."
+},
+{
+"key": "part07.html#372",
+"de": "„Jenseits der Linse“, zuerst im Kino"
+},
+{
+"key": "part07.html#373",
+"de": "Das rote HUD im Blickfeld des Terminators erkannte Objekte und blendete Daten ein; Minority Report zeigte eine Gestensteuerung, mit der man Bildschirme in der Luft verschiebt; und das Helm-HUD von Iron Man prägte die Idee einer Oberfläche in Ich-Perspektive, deren Informationen dem Blick folgen."
+},
+{
+"key": "part07.html#374",
+"de": "„Kurzer Text am Rand des Sichtfelds“, „Gestensteuerung“, „eine Stimme, die beschreibt, was man sieht“: Was heutige AR-Brillen bieten, ist Grammatik, die der Film zuerst entwarf. Das Publikum hat solche Bilder dutzendfach gesehen, daher versteht es AR-Inhalte ohne Erklärung."
+},
+{
+"key": "part07.html#375",
+"de": "<b>Referenzfotos 6.6A</b>Eine Ebene über der Realität – von AR in der Hand zu AR im Blick"
+},
+{
+"key": "part07.html#376",
+"de": "<span class=\"ph-id\">P07-AR-PHONE</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>AR – eine Ebene über der Realität</b>Virtuelles Sofa im Wohnzimmer auf dem Smartphone-Display, ringsum der reale Raum</span>"
+},
+{
+"key": "part07.html#377",
+"de": "<b>a</b>AR mit Flächenerkennung – Boden finden, dann Objekt platzieren"
+},
+{
+"key": "part07.html#378",
+"de": "<span class=\"ph-id\">P07-AR-GLASS</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>AR-Brille – übersetzte Untertitel vor Augen</b>Person mit schlanker Datenbrille im Café, schwach leuchtende Untertitel im Glas</span>"
+},
+{
+"key": "part07.html#379",
+"de": "<b>b</b>Display-Brille – ein einzeiliger Untertitel erscheint am Rand des Sichtfelds"
+},
+{
+"key": "part07.html#380",
+"de": "<span class=\"ph-id\">P07-HUD</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Der Blick „jenseits der Linse“, den der Film zuerst erdachte</b>Straße durch ein Visier, Fadenkreuz und Scan-Rahmen, unleserliche Datenbalken</span>"
+},
+{
+"key": "part07.html#381",
+"de": "<b>c</b>Das HUD in Ich-Perspektive im Film – Fantasie, die zur heutigen AR-Grammatik wurde"
+},
+{
+"key": "part07.html#382",
+"de": "<small>Übung</small>6.6"
+},
+{
+"key": "part07.html#383",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#384",
+"de": "Skizzieren Sie für ein Produkt ein WebAR-Erlebnis als 3-stufige Bildschirmfolge."
+},
+{
+"key": "part07.html#385",
+"de": "Tipp"
+},
+{
+"key": "part07.html#386",
+"de": "Am wichtigsten ist der erste Bildschirm – erreichbar ohne App-Installation."
+},
+{
+"key": "part07.html#387",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#388",
+"de": "Einfache Nutzerführung, Anreiz zum Teilen"
+},
+{
+"key": "part07.html#389",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#390",
+"de": "Führt das Ergebnis nahtlos zum Teilen in sozialen Medien."
+},
+{
+"key": "part07.html#391",
+"de": "<b>TEIL 07</b>Medienspezifikationen und immersive Inhalte"
+},
+{
+"key": "part07.html#392",
+"de": "MR- und XR-Ausstellungen planen"
+},
+{
+"key": "part07.html#393",
+"de": "Eine Ausstellungsplanung muss den stündlichen Durchsatz berechnen. Fehlt diese Zahl, gibt es vor Ort Probleme mit Warteschlangen."
+},
+{
+"key": "part07.html#394",
+"de": "<b>Abb. 66</b> AR, MR und VR auf dem Kontinuum zwischen Realität und Virtualität"
+},
+{
+"key": "part07.html#395",
+"de": "Den Besucherweg als eine Linie vom Ein- zum Ausgang planen"
+},
+{
+"key": "part07.html#396",
+"de": "Eingang · Schlange"
+},
+{
+"key": "part07.html#397",
+"de": "Headset auf · 2 Min. Einweisung"
+},
+{
+"key": "part07.html#398",
+"de": "Zone A"
+},
+{
+"key": "part07.html#399",
+"de": "Zone B"
+},
+{
+"key": "part07.html#400",
+"de": "Zone C"
+},
+{
+"key": "part07.html#401",
+"de": "Desinfektion · Abgabe"
+},
+{
+"key": "part07.html#402",
+"de": "Fotozone"
+},
+{
+"key": "part07.html#403",
+"de": "Foto · Teilen 60 s"
+},
+{
+"key": "part07.html#404",
+"de": "Ausgang · Shop"
+},
+{
+"key": "part07.html#405",
+"de": "EIN"
+},
+{
+"key": "part07.html#406",
+"de": "AUS →"
+}
+]

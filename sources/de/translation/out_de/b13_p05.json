@@ -1,0 +1,174 @@
+[
+{
+"key": "part12.html#803",
+"de": "Motion Design"
+},
+{
+"key": "part12.html#804",
+"de": "Schrift und Bewegung im Takt"
+},
+{
+"key": "part12.html#805",
+"de": "10-Sekunden-Loop"
+},
+{
+"key": "part12.html#806",
+"de": "Keyframe-Kurven, Zeitaufwand"
+},
+{
+"key": "part12.html#807",
+"de": "Planung · AE"
+},
+{
+"key": "part12.html#808",
+"de": "Kampagnen mit Ergebnissen in Zahlen"
+},
+{
+"key": "part12.html#809",
+"de": "Komplette Endfassung"
+},
+{
+"key": "part12.html#810",
+"de": "1-seitiges Konzept, KPIs"
+},
+{
+"key": "part12.html#811",
+"de": "KI-Einsatz"
+},
+{
+"key": "part12.html#812",
+"de": "Arbeiten mit sichtbarem menschlichem Urteil"
+},
+{
+"key": "part12.html#813",
+"de": "Generiert vs. korrigiert"
+},
+{
+"key": "part12.html#814",
+"de": "Prompts; Zahl der Versuche"
+},
+{
+"key": "part12.html#815",
+"de": "So zeigen Sie Arbeiten mit KI"
+},
+{
+"key": "part12.html#816",
+"de": "Den Einsatz generativer Tools zu verbergen, ist nicht mehr die sichere Wahl. Entscheidend ist nicht, ob Sie sie genutzt haben, sondern wo und wie – und was ein Mensch entschieden hat."
+},
+{
+"key": "part12.html#817",
+"de": "<b>Anteil angeben</b> – Geben Sie ihn nach Arbeitsschritten an, etwa „Hintergrund von KI generiert, Compositing und Color Grading von mir“. Übertreibung fliegt nach ein, zwei konkreten Nachfragen auf."
+},
+{
+"key": "part12.html#818",
+"de": "<b>Auswahl dokumentieren</b> – Zeigen Sie das eine Bild, das Sie aus 20 generierten gewählt haben, und warum – so beweisen Sie Ihr Auge, nicht das des Tools."
+},
+{
+"key": "part12.html#819",
+"de": "<b>Rechte prüfen</b> – Klären Sie die Bedingungen für kommerzielle Nutzung und ob reale Personen oder Marken vorkommen; gibt es ein Problem, halten Sie die Arbeit aus dem öffentlichen Portfolio heraus."
+},
+{
+"key": "part12.html#820",
+"de": "Der Weg zum Job"
+},
+{
+"key": "part12.html#821",
+"de": "<b>01</b><i>Vor der Bewerbung</i>Die in der Anzeige geforderten Fähigkeiten tabellieren und passende Arbeiten zuordnen. Leere Zellen sind die Hausaufgabe fürs nächste Semester"
+},
+{
+"key": "part12.html#822",
+"de": "<b>02</b><i>Bewerbung</i>Portfoliolink auf Seite 1. Zu jedem genannten Tool eine Zeile über eine Entscheidung, die Sie damit getroffen haben"
+},
+{
+"key": "part12.html#823",
+"de": "<b>03</b><i>Gespräch</i>Vier Sätze pro Projekt: „Absicht-Einschränkung-Entscheidung-Ergebnis“"
+},
+{
+"key": "part12.html#824",
+"de": "<b>04</b><i>Im Job</i>Die ersten 3 Monate prüfen die Haltung. Termine halten, Dateien ordnen, bei Unsicherheit früh fragen"
+},
+{
+"key": "part12.html#825",
+"de": "Nehmen Sie für jede neue Arbeit Ihre schwächste heraus. Der Umfang bleibt gleich, aber der Durchschnitt steigt stetig.<small>11.14 Mit Ihren Arbeiten zum Job</small>"
+},
+{
+"key": "part12.html#826",
+"de": "<small>Übung</small>11.14"
+},
+{
+"key": "part12.html#827",
+"de": "Aufgabe"
+},
+{
+"key": "part12.html#828",
+"de": "Tragen Sie alle bisherigen Arbeiten in eine Tabelle ein, wählen Sie eine Rolle, für die Sie sich bewerben wollen, und suchen Sie 5 Arbeiten aus. Schreiben Sie zu jeder die vier Sätze „Absicht-Einschränkung-Entscheidung-Ergebnis“ und Ihren Anteil an der Arbeit."
+},
+{
+"key": "part12.html#829",
+"de": "Tipp"
+},
+{
+"key": "part12.html#830",
+"de": "Ordnen Sie Ihre 5 Arbeiten so, dass die stärkste vorn und die zweitstärkste am Ende steht."
+},
+{
+"key": "part12.html#831",
+"de": "Bewertung"
+},
+{
+"key": "part12.html#832",
+"de": "Passen die Arbeiten zur Rolle? Ist Ihr Anteil korrekt angegeben? Halten die vier Sätze Entscheidungen fest, statt mit Ergebnissen zu prahlen?"
+},
+{
+"key": "part12.html#833",
+"de": "Musterlösung"
+},
+{
+"key": "part12.html#834",
+"de": "Dasselbe Projekt in zwei Fassungen für Bewerbungen in Kamera und Schnitt, jeweils mit anderen Ausschnitten und Notizen."
+},
+{
+"key": "part12.html#835",
+"de": "TEIL 12 – Abschluss"
+},
+{
+"key": "part12.html#836",
+"de": "Auf einen Blick"
+},
+{
+"key": "part12.html#837",
+"de": "11.1 Wie sehr die Produktionszeit schrumpfte"
+},
+{
+"key": "part12.html#838",
+"de": "Kosten und Zeit der Generierung sanken, die Auswahlzeit nicht. Zahlen mit Quelle und Bedingungen angeben."
+},
+{
+"key": "part12.html#839",
+"de": "11.2 Wie die Pipeline umgebaut wurde"
+},
+{
+"key": "part12.html#840",
+"de": "Von linear zur Schleife Generieren↔Auswählen↔Neugenerieren. Stoppkriterien · fixierte Zonen · Versionsprotokolle schützen den Zeitplan."
+},
+{
+"key": "part12.html#841",
+"de": "11.3 Wo im Prozess KI tatsächlich zum Einsatz kommt"
+},
+{
+"key": "part12.html#842",
+"de": "Konzentriert auf Varianten · Lokalisierung und VFX-Umsetzung; Drehplanung, Markenelemente und Strategie bleiben beim Menschen."
+},
+{
+"key": "part12.html#843",
+"de": "11.4 Menschen: KI-Schauspieler und digitale Doubles"
+},
+{
+"key": "part12.html#844",
+"de": "Basisbild → Referenzeingabe → Charakterblatt → Korrektur in der Postproduktion. Zuerst Persönlichkeitsrecht · Umfang · Offenlegung · Dokumentation prüfen."
+},
+{
+"key": "part12.html#845",
+"de": "11.5 Hintergründe: Sets, LED-Wände, generierte Hintergründe"
+}
+]

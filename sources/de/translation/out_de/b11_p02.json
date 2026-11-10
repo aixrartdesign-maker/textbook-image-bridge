@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#965",
+"de": "TEIL 08 Die ersten 3 Sekunden eines Spots"
+},
+{
+"key": "part09.html#966",
+"de": "Unterscheiden Sie die sechs Typen des 3-Sekunden-Hooks und erklären Sie, welchen Typ die ersten 3 Sekunden Ihres Lieblingsspots nutzen."
+},
+{
+"key": "part09.html#967",
+"de": "8.1 Plattformkarte"
+},
+{
+"key": "part09.html#968",
+"de": "Ob Zuschauer gezielt zum Schauen kommen oder beim Ansehen von etwas anderem darauf stoßen, entscheidet über die Strategie der ersten 3 Sekunden."
+},
+{
+"key": "part09.html#969",
+"de": "8.2 YouTube-Betrieb"
+},
+{
+"key": "part09.html#970",
+"de": "Schlüsselwörter in die ersten 25 Zeichen des Titels; Thumbnail-Text 3–7 Zeichen, mindestens 15 % der Bildhöhe."
+},
+{
+"key": "part09.html#971",
+"de": "8.3 Die großen 3 Kurzvideo-Plattformen"
+},
+{
+"key": "part09.html#972",
+"de": "Shorts 20–60 s, Reels 15–30 s, TikTok 9–21 s. Die oberen 12 % und die unteren 20 % verdeckt die UI."
+},
+{
+"key": "part09.html#973",
+"de": "8.4 Instagram-Betrieb"
+},
+{
+"key": "part09.html#974",
+"de": "10–15 Hashtags, gemischt aus großen · mittleren · kleinen. Antworten Sie in der ersten Stunde nach dem Posten auf Kommentare."
+},
+{
+"key": "part09.html#975",
+"de": "8.5 TikTok und Remix"
+},
+{
+"key": "part09.html#976",
+"de": "Was perfekt ist, rührt niemand an. Erst Raum zum Nachahmen sorgt für Verbreitung."
+},
+{
+"key": "part09.html#977",
+"de": "8.7 Blogplattformen"
+},
+{
+"key": "part09.html#978",
+"de": "Setzen Sie eine Zusammenfassung über und unter das Video und übernehmen Sie das Drehbuch in den Fließtext – dann steigt der Suchtraffic."
+},
+{
+"key": "part09.html#979",
+"de": "8.8 Leistungskennzahlen"
+},
+{
+"key": "part09.html#980",
+"de": "Lesen Sie die Kennzahlen der Reihe nach: Reichweite, Klickrate, Wiedergabedauer, Interaktion."
+},
+{
+"key": "part09.html#981",
+"de": "8.9 Generative KI-Tools"
+},
+{
+"key": "part09.html#982",
+"de": "Beschränken Sie KI auf drei Stellen: Ideen erweitern, Entwürfe visualisieren, Post automatisieren. Das Konzept in einem Satz delegieren Sie nie."
+},
+{
+"key": "part09.html#983",
+"de": "8.10 Kanalbetrieb"
+},
+{
+"key": "part09.html#984",
+"de": "Definition in einem Satz, feste Formate, Upload-Plan, visuelle Regeln, eine Kennzahl. Nutzen Sie eine Idee in vielen Medien."
+},
+{
+"key": "part09.html#985",
+"de": "8.12 SNS-Werbung"
+},
+{
+"key": "part09.html#986",
+"de": "Schalten Sie 3–5 Werbemittel zugleich, vergleichen Sie je eine Variable und kennzeichnen Sie Sponsoring · Werbung immer."
+},
+{
+"key": "part09.html#987",
+"de": "8.13 KI-Pipeline"
+},
+{
+"key": "part09.html#988",
+"de": "Generierte Einstellungen nicht für Gesichter und max. 1/3; Verzeichnung und Korn der Realaufnahmen darüberlegen. KI-Einsatz dokumentieren."
+},
+{
+"key": "part09.html#989",
+"de": "Selbstkontrolle"
+},
+{
+"key": "part09.html#990",
+"de": "Können Sie die sechs Typen des 3-Sekunden-Hooks erklären?"
+},
+{
+"key": "part09.html#991",
+"de": "Wissen Sie, wie sich die Klickrate der Impressionen von der Wiedergabedauer unterscheidet?"
+},
+{
+"key": "part09.html#992",
+"de": "Können Sie erklären, warum man große, mittlere und kleine Hashtags mischt?"
+},
+{
+"key": "part09.html#993",
+"de": "Können Sie mit Blick auf Duett und Stitch planen?"
+},
+{
+"key": "part09.html#994",
+"de": "Können Sie einschätzen, in welcher Phase KI-Tools ins Spiel kommen?"
+},
+{
+"key": "part09.html#995",
+"de": "Praxistipps"
+},
+{
+"key": "part09.html#996",
+"de": "Die Resonanz in der ersten Stunde nach dem Posten bestimmt die spätere Reichweite – posten Sie daher, wenn Sie Kommentare beantworten können. Lassen Sie Eigennamen in Auto-Untertiteln immer von einem Menschen prüfen. Ein falsch geschriebener Firmenname zerstört das Vertrauen im Nu. Dokumentieren Sie den KI-Einsatz in den Produktionsunterlagen. Immer mehr Aufträge kommen mit Offenlegungspflicht."
+},
+{
+"key": "part09.html#997",
+"de": "Denkanstöße"
+},
+{
+"key": "part09.html#998",
+"de": "Kann ich meinen Kanal in einem Satz definieren? Steckt in diesem Satz ein Grund zum Abonnieren?"
+},
+{
+"key": "part09.html#999",
+"de": "Das ist der erste der 5 Schritte zur Kanalgestaltung in 8.10. Wenn Sie nicht sagen können, was der Kanal wem bietet, gibt es keinen Grund zu abonnieren."
+},
+{
+"key": "part09.html#1000",
+"de": "Was an meiner Arbeit kann KI nicht für mich tun?"
+},
+{
+"key": "part09.html#1001",
+"de": "Das Urteil darüber, was gedreht wird, die Sprache, um zu erklären, warum es genau diese Einstellung sein muss, die Abstimmung mit dem Auftraggeber, der Umgang mit Überraschungen am Set. Je mächtiger die Werkzeuge, desto mehr ist Urteilsvermögen wert."
+},
+{
+"key": "part10.html#0",
+"de": "TEIL"
+},
+{
+"key": "part10.html#1",
+"de": "<small>TEIL</small>10"
+},
+{
+"key": "part10.html#2",
+"de": "<b>Das erstellen Sie in diesem TEIL</b>"
+},
+{
+"key": "part10.html#3",
+"de": "Eine Wertschöpfungskarte der Videobranche"
+},
+{
+"key": "part10.html#4",
+"de": "Ein Angebot mit 8 Posten, ein einfacher Vertrag"
+},
+{
+"key": "part10.html#5",
+"de": "Ein 5-Jahres-Pfad für Ihren Wunschberuf"
+},
+{
+"key": "part10.html#6",
+"de": "Branchen- und Markttrends"
+},
+{
+"key": "part10.html#7",
+"de": "Video ist ein schönes Hobby, doch die meisten Leser dieses Buches wollen damit arbeiten. Zu wissen, wohin das Geld fließt, wer wem Aufträge gibt und welche Berufe wachsen oder schrumpfen, gehört zum Können. Dieser TEIL beantwortet die Frage „Woher kommt der Wert von Video?“ mit der Struktur und den Zahlen des Marktes."
+},
+{
+"key": "part10.html#8",
+"de": "Foto P-10 Eine ganze Crew bei der Arbeit im Studio · generiertes Bild"
+},
+{
+"key": "part10.html#9",
+"de": "<b>P-10</b> Eine ganze Crew bei der Arbeit im Studio"
+},
+{
+"key": "part10.html#10",
+"de": "Dieses Kapitel im Unterricht"
+},
+{
+"key": "part10.html#11",
+"de": "Marktstruktur sowie Grundlagen von Angeboten und Verträgen verstehen"
+},
+{
+"key": "part10.html#12",
+"de": "<b>Material</b>10 Stellenanzeigen, eine Angebotsvorlage"
+},
+{
+"key": "part10.html#13",
+"de": "<b>10 Min.</b><i>Einstieg</i><span>Häufige Anforderungen aktueller Stellenanzeigen sammeln</span>"
+},
+{
+"key": "part10.html#14",
+"de": "<b>15 Min.</b><i>Begriffe</i><span>Branchenstruktur, Trends im In- und Ausland, 7 Vertragsklauseln</span>"
+},
+{
+"key": "part10.html#15",
+"de": "<b>10 Min.</b><i>Tafeln</i><span>Berufskarte und Karrierepfade durchgehen</span>"
+},
+{
+"key": "part10.html#16",
+"de": "<b>10 Min.</b><i>Übung</i><span>Angebot für einen fiktiven freien Auftrag schreiben</span>"
+},
+{
+"key": "part10.html#17",
+"de": "<b>5 Min.</b><i>Abschluss</i><span>Warum die Portfolio-Klausel wichtig ist</span>"
+},
+{
+"key": "part10.html#18",
+"de": "<b>Kontrollpunkt</b>Nennt das Angebot die Zahl der Korrekturschleifen und den Nutzungsumfang?"
+},
+{
+"key": "part10.html#19",
+"de": "TEIL 10"
+},
+{
+"key": "part10.html#20",
+"de": "Einführung"
+},
+{
+"key": "part10.html#21",
+"de": "Video ist ein schönes Hobby, doch die meisten Leser dieses Buches wollen damit arbeiten. Dann müssen Sie zuerst die Struktur des Marktes verstehen. Zu wissen, wohin das Geld fließt, wer wem Aufträge gibt und welche Berufe wachsen und welche schrumpfen, gehört zum Können."
+},
+{
+"key": "part10.html#22",
+"de": "Der Wandel, auf den es ankommt: Der Schwerpunkt der Videojobs hat sich von Rundfunk und Film zu Digital, E-Commerce und Inhouse-Teams in Unternehmen verlagert. Früher waren die großen Einstellungsrunden der Sender das einzige Tor; heute stellen Brand-Content-Teams, Videoabteilungen von E-Commerce-Firmen und kleine Studios weit mehr Einsteiger ein. Dieser Wandel hat auch verändert, was in ein Portfolio gehört."
+},
+{
+"key": "part10.html#23",
+"de": "Zugleich drückt generative KI die Honorare für einfachen Schnitt und einfache Grafik. Überleben heißt nicht, Werkzeuge schneller zu lernen, sondern auf die Ebene des Urteils aufzusteigen. Zu entscheiden, was gedreht wird, zu erklären, warum diese Einstellung, und sich mit dem Auftraggeber zu einigen, bleibt Menschenarbeit."
+},
+{
+"key": "part10.html#24",
+"de": "Hintergrund 18"
+},
+{
+"key": "part10.html#25",
+"de": "Woher der Wert von Video kommt"
+},
+{
+"key": "part10.html#26",
+"de": "Bis ein Video sein Publikum erreicht, sind viele Menschen und Firmen beteiligt. Wissen Sie, wo in dieser Kette Wert entsteht, sehen Sie, wo Sie selbst stehen können. Die klassische Filmbranche gliederte sich in Entwicklung und Finanzierung, Produktion, Verleih und Vorführung; nach dem Kinostart erschien ein Film nacheinander auf Video, im Pay-TV und im frei empfangbaren Fernsehen. Die je nach Medium gestaffelte Veröffentlichung heißt Holdback oder Windowing (Auswertungsfenster). Es war eine Struktur, um mit demselben Werk bei verschiedenen Zielgruppen zu verdienen."
+},
+{
+"key": "part10.html#27",
+"de": "Streamingdienste haben diese Ordnung kräftig erschüttert. Werke überspringen heute das Kino und starten direkt weltweit, und immer mehr Plattformen finanzieren und produzieren selbst. YouTube und Kurzvideo-Plattformen eröffneten einzelnen Creators einen Weg, Finanzierung und Vertrieb zu überspringen und ihr Publikum direkt zu erreichen. Mit sinkenden Produktionskosten und verschwindenden Vertriebshürden verlagert sich der Wert von Video immer stärker auf die Frage, „wer ein Publikum versammeln kann“."
+},
+{
+"key": "part10.html#28",
+"de": "Ein Schlüsselbegriff dieses Wandels ist geistiges Eigentum, kurz IP. Wandern eine Geschichte und ihre Figuren vom Webtoon in Serie, Spiel und Merchandise, vervielfacht sich der Wert. Koreanische Inhalte finden weltweit Beachtung – nicht nur durch einzelne Hits, sondern weil ihre Geschichten, Figuren und Welten die Kraft haben, in andere Medien überzugehen."
+},
+{
+"key": "part10.html#29",
+"de": "Aus Sicht der Produktion entsteht Wert nicht allein aus technischem Können. Der Wert eines Spots liegt darin, das Problem der Marke zu lösen, der eines Lehrvideos darin, Lernenden das Verstehen zu erleichtern, der eines Creator-Videos im Vertrauen eines bestimmten Publikums. Erzielen zwei Menschen mit gleichem Können beim Dreh unterschiedliche Honorare, liegt es meist an diesem Unterschied im Problemlösen."
+},
+{
+"key": "part10.html#30",
+"de": "Ein nützlicher Rahmen für den Blick auf die Branche ist die Wertschöpfungskette. Fragen Sie auf jeder Stufe, wer das Risiko trägt und wer den Gewinn einstreicht: Planung und Entwicklung, Produktion, Postproduktion, Vertrieb, Vorführung und Konsum. Traditionell trugen Investoren und Produktionsfirmen das Risiko, und der Gewinn wurde in Vertrieb und Vorführung wieder eingespielt. Im Plattformzeitalter ist ein Großteil des Risikos auf die Plattformen übergegangen; im Gegenzug nehmen mehr Produktionsfirmen ein festes Produktionshonorar und verzichten auf erfolgsabhängige Zusatzerlöse."
+},
+{
+"key": "part10.html#31",
+"de": "Das Einkommen einzelner Creators speist sich aus vier Quellen: freie Auftragsarbeiten, Anteile an den Werbeerlösen der Plattformen, direkte Markenkooperationen und ein eigenes Geschäft wie Produkte oder Unterricht. Die erstgenannten sind planbar, die späteren schwanken stark, haben aber eine höhere Obergrenze. Wer sich auf eine einzige verlässt, gerät ins Wanken, wenn sich der Markt verschiebt; sicherer ist es, schon früh in der Laufbahn mindestens zwei zu erproben."
+},
+{
+"key": "part10.html#32",
+"de": "Weiterführende Literatur – Harold Vogel, Entertainment Industry Economics · Chris Anderson, The Long Tail"
+},
+{
+"key": "part10.html#33",
+"de": "<b>TEIL 10</b>Branchen- und Markttrends"
+},
+{
+"key": "part10.html#34",
+"de": "Die Struktur der Videobranche"
+},
+{
+"key": "part10.html#35",
+"de": "Wer beauftragt, wer produziert, was entsteht. Kartieren Sie die acht Bereiche, und Sie sehen, wo Sie einsteigen können."
+},
+{
+"key": "part10.html#36",
+"de": "<span class=\"ph-id\">P10-AGENCY</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Werbeagentur</b>Ein Team geht mit dem Auftraggeber den Kampagnenzeitplan auf dem Bildschirm im Besprechungsraum durch</span>"
+},
+{
+"key": "part10.html#37",
+"de": "<b>Hinweis</b>Am Anfang der Werbekette – die Agentur übernimmt Strategie und Planung, die Produktion geht an die Produktionsfirma"
+},
+{
+"key": "part10.html#38",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part10.html#39",
+"de": "Jeder Bereich hat andere Auftraggeber und Macher, daher unterscheidet sich auch, welche Arbeiten in Ihre Bewerbung gehören."
+},
+{
+"key": "part10.html#40",
+"de": "Bereich"
+},
+{
+"key": "part10.html#41",
+"de": "Hauptauftraggeber"
+},
+{
+"key": "part10.html#42",
+"de": "Wer produziert"
+},
+{
+"key": "part10.html#43",
+"de": "Typische Formate"
+},
+{
+"key": "part10.html#44",
+"de": "Rundfunk"
+},
+{
+"key": "part10.html#45",
+"de": "Terrestrisch, Vollprogramm, Kabel"
+},
+{
+"key": "part10.html#46",
+"de": "Externe Produktionsfirmen"
+},
+{
+"key": "part10.html#47",
+"de": "Serie, Unterhaltung, Doku"
+},
+{
+"key": "part10.html#48",
+"de": "Film"
+},
+{
+"key": "part10.html#49",
+"de": "Finanzierende Verleiher"
+},
+{
+"key": "part10.html#50",
+"de": "Produktionsfirmen"
+},
+{
+"key": "part10.html#51",
+"de": "Spielfilme, Kurzfilme"
+},
+{
+"key": "part10.html#52",
+"de": "Werbung"
+},
+{
+"key": "part10.html#53",
+"de": "Werbekunden, Agenturen"
+},
+{
+"key": "part10.html#54",
+"de": "Werbefilmproduktionen"
+},
+{
+"key": "part10.html#55",
+"de": "TV-Spots, Digitalwerbung"
+},
+{
+"key": "part10.html#56",
+"de": "Digitale Inhalte"
+},
+{
+"key": "part10.html#57",
+"de": "Marken, Plattformen"
+},
+{
+"key": "part10.html#58",
+"de": "Content-Studios"
+},
+{
+"key": "part10.html#59",
+"de": "Webshows, Branded Content"
+},
+{
+"key": "part10.html#60",
+"de": "Unternehmens-PR"
+},
+{
+"key": "part10.html#61",
+"de": "Unternehmen, Institutionen, Hochschulen"
+},
+{
+"key": "part10.html#62",
+"de": "Inhouse oder extern"
+},
+{
+"key": "part10.html#63",
+"de": "Imagefilme, Schulungsvideos"
+},
+{
+"key": "part10.html#64",
+"de": "E-Commerce"
+},
+{
+"key": "part10.html#65",
+"de": "Onlinehändler, Marken"
+},
+{
+"key": "part10.html#66",
+"de": "Inhouse, kleine Teams"
+},
+{
+"key": "part10.html#67",
+"de": "Produktseitenvideos, Livestreams"
+},
+{
+"key": "part10.html#68",
+"de": "Creators"
+},
+{
+"key": "part10.html#69",
+"de": "Selbst, MCN"
+},
+{
+"key": "part10.html#70",
+"de": "1 Person oder kleines Team"
+},
+{
+"key": "part10.html#71",
+"de": "YouTube, Kurzvideo"
+},
+{
+"key": "part10.html#72",
+"de": "Immersive Inhalte"
+},
+{
+"key": "part10.html#73",
+"de": "Kommunen, Museen, Marken"
+},
+{
+"key": "part10.html#74",
+"de": "XR-Studios"
+},
+{
+"key": "part10.html#75",
+"de": "Ausstellungen, Projektion, VR"
+},
+{
+"key": "part10.html#76",
+"de": "Stellenanzeigen bestätigen diesen Wandel. Der Zugang, einst auf die Einstellungsrunden der Sender verengt, hat sich auf Brand-Content-Teams, Videostellen bei E-Commerce-Firmen und kleine Studios ausgeweitet, und von dort kommen heute die meisten Einstiegsstellen."
+},
+{
+"key": "part10.html#77",
+"de": "<small>Übung</small>9.1"
+},
+{
+"key": "part10.html#78",
+"de": "Aufgabe"
+},
+{
+"key": "part10.html#79",
+"de": "Zeichnen Sie die Wertschöpfungskette der Videobranche (Planung, Produktion, Vertrieb, Konsum) und notieren Sie die typischen Berufe jeder Stufe."
+},
+{
+"key": "part10.html#80",
+"de": "Tipp"
+},
+{
+"key": "part10.html#81",
+"de": "Markieren Sie die Flussrichtung des Geldes mit Pfeilen."
+},
+{
+"key": "part10.html#82",
+"de": "Bewertung"
+},
+{
+"key": "part10.html#83",
+"de": "Genauigkeit des Strukturverständnisses"
+},
+{
+"key": "part10.html#84",
+"de": "Musterlösung"
+},
+{
+"key": "part10.html#85",
+"de": "Markiert den eigenen Platz auf der Karte und begründet ihn."
+},
+{
+"key": "part10.html#86",
+"de": "<b>TEIL 10</b>Branchen- und Markttrends"
+},
+{
+"key": "part10.html#87",
+"de": "Trends auf dem koreanischen Markt"
+},
+{
+"key": "part10.html#88",
+"de": "In den letzten 15 Jahren hat sich die Nachfrage nach Video erst aus der TV-Werbung gelöst und dann in die Unternehmen selbst verlagert. Am Ende dieses Weges steht generative KI."
+},
+{
+"key": "part10.html#89",
+"de": "<span class=\"ph-id\">P10-PRODCO</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Produktionsfirma</b>Büro einer Produktionsfirma mit einer Reihe von Schnittplätzen, ein Whiteboard mit der Projektpipeline</span>"
+},
+{
+"key": "part10.html#90",
+"de": "<b>Hinweis</b>Die Ersten, die Verschiebungen der koreanischen Nachfrage spüren – Produktionsfirmen haben in 15 Jahren mehrmals ihren Charakter gewechselt"
+},
+{
+"key": "part10.html#91",
+"de": "<b>01</b><i>Frühe 2010er</i>Mit Smartphones und YouTube wächst die Nachfrage nach Unternehmensvideos über die TV-Werbung hinaus; das Genre Viralvideo entsteht"
+},
+{
+"key": "part10.html#92",
+"de": "<b>02</b><i>2015–2018</i>Branded Content und Webshows setzen sich durch; die Grenze zwischen Werbung und Inhalt verschwimmt, Produktionsfirmen wandeln sich"
+},
+{
+"key": "part10.html#93",
+"de": "<b>03</b><i>2019–2021</i>Globale Streamer kommen, die Nachfrage nach Serienproduktionen schnellt hoch; Crews für Kamera · Licht · Ausstattung · Post werden knapp"
+},
+{
+"key": "part10.html#94",
+"de": "<b>04</b><i>2020–2022</i>Die Umstellung auf Distanzformate bringt einen Boom bei Onlinekursen, Live-Shopping und Webinaren; Ein-Personen-Produktion gewinnt an Wert"
+},
+{
+"key": "part10.html#95",
+"de": "<b>05</b><i>2022–2024</i>Kurzvideos ziehen Werbebudgets an sich; Marken bauen eigene Produktionseinheiten und Inhouse-Videostellen aus"
+},
+{
+"key": "part10.html#96",
+"de": "<b>06</b><i>2024–2026</i>Generative KI kommt in der Praxis an; die Honorare für einfachen Schnitt · Grafik sinken, Planung · Regie · Urteilsvermögen gewinnen an Wert"
+},
+{
+"key": "part10.html#97",
+"de": "<b>T-förmige Kompetenz</b>"
+},
+{
+"key": "part10.html#98",
+"de": "Tief in einer Sache, mit Verständnis für den ganzen Prozess. Diese Form von Können sucht der Markt heute."
+},
+{
+"key": "part10.html#99",
+"de": "Was das für Einsteiger bedeutet"
+},
+{
+"key": "part10.html#100",
+"de": "Stellen für Leute, die nur schneiden können, werden weniger. Stellen für Leute, die ein Konzept schreiben, drehen, schneiden und Ergebnisse lesen können, werden mehr."
+},
+{
+"key": "part10.html#101",
+"de": "<small>Übung</small>9.2"
+},
+{
+"key": "part10.html#102",
+"de": "Aufgabe"
+},
+{
+"key": "part10.html#103",
+"de": "Recherchieren Sie anhand von Artikeln und Berichten 3 Veränderungen auf dem koreanischen Videomarkt in den letzten 12 Monaten."
+},
+{
+"key": "part10.html#104",
+"de": "Tipp"
+},
+{
+"key": "part10.html#105",
+"de": "Notieren Sie immer Quellen und Erscheinungsdaten."
+},
+{
+"key": "part10.html#106",
+"de": "Bewertung"
+},
+{
+"key": "part10.html#107",
+"de": "Verlässlichkeit der Quellen, Deutung der Trends"
+},
+{
+"key": "part10.html#108",
+"de": "Musterlösung"
+},
+{
+"key": "part10.html#109",
+"de": "Deutet zudem, wie sich die Veränderungen auf Einstiegsjobs auswirken."
+},
+{
+"key": "part10.html#110",
+"de": "<b>TEIL 10</b>Branchen- und Markttrends"
+},
+{
+"key": "part10.html#111",
+"de": "Auslandsmärkte: Trends und Unterschiede"
+},
+{
+"key": "part10.html#112",
+"de": "In Nordamerika und Europa sind Rollen getrennt, Verträge gelten pro Projekt, und Showreels nennen Ihre Rolle. Kennen Sie die Unterschiede, wissen Sie, was Sie vorbereiten müssen."
+}
+]

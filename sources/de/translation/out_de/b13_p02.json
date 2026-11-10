@@ -1,0 +1,602 @@
+[
+ {
+  "key": "part12.html#353",
+  "de": "Sehr kleines Budget"
+ },
+ {
+  "key": "part12.html#354",
+  "de": "Hohe Mindestkosten"
+ },
+ {
+  "key": "part12.html#355",
+  "de": "Entwürfe kosten fast 0"
+ },
+ {
+  "key": "part12.html#356",
+  "de": "Reale Personen · Orte"
+ },
+ {
+  "key": "part12.html#357",
+  "de": "Authentisch erfasst"
+ },
+ {
+  "key": "part12.html#358",
+  "de": "Rechte- und Genauigkeitsfragen"
+ },
+ {
+  "key": "part12.html#359",
+  "de": "Exakte Bewegung von Wasser · Feuer · Stoff"
+ },
+ {
+  "key": "part12.html#360",
+  "de": "Per Berechnung steuerbar"
+ },
+ {
+  "key": "part12.html#361",
+  "de": "Systematisch instabil"
+ },
+ {
+  "key": "part12.html#362",
+  "de": "Atmosphäre · ferne Hintergründe · Partikel"
+ },
+ {
+  "key": "part12.html#363",
+  "de": "Kostet Zeit und Geld"
+ },
+ {
+  "key": "part12.html#364",
+  "de": "Schnell und günstig"
+ },
+ {
+  "key": "part12.html#365",
+  "de": "Versionen für viele Länder · Formate"
+ },
+ {
+  "key": "part12.html#366",
+  "de": "Nacharbeit für jede Version"
+ },
+ {
+  "key": "part12.html#367",
+  "de": "Stark bei Varianten"
+ },
+ {
+  "key": "part12.html#368",
+  "de": "Bildgestaltung · Licht"
+ },
+ {
+  "key": "part12.html#369",
+  "de": "Kernkompetenz"
+ },
+ {
+  "key": "part12.html#370",
+  "de": "Kaum Fuß gefasst"
+ },
+ {
+  "key": "part12.html#371",
+  "de": "Ein Beleg zur Physik"
+ },
+ {
+  "key": "part12.html#372",
+  "de": "<b>29,5<em>/100</em></b>Wert des besten Videogenerierungsmodells in einem 2026 veröffentlichten Benchmark zum Physikverständnis (echtes Filmmaterial = 100). Wie realistisch ein Clip wirkte, hing nicht nennenswert mit seinem Physikwert zusammen"
+ },
+ {
+  "key": "part12.html#373",
+  "de": "<b>Im Fokus</b>"
+ },
+ {
+  "key": "part12.html#374",
+  "de": "In neueren Studien zur Verbesserung des Flüssigkeitsverhaltens wird mit Referenzdaten aus bestehender Simulationssoftware trainiert. Simulation wird nicht ersetzt; sie ist dem generativen Modell vorgeschaltet."
+ },
+ {
+  "key": "part12.html#375",
+  "de": "Das Fazit der Forschenden ist einfach. Plausibel auszusehen heißt nicht, Physik zu verstehen."
+ },
+ {
+  "key": "part12.html#376",
+  "de": "Mischen ist der Normalfall"
+ },
+ {
+  "key": "part12.html#377",
+  "de": "<b>01</b><span><b>Ebenen trennen</b> – Produkt und zentrale Physik drehen oder simulieren, Hintergrundatmosphäre und Partikel generieren, Compositing und Farbe in der Postproduktion vereinheitlichen.</span>"
+ },
+ {
+  "key": "part12.html#378",
+  "de": "<b>02</b><span><b>Pitch und Endfassung trennen</b> – Pitch-Entwürfe schnell generieren; nach der Freigabe die Endfassung mit einer steuerbaren Methode neu erstellen.</span>"
+ },
+ {
+  "key": "part12.html#379",
+  "de": "<b>03</b><span><b>Offenlegung früh klären</b> – vor der Abgabe auflisten, in welchen Phasen generative Tools eingesetzt wurden. Plattformen und Auftraggeber fragen danach.</span>"
+ },
+ {
+  "key": "part12.html#380",
+  "de": "Sind Markenelemente im Bild, kontrollieren Sie diese Ebene. Der Rest kann generiert werden.<small>11.7 Klassische Produktion und KI-Produktion</small>"
+ },
+ {
+  "key": "part12.html#381",
+  "de": "Fünf Punkte für die Arbeit mit KI – was hineingeht, was geprüft wird"
+ },
+ {
+  "key": "part12.html#382",
+  "de": "<b>① Figuren mit einem Turnaround beginnen</b><span>Zuerst Front · ¾ · Seite · Rücken auf einem Blatt anlegen. Nur wenn dieses Blatt als Referenz eingespeist wird, erscheint in jeder weiteren Einstellung dieselbe Person</span>"
+ },
+ {
+  "key": "part12.html#383",
+  "de": "<b>② Gesichtskonsistenz – Referenz + Merkmale + Seed</b><span>Jedes Mal dasselbe Referenzbild einspeisen und die Erkennungsmerkmale im Prompt wiederholen (Bobfrisur · Leberfleck unter dem linken Auge · mintgrüne Jacke). Nur die Szene ändern</span>"
+ },
+ {
+  "key": "part12.html#384",
+  "de": "<b>③ Prompt-Gerüst – sieben Felder füllen</b><span><b>Motiv</b> koreanischer Barista in den 30ern</span><span><b>Handlung</b> gießt Latte Art in eine weiße Tasse</span><span><b>Ort</b> in einem kleinen, sonnigen Café</span><span><b>Licht</b> warmes seitliches Morgenlicht durch ein Fenster</span><span><b>Objektiv</b> 50 mm f/2, geringe Schärfentiefe</span><span><b>Stil</b> Editorial-Reportage, gedämpfte Filmfarben</span><span><b>Ausschließen</b> Text · Logos · 6 Finger</span><span style=\"color:var(--wine)\">Das Foto links ist das Ergebnis genau dieses Prompts. „50 mm f/2“ wirkt besser als „mach es schön“</span>"
+ },
+ {
+  "key": "part12.html#385",
+  "de": "Stand 2026"
+ },
+ {
+  "key": "part12.html#386",
+  "de": "Standbilder · Entwürfe"
+ },
+ {
+  "key": "part12.html#387",
+  "de": "Praktisch ausgereift – Werbeentwürfe·Moodboards sind schon Standard"
+ },
+ {
+  "key": "part12.html#388",
+  "de": "Videoclips, 5–10 s"
+ },
+ {
+  "key": "part12.html#389",
+  "de": "B-Roll·Hintergründe·Übergänge brauchbar – Hände·Text·schnelle Bewegungen noch nicht"
+ },
+ {
+  "key": "part12.html#390",
+  "de": "Figurenkonsistenz"
+ },
+ {
+  "key": "part12.html#391",
+  "de": "Referenz + Seed halten das Gesicht; Kleidung·Requisiten wechseln oft"
+ },
+ {
+  "key": "part12.html#392",
+  "de": "Lippensync · Dialog"
+ },
+ {
+  "key": "part12.html#393",
+  "de": "Eine Person frontal funktioniert; Profile·Gruppen wirken falsch"
+ },
+ {
+  "key": "part12.html#394",
+  "de": "Physik von Wasser · Feuer · Stoff"
+ },
+ {
+  "key": "part12.html#395",
+  "de": "Plausibel, aber falsch – Physik-Benchmark 29,5/100"
+ },
+ {
+  "key": "part12.html#396",
+  "de": "Erzählungen ab 5 Min."
+ },
+ {
+  "key": "part12.html#397",
+  "de": "Kontinuität reißt zwischen Einstellungen – Menschen fügen sie im Schnitt zusammen"
+ },
+ {
+  "key": "part12.html#398",
+  "de": "<b>Wo es sich am meisten lohnt</b><span>Planung – Dutzende Moodboards · Storyboard-Entwürfe in einer Stunde</span><span>Nicht drehbare Inserts – Weltall · Unterwasser · Vergangenheit · Gefahrenszenen</span><span>Formatvarianten – quer → hochkant · quadratisch · mehrsprachige Versionen</span><span>Postproduktion – Roto · Retusche · Hintergrunderweiterung · Untertitelentwürfe</span>"
+ },
+ {
+  "key": "part12.html#399",
+  "de": "<b>Worauf achten</b><span>Rechte – reale Personen · Logos · den Stil eines bestimmten Werks nicht kopieren</span><span>Offenlegung – generiertes Material im Abspann angeben</span><span>Kontrolle – in jeder Einstellung Finger · Text · Schattenrichtung · Spiegelungen prüfen</span><span>Originale sichern – Prompt · Seed · Modellversion protokollieren, sonst nicht reproduzierbar</span>"
+ },
+ {
+  "key": "part12.html#400",
+  "de": "<b>Abb. 90-1</b> KI in die Praxis bringen – Turnarounds, Gesichtskonsistenz, das Prompt-Gerüst und der Stand 2026. Behandeln Sie KI nicht als „Ersatz“, sondern als „neuen Mitarbeiter, dem man eine Phase übergibt“ – geben Sie konkrete Anweisungen und prüfen Sie die Ergebnisse immer."
+ },
+ {
+  "key": "part12.html#401",
+  "de": "<small>Übung</small>11.7"
+ },
+ {
+  "key": "part12.html#402",
+  "de": "Aufgabe"
+ },
+ {
+  "key": "part12.html#403",
+  "de": "Stellen Sie sich einen Werbeauftrag vor, den Sie bekommen könnten, und entscheiden Sie in einer Tabelle Einstellung für Einstellung zwischen klassischer und KI-Produktion. Begründen Sie jede Entscheidung in einer Zeile."
+ },
+ {
+  "key": "part12.html#404",
+  "de": "Tipp"
+ },
+ {
+  "key": "part12.html#405",
+  "de": "Bei schwierigen Fällen antworten Sie nach Phasen getrennt, etwa „Entwurf generieren, Endfassung drehen“."
+ },
+ {
+  "key": "part12.html#406",
+  "de": "Bewertung"
+ },
+ {
+  "key": "part12.html#407",
+  "de": "Werden die Kriterien einheitlich angewandt? Sind die Einstellungen mit Markenelementen richtig eingeordnet?"
+ },
+ {
+  "key": "part12.html#408",
+  "de": "Musterlösung"
+ },
+ {
+  "key": "part12.html#409",
+  "de": "Ein Bericht, der dieselbe Einstellung auf beide Arten umgesetzt und die tatsächlich gemessenen Kosten und Zeiten verglichen hat."
+ },
+ {
+  "key": "part12.html#410",
+  "de": "<b>TEIL 12</b>Praxis und Karriere im KI-Wandel"
+ },
+ {
+  "key": "part12.html#411",
+  "de": "Koreas Arbeitsmarkt im Wandel"
+ },
+ {
+  "key": "part12.html#412",
+  "de": "Wie verändert sich der koreanische Arbeitsmarkt? Amtliche Statistiken deuten weniger darauf hin, dass „Arbeitsplätze insgesamt verschwinden“, als darauf, dass „der Einstieg, den junge Menschen nutzten, enger wird“. Sehen wir uns die Zahlen an, wie sie sind."
+ },
+ {
+  "key": "part12.html#413",
+  "de": "<span class=\"ph-id\">P12-HIRING</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Der Arbeitsmarkt für Einsteiger</b>Ein fast leerer Wartebereich für Vorstellungsgespräche, ein einzelner Bewerber mit Portfoliomappe</span>"
+ },
+ {
+  "key": "part12.html#414",
+  "de": "<b>Hinweis</b>Einstiegsjobs – was schrumpft, ist nicht der Beruf, sondern die unteren Sprossen der Leiter"
+ },
+ {
+  "key": "part12.html#415",
+  "de": "<b>−285.000<em>Personen</em></b>Analyse der Bank of Korea – Rückgang der erwerbstätigen 15- bis 29-Jährigen, 06/2022–06/2026. 94 % davon in stark KI-exponierten Branchen; die Zahl der 50- bis 59-Jährigen stieg im selben Zeitraum"
+ },
+ {
+  "key": "part12.html#416",
+  "de": "<b>−31,4<em>%</em></b>Junge Erwerbstätige in derselben Analyse – IKT. Verlagswesen (inkl. Software · Webdesign) −27,4 %, Programmierung −16,6 %"
+ },
+ {
+  "key": "part12.html#417",
+  "de": "<b>65,6<em>%</em></b>FKI-Umfrage, 19- bis 34-Jährige – Sorge, dass „KI Einstiegsjobs und die Chance, zur Fachkraft heranzuwachsen, verringert“"
+ },
+ {
+  "key": "part12.html#418",
+  "de": "<b>Im Fokus</b>"
+ },
+ {
+  "key": "part12.html#419",
+  "de": "Die Prognose 2025–2035 des Korea Employment Information Service zählte „Assistenzjobs in Design · Schnitt“ zu den am stärksten von Automatisierung betroffenen Berufen und sah steigende Nachfrage nach Zeichnern für Comics · Webtoons sowie Produzenten für Film · Musik."
+ },
+ {
+  "key": "part12.html#420",
+  "de": "Diese Zahlen weisen alle in eine Richtung. Was verschwindet, ist nicht der Beruf, sondern die unteren Sprossen der Leiter. Der Weg, als Schnitt- oder Designassistenz anzufangen, wird enger."
+ },
+ {
+  "key": "part12.html#421",
+  "de": "Was Stellenanzeigen zeigen"
+ },
+ {
+  "key": "part12.html#422",
+  "de": "<small>KI wurde zur Anforderung</small>Kein Plus, sondern Pflicht"
+ },
+ {
+  "key": "part12.html#423",
+  "de": "Anzeigen für Video- und Content-Designer Ende 2026 nennen „Erfahrung in der Materialerstellung mit KI-Video- und -Bildgeneratoren“ als Pflicht"
+ },
+ {
+  "key": "part12.html#424",
+  "de": "<small>Keine Tool-Namen</small>Ihre Arbeiten sind der Beweis"
+ },
+ {
+  "key": "part12.html#425",
+  "de": "Allgemeine Formulierungen wie „generative KI (Tools zur Bild- und Videogenerierung usw.)“"
+ },
+ {
+  "key": "part12.html#426",
+  "de": "Ergebnisse statt Zertifikaten für bestimmte Tools"
+ },
+ {
+  "key": "part12.html#427",
+  "de": "<small>In einer Person gebündelt</small>Produktion + Planung + Ergebnisanalyse"
+ },
+ {
+  "key": "part12.html#428",
+  "de": "Generative Tools bedienen, an Pre-Production-Meetings teilnehmen, Vorlagen für Markenvideos bauen und Klick- und Konversionsraten auswerten – alles in einer Anzeige"
+ },
+ {
+  "key": "part12.html#429",
+  "de": "<small>Neue Jobtitel sind noch selten</small>KI-Anforderungen in bestehenden Rollen"
+ },
+ {
+  "key": "part12.html#430",
+  "de": "Keine belegte Anzeige mit „KI-Videoregisseur“ als tatsächlichem Jobtitel"
+ },
+ {
+  "key": "part12.html#431",
+  "de": "Öffentliche Schulungsprogramme namens „KI-Content-Orchestrator“ und „KI-Media-Creator“"
+ },
+ {
+  "key": "part12.html#432",
+  "de": "Generationen, Erfahrung, Prozess – was der Film „Man lernt nie aus“ zeigt"
+ },
+ {
+  "key": "part12.html#433",
+  "de": "<span class=\"ph-id\">P12-INTERN</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>„Man lernt nie aus“ – ein Büro, in dem sich Generationen mischen</b>Ein silberhaariger Senior-Praktikant lacht mit jungen Kollegen in einem lockeren Start-up-Büro</span>"
+ },
+ {
+  "key": "part12.html#434",
+  "de": "<b>Hinweis</b>Ein Büro, in dem sich Generationen mischen – die Jungen sind schneller mit Tools, die Älteren haben die Erfahrung, einen Prozess bis zum Ende zu begleiten"
+ },
+ {
+  "key": "part12.html#435",
+  "de": "Ein 70-jähriger Praktikant und eine 30-jährige Gründerin"
+ },
+ {
+  "key": "part12.html#436",
+  "de": "„Man lernt nie aus“ (The Intern, 2015) von Nancy Meyers erzählt von einem 70-jährigen Rentner, der als Senior-Praktikant bei einem Online-Mode-Start-up anfängt und an der Seite der jungen Gründerin arbeitet. Er bringt nicht die neuesten Tools mit, sondern die Erfahrung, erlebt zu haben, wie ein Unternehmen von Anfang bis Ende läuft: ein Gespür für Prozesse. Das koreanische Remake unter der Regie von Kim Do-young mit Choi Min-sik · Han So-hee kam am 16. September 2026 in die Kinos. Es bringt einen Senior-Praktikanten nach 37 Jahren Büroleben mit der Chefin eines Mode-Start-ups im 3. Jahr zusammen und überträgt den Austausch zwischen Generationen und Erfahrung auf die koreanische Arbeitswelt. In einem Markt, in dem der Einstieg für Neulinge enger geworden ist, lässt sich dieser Film auf eine bestimmte Weise sehen. Einen Tempovorsprung bei Tools holen andere bald auf, doch wer den ganzen Prozess kennt, ist an jeder Stelle nützlich."
+ },
+ {
+  "key": "part12.html#437",
+  "de": "Vier Wege durch einen Markt mit weniger Einstiegsjobs"
+ },
+ {
+  "key": "part12.html#438",
+  "de": "Weniger planmäßige Einstellungsrunden, mehr laufende Einstellungen und Stellen für Berufserfahrene: Das ist kein Trend allein der Videobranche. Je mehr Anzeigen „Einsteiger mit Erfahrung“ suchen, desto mehr wird Arbeit, die Sie für einen echten Zweck zu Ende gebracht haben, zu Ihrer Eintrittskarte. Ausgehend davon empfehle ich vier Dinge."
+ },
+ {
+  "key": "part12.html#439",
+  "de": "<small>Phasen trennen</small>Was KI ersetzt, was bleibt"
+ },
+ {
+  "key": "part12.html#440",
+  "de": "Ersetzt – Formatvarianten, Roto · Retusche, erste Entwürfe, einfache Untertitel"
+ },
+ {
+  "key": "part12.html#441",
+  "de": "Bleibt – Bildgestaltung und Licht, Kontrolle der Markenelemente, das Urteil, was gemacht wird"
+ },
+ {
+  "key": "part12.html#442",
+  "de": "<small>Prozess</small>Der Wert, das Ganze zu kennen"
+ },
+ {
+  "key": "part12.html#443",
+  "de": "Wer auch nur einmal den Weg von der Planung bis zur Abgabe und Rechnungsstellung gegangen ist, versteht in jeder Phase, was davor und danach kommt"
+ },
+ {
+  "key": "part12.html#444",
+  "de": "Genau das hat der Held aus „Man lernt nie aus“"
+ },
+ {
+  "key": "part12.html#445",
+  "de": "<small>Sammeln</small>Viele kleine fertige Arbeiten anhäufen"
+ },
+ {
+  "key": "part12.html#446",
+  "de": "Zehn fertige 15-Sekunden-Stücke schlagen ein unvollendetes Epos"
+ },
+ {
+  "key": "part12.html#447",
+  "de": "Videos mit echtem Zweck, für einen Laden vor Ort oder eine Veranstaltung des Fachbereichs, sind Ihre Referenzen"
+ },
+ {
+  "key": "part12.html#448",
+  "de": "<small>Wege</small>Gründen, allein oder im Team"
+ },
+ {
+  "key": "part12.html#449",
+  "de": "Da Technik und generative Tools günstiger geworden sind, kann eine Person Planung · Produktion · Abgabe stemmen"
+ },
+ {
+  "key": "part12.html#450",
+  "de": "Auch zwei, drei Kommilitonen, die sich die Rollen teilen und ein kleines Studio gründen, sind eine realistische Option"
+ },
+ {
+  "key": "part12.html#451",
+  "de": "Die Lage der Branche"
+ },
+ {
+  "key": "part12.html#452",
+  "de": "<b>6,8 → 13,2 → 32,1<em>%</em></b>Nutzung generativer KI in Content-Unternehmen, 2023→2024→2025 (KOCCA). Werbung: 40,9 %"
+ },
+ {
+  "key": "part12.html#453",
+  "de": "<b>22,1<em>%</em></b>Unter den Gründen gegen eine Einführung 2024: „schwer, fähige neue Mitarbeiter zu finden“. Eine Chance für Einsteiger"
+ },
+ {
+  "key": "part12.html#454",
+  "de": "<b>1.116,4 → 310,4<em>Mrd. Won</em></b>TV-Werbeausgaben (terrestrisch), 2011 → 1. Halbjahr 2026. Hauptursache für den Druck auf Auftragshonorare ist nicht KI, sondern schrumpfende Werbebudgets"
+ },
+ {
+  "key": "part12.html#455",
+  "de": "Was schrumpft, ist nicht der Beruf, sondern der Einstieg. Wird der Einstieg enger, kommen Sie mit „der einen Sache, die andere nicht können“ hinein.<small>11.8 Koreas Arbeitsmarkt im Wandel</small>"
+ },
+ {
+  "key": "part12.html#456",
+  "de": "Nicht der Beruf schrumpft, sondern die unteren Sprossen der Leiter"
+ },
+ {
+  "key": "part12.html#457",
+  "de": "Veränderung junger Erwerbstätiger (15–29 Jahre) – 06/2022 → 06/2026, Analyse der Bank of Korea"
+ },
+ {
+  "key": "part12.html#458",
+  "de": "Gesamt 15–29"
+ },
+ {
+  "key": "part12.html#459",
+  "de": "IKT · Verlage (SW · Webdesign)"
+ },
+ {
+  "key": "part12.html#460",
+  "de": "Programmierung"
+ },
+ {
+  "key": "part12.html#461",
+  "de": "Erwerbstätige 50–59"
+ },
+ {
+  "key": "part12.html#462",
+  "de": "Plus"
+ },
+ {
+  "key": "part12.html#463",
+  "de": "Rückgangsanteil in stark KI-exponierten Branchen"
+ },
+ {
+  "key": "part12.html#464",
+  "de": "19–34-Jährige mit der Sorge „KI kürzt Einstiegsjobs,"
+ },
+ {
+  "key": "part12.html#465",
+  "de": "somit weniger Chancen zu wachsen“ (FKI)"
+ },
+ {
+  "key": "part12.html#466",
+  "de": "Was verschwindet, ist nicht der Beruf,"
+ },
+ {
+  "key": "part12.html#467",
+  "de": "sondern die untersten Sprossen"
+ },
+ {
+  "key": "part12.html#468",
+  "de": "<b>Abb. 90-2</b> Der enger werdende Einstieg in Zahlen – der Rückgang junger Erwerbstätiger konzentrierte sich auf stark KI-exponierte Branchen, während die Zahl der 50- bis 59-Jährigen im selben Zeitraum stieg. Die Zahlen aus dem Text auf einer Seite (Quellen im Text; Schätzungen · Umfragewerte für 2026)."
+ },
+ {
+  "key": "part12.html#469",
+  "de": "<small>Übung</small>11.8"
+ },
+ {
+  "key": "part12.html#470",
+  "de": "Aufgabe"
+ },
+ {
+  "key": "part12.html#471",
+  "de": "Sammeln Sie 10 Anzeigen für einen Job, den Sie wollen, und tragen Sie die geforderten Fähigkeiten in eine Tabelle ein. Markieren Sie, ob Sie schon eine Arbeit haben, die die jeweilige Fähigkeit belegt, und machen Sie aus den Lücken den Plan fürs nächste Semester."
+ },
+ {
+  "key": "part12.html#472",
+  "de": "Tipp"
+ },
+ {
+  "key": "part12.html#473",
+  "de": "Sammeln Sie Anzeigen mit demselben Jobtitel, aber aus Unternehmen unterschiedlicher Größe. So sehen Sie die Bandbreite der Erwartungen."
+ },
+ {
+  "key": "part12.html#474",
+  "de": "Bewertung"
+ },
+ {
+  "key": "part12.html#475",
+  "de": "Sind die geforderten Fähigkeiten im Wortlaut der Anzeigen übernommen? Führen die Lücken zu konkreten Plänen?"
+ },
+ {
+  "key": "part12.html#476",
+  "de": "Musterlösung"
+ },
+ {
+  "key": "part12.html#477",
+  "de": "Eine Zusammenfassung, die die Punkte markiert, die in mindestens 7 der 10 Anzeigen vorkommen, und daraus Prioritäten ableitet."
+ },
+ {
+  "key": "part12.html#478",
+  "de": "<b>TEIL 12</b>Praxis und Karriere im KI-Wandel"
+ },
+ {
+  "key": "part12.html#479",
+  "de": "Portfolio-Plattformen im Wandel"
+ },
+ {
+  "key": "part12.html#480",
+  "de": "Wie haben sich die Plattformen verändert? Stand 2026 verlangt jede Plattform ein anderes Maß an KI-Offenlegung; manche ahnden Verstöße, andere empfehlen nur. Was Studierende brauchen, ist ein Maßstab dafür, „wie viel ich offenlegen muss“."
+ },
+ {
+  "key": "part12.html#481",
+  "de": "<span class=\"ph-id\">P12-PORTSITE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Portfolio-Plattformen</b>Ein Schreibtisch, auf dem Laptop und Smartphone dasselbe Videoraster einer persönlichen Portfolioseite zeigen</span>"
+ },
+ {
+  "key": "part12.html#482",
+  "de": "<b>Hinweis</b>Portfolio-Plattformen – wo immer Sie posten, gilt ein einheitlicher Maßstab für KI-Offenlegung und Ihren Anteil"
+ },
+ {
+  "key": "part12.html#483",
+  "de": "Plattform"
+ },
+ {
+  "key": "part12.html#484",
+  "de": "KI-Werke"
+ },
+ {
+  "key": "part12.html#485",
+  "de": "Offenlegungspflicht"
+ },
+ {
+  "key": "part12.html#486",
+  "de": "Sanktionen"
+ },
+ {
+  "key": "part12.html#487",
+  "de": "Vimeo"
+ },
+ {
+  "key": "part12.html#488",
+  "de": "Erlaubt"
+ },
+ {
+  "key": "part12.html#489",
+  "de": "Pflicht für realistische Inhalte"
+ },
+ {
+  "key": "part12.html#490",
+  "de": "Nicht entfernbares Label; Wiederholung: Kontosperre"
+ },
+ {
+  "key": "part12.html#491",
+  "de": "YouTube"
+ },
+ {
+  "key": "part12.html#492",
+  "de": "Erlaubt"
+ },
+ {
+  "key": "part12.html#493",
+  "de": "Pflicht für realistische Montagen"
+ },
+ {
+  "key": "part12.html#494",
+  "de": "Auto-Label, keine Erlöse"
+ },
+ {
+  "key": "part12.html#495",
+  "de": "ArtStation"
+ },
+ {
+  "key": "part12.html#496",
+  "de": "Erlaubt"
+ },
+ {
+  "key": "part12.html#497",
+  "de": "Tag-Pflicht bei Verkaufsprodukten"
+ },
+ {
+  "key": "part12.html#498",
+  "de": "Marktplatzregeln"
+ },
+ {
+  "key": "part12.html#499",
+  "de": "Behance"
+ },
+ {
+  "key": "part12.html#500",
+  "de": "Erlaubt"
+ },
+ {
+  "key": "part12.html#501",
+  "de": "Nur empfohlen, keine Pflicht"
+ },
+ {
+  "key": "part12.html#502",
+  "de": "Keine"
+ }
+]

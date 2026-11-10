@@ -1,0 +1,662 @@
+[
+{
+"key": "part07.html#92",
+"de": "Korrekte, aktuelle Angaben"
+},
+{
+"key": "part07.html#93",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#94",
+"de": "Macht aus dem Spezifikationsblatt sofort nutzbare Vorgaben für das Schnittprogramm."
+},
+{
+"key": "part07.html#95",
+"de": "<b>TEIL 07</b>Medienformate und immersive Inhalte"
+},
+{
+"key": "part07.html#96",
+"de": "Horizontal und vertikal"
+},
+{
+"key": "part07.html#97",
+"de": "Kein anderes Medium, sondern eine andere Sprache. Vertikal ist nicht einfach beschnittenes Horizontal. Totalen funktionieren nicht, und Untertitel werden zu einem wichtigen Teil des Bildes."
+},
+{
+"key": "part07.html#98",
+"de": "<span class=\"ph-id\">P07-VERT-SHOOT</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Vertikal drehen</b>Ein Creator geht mit einem hochkant auf einem Gimbal montierten Smartphone, das Motiv mittig auf der vertikalen Achse</span>"
+},
+{
+"key": "part07.html#99",
+"de": "<b>Hinweis</b>Vertikales von Anfang an vertikal drehen – Personen nah, Informationen oben und unten"
+},
+{
+"key": "part07.html#100",
+"de": "Grammatik des horizontalen 16:9"
+},
+{
+"key": "part07.html#101",
+"de": "Breite Seiten, gut für Beziehungen und Umgebung"
+},
+{
+"key": "part07.html#102",
+"de": "Totalen und Halbnahen transportieren viel Information"
+},
+{
+"key": "part07.html#103",
+"de": "Untertitel unten erfordern wenig Blickbewegung"
+},
+{
+"key": "part07.html#104",
+"de": "Geeignet für Dialoge zu zweit, Landschaft, Architektur"
+},
+{
+"key": "part07.html#105",
+"de": "Standard für TV, Kino, lange YouTube-Videos"
+},
+{
+"key": "part07.html#106",
+"de": "Grammatik des vertikalen 9:16"
+},
+{
+"key": "part07.html#107",
+"de": "Hohes Format eignet sich für Ganzkörper- und Großaufnahmen"
+},
+{
+"key": "part07.html#108",
+"de": "Totalen werden zu Brei; selten genutzt"
+},
+{
+"key": "part07.html#109",
+"de": "Motiv auf der vertikalen Mittelachse"
+},
+{
+"key": "part07.html#110",
+"de": "Untertitel werden zu einem wichtigen Teil des Bildes"
+},
+{
+"key": "part07.html#111",
+"de": "Standard für Kurzvideos, Storys, Live-Shopping"
+},
+{
+"key": "part07.html#112",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part07.html#113",
+"de": "Am sichersten ist es, dieselbe Szene zweimal zu drehen, horizontal und vertikal. Das dauert doppelt so lange, liefert aber die besten Ergebnisse."
+},
+{
+"key": "part07.html#114",
+"de": "Eine vertikale Fassung aus horizontalem Material erstellen"
+},
+{
+"key": "part07.html#115",
+"de": "<b>01</b><span>In 4K oder höher drehen. Ein vertikaler Ausschnitt aus horizontalem FHD hat zu wenig Auflösung.</span>"
+},
+{
+"key": "part07.html#116",
+"de": "<b>02</b><span>Eine 9:16-Hilfslinie im Sucher einblenden und das Hauptmotiv mittig halten.</span>"
+},
+{
+"key": "part07.html#117",
+"de": "<b>03</b><span>Breite Kompositionen von links nach rechts funktionieren vertikal nicht. Ist eine vertikale Fassung geplant, die Komposition schon beim Dreh anpassen.</span>"
+},
+{
+"key": "part07.html#118",
+"de": "<b>04</b><span>Untertitel für horizontale und vertikale Fassung getrennt platzieren. Übernimmt man die Positionen unverändert, verdeckt die UI sie.</span>"
+},
+{
+"key": "part07.html#119",
+"de": "<b>05</b><span>Dieselbe Szene zweimal zu drehen, horizontal und vertikal, ist der sicherste Weg.</span>"
+},
+{
+"key": "part07.html#120",
+"de": "<small>Übung</small>6.2"
+},
+{
+"key": "part07.html#121",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#122",
+"de": "Drehen und schneiden Sie dieselbe Szene horizontal und vertikal."
+},
+{
+"key": "part07.html#123",
+"de": "Tipp"
+},
+{
+"key": "part07.html#124",
+"de": "Halten Sie Personen im Vertikalformat nah und ordnen Sie Informationen oben und unten an."
+},
+{
+"key": "part07.html#125",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#126",
+"de": "Neukomposition für jedes Format"
+},
+{
+"key": "part07.html#127",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#128",
+"de": "Vermittelt dieselbe Emotion in jedem Format auf eigene Weise."
+},
+{
+"key": "part07.html#129",
+"de": "<b>TEIL 07</b>Medienformate und immersive Inhalte"
+},
+{
+"key": "part07.html#130",
+"de": "Sicherheitsbereiche und Plattform-UI"
+},
+{
+"key": "part07.html#131",
+"de": "Nicht alles im Bild ist auch zu sehen. Das Fernsehen beschneidet die Ränder, bei Kurzvideos verdeckt die Player-UI oben und unten. Untertitel, die ohne Kenntnis des Sicherheitsbereichs entstehen, werden verdeckt."
+},
+{
+"key": "part07.html#132",
+"de": "<b>Abb. 64</b> Sicherheitsbereiche auf einem Kurzvideo-Bildschirm"
+},
+{
+"key": "part07.html#133",
+"de": "Kanal"
+},
+{
+"key": "part07.html#134",
+"de": "Verdeckter Bereich"
+},
+{
+"key": "part07.html#135",
+"de": "Sichere Platzierung"
+},
+{
+"key": "part07.html#136",
+"de": "TV-Ausstrahlung"
+},
+{
+"key": "part07.html#137",
+"de": "Ca. 5 % je Seite"
+},
+{
+"key": "part07.html#138",
+"de": "Innerhalb Aktionsbereich 93 %, Titelbereich 90 %"
+},
+{
+"key": "part07.html#139",
+"de": "YouTube Shorts"
+},
+{
+"key": "part07.html#140",
+"de": "Oben ca. 10 %, unten ca. 20 %"
+},
+{
+"key": "part07.html#141",
+"de": "Untertitel mittig im unteren Drittel"
+},
+{
+"key": "part07.html#142",
+"de": "Instagram Reels"
+},
+{
+"key": "part07.html#143",
+"de": "Oben ca. 12 %, unten ca. 25 %"
+},
+{
+"key": "part07.html#144",
+"de": "Bildunterschrift und Kontoname belegen den Bereich unten links"
+},
+{
+"key": "part07.html#145",
+"de": "TikTok"
+},
+{
+"key": "part07.html#146",
+"de": "Rechts ca. 15 %, unten ca. 20 %"
+},
+{
+"key": "part07.html#147",
+"de": "Linksbündig, frei von der rechten Symbolspalte"
+},
+{
+"key": "part07.html#148",
+"de": "Instagram-Storys"
+},
+{
+"key": "part07.html#149",
+"de": "Profil oben, Aktionen unten"
+},
+{
+"key": "part07.html#150",
+"de": "Nur die mittleren 70 % sind sicher"
+},
+{
+"key": "part07.html#151",
+"de": "Außen-LED"
+},
+{
+"key": "part07.html#152",
+"de": "Je nach Standort"
+},
+{
+"key": "part07.html#153",
+"de": "Sicherheitsrand laut Standortvorgabe einhalten"
+},
+{
+"key": "part07.html#154",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part07.html#155",
+"de": "Nehmen Sie eine Smartphone-Kontrolle nach dem Upload in Ihre Abgabe-Checkliste auf."
+},
+{
+"key": "part07.html#156",
+"de": "Die sicherste Kontrolle"
+},
+{
+"key": "part07.html#157",
+"de": "Laden Sie den fertigen Schnitt privat auf die echte Plattform hoch. Der reale Bildschirm ist genauer als jede Hilfslinie in Ihrem Schnittprogramm."
+},
+{
+"key": "part07.html#158",
+"de": "<small>Übung</small>6.3"
+},
+{
+"key": "part07.html#159",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#160",
+"de": "Erstellen Sie eine Sicherheitsbereich-Vorlage, die die UIs von Reels · Shorts · TikTok überlagert, und testen Sie die Platzierung der Untertitel."
+},
+{
+"key": "part07.html#161",
+"de": "Tipp"
+},
+{
+"key": "part07.html#162",
+"de": "Spielen Sie das Ergebnis auf einem echten Smartphone ab und prüfen Sie, was verdeckt wird."
+},
+{
+"key": "part07.html#163",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#164",
+"de": "Einhaltung der Sicherheitsbereiche, Lesbarkeit"
+},
+{
+"key": "part07.html#165",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#166",
+"de": "Baut eine Vorlage mit dem Sicherheitsbereich, den alle drei Plattformen gemeinsam haben."
+},
+{
+"key": "part07.html#167",
+"de": "<b>TEIL 07</b>Medienformate und immersive Inhalte"
+},
+{
+"key": "part07.html#168",
+"de": "21:9-CinemaScope in der Praxis"
+},
+{
+"key": "part07.html#169",
+"de": "Auf der breiten Leinwand erzählt der Leerraum die Geschichte. Doch der schmale vertikale Raum erschwert Untertitel und die Weiterverwertung als Kurzvideo."
+},
+{
+"key": "part07.html#170",
+"de": "<span class=\"ph-id\">P07-SCOPE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>CinemaScope</b>Ein Horizont, über eine 2,39:1-Leinwand gespannt, davor leere Sitze</span>"
+},
+{
+"key": "part07.html#171",
+"de": "<b>Hinweis</b>21:9 – der lange horizontale Raum wird zum Material der Regie"
+},
+{
+"key": "part07.html#172",
+"de": "<small>Dreh</small>4K 16:9 + 2,39:1-Hilfslinie"
+},
+{
+"key": "part07.html#173",
+"de": "2,39:1-Hilfslinie im Sucher einblenden"
+},
+{
+"key": "part07.html#174",
+"de": "Tonangel und Lampen aus den Beschnittzonen oben und unten heraushalten"
+},
+{
+"key": "part07.html#175",
+"de": "<small>Schnitt</small>3840x1608-Sequenz"
+},
+{
+"key": "part07.html#176",
+"de": "Export in der tatsächlich reduzierten Auflösung ist qualitativ besser als schwarze Balken"
+},
+{
+"key": "part07.html#177",
+"de": "<small>Untertitel</small>Fest bei 8 % über dem unteren Rand"
+},
+{
+"key": "part07.html#178",
+"de": "Schmaler vertikaler Raum begrenzt die Untertitelposition"
+},
+{
+"key": "part07.html#179",
+"de": "Ränder vorab planen"
+},
+{
+"key": "part07.html#180",
+"de": "<small>Anamorphose</small>Optisch oder per Beschnitt"
+},
+{
+"key": "part07.html#181",
+"de": "Vorab entscheiden"
+},
+{
+"key": "part07.html#182",
+"de": "Anamorphoten erzeugen ovales Bokeh und horizontale Flares"
+},
+{
+"key": "part07.html#183",
+"de": "Motive, die zu 21:9 passen"
+},
+{
+"key": "part07.html#184",
+"de": "Autos, Reisen, Räume, Architektur"
+},
+{
+"key": "part07.html#185",
+"de": "Silhouetten vor Landschaft"
+},
+{
+"key": "part07.html#186",
+"de": "Langsame Kamerafahrten"
+},
+{
+"key": "part07.html#187",
+"de": "Premium-Markenkampagnen"
+},
+{
+"key": "part07.html#188",
+"de": "Motive, die man in 21:9 meiden sollte"
+},
+{
+"key": "part07.html#189",
+"de": "Hohe Produkte (Kosmetik, Getränkeflaschen)"
+},
+{
+"key": "part07.html#190",
+"de": "Mimikbetonte Werbung in Großaufnahme"
+},
+{
+"key": "part07.html#191",
+"de": "Projekte zur Weiterverwertung als Kurzvideo"
+},
+{
+"key": "part07.html#192",
+"de": "Werbung mit viel Untertiteltext"
+},
+{
+"key": "part07.html#193",
+"de": "<small>Übung</small>6.4"
+},
+{
+"key": "part07.html#194",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#195",
+"de": "Drehen Sie eine Szene in 21:9, die Landschaft und eine Person zeigt."
+},
+{
+"key": "part07.html#196",
+"de": "Tipp"
+},
+{
+"key": "part07.html#197",
+"de": "Auf der breiten Leinwand erzählt der Leerraum die Geschichte. Platzieren Sie die Person probeweise an einer Seite."
+},
+{
+"key": "part07.html#198",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#199",
+"de": "Nutzung der Breite, Platzierung der Figur"
+},
+{
+"key": "part07.html#200",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#201",
+"de": "Platziert zwei Personen an entgegengesetzten Bildrändern und macht Distanz zu Emotion."
+},
+{
+"key": "part07.html#202",
+"de": "Hintergrund 12"
+},
+{
+"key": "part07.html#203",
+"de": "Wie Immersion entsteht"
+},
+{
+"key": "part07.html#204",
+"de": "Bevor wir mit immersiven Inhalten arbeiten, sollten wir klären, was es heißt, dass sich ein Publikum „darin“ fühlt. Immersion ist eine Frage der Bedingungen, nicht der Bildqualität."
+},
+{
+"key": "part07.html#205",
+"de": "Die Geschichte immersiver Technik beginnt mit Versuchen, die Leinwand zu vergrößern. In den 1950er-Jahren bespielte Cinerama eine gekrümmte Leinwand mit drei Projektoren, um selbst das periphere Sehen abzudecken; es folgten CinemaScope und 70-mm-Film. Heiligs Sensorama von 1962 ergänzte Vibration, Wind und sogar Geruch, und Sutherlands Head-Mounted Display von 1968 war so schwer, dass es von der Decke hängen musste – was ihm den Spitznamen „Damoklesschwert“ eintrug. Das Ziel war immer dasselbe: Sicht und Sinne des Publikums so weit wie möglich zur Leinwand hinzuziehen."
+},
+{
+"key": "part07.html#206",
+"de": "Die Forschung unterteilt diese Erfahrung in zwei Begriffe. Immersion ist die objektive Bedingung, die Gerät und Inhalt bereitstellen: Sichtfeld, Reaktionsgeschwindigkeit auf Kopfbewegungen, Richtungswirkung des Klangs. Präsenz ist der subjektive Zustand, den der Nutzer tatsächlich erlebt – das Gefühl „Ich bin hier“. Bei gleicher Ausrüstung schwankt die Präsenz je nach Gestaltung der Inhalte stark. Deshalb kann auch ein teures Headset ein flaches Erlebnis liefern."
+},
+{
+"key": "part07.html#207",
+"de": "Die häufigsten Präsenzkiller sind Latenz und Diskrepanz. Hinkt das Bild einer Kopfdrehung hinterher, bemerkt das Gehirn eine Lücke zwischen der Bewegung, die die Augen sehen, und der, die das Gleichgewichtsorgan spürt. Das ist die Hauptursache der VR-Übelkeit (Cybersickness). Darum hält die VR-Produktion die Bildrate hoch, vermeidet Kamerabewegungen, die der Nutzer nicht selbst ausgeführt hat, und setzt Gegenmittel ein, etwa eine Vignettierung, die die Ränder des Sichtfelds abdeckt. Stabilität geht vor Bildqualität."
+},
+{
+"key": "part07.html#208",
+"de": "Auch die Voraussetzungen der Regie ändern sich. In 360°-Video und VR kann das Publikum überallhin schauen; die Regie hat daher nur Mittel zum Lenken, nicht zum Erzwingen. Die Richtung, aus der ein Klang kommt, Helligkeitsunterschiede, Blick und Bewegung einer Figur sowie die Anordnung des Raums lassen den Zuschauer den Kopf drehen. Damit niemand ein Schlüsselereignis verpasst, setzen Sie Hinweise, bevor es geschieht."
+},
+{
+"key": "part07.html#209",
+"de": "Bei AR und Projection Mapping liegt das Bild auf dem realen Raum; darum entscheiden tatsächliche Lichtverhältnisse, Oberflächenmaterialien und der Standort des Publikums über das Ergebnis. Eine dunkle Wand in einer Galerie und eine Gebäudefassade zur Mittagszeit sind völlig verschiedene Medien. Über die Qualität immersiver Inhalte entscheidet nicht die fertige Datei, sondern der Ort, an dem sie gezeigt werden."
+},
+{
+"key": "part07.html#210",
+"de": "Weiterführende Literatur – Mel Slater, „A Note on Presence Terminology“ · Jaron Lanier, Anbruch einer neuen Zeit · Jason Jerald, The VR Book"
+},
+{
+"key": "part07.html#211",
+"de": "<b>TEIL 07</b>Medienformate und immersive Inhalte"
+},
+{
+"key": "part07.html#212",
+"de": "360°-Video und VR planen"
+},
+{
+"key": "part07.html#213",
+"de": "Wo die Kadrierung verschwindet, übernehmen Licht und Klang die Lenkung. Geben Sie dem Publikum immer einen Grund, sich umzudrehen."
+},
+{
+"key": "part07.html#214",
+"de": "360°-Video fügt zwei Fischaugenbilder zusammen und rollt sie zu einer Karte ab"
+},
+{
+"key": "part07.html#215",
+"de": "<b><i>1</i>Zwei Fischaugenobjektive</b><span>Zwei runde Bilder mit je 180°, vorne und hinten</span>"
+},
+{
+"key": "part07.html#216",
+"de": "<b><i>2</i>Zu einem Bild zusammengefügt – equirektangulär 2:1</b><span>Wie ein Globus, der zur Weltkarte abgerollt wird: Oben und unten wird gedehnt</span>"
+},
+{
+"key": "part07.html#217",
+"de": "<b><i>3</i>Das Fenster des Zuschauers</b><span>Headset · Smartphone zeigen nur ca. 90° dieser Karte – roter Rahmen</span>"
+},
+{
+"key": "part07.html#218",
+"de": "<b>Deshalb gestaltet 360° keinen „Rahmen“, sondern „Wege, den Blick zu locken“</b><span>Klang – ein Geräusch von hinten</span><span>Licht – wir schauen zur hellen Seite</span><span>Bewegung – wir folgen dem, was sich bewegt</span><span>Blick – wir schauen, wohin andere schauen</span><span>Linien · Wege – wir folgen dem Weg</span>"
+},
+{
+"key": "part07.html#219",
+"de": "<b>Abb. 65</b> Aufbau eines 360°-Videos – zwei Fischaugenbilder werden zu einer Karte zusammengefügt (equirektangulär), und der Zuschauer sieht durch ein Fenster nur einen Teil davon."
+},
+{
+"key": "part07.html#220",
+"de": "<b>Referenzfotos 6.5A</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part07.html#221",
+"de": "<b>a</b>360°-Kamerarig"
+},
+{
+"key": "part07.html#222",
+"de": "<b>b</b>Equirektanguläres Rohbild"
+},
+{
+"key": "part07.html#223",
+"de": "<b>c</b>Betrachtung mit VR-Headset"
+},
+{
+"key": "part07.html#224",
+"de": "<b>d</b>Museumsbesuch in MR – virtuelle Rekonstruktionen und Erläuterungen überlagern die realen Exponate"
+},
+{
+"key": "part07.html#225",
+"de": "<b>HINWEIS</b>"
+},
+{
+"key": "part07.html#226",
+"de": "Storyboard-Vorlagen für immersive Medien (360° · gekrümmt · Fassade · AR/VR/MR/XR) finden Sie im Storyboard-Spezial in TEIL 6."
+},
+{
+"key": "part07.html#227",
+"de": "Was wegfällt"
+},
+{
+"key": "part07.html#228",
+"de": "Die Idee von Kadrierung und Einstellungsgröße"
+},
+{
+"key": "part07.html#229",
+"de": "Der freie Schnittrhythmus"
+},
+{
+"key": "part07.html#230",
+"de": "Kamerabewegungen (verursachen Übelkeit)"
+},
+{
+"key": "part07.html#231",
+"de": "Team und Licht außerhalb des Bildes verstecken"
+},
+{
+"key": "part07.html#232",
+"de": "Den Blick durch Komposition erzwingen"
+},
+{
+"key": "part07.html#233",
+"de": "Was neu hinzukommt"
+},
+{
+"key": "part07.html#234",
+"de": "Blicklenkung durch Licht und Klang"
+},
+{
+"key": "part07.html#235",
+"de": "Zuschauerbezogene Ausrichtung (vorne = 0 Grad)"
+},
+{
+"key": "part07.html#236",
+"de": "Nodalpunkt und Nahtlinien kontrollieren"
+},
+{
+"key": "part07.html#237",
+"de": "Raumklang-Gestaltung (Ambisonics)"
+},
+{
+"key": "part07.html#238",
+"de": "Erlebnisdauer (1–3 Min. statt 15 s)"
+},
+{
+"key": "part07.html#239",
+"de": "Kriterium"
+},
+{
+"key": "part07.html#240",
+"de": "Standardvideo"
+},
+{
+"key": "part07.html#241",
+"de": "360°-Video"
+},
+{
+"key": "part07.html#242",
+"de": "Regieeinheit"
+},
+{
+"key": "part07.html#243",
+"de": "Einstellung"
+},
+{
+"key": "part07.html#244",
+"de": "Szene und Zeit"
+},
+{
+"key": "part07.html#245",
+"de": "Blicklenkung"
+},
+{
+"key": "part07.html#246",
+"de": "Kadrierung"
+},
+{
+"key": "part07.html#247",
+"de": "Licht- und Klangsignale"
+},
+{
+"key": "part07.html#248",
+"de": "Kameraposition"
+},
+{
+"key": "part07.html#249",
+"de": "Frei"
+},
+{
+"key": "part07.html#250",
+"de": "Augenhöhe, 1,5–1,6 m, fest"
+},
+{
+"key": "part07.html#251",
+"de": "Team"
+},
+{
+"key": "part07.html#252",
+"de": "Im Off"
+},
+{
+"key": "part07.html#253",
+"de": "Kein Versteck; Fernsteuerung"
+},
+{
+"key": "part07.html#254",
+"de": "Schnitt"
+},
+{
+"key": "part07.html#255",
+"de": "Häufige Schnitte"
+},
+{
+"key": "part07.html#256",
+"de": "Lange Einstellungen, Überblendungen"
+}
+]

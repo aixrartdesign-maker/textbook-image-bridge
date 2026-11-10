@@ -1,0 +1,126 @@
+{
+ "stem": "p072_071_1831x1058",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p072_071_1831x1058.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "High viewpoint",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "High up, kept level",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 64,
+    "chars_per_line_if_shrunk": 78,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "High angle",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Looking down — smaller",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 57,
+    "chars_per_line_if_shrunk": 70,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "4",
+   "en": "Eye height 1.5–1.6m — neutral",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 29,
+    "chars_per_line_max": 32,
+    "chars_per_line_if_shrunk": 40,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Eye level",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 17,
+    "chars_per_line_if_shrunk": 21,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "6",
+   "en": "Low angle",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 14,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "7",
+   "en": "Looking up — larger",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "8",
+   "en": "Low viewpoint",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Near the floor — extreme",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 24,
+    "chars_per_line_max": 36,
+    "chars_per_line_if_shrunk": 44,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

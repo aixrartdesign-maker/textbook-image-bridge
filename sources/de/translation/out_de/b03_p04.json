@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_ppm.html#207",
+"de": "Dach"
+},
+{
+"key": "feature_ppm.html#208",
+"de": "Stadt am Morgen (Ersatz: Abendgegenlicht) LS, Neigung hoch"
+},
+{
+"key": "feature_ppm.html#209",
+"de": "24 mm, 60 fps"
+},
+{
+"key": "feature_ppm.html#210",
+"de": "<b>Goldene Stunde 40 Min. – max. 3 Takes</b>"
+},
+{
+"key": "feature_ppm.html#211",
+"de": "Labor"
+},
+{
+"key": "feature_ppm.html#212",
+"de": "N-Aufnahme"
+},
+{
+"key": "feature_ppm.html#213",
+"de": "3 Sprechertexte aufnehmen, 30 s Raumton"
+},
+{
+"key": "feature_ppm.html#214",
+"de": "Sprecher"
+},
+{
+"key": "feature_ppm.html#215",
+"de": "Kondensatormikro, Poppschutz"
+},
+{
+"key": "feature_ppm.html#216",
+"de": "Je 3 Takes, abgestimmt auf die 3 Spuren des Boards"
+},
+{
+"key": "feature_ppm.html#217",
+"de": "Labor"
+},
+{
+"key": "feature_ppm.html#218",
+"de": "2. Backup, Muster sichten, Tagesabschluss"
+},
+{
+"key": "feature_ppm.html#219",
+"de": "Nachdrehliste → Ersatztag D+2"
+},
+{
+"key": "feature_ppm.html#220",
+"de": "Ersatztag · 13.4. (So) · Regen oder Nachdrehs – Darsteller A bestätigt ✔ · Studio L-02 reserviert"
+},
+{
+"key": "feature_ppm.html#221",
+"de": "<span class=\"ph-id\">P06-SCHEDULE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Drehplan-Board – Streifen nach Drehort · Licht · Darsteller gruppiert</b></span>"
+},
+{
+"key": "feature_ppm.html#222",
+"de": "<b>Hinweis</b>Drehplan-Board – Streifen nach Drehort · Licht · Darsteller gruppiert"
+},
+{
+"key": "feature_ppm.html#223",
+"de": "<small>Reihenfolge</small>Drehort → Licht → Darsteller"
+},
+{
+"key": "feature_ppm.html#224",
+"de": "Gleiche Setups am Stück"
+},
+{
+"key": "feature_ppm.html#225",
+"de": "„Unwiederbringliche Zeit“ zuerst, etwa Direktsonne · Goldene Stunde"
+},
+{
+"key": "feature_ppm.html#226",
+"de": "Bestellzeit Darsteller: 45 Min. vor der 1. Einstellung"
+},
+{
+"key": "feature_ppm.html#227",
+"de": "<small>Puffer</small>+30 % pro Einstellung, +1 Std. pro Tag"
+},
+{
+"key": "feature_ppm.html#228",
+"de": "Erste Einstellung: immer 30 Min. Verzug"
+},
+{
+"key": "feature_ppm.html#229",
+"de": "Fahrten: Kartenzeit × 1,5"
+},
+{
+"key": "feature_ppm.html#230",
+"de": "Mittagspause fest 45 Min.; verschieben Sie sie, bricht der Nachmittag ein"
+},
+{
+"key": "feature_ppm.html#231",
+"de": "<small>Ersatztag</small>Was nicht gebucht ist, gibt es nicht"
+},
+{
+"key": "feature_ppm.html#232",
+"de": "Darsteller und Drehort reservieren"
+},
+{
+"key": "feature_ppm.html#233",
+"de": "Regenschwelle als Zahl festlegen (60 % Regenwahrscheinlichkeit)"
+},
+{
+"key": "feature_ppm.html#234",
+"de": "Nachdrehliste beim Tagesabschluss festlegen"
+},
+{
+"key": "feature_ppm.html#235",
+"de": "<small>DOPPELSEITE 06 · Drehtag</small>Tagesablauf und Tagesdisposition – in 15-Minuten-Blöcken sehen Sie, wo es hakt"
+},
+{
+"key": "feature_ppm.html#236",
+"de": "<b>HINWEIS</b>"
+},
+{
+"key": "feature_ppm.html#237",
+"de": "Die Balkenlänge ist die geplante Zeit. Endet ein Block tatsächlich, zeichnen Sie den Ist-Balken mit Stift daneben. Diese Differenz macht den Zeitplan Ihres nächsten Projekts genauer."
+},
+{
+"key": "feature_ppm.html#238",
+"de": "<i class=\"move\" style=\"width:30%\"></i><span>Vorausteam trifft ein · Parken · Stromcheck · Schlüssel</span>"
+},
+{
+"key": "feature_ppm.html#239",
+"de": "<i class=\"set\" style=\"width:45%\"></i><span>Technik einladen (2 Personen, Treppe) · Dolly-Schiene · Haupt-LED aufbauen · Ausstattung beginnen</span>"
+},
+{
+"key": "feature_ppm.html#240",
+"de": "<i class=\"set\" style=\"width:45%\"></i><span>Darsteller A bestellt → Maske im Mobil · Kostüm LOOK 1</span>"
+},
+{
+"key": "feature_ppm.html#241",
+"de": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 02</b> MCU Ranfahrt · Probe 1 → Take 4 (Direktsonne optimal 07:30–08:00)</span>"
+},
+{
+"key": "feature_ppm.html#242",
+"de": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 03</b> CU Schluck · 85 mm · Take 5 · Schweiß · Glanz prüfen</span>"
+},
+{
+"key": "feature_ppm.html#243",
+"de": "<i class=\"shoot\" style=\"width:60%\"></i><span><b>CUT 06</b> Schluss LOCKED + Dolly langsam · Marker · Clean Plate 2 Takes</span>"
+},
+{
+"key": "feature_ppm.html#244",
+"de": "<i class=\"set\" style=\"width:15%\"></i><span>Darsteller B bestellt · LOOK 2 · 2S-Stellprobe</span>"
+},
+{
+"key": "feature_ppm.html#245",
+"de": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 05</b> 2S Anstoßen · SYNC Lachen · 30 s Raumton aufnehmen</span>"
+},
+{
+"key": "feature_ppm.html#246",
+"de": "<i class=\"shoot\" style=\"width:45%\"></i><span><b>CUT 01 · 02 INS</b> Makro Tropfen · Hand-Insert · frische Flaschen tauschen</span>"
+},
+{
+"key": "feature_ppm.html#247",
+"de": "<i class=\"move\" style=\"width:30%\"></i><span>Abbau · wiederhergestellten Ort fotografieren · Fundsachen · 1. Backup (am Set) · Übergabe 10:30</span>"
+},
+{
+"key": "feature_ppm.html#248",
+"de": "<i class=\"meal\" style=\"width:30%\"></i><span>Spätes Frühstück · 1. Muster sichten · Nachdrehliste</span>"
+},
+{
+"key": "feature_ppm.html#249",
+"de": "<span><i style=\"background:#7A1C2B\"></i>Dreh</span><span><i style=\"background:#A8465A\"></i>Aufbau · Probe</span><span><i style=\"background:#A8A8AE\"></i>Fahrt · Abbau</span><span><i style=\"background:#EFEDE9\"></i>Essen · Aufräumen</span>"
+},
+{
+"key": "feature_ppm.html#250",
+"de": "Tagesdisposition – eine A4-Seite, bis 20 Uhr am Vortag an alle"
+},
+{
+"key": "feature_ppm.html#251",
+"de": "Abschnitt"
+},
+{
+"key": "feature_ppm.html#252",
+"de": "Inhalt"
+},
+{
+"key": "feature_ppm.html#253",
+"de": "Beispiel"
+},
+{
+"key": "feature_ppm.html#254",
+"de": "Kopf"
+},
+{
+"key": "feature_ppm.html#255",
+"de": "Projekt · Drehtag Nr. · Datum · Wetter · Sonnenauf-/-untergang · 2 Produktionskontakte"
+},
+{
+"key": "feature_ppm.html#256",
+"de": "Morgendrink 15 s · DREHTAG 1/2 · 9.4. (Mi) · klar 12→19 °C · Sonnenaufgang 06:12 · PL Kim ○○ 010-… / AD 010-…"
+},
+{
+"key": "feature_ppm.html#257",
+"de": "Drehort"
+},
+{
+"key": "feature_ppm.html#258",
+"de": "Adresse · Parken · Treffpunkt · Toilette · Krankenhaus"
+},
+{
+"key": "feature_ppm.html#259",
+"de": "○○-ro 12, Mapo-gu, 1. OG · Hintergasse, 2 Autos · Eingang EG · EG · ○○-Krankenhaus, Notaufnahme 1,2 km"
+},
+{
+"key": "feature_ppm.html#260",
+"de": "Bestellzeit"
+},
+{
+"key": "feature_ppm.html#261",
+"de": "Ankunft nach Abteilung (Technik → Produktion → Besetzung → Auftraggeber)"
+},
+{
+"key": "feature_ppm.html#262",
+"de": "Produktion 06:30 · Kamera/Licht 07:00 · Darsteller A 07:15 · Darsteller B 09:00 · Auftraggeber 08:15"
+},
+{
+"key": "feature_ppm.html#263",
+"de": "Ablauf"
+},
+{
+"key": "feature_ppm.html#264",
+"de": "Tagesablauf in Kurzform (Balkendiagramm oben)"
+},
+{
+"key": "feature_ppm.html#265",
+"de": "07:30 CUT 02 → 08:00 CUT 03 → 08:30 CUT 06 → 09:10 CUT 05 → 09:40 INS → 10:10 Abbau"
+},
+{
+"key": "feature_ppm.html#266",
+"de": "Besetzung"
+},
+{
+"key": "feature_ppm.html#267",
+"de": "Rolle · Darsteller · Bestellzeit · Maske · Kostüm · Kontakt Management"
+},
+{
+"key": "feature_ppm.html#268",
+"de": "A Hauptrolle · 07:15 · Mobil · LOOK 1 · 010-… / B Kollege · 09:00 · LOOK 2"
+},
+{
+"key": "feature_ppm.html#269",
+"de": "Technik · Ausstattung"
+},
+{
+"key": "feature_ppm.html#270",
+"de": "Kamera · Objektiv · Lichtliste · Requisiteur · Produktmenge"
+},
+{
+"key": "feature_ppm.html#271",
+"de": "FX3 · 24/35/50/85/100M · LED 600 W + 2 Röhren · 6 Produktflaschen gekühlt · Glycerin"
+},
+{
+"key": "feature_ppm.html#272",
+"de": "Sicherheit · Regeln"
+},
+{
+"key": "feature_ppm.html#273",
+"de": "Gefahren · Versicherung · 3 Set-Regeln"
+},
+{
+"key": "feature_ppm.html#274",
+"de": "Technik auf der Treppe zu zweit tragen · nie über 3 kW · Maschine bei Takes 10 Min. aus · Rauchen nur draußen"
+},
+{
+"key": "feature_ppm.html#275",
+"de": "Notfallplan"
+},
+{
+"key": "feature_ppm.html#276",
+"de": "Schwellen und Ausweichlösungen bei Regen · Verzug · Ersatztag"
+},
+{
+"key": "feature_ppm.html#277",
+"de": "Keine Direktsonne um 07:30 → Haupt-LED · 2 Std. Verzug → CUT 05 auf Ersatztag · Ersatztag 13.4."
+},
+{
+"key": "feature_ppm.html#278",
+"de": "<small>DOPPELSEITE 07 · Budget · Risiko · Meeting</small>Budgetposten und Regeln für das PPM"
+},
+{
+"key": "feature_ppm.html#279",
+"de": "Kategorie"
+},
+{
+"key": "feature_ppm.html#280",
+"de": "Posten"
+},
+{
+"key": "feature_ppm.html#281",
+"de": "Studienprojekt"
+},
+{
+"key": "feature_ppm.html#282",
+"de": "Kleiner Werbefilm"
+},
+{
+"key": "feature_ppm.html#283",
+"de": "Im PPM festlegen"
+},
+{
+"key": "feature_ppm.html#284",
+"de": "Personal"
+},
+{
+"key": "feature_ppm.html#285",
+"de": "Regie, Kamera, Licht, Schnitt"
+},
+{
+"key": "feature_ppm.html#286",
+"de": "0 (Teammitglieder)"
+},
+{
+"key": "feature_ppm.html#287",
+"de": "Tagessatz"
+},
+{
+"key": "feature_ppm.html#288",
+"de": "Beginn der Überstunden"
+},
+{
+"key": "feature_ppm.html#289",
+"de": "Darsteller"
+},
+{
+"key": "feature_ppm.html#290",
+"de": "Models, Sprecher, Komparsen"
+},
+{
+"key": "feature_ppm.html#291",
+"de": "0 bis kleine Gage"
+},
+{
+"key": "feature_ppm.html#292",
+"de": "Vertrag pro Einsatz"
+},
+{
+"key": "feature_ppm.html#293",
+"de": "Umfang · Dauer der Bildrechte"
+},
+{
+"key": "feature_ppm.html#294",
+"de": "Technik"
+},
+{
+"key": "feature_ppm.html#295",
+"de": "Miete Kamera, Objektiv, Licht, Gimbal"
+},
+{
+"key": "feature_ppm.html#296",
+"de": "Hochschulverleih"
+},
+{
+"key": "feature_ppm.html#297",
+"de": "Tagesmiete"
+},
+{
+"key": "feature_ppm.html#298",
+"de": "Schadensversicherung, Rückgabezeit"
+},
+{
+"key": "feature_ppm.html#299",
+"de": "Drehort"
+},
+{
+"key": "feature_ppm.html#300",
+"de": "Miete, Aufwandsentschädigung"
+},
+{
+"key": "feature_ppm.html#301",
+"de": "Gratis, als Gefallen"
+},
+{
+"key": "feature_ppm.html#302",
+"de": "Stundensatz"
+},
+{
+"key": "feature_ppm.html#303",
+"de": "Überziehungsgebühr, Rückbauumfang"
+},
+{
+"key": "feature_ppm.html#304",
+"de": "Ausstattung"
+},
+{
+"key": "feature_ppm.html#305",
+"de": "Requisiten, Kostüm, Bauten"
+},
+{
+"key": "feature_ppm.html#306",
+"de": "Nach Aufwand"
+},
+{
+"key": "feature_ppm.html#307",
+"de": "Einzelposten"
+},
+{
+"key": "feature_ppm.html#308",
+"de": "Produktmenge, Verbrauchsmaterial"
+},
+{
+"key": "feature_ppm.html#309",
+"de": "Postproduktion"
+},
+{
+"key": "feature_ppm.html#310",
+"de": "Grading, Tonmischung, CG"
+},
+{
+"key": "feature_ppm.html#311",
+"de": "In Eigenleistung"
+},
+{
+"key": "feature_ppm.html#312",
+"de": "Externe Sätze"
+},
+{
+"key": "feature_ppm.html#313",
+"de": "Zahl der Korrekturschleifen (meist 2)"
+},
+{
+"key": "feature_ppm.html#314",
+"de": "Musik"
+},
+{
+"key": "feature_ppm.html#315",
+"de": "Lizenzkauf"
+},
+{
+"key": "feature_ppm.html#316",
+"de": "Geteiltes Abo"
+},
+{
+"key": "feature_ppm.html#317",
+"de": "Pro Titel oder Abo"
+},
+{
+"key": "feature_ppm.html#318",
+"de": "Medien · Nutzungsdauer"
+},
+{
+"key": "feature_ppm.html#319",
+"de": "Sonstiges"
+},
+{
+"key": "feature_ppm.html#320",
+"de": "Verpflegung, Transport, Versicherung"
+},
+{
+"key": "feature_ppm.html#321",
+"de": "Nach Aufwand"
+},
+{
+"key": "feature_ppm.html#322",
+"de": "10 % der Summe als Reserve"
+},
+{
+"key": "feature_ppm.html#323",
+"de": "<b>10 % Reserve ausweisen</b>"
+},
+{
+"key": "feature_ppm.html#324",
+"de": "Immer eine Reserve einplanen"
+},
+{
+"key": "feature_ppm.html#325",
+"de": "Ohne 10 % des Gesamtbudgets als Reserve steht das Projekt still, sobald Regen, eine Verspätung, ein Technikausfall oder ein Nachdreh eintritt. In einem Studienprojekt erfüllt ein gesicherter Ersatzdrehtag denselben Zweck."
+},
+{
+"key": "feature_ppm.html#326",
+"de": "Risikotabelle – was passieren kann, was dann zu tun ist, wer entscheidet"
+},
+{
+"key": "feature_ppm.html#327",
+"de": "Risiko"
+},
+{
+"key": "feature_ppm.html#328",
+"de": "Auslöser"
+},
+{
+"key": "feature_ppm.html#329",
+"de": "Plan B"
+},
+{
+"key": "feature_ppm.html#330",
+"de": "Entscheidet"
+},
+{
+"key": "feature_ppm.html#331",
+"de": "Regen · bedeckt (keine Direktsonne)"
+},
+{
+"key": "feature_ppm.html#332",
+"de": "D-1, 20 Uhr: Regenrisiko ab 60 %"
+},
+{
+"key": "feature_ppm.html#333",
+"de": "Fensterlicht mit Haupt-LED nachbilden oder Ersatztag"
+},
+{
+"key": "feature_ppm.html#334",
+"de": "Regie + DoP"
+},
+{
+"key": "feature_ppm.html#335",
+"de": "Darsteller verspätet · fehlt"
+},
+{
+"key": "feature_ppm.html#336",
+"de": "Bestellzeit +30 Min., unerreichbar"
+},
+{
+"key": "feature_ppm.html#337",
+"de": "Zuerst Inserts und Produkteinstellungen drehen, Kandidat B anrufen"
+},
+{
+"key": "feature_ppm.html#338",
+"de": "Produktionsleitung"
+},
+{
+"key": "feature_ppm.html#339",
+"de": "Technikausfall"
+},
+{
+"key": "feature_ppm.html#340",
+"de": "Kein Ersatzgehäuse"
+},
+{
+"key": "feature_ppm.html#341",
+"de": "Notfalltausch beim Verleih (Kontakt auf der Tagesdisposition)"
+},
+{
+"key": "feature_ppm.html#342",
+"de": "DoP"
+},
+{
+"key": "feature_ppm.html#343",
+"de": "Mietzeit überzogen"
+},
+{
+"key": "feature_ppm.html#344",
+"de": "Um 10:15 nicht eingepackt"
+},
+{
+"key": "feature_ppm.html#345",
+"de": "Gebühr für 30 Min. Verlängerung vorab vereinbaren"
+},
+{
+"key": "feature_ppm.html#346",
+"de": "Produktionsleitung"
+},
+{
+"key": "feature_ppm.html#347",
+"de": "Änderungswunsch des Auftraggebers am Set"
+},
+{
+"key": "feature_ppm.html#348",
+"de": "Einstellung nicht im Board"
+},
+{
+"key": "feature_ppm.html#349",
+"de": "Erst nach unterschriebener „Anfrage Zusatzeinstellung“ drehen; separat abgerechnet"
+},
+{
+"key": "feature_ppm.html#350",
+"de": "Produktionsleitung + Auftraggeber"
+},
+{
+"key": "feature_ppm.html#351",
+"de": "<span class=\"ph-id\">P06-TEAM2</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Drei Personen am Monitor – Regie · Kamera · Produktion sehen dasselbe Bild</b></span>"
+},
+{
+"key": "feature_ppm.html#352",
+"de": "<b>Hinweis</b>Drei Personen am Monitor – Regie · Kamera · Produktion sehen dasselbe Bild"
+},
+{
+"key": "feature_ppm.html#353",
+"de": "Meetingregeln"
+},
+{
+"key": "feature_ppm.html#354",
+"de": "<b>01</b><span>Unterlagen <b>48 Stunden vor</b> dem Meeting verschicken. Über Material, das man erst im Raum sieht, kann niemand entscheiden.</span>"
+},
+{
+"key": "feature_ppm.html#355",
+"de": "<b>02</b><span>Jeden Punkt als <b>entschieden oder offen</b> markieren. Offene Punkte immer mit Zuständigen und Frist.</span>"
+},
+{
+"key": "feature_ppm.html#356",
+"de": "<b>03</b><span>Referenzen immer <b>gemeinsam am Bildschirm</b> sichten. Beschreibt man einen Ton mit Worten, stellt ihn sich jeder anders vor.</span>"
+}
+]

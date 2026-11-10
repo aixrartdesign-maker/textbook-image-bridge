@@ -1,0 +1,602 @@
+[
+{
+"key": "part07.html#707",
+"de": "Im Vorbeigehen"
+},
+{
+"key": "part07.html#708",
+"de": "Sehr weit"
+},
+{
+"key": "part07.html#709",
+"de": "Sehr niedrig"
+},
+{
+"key": "part07.html#710",
+"de": "Eine Botschaft, kontrastreich"
+},
+{
+"key": "part07.html#711",
+"de": "Ausstellung"
+},
+{
+"key": "part07.html#712",
+"de": "Stehend, gehend"
+},
+{
+"key": "part07.html#713",
+"de": "Weit"
+},
+{
+"key": "part07.html#714",
+"de": "Hoch"
+},
+{
+"key": "part07.html#715",
+"de": "Geplante Verweildauer, Raumklang"
+},
+{
+"key": "part07.html#716",
+"de": "Ladenbildschirme"
+},
+{
+"key": "part07.html#717",
+"de": "Stehend, kurz"
+},
+{
+"key": "part07.html#718",
+"de": "Mittel"
+},
+{
+"key": "part07.html#719",
+"de": "Niedrig"
+},
+{
+"key": "part07.html#720",
+"de": "Preis und Angebot zuerst"
+},
+{
+"key": "part07.html#721",
+"de": "<small>Kino</small>Blicklenkung"
+},
+{
+"key": "part07.html#722",
+"de": "Auf großer Leinwand sind selbst Details in den Ecken erkennbar, doch von manchen Plätzen wirkt das Bild schief – äußerste Ränder meiden"
+},
+{
+"key": "part07.html#723",
+"de": "Im dunklen Saal wirken Low-Key-Looks am besten"
+},
+{
+"key": "part07.html#724",
+"de": "Surround-Sound ermöglicht gerichteten Ton"
+},
+{
+"key": "part07.html#725",
+"de": "Das Publikum kann nicht weg – es bleibt Zeit für eine Geschichte"
+},
+{
+"key": "part07.html#726",
+"de": "<small>Mobiles Scrollen</small>Was anders ist"
+},
+{
+"key": "part07.html#727",
+"de": "Ein Fingerwisch, und sie sind weg – Ausgangspunkt jeder Kurzvideo-Regel"
+},
+{
+"key": "part07.html#728",
+"de": "Kaum Reize im Randbereich, daher übernehmen Bewegung und Untertitel diese Rolle"
+},
+{
+"key": "part07.html#729",
+"de": "Stumm voll verständlich gestalten"
+},
+{
+"key": "part07.html#730",
+"de": "Als Loop denken: Ende an Anfang anschließen"
+},
+{
+"key": "part07.html#731",
+"de": "Vertikale Bewegung wirkt stärker als horizontale"
+},
+{
+"key": "part07.html#732",
+"de": "Besucherfluss planen"
+},
+{
+"key": "part07.html#733",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part07.html#734",
+"de": "Die Handys der Besucher sind das beste Verbreitungsnetz. Gestalten Sie Licht und Kulisse der Fotozone fürs Fotografieren und Teilen."
+},
+{
+"key": "part07.html#735",
+"de": "<b>01</b><span>Binnen 3 Sekunden nach dem Eintreten sollen Besucher verstehen, wozu der Ort dient.</span>"
+},
+{
+"key": "part07.html#736",
+"de": "<b>02</b><span>Setzen Sie vor jede Erlebniszone einen Wartebereich mit Vorschau. Auch Wartezeit ist Inhalt.</span>"
+},
+{
+"key": "part07.html#737",
+"de": "<b>03</b><span>Entscheiden Sie klar zwischen Einbahnweg und freiem Rundgang. Wer beides mischt, erzeugt Engpässe und Gegenverkehr.</span>"
+},
+{
+"key": "part07.html#738",
+"de": "<b>04</b><span>Setzen Sie die stärkste Szene kurz vor den Ausgang – sie prägt die letzte Erinnerung.</span>"
+},
+{
+"key": "part07.html#739",
+"de": "<b>05</b><span>Gestalten Sie Licht und Kulisse der Fotozone fürs Fotografieren und Teilen.</span>"
+},
+{
+"key": "part07.html#740",
+"de": "<b>06</b><span>Planen Sie Ruhezonen und Toiletten in den Weg ein. Ab 20 Minuten Erlebnisdauer sind sie unverzichtbar.</span>"
+},
+{
+"key": "part07.html#741",
+"de": "Reihenfolge bei mehreren Medien"
+},
+{
+"key": "part07.html#742",
+"de": "Beginnen Sie mit dem Medium mit den engsten Grenzen. Brauchen Sie Kurzvideo und Außenwerbung, legen Sie erst eine einzige Botschaft für außen fest und erweitern Sie dann fürs Kurzvideo. Umgekehrt quillt die Information über, bis draußen nichts mehr lesbar ist."
+},
+{
+"key": "part07.html#743",
+"de": "<small>Übung</small>6.11"
+},
+{
+"key": "part07.html#744",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#745",
+"de": "Erfassen Sie für einen Ort auf dem Campus die Sehbedingungen (Abstand, Helligkeit, Passanten, Geräusche) und schlagen Sie ein passendes Videoformat vor."
+},
+{
+"key": "part07.html#746",
+"de": "Tipp"
+},
+{
+"key": "part07.html#747",
+"de": "Messen Sie die Verweildauer an diesem Ort."
+},
+{
+"key": "part07.html#748",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#749",
+"de": "Genaue Beobachtung, passender Vorschlag"
+},
+{
+"key": "part07.html#750",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#751",
+"de": "Passt Videolänge und sogar Schriftgröße an die Verweildauer an."
+},
+{
+"key": "part07.html#752",
+"de": "<b>TEIL 07</b>Medienspezifikationen und immersive Inhalte"
+},
+{
+"key": "part07.html#753",
+"de": "Projekttypen für immersive Inhalte"
+},
+{
+"key": "part07.html#754",
+"de": "Reale Projekte entsprechen einem der folgenden Typen oder mischen sie. Steht der Typ fest, zeichnen sich Technik und Budget in Umrissen ab."
+},
+{
+"key": "part07.html#755",
+"de": "Typ"
+},
+{
+"key": "part07.html#756",
+"de": "Elemente"
+},
+{
+"key": "part07.html#757",
+"de": "Kerntechnik"
+},
+{
+"key": "part07.html#758",
+"de": "Kennzahlen"
+},
+{
+"key": "part07.html#759",
+"de": "Marken-Pop-up"
+},
+{
+"key": "part07.html#760",
+"de": "3–5 Erlebniszonen, Fotozone, Shop"
+},
+{
+"key": "part07.html#761",
+"de": "Projektion, Sensoren, LED"
+},
+{
+"key": "part07.html#762",
+"de": "Besucher, SNS-Posts"
+},
+{
+"key": "part07.html#763",
+"de": "Immersive Medienkunst"
+},
+{
+"key": "part07.html#764",
+"de": "Raumfüllendes Video und Ton in großer Halle"
+},
+{
+"key": "part07.html#765",
+"de": "Mehrflächenprojektion, Raumklang"
+},
+{
+"key": "part07.html#766",
+"de": "Verweildauer, Wiederbesuche"
+},
+{
+"key": "part07.html#767",
+"de": "Virtueller Showroom"
+},
+{
+"key": "part07.html#768",
+"de": "Produkte in 3D ansehen und platzieren"
+},
+{
+"key": "part07.html#769",
+"de": "WebGL, AR"
+},
+{
+"key": "part07.html#770",
+"de": "Abschlussquote, Konversion"
+},
+{
+"key": "part07.html#771",
+"de": "Trainingssimulation"
+},
+{
+"key": "part07.html#772",
+"de": "Gefährliche oder teure Situationen nachstellen"
+},
+{
+"key": "part07.html#773",
+"de": "VR-HMD, Interaktion"
+},
+{
+"key": "part07.html#774",
+"de": "Lernerfolg"
+},
+{
+"key": "part07.html#775",
+"de": "Öffentliche Infoschau"
+},
+{
+"key": "part07.html#776",
+"de": "Lokalgeschichte, Wissenschaft, Sicherheit"
+},
+{
+"key": "part07.html#777",
+"de": "Touch-Interaktion, Video"
+},
+{
+"key": "part07.html#778",
+"de": "Besucherzufriedenheit"
+},
+{
+"key": "part07.html#779",
+"de": "Anamorphose außen"
+},
+{
+"key": "part07.html#780",
+"de": "LED-Illusion an der Gebäudeecke"
+},
+{
+"key": "part07.html#781",
+"de": "3D-Rendering, Standpunkt-Kalibrierung"
+},
+{
+"key": "part07.html#782",
+"de": "Online-Verbreitung"
+},
+{
+"key": "part07.html#783",
+"de": "XR-Liveshow"
+},
+{
+"key": "part07.html#784",
+"de": "Echtzeitgrafik plus Liveshow"
+},
+{
+"key": "part07.html#785",
+"de": "Echtzeit-Engine, Tracking"
+},
+{
+"key": "part07.html#786",
+"de": "Zuschauerzahl, Stream-Abrufe"
+},
+{
+"key": "part07.html#787",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part07.html#788",
+"de": "Analysieren Sie nach Publikumserlebnis, nicht nach Technik."
+},
+{
+"key": "part07.html#789",
+"de": "Was jedes Konzept enthalten muss"
+},
+{
+"key": "part07.html#790",
+"de": "Die Reaktion nach dem Besuch in einem Satz. Schreiben Sie zuerst, was Besucher beim Hinausgehen fühlen – keine Technikliste."
+},
+{
+"key": "part07.html#791",
+"de": "Aufmaßpläne und Deckenhöhe, Stromkapazität, Umgebungslicht."
+},
+{
+"key": "part07.html#792",
+"de": "Verweildauerplan je Zone und Berechnung des stündlichen Durchsatzes."
+},
+{
+"key": "part07.html#793",
+"de": "Gerätespezifikationen, Ersatzgeräte, Wartungsplan."
+},
+{
+"key": "part07.html#794",
+"de": "Personalhandbuch und Störfallabläufe. Dokumentieren Sie immer den Neustart."
+},
+{
+"key": "part07.html#795",
+"de": "Sicherheitskonzept. Planen Sie Bodenleitlichter in dunklen Räumen und Fluchtwege ein."
+},
+{
+"key": "part07.html#796",
+"de": "<small>Übung</small>6.12"
+},
+{
+"key": "part07.html#797",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#798",
+"de": "Analysieren Sie 3 immersive Projekte nach Typ und schlagen Sie eines für Ihre Region vor."
+},
+{
+"key": "part07.html#799",
+"de": "Tipp"
+},
+{
+"key": "part07.html#800",
+"de": "Analysieren Sie nach Publikumserlebnis, nicht nach Technik."
+},
+{
+"key": "part07.html#801",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#802",
+"de": "Stimmiger Analyserahmen, realisierbares Konzept"
+},
+{
+"key": "part07.html#803",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#804",
+"de": "Schätzt sogar Budget und Betriebspersonal realistisch ab."
+},
+{
+"key": "part07.html#805",
+"de": "<b>TEIL 07</b>Medienspezifikationen und immersive Inhalte"
+},
+{
+"key": "part07.html#806",
+"de": "Neue Displays und räumliche Medien"
+},
+{
+"key": "part07.html#807",
+"de": "Seit Mitte der 2020er-Jahre vervielfachen sich die Flächen für Video. Wer plant, muss ihre Mindestspezifikationen kennen, um mit Anbietern mitreden zu können."
+},
+{
+"key": "part07.html#808",
+"de": "<b>Abb. 70</b> Bildschirmspezifikationen je Medium"
+},
+{
+"key": "part07.html#809",
+"de": "Große TVs und das Wohnzimmer"
+},
+{
+"key": "part07.html#810",
+"de": "<b>HINWEIS</b>"
+},
+{
+"key": "part07.html#811",
+"de": "Erstellen Sie zu jedem HDR-Master immer auch eine SDR-Fassung."
+},
+{
+"key": "part07.html#812",
+"de": "4K ist heute Standard, und 8K-Panels gibt es schon in günstigen Modellen. Doch 8K-Inhalte sind rar, daher läuft meist hochskaliertes Material."
+},
+{
+"key": "part07.html#813",
+"de": "Mit immer mehr HDR-Panels wächst der Helligkeitsumfang."
+},
+{
+"key": "part07.html#814",
+"de": "Mit wachsenden Bildschirmen schrumpft der Sehabstand auf das 1,5- bis 2-Fache der Diagonale. Daher weitet sich die einst von Großaufnahmen geprägte TV-Grammatik wieder."
+},
+{
+"key": "part07.html#815",
+"de": "Smart-TV-Apps haben YouTube und Streaming ins Wohnzimmer gebracht. Bedenken Sie zudem, dass vertikale Kurzvideos auf großen horizontalen Bildschirmen laufen."
+},
+{
+"key": "part07.html#816",
+"de": "Riesen-LEDs und Medienfassaden"
+},
+{
+"key": "part07.html#817",
+"de": "Angestrahlte Fläche vs. selbst leuchtende Fläche"
+},
+{
+"key": "part07.html#818",
+"de": "<b>Projection Mapping – Licht fällt darauf</b><span>Nur im Dunkeln sichtbar · die Gebäudeform ist die Leinwand · schnell aufgebaut, ideal für einmalige Events · Projektionsabstand und Projektorenzahl sind entscheidend</span>"
+},
+{
+"key": "part07.html#819",
+"de": "<b>LED-Display · Medienfassade – die Fläche leuchtet selbst</b><span>Auch tagsüber sichtbar · Dauerbetrieb · Pixel Pitch und Betrachtungsabstand sind entscheidend · teuer in der Installation, aber Inhalte leicht austauschbar</span>"
+},
+{
+"key": "part07.html#820",
+"de": "Projektion leiht sich eine <b>Fläche</b>; LED schafft eine <b>Fläche</b>. Für ein Event an einem Abend: Projektion; muss es täglich laufen: LED."
+},
+{
+"key": "part07.html#821",
+"de": "<b>Abb. 71</b> Projection Mapping und LED-Displays – beides ist „Video am Gebäude“, doch das Licht kommt aus verschiedenen Quellen."
+},
+{
+"key": "part07.html#822",
+"de": "Kategorie"
+},
+{
+"key": "part07.html#823",
+"de": "Projection Mapping"
+},
+{
+"key": "part07.html#824",
+"de": "LED-Display"
+},
+{
+"key": "part07.html#825",
+"de": "Aufbau"
+},
+{
+"key": "part07.html#826",
+"de": "Projektorstandort und Projektionsabstand sichern"
+},
+{
+"key": "part07.html#827",
+"de": "Panels an einer Tragkonstruktion"
+},
+{
+"key": "part07.html#828",
+"de": "Umfeld"
+},
+{
+"key": "part07.html#829",
+"de": "Nacht · Verdunkelung nötig"
+},
+{
+"key": "part07.html#830",
+"de": "Tag und Nacht"
+},
+{
+"key": "part07.html#831",
+"de": "Helligkeit"
+},
+{
+"key": "part07.html#832",
+"de": "Angabe in ANSI-Lumen"
+},
+{
+"key": "part07.html#833",
+"de": "Angabe in Nits"
+},
+{
+"key": "part07.html#834",
+"de": "Fläche"
+},
+{
+"key": "part07.html#835",
+"de": "Je heller und glatter, desto besser"
+},
+{
+"key": "part07.html#836",
+"de": "Fläche leuchtet selbst"
+},
+{
+"key": "part07.html#837",
+"de": "Inhalt"
+},
+{
+"key": "part07.html#838",
+"de": "Nach der Abwicklung des Gebäudes"
+},
+{
+"key": "part07.html#839",
+"de": "Nach Panel-Auflösung"
+},
+{
+"key": "part07.html#840",
+"de": "Kosten"
+},
+{
+"key": "part07.html#841",
+"de": "Anfangs günstig, teuer im Betrieb"
+},
+{
+"key": "part07.html#842",
+"de": "Anfangs teuer, stabil im Betrieb"
+},
+{
+"key": "part07.html#843",
+"de": "Rückbau"
+},
+{
+"key": "part07.html#844",
+"de": "Einfach"
+},
+{
+"key": "part07.html#845",
+"de": "Bauliche Eingriffe nötig"
+},
+{
+"key": "part07.html#846",
+"de": "Projektionsabstand = Bildbreite × Projektionsverhältnis"
+},
+{
+"key": "part07.html#847",
+"de": "<b>Ein Projektor erzeugt sein Bild über den Abstand</b><span>Weiter weg heißt größer und dunkler – die nötige Helligkeit (Lumen) wächst mit der Fläche</span>"
+},
+{
+"key": "part07.html#848",
+"de": "Projektionsabstand D"
+},
+{
+"key": "part07.html#849",
+"de": "Bildbreite W"
+},
+{
+"key": "part07.html#850",
+"de": "D = W × Projektionsverhältnis"
+},
+{
+"key": "part07.html#851",
+"de": "Verhältnis 1,5 · Breite 6 m → 9 m Abstand"
+},
+{
+"key": "part07.html#852",
+"de": "<b>Die Formel für die Praxis</b><span>Projektionsverhältnis = Abstand ÷ Breite. Kurzdistanz 0,3–0,8, Standard 1,2–2,0, Langdistanz ab 2,0 · Zielhelligkeit: dunkler Innenraum 1000–2000 lm/m², helle Lobby 3000 lm/m²</span>"
+},
+{
+"key": "part07.html#853",
+"de": "<b>Abb. 72</b> Projektionsabstand und Bildgröße – stehen zwei von Abstand · Bildbreite · Projektionsverhältnis fest, ergibt sich die dritte Größe. Das ist die erste Zahl, die vor der Installation gemessen wird."
+},
+{
+"key": "part07.html#854",
+"de": "<b>01</b><i>Fläche</i>Gemessene Größe der Projektionsfläche"
+},
+{
+"key": "part07.html#855",
+"de": "<b>02</b><i>Auflösung</i>Nötige Auflösung beim kürzesten Betrachtungsabstand"
+},
+{
+"key": "part07.html#856",
+"de": "<b>03</b><i>Helligkeit</i>Umgebungslicht messen und nötige Helligkeit berechnen"
+}
+]

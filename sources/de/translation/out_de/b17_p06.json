@@ -1,0 +1,374 @@
+[
+{
+"key": "templates.html#402",
+"de": "0° Front"
+},
+{
+"key": "templates.html#403",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#404",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#405",
+"de": "Aktion"
+},
+{
+"key": "templates.html#406",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#407",
+"de": "M · SE"
+},
+{
+"key": "templates.html#408",
+"de": "CUT 06"
+},
+{
+"key": "templates.html#409",
+"de": "0° Front"
+},
+{
+"key": "templates.html#410",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#411",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#412",
+"de": "Aktion"
+},
+{
+"key": "templates.html#413",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#414",
+"de": "M · SE"
+},
+{
+"key": "templates.html#415",
+"de": "CUT 07"
+},
+{
+"key": "templates.html#416",
+"de": "0° Front"
+},
+{
+"key": "templates.html#417",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#418",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#419",
+"de": "Aktion"
+},
+{
+"key": "templates.html#420",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#421",
+"de": "M · SE"
+},
+{
+"key": "templates.html#422",
+"de": "CUT 08"
+},
+{
+"key": "templates.html#423",
+"de": "0° Front"
+},
+{
+"key": "templates.html#424",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#425",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#426",
+"de": "Aktion"
+},
+{
+"key": "templates.html#427",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#428",
+"de": "M · SE"
+},
+{
+"key": "templates.html#429",
+"de": "Weinroter Rahmen = vordere 90° (ein Headset-Blickfeld). Ereignisse innerhalb von ±30° halten; den Bereich dahinter mit Ton abdecken. Blickpunktkarte daneben zeichnen."
+},
+{
+"key": "templates.html#430",
+"de": "Storyboard-Vorlage · gebogene·Rundum-LED"
+},
+{
+"key": "templates.html#431",
+"de": "Zylindrische Abwicklung – immersive Ausstellungshalle · Bogenlänge : Höhe (z. B. 9400×2000)"
+},
+{
+"key": "templates.html#432",
+"de": "Projekt ____________  Szene ____  Seite ___/___"
+},
+{
+"key": "templates.html#433",
+"de": "Regie ________  Datum ________  Version v___"
+},
+{
+"key": "templates.html#434",
+"de": "CUT 01"
+},
+{
+"key": "templates.html#435",
+"de": "Augenhöhe"
+},
+{
+"key": "templates.html#436",
+"de": "L-Ende"
+},
+{
+"key": "templates.html#437",
+"de": "Front"
+},
+{
+"key": "templates.html#438",
+"de": "R-Ende"
+},
+{
+"key": "templates.html#439",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#440",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#441",
+"de": "Aktion"
+},
+{
+"key": "templates.html#442",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#443",
+"de": "M · SE"
+},
+{
+"key": "templates.html#444",
+"de": "CUT 02"
+},
+{
+"key": "templates.html#445",
+"de": "Augenhöhe"
+},
+{
+"key": "templates.html#446",
+"de": "L-Ende"
+},
+{
+"key": "templates.html#447",
+"de": "Front"
+},
+{
+"key": "templates.html#448",
+"de": "R-Ende"
+},
+{
+"key": "templates.html#449",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#450",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#451",
+"de": "Aktion"
+},
+{
+"key": "templates.html#452",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#453",
+"de": "M · SE"
+},
+{
+"key": "templates.html#454",
+"de": "CUT 03"
+},
+{
+"key": "templates.html#455",
+"de": "Augenhöhe"
+},
+{
+"key": "templates.html#456",
+"de": "L-Ende"
+},
+{
+"key": "templates.html#457",
+"de": "Front"
+},
+{
+"key": "templates.html#458",
+"de": "R-Ende"
+},
+{
+"key": "templates.html#459",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#460",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#461",
+"de": "Aktion"
+},
+{
+"key": "templates.html#462",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#463",
+"de": "M · SE"
+},
+{
+"key": "templates.html#464",
+"de": "CUT 04"
+},
+{
+"key": "templates.html#465",
+"de": "Augenhöhe"
+},
+{
+"key": "templates.html#466",
+"de": "L-Ende"
+},
+{
+"key": "templates.html#467",
+"de": "Front"
+},
+{
+"key": "templates.html#468",
+"de": "R-Ende"
+},
+{
+"key": "templates.html#469",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#470",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#471",
+"de": "Aktion"
+},
+{
+"key": "templates.html#472",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#473",
+"de": "M · SE"
+},
+{
+"key": "templates.html#474",
+"de": "CUT 05"
+},
+{
+"key": "templates.html#475",
+"de": "Augenhöhe"
+},
+{
+"key": "templates.html#476",
+"de": "L-Ende"
+},
+{
+"key": "templates.html#477",
+"de": "Front"
+},
+{
+"key": "templates.html#478",
+"de": "R-Ende"
+},
+{
+"key": "templates.html#479",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#480",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#481",
+"de": "Aktion"
+},
+{
+"key": "templates.html#482",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#483",
+"de": "M · SE"
+},
+{
+"key": "templates.html#484",
+"de": "CUT 06"
+},
+{
+"key": "templates.html#485",
+"de": "Augenhöhe"
+},
+{
+"key": "templates.html#486",
+"de": "L-Ende"
+},
+{
+"key": "templates.html#487",
+"de": "Front"
+},
+{
+"key": "templates.html#488",
+"de": "R-Ende"
+},
+{
+"key": "templates.html#489",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#490",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#491",
+"de": "Aktion"
+},
+{
+"key": "templates.html#492",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#493",
+"de": "M · SE"
+},
+{
+"key": "templates.html#494",
+"de": "Gepunktete Linien = Modulnähte (kein Text). Text·Gesichter nur auf Augenhöhe (1,4–1,8 m über dem Boden)."
+}
+]

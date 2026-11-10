@@ -1,0 +1,413 @@
+<!-- PART 13 미디어아트와 확장 영상 -->
+<section class="part" id="part13">
+  <div class="photo"><img src="img_new/OPEN-MEDIAART.jpg" alt=""><div class="label">PART</div><div class="num"><small>PART</small>13</div></div>
+  <div class="body">
+    <div class="makes"><b>What you make in this PART</b><ol><li>An exhibition loop that reads within 30 seconds from any point</li><li>A real-time piece that responds to a single viewer gesture</li><li>Install drawing · gear list · run plan</li><li>A 250-character statement, one-page portfolio, open-call schedule</li></ol></div>
+    <div><h1>Media art and expanded cinema</h1><p class="intro">If a video is complete only when the audience moves, who made it? This PART asks again, from where we stand today, the question Nam June Paik opened. When the screen leaves the rectangle, the audience turns from watchers into participants, and the work must run itself in a gallery for a month, most of what a video maker has learned is still useful. Only the way you use it changes.</p></div>
+  </div>
+  <div class="credit">Photo OPEN-13 PART divider full-page photo · generative image</div>
+</section>
+
+<section class="howto page">
+  <div class="kicker">Using this chapter in class</div>
+  <p class="goal">Understand how the premises of regular video and media art differ, make a piece that responds to the audience with real-time tools, install · run · document it so it works in a gallery for a month, and apply to an open call.</p>
+  <p class="prep"><b>Materials</b>Laptop with webcam, a free real-time tool (TouchDesigner non-commercial or p5.js), 1 existing video of yours, tape measure, printout of a Seoul public media art open call</p>
+  <div class="timeline">
+    <div class="slot"><b>10 min</b><i>Intro</i><span>Play an existing video for 30 seconds from a random point and ask what it's about</span></div>
+    <div class="slot"><b>20 min</b><i>New premises</i><span>13.2 Use the table to compare viewer position · start and end · aspect ratio · repetition; sketch a loop</span></div>
+    <div class="slot"><b>40 min</b><i>Make</i><span>13.4 Build a webcam-reactive piece from a one-line rule like 'it brightens when someone comes close'</span></div>
+    <div class="slot"><b>30 min</b><i>Install math</i><span>13.5 For a 6m wide × 4m deep × 3m high gallery, work out throw ratio · image size · power routing</span></div>
+    <div class="slot"><b>20 min</b><i>Wrap-up</i><span>13.6 Write a 150-character statement starting 'This work is …' and read each other's</span></div>
+  </div>
+  <div class="check"><b>Check point</b>Can you say in one sentence what happens when the viewer does what, and does it run 10 minutes without stopping?</div>
+</section>
+
+<section class="essay page" id="essay-23">
+  <header><div class="crumb">Background 23</div><h2>The man who turned television around</h2></header>
+  <figure class="ph wide" data-id="P13-CRTTOWER">
+    <div class="ph-box"><span class="ph-id">P13-CRTTOWER</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>The origin of video art — a television tower</b>An installation of dozens of stacked CRT televisions playing abstract video in a dark gallery</span></div>
+    <figcaption><b>Note</b>An homage to Paik-style television towers — a form that stacked the receive-only box and turned it into a medium for making. "The More, the Better" used 1,003 sets</figcaption>
+  </figure>
+  <div class="cols">
+    <p>In 1963, "Exposition of Music — Electronic Television" opened in a small gallery in Wuppertal, Germany. Thirteen televisions stood in the room. Some had distorted pictures; on others the image changed when visitors pressed a foot pedal or made a sound into a microphone. It was the first solo show of Nam June Paik, born in Seoul in 1932, and is now called the starting point of video art.</p>
+    <p>Television then was a device for receiving at home whatever the broadcaster sent. Paik set out to reverse that one-way flow. He let viewers intervene in the picture, and later built his own video synthesizer for shaping the video signal by hand. He turned a medium of receiving into a medium of making.</p>
+    <p>He joined Fluxus in 1962, part of a movement erasing the line between everyday life and art, and after meeting John Cage in 1958 he brought an Eastern sense of time into his work. In "TV Buddha" (1974), a Buddha statue sits before a television, gazing at its own image relayed by a camera. Meditation and closed circuit, the cyclical time of the East and the electronics of the West meet on one screen.</p>
+    <p>His vision reached beyond the work, too. In a 1974 proposal to the Rockefeller Foundation he first used the term 'electronic superhighway,' 20 years before the internet became widely known. On January 1, 1984, he aired "Good Morning Mr. Orwell," a live broadcast linking New York, Paris and Seoul by satellite. Where Orwell had pictured 1984 as the year of surveillance, Paik set out that same year to show the other side: technology could also connect people.</p>
+    <p>"The More, the Better," built at the MMCA Gwacheon for the 1988 Seoul Olympics, is a tower of 1,003 televisions stacked 18.5 meters high. It went dark in 2018 and came back on in 2022 after 4 years and 7 months of conservation work. The restoration exposed media art's hardest problem. If its parts are discontinued, what does the work survive as? The conservation issues discussed later start here.</p>
+    <p>Further reading — Nam June Paik Art Center, The Return of Nam June Paik · MMCA, My Nam June Paik: Memory, Conservation, Expansion (2023) · Lev Manovich, The Language of New Media</p>
+  </div>
+</section>
+
+<article class="sec page" id="s13-1">
+  <header>
+    <div class="crumb"><b>PART 13</b>Media art and expanded cinema</div>
+    <div class="num">13.1</div>
+    <h2>What is media art?</h2>
+    <p class="lead">Media art is less a genre than an attitude. It is the umbrella term for work that takes the new media of its time as material and explores how those media change people and the world. In the 1960s that was television, in the 1990s the internet, and now sensors, data and generative models.</p>
+  </header>
+  <figure class="ph wide" data-id="P13-INTERACTIVE">
+    <div class="ph-box"><span class="ph-id">P13-INTERACTIVE</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>Interactive media art</b>An installation where wall-filling particles of light swirl after visitors' hand gestures, with visitor silhouettes</span></div>
+    <figcaption><b>Note</b>Interactive media art — the viewer's actions change the state of the work. Today's materials are sensors and data</figcaption>
+  </figure>
+  <h3>Why there are so many names</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Video art</small>Late 1960s</h4><ul><li>Emerged as portable video gear spread</li><li>Twisting TV's language, or showing viewers themselves on closed circuit</li></ul></div>
+    <div class="card"><h4><small>Media art</small>A broader name</h4><ul><li>Came into use as materials widened beyond video to computers, networks and sensors</li></ul></div>
+    <div class="card"><h4><small>New media art</small>From the 1990s</h4><ul><li>Work premised on digital and the internet</li><li>Weakness: the 'new' grows old with time</li></ul></div>
+    <div class="card"><h4><small>Post-internet art</small>After the internet became like air</h4><ul><li>A contested term with no agreed academic definition</li></ul></div>
+  </div>
+  <aside class="note"><b>Note</b><p>You don't need to memorize the terms. But borrow one to describe your work without knowing what it means, and reviewers will spot it at once.</p></aside>
+  <h3>Concepts that make texts readable</h3>
+  <table class="t">
+    <thead><tr><th>Term</th><th>Meaning</th><th>Who said it</th></tr></thead>
+    <tbody>
+      <tr><td>Generative art</td><td>Work made by a preset system of rules, usually with an element of chance</td><td>Tate glossary definition</td></tr>
+      <tr><td>Interactivity</td><td>Viewer actions change the work's state</td><td>A core condition of media art</td></tr>
+      <tr><td>Site-specific</td><td>Work bound to the conditions of one place</td><td>Also a category in international open calls</td></tr>
+      <tr><td>Post-media</td><td>A state in which no single medium dominates and all media influence one another</td><td>Peter Weibel (2006)</td></tr>
+      <tr><td>The post-medium condition</td><td>Sees medium specificity as layered conventions</td><td>Rosalind Krauss (1999)</td></tr>
+    </tbody>
+  </table>
+  <blockquote class="pull">Don't agonize over whether your work is media art. Just check that you can say in one sentence why it has to be this medium.<small>13.1 What is media art?</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>13.1</div>
+    <dl><dt>Task</dt><dd>Pick three media artworks you've seen in the last 5 years and note, for each, what medium it used as material and why it couldn't work in any other medium.</dd><dt>Tip</dt><dd>If you can't choose, start with the past exhibition lists of the Nam June Paik Art Center, MMCA and Seoul Museum of Art.</dd><dt>Assessment</dt><dd>Does it explain how medium and theme relate? Does it go beyond mere description?</dd><dt>Model answer</dt><dd>An analysis that went as far as noting what would be lost if the same theme moved to another medium.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s13-2">
+  <header>
+    <div class="crumb"><b>PART 13</b>Media art and expanded cinema</div>
+    <div class="num">13.2</div>
+    <h2>How video and media art differ</h2>
+    <p class="lead">What's different? If you've read this far, you already have most of the skills you need. Reading a frame, building light, joining cuts and handling sound all still apply. What changes is not the skills but the premises.</p>
+  </header>
+  <p>Two things are the same. Both are time-based media, so length · rhythm · repetition · stillness are means of expression, and the production process of shooting · lighting · editing · grading · sound is still needed. The bigger the screen, the more your fundamentals show.</p>
+  <div class="vs">
+    <div><h4>Regular video</h4><ul><li>Viewer position — seated in front of the screen</li><li>Start and end — fixed</li><li>Aspect ratio — can change to suit the medium</li><li>Equipment — a means of showing the result</li><li>Completion — done on delivery</li><li>Repetition — assumes a single viewing</li></ul></div>
+    <div><h4>Media art</h4><ul><li>Viewer position — enters and moves through the space</li><li>Start and end — viewers come and go at any time</li><li>Aspect ratio — a condition of the work; changing it is damage</li><li>Equipment — often part of the work</li><li>Completion — done only after running the whole show</li><li>Repetition — assumes hundreds of loops a day</li></ul></div>
+  </div>
+  <aside class="tip"><b>TIP</b><p>Carry over a four-part arc as is, and most viewers see only the 'turn' and leave. It must read within 30 seconds from wherever they start watching.</p></aside>
+  <h3>What students miss most often: the start and end</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Loop design</small>Make the end join the start</h4><ul><li>If the last frame resembles the first, the seam disappears</li></ul></div>
+    <div class="card"><h4><small>Entry points</small>Readable wherever they come in</h4><ul><li>Repeat the key image periodically</li></ul></div>
+    <div class="card"><h4><small>Length</small>Between 2 and 7 minutes</h4><ul><li>Any longer and far fewer people watch to the end</li></ul></div>
+  </div>
+  <h3>Why you must keep the aspect ratio</h3>
+  <p>Installation guidelines from media art conservation bodies specify that a work's aspect ratio be preserved, and state that enlarging or cropping to fit a screen is not proper practice. In video production, recutting for vertical is routine; with an artwork, that act itself changes the work. Here you must let go of the habit of reframing every time you change media.</p>
+  <blockquote class="pull">Make exhibition video on the premise that nobody watches from the start. Making it readable from any entry point is the design.<small>13.2 How video and media art differ</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>13.2</div>
+    <dl><dt>Task</dt><dd>Re-edit one of your existing videos into an exhibition loop. Keep it under 3 minutes and structure it so the theme reads within 30 seconds from any starting point.</dd><dt>Tip</dt><dd>Show a friend 30 seconds from a random point and ask what the work is about. If two out of three get it, you pass.</dd><dt>Assessment</dt><dd>Is the seam invisible? Are the entry points designed?</dd><dt>Model answer</dt><dd>An edit that matched start and end on the same image and repeated the key motif every 40 seconds so it read from anywhere.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s13-3">
+  <header>
+    <div class="crumb"><b>PART 13</b>Media art and expanded cinema</div>
+    <div class="num">13.3</div>
+    <h2>The media art landscape in Korea today</h2>
+    <p class="lead">Korean media art moves along three tracks: public museums and institutions, the city's public screens, and commercial immersive venues. Each asks for different things, and each has a different door for students.</p>
+  </header>
+  <div class="gallery cols-2 wide big"><div class="title"><b>Reference photos 13.3A</b>Generated images — two stages for Korean media art</div>
+    <figure class="ph" data-id="P13-MUSEUM">
+      <div class="ph-box"><span class="ph-id">P13-MUSEUM</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Video work in a museum</b>Visitors sitting on the floor before a huge video wall in a white gallery</span></div>
+      <figcaption><b>a</b>Museums — where collection · conservation · criticism follow. Selection is by text and photos</figcaption>
+    </figure>
+    <figure class="ph" data-id="P13-OUTDOOR">
+      <div class="ph-box"><span class="ph-id">P13-OUTDOOR</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Outdoor media art festival</b>Light installations and crowds along a riverside at night</span></div>
+      <figcaption><b>b</b>Outdoor festivals and city screens — a low threshold and big audiences. Where students can step up first</figcaption>
+    </figure>
+  </div>
+  <h3>Institutions</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Nam June Paik Art Center</small>Yongin</h4><ul><li>283 collection works, 2,285 video archive items</li><li>2026.7–2027.2 1st Nam June Paik Media Art Festival, 20 years after his death, "Nam June Paik's Planet" — unveils the 1990s "Planet" series</li></ul></div>
+    <div class="card"><h4><small>MMCA</small>Gwacheon's 40th anniversary</h4><ul><li>2026 exhibition "Imaginations of Light"</li><li>First release of 100,000 of some 520,000 digital archive items (incl. the Paik archive)</li><li>New conservator training program, including new media</li></ul></div>
+    <div class="card"><h4><small>Seoul Museum of Art</small>Seoul Mediacity Biennale (2000–)</h4><ul><li>2026: Lynn Hershman Leeson's first museum solo show in Asia; a sound art exhibition</li><li>Seo-Seoul Museum of Art — preparing to open with a new-media collection and a youth studio</li></ul></div>
+    <div class="card"><h4><small>Art Center Nabi</small>Since 2000</h4><ul><li>June 2026: reopening in its own building in Sagan-dong, Jongno-gu</li></ul></div>
+  </div>
+  <aside class="tip"><b>TIP</b><p>The calls state that screening hours may change under energy-saving policy. These are not 24-hour screens.</p></aside>
+  <h3>City screens — where students can stand first</h3>
+  <p>Much of the work on Seoul's city-run public media art platforms is selected through open calls for emerging artists. The threshold is lower than a museum's, and you get to see your work screened in real urban space.</p>
+  <table class="t">
+    <thead><tr><th>Platform</th><th>Location</th><th>Hours</th></tr></thead>
+    <tbody>
+      <tr><td>Seoullo Media Canvas</td><td>Mallijae-ro, Jung-gu (near Seoullo)</td><td>19:00–23:00</td></tr>
+      <tr><td>Atelier Gwanghwa</td><td>Sejong Center facade</td><td>19:00–23:00</td></tr>
+      <tr><td>Haechi Madang Media Wall</td><td>Gwanghwamun Stn. Exit 9 ramp</td><td>08:00–22:00</td></tr>
+      <tr><td>Ogansugyo Media Facade</td><td>Under Ogansugyo, Cheonggyecheon</td><td>18:00–23:00</td></tr>
+      <tr><td>Atelier Nodeul</td><td>Nodeul Island</td><td>Varies by show</td></tr>
+    </tbody>
+  </table>
+  <h3>What recent exhibitions show</h3>
+  <p>Here are the 2025–2026 trends by institution and program. Titles and dates change yearly, so check the institutions' websites, but learn which doors are where.</p>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Seoul Museum of Art</small>Branches and Mediacity</h4><ul><li>2025: Seoul Museum of Photography opens; media-focused branch Seo-Seoul Museum of Art in the works — as branches grow, media · photography · performance each get a home of their own</li><li>13th Seoul Mediacity Biennale (2025.8, Seosomun main building)</li><li>Buk-Seoul Museum of Art Title Match 2025 — duo show of YOUNG-HAE CHANG HEAVY INDUSTRIES and Hong Jinhwon</li></ul></div>
+    <div class="card"><h4><small>MMCA · Nam June Paik Art Center</small>Origins and conservation</h4><ul><li>Gwacheon's "The More, the Better," back on after restoration, became the textbook case of media art conservation</li><li>2026, 20 years since Paik's death — the Art Center's 1st Nam June Paik Media Art Festival (opens in July), a shamanic gut performance moving from Gwacheon to the Art Center</li></ul></div>
+    <div class="card"><h4><small>DDP Seoul Light</small>City-scale facades</h4><ul><li>Fall 2025 (8.28–9.7) — media facades by d'strict, Laurent Grasso and others on DDP's exterior, plus laser · kinetic installations; free night viewing</li><li>Held alongside, the forum 'New art that AI technology will create' explored where generative tools meet facade work</li></ul></div>
+    <div class="card"><h4><small>Gwangju Media Art Platform G.MAP</small>UNESCO City of Media Arts</h4><ul><li>Gwangju, designated in 2014, is Korea's only UNESCO City of Media Arts; G.MAP is the hub of local media art</li><li>After its 2024 10th-anniversary show, runs creator-support programs such as Digital Art Culture Lab · Project Lab</li></ul></div>
+    <div class="card"><h4><small>Busan · regional festivals</small>Fairs and outdoors</h4><ul><li>LOOP Lab Busan 2025 (4.24–6.29) — Korea's first international media art fair · exhibition, by Busan Museum of Art and LOOP Barcelona, at 26 city venues incl. F1963</li><li>Korea Heritage Service 'National Heritage Media Art' (2025) — night projections and interactive installations in 8 cities, incl. Daereungwon in Gyeongju and Jinjuseong Fortress</li></ul></div>
+    <div class="card"><h4><small>What it means for students</small>Three kinds of doors</h4><ul><li>Museums · biennales — judged on text and documentation photos; long cycles</li><li>City facades · festivals — open calls, fixed specs, big audiences</li><li>Regional platform labs — gear and mentoring provided; good for a first installation</li></ul></div>
+  </div>
+  <h3>Immersive exhibitions</h3>
+  <div class="kv">
+    <div><b>5.4<em>million</em></b>Cumulative visitors to d'strict's ARTE MUSEUM (to 2023.8). Permanent venues in Korea and abroad, incl. Jeju · Gangneung · Yeosu</div>
+    <div><b>About 4,800<em>㎡</em></b>The ninth permanent venue, Manhattan, New York, opened September 2025. About 134,000 visitors in three months</div>
+  </div>
+  <p>This industry also provides the most jobs for media art graduates. Its nature is debated, though; see section 13.8.</p>
+  <blockquote class="pull">Before aiming for a museum show, get onto a city screen once. That record backs your next application.<small>13.3 The media art landscape in Korea today</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>13.3</div>
+    <dl><dt>Task</dt><dd>Choose one of Seoul's public media art platforms and plan a 30-second piece that fits its screen specs and screening conditions. Make a one-page proposal and a storyboard.</dd><dt>Tip</dt><dd>Check the resolution and length in a real open call and work to those numbers. Practicing to a call's specs is the real thing.</dd><dt>Assessment</dt><dd>Does it reflect the specs and site conditions? Does it consider the surroundings at screening time (night, pedestrians)?</dd><dt>Model answer</dt><dd>A plan that tuned brightness and pace to the day-night light difference, pedestrian walking speed and even the surrounding signs.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s13-4">
+  <header>
+    <div class="crumb"><b>PART 13</b>Media art and expanded cinema</div>
+    <div class="num">13.4</div>
+    <h2>Tool map</h2>
+    <p class="lead">What do you make it with? An editing tool produces one fixed output, but media art tools usually make 'a program that keeps running in real time.' You design for operation, not completion.</p>
+  </header>
+  <figure class="ph wide" data-id="P13-SENSOR">
+    <div class="ph-box"><span class="ph-id">P13-SENSOR</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>Sensors and code</b>An artist wiring a depth sensor and microcontroller at a workbench, a laptop showing code</span></div>
+    <figcaption><b>Note</b>Sensors and code — media art tools make not a finished product but a program that keeps running</figcaption>
+  </figure>
+  <aside class="note"><b>Structure</b><p>Read interactive media art in three boxes: sensor input (camera · depth · mic · touch) → processing (TouchDesigner · Unity · p5.js) → output (projection · LED · sound). The tool map below follows the same order.</p></aside>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Tools that make real-time video</small>Processing</h4><ul><li><b>TouchDesigner</b> — Wire nodes together to make real-time video. Links sensors · sound · video · projection output in one window; the most widely used tool for exhibitions, free under a non-commercial license</li><li><b>Unreal Engine · Unity</b> — Game engines. 3D space, VR · AR, virtual production. Camera and lighting concepts carry straight over</li><li><b>Processing · p5.js</b> — Drawing with code. Generative basics; p5.js runs right in the browser, the lowest barrier to entry</li><li><b>Max/MSP · Pure Data</b> — Sound and signal. For sound-led or sound-reactive work</li></ul></div>
+    <div class="card"><h4><small>Tools that take input</small>Input</h4><ul><li><b>Depth camera</b> — A person's distance and pose. The basic input for motion-reactive work</li><li><b>LiDAR</b> — Scans space as points. Position tracking in large spaces, turning space into data</li><li><b>Arduino · Raspberry Pi</b> — Small computers that run sensors and motors. Read light · sound · distance · pressure and turn it into video</li><li><b>Webcam and video analysis</b> — One camera for motion detection, contour extraction, face tracking. The most realistic option with no budget</li></ul></div>
+    <div class="card"><h4><small>Tools that send output</small>Output</h4><ul><li><b>Resolume</b> — Plays and mixes video live. The standard for concert and club visuals</li><li><b>MadMapper</b> — Dedicated to projection mapping. Fits video onto surfaces that aren't flat</li><li><b>NDI · Syphon</b> — Channels for passing video between programs in real time. Essential once you have several machines</li></ul></div>
+  </div>
+  <aside class="tip"><b>TIP</b><p>Don't pick the tool first. Write in one sentence 'what happens when the viewer does what,' then choose, and your options shrink to two or three.</p></aside>
+  <div class="gallery cols-3 wide"><div class="title"><b>Reference photos 13.4A</b>Generated images — three kinds of output: data, sound, motion</div>
+    <figure class="ph" data-id="P13-DATA">
+      <div class="ph-box"><span class="ph-id">P13-DATA</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Data visualization work</b>Flowing lines and dots of a data visualization projected on a curved wall</span></div>
+      <figcaption><b>a</b>Data to screen — start with p5.js and CSV, then move to live APIs</figcaption>
+    </figure>
+    <figure class="ph" data-id="P13-SOUND">
+      <div class="ph-box"><span class="ph-id">P13-SOUND</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Sound installation</b>A visitor walking among small speakers hung at ear height in a dark room</span></div>
+      <figcaption><b>b</b>Work with sound as output — Max/MSP · Pure Data, directional speakers</figcaption>
+    </figure>
+    <figure class="ph" data-id="P13-KINETIC">
+      <div class="ph-box"><span class="ph-id">P13-KINETIC</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Kinetic media art</b>A kinetic sculpture of hundreds of small mirrors tilting like waves, reflecting light onto the wall</span></div>
+      <figcaption><b>c</b>Work with motors as output — Arduino ties sensors to motors</figcaption>
+    </figure>
+  </div>
+  <h3>From goal to tool</h3>
+  <table class="t">
+    <thead><tr><th>What you want</th><th>Fastest route</th><th>Next step</th></tr></thead>
+    <tbody>
+      <tr><td>React to viewer movement</td><td>Webcam + TouchDesigner</td><td>Depth camera · LiDAR</td></tr>
+      <tr><td>Screen that reacts to sound</td><td>Mic input + TouchDesigner</td><td>Refine analysis with Max/MSP</td></tr>
+      <tr><td>Put video on buildings · objects</td><td>MadMapper</td><td>Multiple projectors · blending</td></tr>
+      <tr><td>Make patterns with code</td><td>p5.js</td><td>Processing · GLSL shaders</td></tr>
+      <tr><td>Experience 3D space</td><td>Unity</td><td>Unreal · VR headset integration</td></tr>
+      <tr><td>Data to screen</td><td>p5.js + CSV</td><td>Live API integration</td></tr>
+    </tbody>
+  </table>
+  <blockquote class="pull">Don't pick the tool first. Write in one sentence what happens when the viewer does what, then choose, and your options shrink to two or three.<small>13.4 Tool map</small></blockquote>
+  <figure class="fg wide"><div class="ttl">Three kinds of media art tools — input · generation · output</div><div class="grid c3"><div class="it"><img src="img_new/MA-ARDUINO.jpg" alt=""><b>Microcontroller kit — sensors change the image</b><span>Send distance · sound · pressure sensor values over USB/OSC and map them to video parameters. The viewer's body becomes the input</span></div><div class="it"><img src="img_new/MA-NODES.jpg" alt=""><b>Node-based visual programming</b><span>Link boxes with wires to make real-time graphics — TouchDesigner · vvvv · Max family. Data → video without code</span></div><div class="it"><img src="img_new/MA-VJ.jpg" alt=""><b>Media server · VJ software</b><span>Stack clips in layers and fire them on the beat — Resolume · MadMapper family. The on-site standard for projection mapping and LED output</span></div></div><div class="rulebar"><b>How the three split the work</b> — The kit does <b>input</b> (sensors), the node tool <b>generation · processing</b> (real-time graphics), the media server <b>output</b> (projector · LED mapping). A small show does all three in one node tool; a large one splits them.</div><figcaption><b>Figure 93-1</b> Media art tools — sensor kit, node-based tool, media server. Unlike video production, it is about "real-time generation," not "playback."</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>13.4</div>
+    <dl><dt>Task</dt><dd>Make the simplest possible piece in which the screen responds to one viewer gesture. Use only a webcam and free tools. Write the response rule in one sentence before you start.</dd><dt>Tip</dt><dd>Keep the rule as simple as you can. One line like 'it brightens when someone comes close' is enough.</dd><dt>Assessment</dt><dd>Do viewers get the rule without explanation? Does it run 10 minutes without stopping?</dd><dt>Model answer</dt><dd>A piece with a single rule that tuned the speed and afterglow of the response to feel 'alive.'</dd></dl></div>
+</article>
+
+<article class="sec page" id="s13-5">
+  <header>
+    <div class="crumb"><b>PART 13</b>Media art and expanded cinema</div>
+    <div class="num">13.5</div>
+    <h2>Making it work in the gallery</h2>
+    <p class="lead">Working in the studio and working every day for a month in a gallery are entirely different problems. A media artwork's reputation usually turns not on polish but on 'was it ever off?'</p>
+  </header>
+  <figure class="ph wide" data-id="P13-LEDROOM">
+    <div class="ph-box"><span class="ph-id">P13-LEDROOM</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>LED mirror room</b>An infinity-mirror LED room reflecting visitors endlessly among points of light</span></div>
+    <figcaption><b>Note</b>LED mirror room — it repeats hundreds of times a day and must stay on all month. Operation is part of the work</figcaption>
+  </figure>
+  <h3>Light and distance</h3>
+  <div class="kv">
+    <div><b>1/4</b>Brightness when screen area quadruples. Brightness is rated in ANSI lumens; the same output looks dimmer on a bigger screen</div>
+    <div><b>About 3<em>m</em></b>Distance needed for a 2-meter-wide image with a 1.5 throw-ratio lens. Measure the space first, then choose the lens</div>
+  </div>
+  <ul class="dash">
+    <li><b>Ambient light</b> — In a brightly lit gallery, black lifts to gray. If dark areas matter, make light control a condition of the show.</li>
+    <li><b>Surface</b> — A white wall is safest, but texture costs resolution. A dark surface deepens blacks but darkens everything.</li>
+  </ul>
+  <aside class="note"><b>Note</b><p>Screen savers, sleep mode and automatic updates are the most common causes of reboots during a show. Turn them all off.</p></aside>
+  <h3>Keeping it running</h3>
+  <ol class="rule">
+    <li><b>01</b><span><b>Auto-start</b> — When the power comes on, the program should launch itself with nobody there. OS auto-login and startup registration are the basics.</span></li>
+    <li><b>02</b><span><b>No power saving</b> — Turn off screen savers, sleep mode and automatic updates.</span></li>
+    <li><b>03</b><span><b>Scheduled restart</b> — Have it restart once every day before opening, and errors won't pile up.</span></li>
+    <li><b>04</b><span><b>Backup version</b> — Also export the work as a plain video file. If the real-time piece stops, you can at least play that.</span></li>
+  </ol>
+  <h3>What to bring on site</h3>
+  <table class="t compact">
+    <thead><tr><th>Item</th><th>Why</th></tr></thead>
+    <tbody>
+      <tr><td>Power strips, extension cords</td><td>There are never enough outlets</td></tr>
+      <tr><td>Spare video cables</td><td>Bad cables are the most common failure on site</td></tr>
+      <tr><td>Adapter kit</td><td>Every device has different ports</td></tr>
+      <tr><td>Black tape · cable ties</td><td>Needed for both safety and looks</td></tr>
+      <tr><td>Install photos and settings notes</td><td>Lets you reproduce it exactly at the next show</td></tr>
+      <tr><td>Printed work label</td><td>On-site labels are often late</td></tr>
+    </tbody>
+  </table>
+  <h3>Safety and liability</h3>
+  <ol class="rule">
+    <li><b>01</b><span><b>Cables</b> — Keep cables out of visitor paths. If unavoidable, use covers.</span></li>
+    <li><b>02</b><span><b>Brightness and flashing</b> — Rapid flashing can trigger seizures in some viewers. Avoid more than three flashes in 1 second, and if there are any, post a notice at the entrance.</span></li>
+    <li><b>03</b><span><b>Sound</b> — Set volume and direction so you don't affect neighboring works. Consider directional speakers or headphones.</span></li>
+    <li><b>04</b><span><b>Cameras and privacy</b> — If the work captures viewers on camera, state whether it records; if it doesn't store footage, say so.</span></li>
+  </ol>
+  <blockquote class="pull">Design for the last day of the show, not the first. Still running a month later is part of the work.<small>13.5 Making it work in the gallery</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>13.5</div>
+    <dl><dt>Task</dt><dd>Assume you are installing your work in a hypothetical gallery (6 meters wide, 4 meters deep, 3 meters high) and prepare an installation drawing, equipment list and operation plan.</dd><dt>Tip</dt><dd>Calculate the throw distance and image size and write down the numbers. Always mark power locations and cable routes on the drawing.</dd><dt>Assessment</dt><dd>Are the numbers calculated? Is there a plan for failures?</dd><dt>Model answer</dt><dd>An operation plan written day by day, including auto-start, daily restarts and a backup video.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s13-6">
+  <header>
+    <div class="crumb"><b>PART 13</b>Media art and expanded cinema</div>
+    <div class="num">13.6</div>
+    <h2>Artwork statements and portfolios</h2>
+    <p class="lead">In media art, writing is part of the work. Viewers read the statement to understand the piece, and open calls and residencies are judged on text and photos alone. The demands differ from a video portfolio, so practice separately.</p>
+  </header>
+  <h3>Anatomy of a statement</h3>
+  <div class="steps cols-3">
+    <div class="step"><b>01</b><i>What it is</i>Start with 'This work is …' Open with background and nobody reads to the end</div>
+    <div class="step"><b>02</b><i>How</i>What happens when the viewer does what. The user manual for an interactive work</div>
+    <div class="step"><b>03</b><i>Why</i>The reason it must take this form. Grounds for a choice, not a tech showcase</div>
+  </div>
+  <aside class="tip"><b>TIP</b><p>Gallery wall texts of 150 to 300 characters get read. Any longer and nobody stands there reading.</p></aside>
+  <h3>Words to avoid</h3>
+  <ul class="dash">
+    <li><b>Vague big words</b> — 'existence', 'relationship', 'boundary' used without explanation say nothing at all. If you use one, state concretely, at least once, what it refers to in this work.</li>
+    <li><b>Listing tech</b> — tools belong in the materials line. Showing off tools in the statement makes the work look small.</li>
+    <li><b>Unverified quotations</b> — don't quote books you haven't read. It's the first thing jurors ask about.</li>
+  </ul>
+  <h3>What goes in the portfolio</h3>
+  <table class="t">
+    <thead><tr><th>Item</th><th>Content</th><th>Common mistake</th></tr></thead>
+    <tbody>
+      <tr><td>Key images</td><td>1 installation view, 2 details</td><td>Screen captures only</td></tr>
+      <tr><td>Documentation video</td><td>1–2 min, including audience reactions</td><td>Long footage of the screen alone</td></tr>
+      <tr><td>Materials line</td><td>Medium, dimensions, duration, year</td><td>Left out entirely</td></tr>
+      <tr><td>System diagram</td><td>1 input-processing-output flowchart</td><td>Explained in words only</td></tr>
+      <tr><td>Installation requirements</td><td>Space, power, blackout needs</td><td>Jurors can't tell if it can be installed</td></tr>
+      <tr><td>Contribution</td><td>Your share of a collaboration</td><td>Team work made to look solo</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>Documentation keeps the work alive</h4><p>A media art work vanishes when the show closes. Only the documentation remains, and the next open call and the next exhibition are decided by it. During the show, be sure to shoot installation views, details, real audience reactions, and even the installation process.</p></div>
+  <blockquote class="pull">The most important day in the gallery is not opening day but the day you shoot documentation.<small>13.6 Artwork statements and portfolios</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>13.6</div>
+    <dl><dt>Task</dt><dd>For one of your works, write a 250-character exhibition statement and make a one-page portfolio. Include the materials line, system diagram, and installation requirements.</dd><dt>Tip</dt><dd>Once it's written, have someone who doesn't know the work read the statement, and ask if they can tell 'what they're meant to do'.</dd><dt>Assessment</dt><dd>Does the first sentence define the work? Are the installation requirements specific enough for jurors to judge?</dd><dt>Model answer</dt><dd>A layout that sets audience-reaction photos beside the system diagram, so one page explains both what you see and how it works.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s13-7">
+  <header>
+    <div class="crumb"><b>PART 13</b>Media art and expanded cinema</div>
+    <div class="num">13.7</div>
+    <h2>Open calls and grants</h2>
+    <p class="lead">How to actually apply. Media art costs more than video production in equipment, space, and installation, so open calls and grants become a precondition for the work. The list below follows actual 2026 notices; amounts and dates change every year, so always confirm them in the official notice.</p>
+  </header>
+  <h3>Korean open calls students can enter now</h3>
+  <table class="t">
+    <thead><tr><th>Open call</th><th>Organizer</th><th>Deadline (2026)</th><th>Awards</th></tr></thead>
+    <tbody>
+      <tr><td>Dream Big Art Award</td><td>DB World</td><td>Sep</td><td>KRW 120 million total; separate student category</td></tr>
+      <tr><td>JoongAng Media Art Competition</td><td>JoongAng Ilbo</td><td>Aug</td><td>KRW 45 million total; separate student category</td></tr>
+      <tr><td>Seoul National Cemetery Media Art</td><td>Ministry of Patriots and Veterans Affairs</td><td>Aug</td><td>Grand prize KRW 30 million</td></tr>
+      <tr><td>Seoullo Media Canvas emerging artists</td><td>Seoul City</td><td>Aug</td><td>20 teams, KRW 1.5 million each + exhibition</td></tr>
+      <tr><td>Seoul Light Gwanghwamun</td><td>Seoul City</td><td>Nov</td><td>6 teams, KRW 12 million</td></tr>
+      <tr><td>NEXT:ON Incheon</td><td>Incheon Technopark</td><td>Aug</td><td>3 teams, KRW 25 million each</td></tr>
+    </tbody>
+  </table>
+  <aside class="note"><b>Note</b><p>Dream Big's student prize is paid as a scholarship through your university; if the university can't pay it out, the award may be canceled. Check with your department before applying.</p></aside>
+  <p>Dream Big and JoongAng run separate student categories. That means you aren't up against working artists, so look first at calls with a student category.</p>
+  <h3>Residencies · incubation · public grants</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Gwangyang Media Art Residence</small>May deadline</h4><ul><li>Media art only, 3 artists selected</li><li>Stipend of KRW 1.6 million a month × five months, studio and housing</li></ul></div>
+    <div class="card"><h4><small>G.MAP Digital Art Culture Lab</small>August deadline</h4><ul><li>Gwangju, 14 teams, 18 mentoring sessions plus equipment · space</li><li>All team members 19 or older</li></ul></div>
+    <div class="card"><h4><small>MMCA Residency</small>A goal a few years out</h4><ul><li>Goyang 25 or older, Changdong 40 or older</li><li>All fields incl. new media, nearly 1 year in residence</li></ul></div>
+    <div class="card"><h4><small>K-Art Young Creators Support</small>Applications in March</h4><ul><li>New 2026 Ministry of Culture, Sports and Tourism program: KRW 9 million a year to 3,000 people aged 39 or under</li><li>Media art isn't listed as its own field, so look at the interdisciplinary category</li></ul></div>
+    <div class="card"><h4><small>Art Korea Lab</small>Staged support</h4><ul><li>Follow-up support after the main program (15 grants, KRW 30 million each)</li></ul></div>
+    <div class="card"><h4><small>Seoul Foundation for Arts and Culture</small>Seoul Convergence Art Festival</h4><ul><li>Premieres new work by selected artists</li><li>The route taken by the 2023 Ars Electronica winners</li></ul></div>
+  </div>
+  <h3>Going international</h3>
+  <table class="t">
+    <thead><tr><th>Name</th><th>Organizer · venue</th><th>Deadline</th><th>Prize</th></tr></thead>
+    <tbody>
+      <tr><td>Prix Ars Electronica</td><td>Linz (Austria)</td><td>Mar</td><td>€10,000 per category</td></tr>
+      <tr><td>STARTS Prize</td><td>European Commission</td><td>Mar</td><td>€20,000 each, 2 categories</td></tr>
+      <tr><td>Lumen Prize</td><td>UK</td><td>May</td><td>$30,000 total; entry fee</td></tr>
+      <tr><td>SIGGRAPH Art Gallery</td><td>USA</td><td>Jan</td><td>No prize; exhibition</td></tr>
+      <tr><td>ISEA</td><td>Host city changes yearly</td><td>Dec</td><td>No prize; academic presentation</td></tr>
+      <tr><td>VH AWARD</td><td>Hyundai Motor Group</td><td>Jul</td><td>Production support + residency</td></tr>
+    </tbody>
+  </table>
+  <p>At the 2023 Prix Ars Electronica, two Korean artists won the top prize and a special prize. Both had been selected for Korean public grants several times, and one debuted at a Korean convergence arts festival. The route from Korean open calls through Korean festivals to the international stage really works.</p>
+  <h3>Four things worth making in one semester</h3>
+  <div class="steps cols-4">
+    <div class="step"><b>01</b><i>Artist statement in Korean, 500 words</i>Most Korean calls require a work description</div>
+    <div class="step"><b>02</b><i>English proposal, 3 pages</i>Required by VH AWARD and ISEA. 11 pt, PDF is standard</div>
+    <div class="step"><b>03</b><i>30-second highlight video</i>JoongAng Media Art Competition asks for 20–30 s at application</div>
+    <div class="step"><b>04</b><i>3-minute portfolio film</i>VH AWARD asks for up to 3 minutes</div>
+  </div>
+  <blockquote class="pull">Pin the calendar of open calls to your desk, not a single deadline. March, May, July, August, September, and November are the deadline months for Korean media art.<small>13.7 Open calls and grants</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>13.7</div>
+    <dl><dt>Task</dt><dd>Pick three of the calls above that suit you and put the documents each requires into a table. Plan to actually apply to one of them, and write out a schedule working back from the deadline.</dd><dt>Tip</dt><dd>Work backward from the deadline. Write down how many days you need for video production, paperwork, review, and submission.</dd><dt>Assessment</dt><dd>Were the required documents checked in the notice itself? Is the schedule realistic?</dd><dt>Model answer</dt><dd>A plan that targets a Korean and an international call with the same work, preparing Korean and English documents together.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s13-8">
+  <header>
+    <div class="crumb"><b>PART 13</b>Media art and expanded cinema</div>
+    <div class="num">13.8</div>
+    <h2>Three debates</h2>
+    <p class="lead">Immersion, AI, preservation. Study media art and you will run into three debates. None has a settled answer, so the goal is to know the grounds of each position and decide where you stand.</p>
+  </header>
+  <h3>Debate one — immersive exhibitions: art or product</h3>
+  <div class="vs">
+    <div><h4>The product view</h4><ul><li>One Korean study defines immersive exhibitions as 'commercial content aimed at the immersive experience itself, beyond mediating art'</li><li>Admission — immersive shows abroad charge adults tens of thousands to over a hundred thousand won; Korean public museums mostly around KRW 10,000</li><li>An industry CEO admits — 'anyone can take on a theme like waves, so borrowed ideas and copyright infringement are hard to prove'</li></ul></div>
+    <div><h4>The necessity view</h4><ul><li>When everything can be watched at home, immersive experience gives people a reason to show up in person</li><li>Public museums are absorbing it too — MMCA's 2026 exhibition on light, the Seoul Museum of Art's new-media branch</li></ul></div>
+  </div>
+  <div class="callout"><h4>A question to consider</h4><p>Is a work made on a KRW 1.5 million budget and shown four hours each evening on a city screen the same media art as a ticketed venue drawing millions a year? What divides them: the medium, the source of money, or where the audience stands?</p></div>
+  <aside class="term"><b>Term</b><p>Two strands of authorship — work that uses AI as a tool differs from work that takes AI itself as its subject. It is the difference between using a tool and questioning it.</p></aside>
+  <h3>Debate two — generative AI and authorship</h3>
+  <div class="cards">
+    <div class="card"><h4><small>The 2024 gap</small>There were no rules</h4><ul><li>A generative AI entry won the grand prize in a public-service ad contest, then sparked controversy</li><li>The organizer said 'with no AI clause, we can neither block nor encourage it', and the award stood</li></ul></div>
+    <div class="card"><h4><small>The 2026 shift</small>Disclosure, not bans</h4><ul><li>JoongAng Media Art Competition — AI assistance encouraged, heavy use judged in a separate category, use and scope must be disclosed</li><li>Veterans Affairs ministry call — asks for tools used · scope · even reference sources</li><li>An international conference's art track — stating AI's role is mandatory</li></ul></div>
+    <div class="card"><h4><small>Work that questions the tool</small>2026 Korea Artist Prize finalist</h4><ul><li>Restores a 1946 film with AI, revealing that 'technology cannot fully restore history'</li><li>Examines the biases built into video-generation models</li></ul></div>
+  </div>
+  <p>In 2 years, 'AI use: no rules' became 'AI use: must be declared.' The habit of logging in your production journal which tools you used, where, and how much becomes your submission paperwork.</p>
+  <h3>Debate three — how a work survives</h3>
+  <div class="kv">
+    <div><b>737<em>units</em></b>Damaged CRTs in the restoration of <i>The More, the Better</i>, repaired or replaced with used parts</div>
+    <div><b>266<em>units</em></b>Small monitors at the top, replaced with flat displays that keep the original look. Eight videos converted to digital</div>
+    <div><b>4 days a week, 2<em>hours</em></b>Operating time since the September 2022 restart, to protect the work</div>
+  </div>
+  <ul class="dash">
+    <li><b>The open question</b> — is <i>The More, the Better</i>, with its CRTs swapped for flat screens, still the same work? Conservation guidelines divide installations into cases where 'the equipment is part of the work itself' and where it is 'used only to show the work.' In the first case, replacing equipment means changing the work.</li>
+    <li><b>What students can do now</b> — document the software and versions, hardware, settings, and 'what may change and what must not,' and the work can be restaged years later.</li>
+    <li><b>Preservation as a career</b> — in 2026 MMCA opened a training program for conservators, new media included. Not only making work but keeping it is becoming a profession.</li>
+  </ul>
+  <blockquote class="pull">On the day you finish a work, write a one-page tech spec. That sheet becomes the key to switching the work back on 10 years later.<small>13.8 Three debates</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>13.8</div>
+    <dl><dt>Task</dt><dd>Choose one of the three debates and write a 1,000-character opinion piece. Present the grounds of each side, then state your position and give your reasons.</dd><dt>Tip</dt><dd>Find and write down the arguments against your position first. If you don't know the counterarguments, your own position is weak too.</dd><dt>Assessment</dt><dd>Are both sides' grounds presented fairly? Does the conclusion come with reasons?</dd><dt>Model answer</dt><dd>An essay that draws on the writer's own work to turn an abstract debate into a concrete case.</dd></dl></div>
+</article>
+
+<section class="part-end page" id="end13">
+  <header><div class="crumb">PART 13 wrap-up</div><h2>One-page summary</h2></header>
+  <div class="summary">
+    <div class="card"><h4>13.1 What media art is</h4><p>An attitude, not a genre. Just check that you can say in one sentence why it has to be this medium.</p></div>
+    <div class="card"><h4>13.2 How video and media art differ</h4><p>The premises differ, not the technology. Viewers walk in midway, so design the loop and entry points, and respect the aspect ratio.</p></div>
+    <div class="card"><h4>13.3 The Korean media art landscape</h4><p>Three strands: institutions · city screens · the immersive industry. Students get onto city screens first and build a track record.</p></div>
+    <div class="card"><h4>13.4 A map of tools</h4><p>Split it into processing · input · output. Write what happens when the viewer does what, then choose tools.</p></div>
+    <div class="card"><h4>13.5 Making it run in the gallery</h4><p>Calculate throw ratio and brightness, and keep it running to the last day with auto-start · sleep disabled · daily restart · a backup copy.</p></div>
+    <div class="card"><h4>13.6 Statements and portfolios</h4><p>What · how · why, in 150–300 characters. Don't leave out the materials line · system diagram · installation requirements · contribution, and shoot documentation.</p></div>
+    <div class="card"><h4>13.7 Open calls and grants</h4><p>Start with calls that have a student category. In one semester, prepare all four: Korean artist statement · English proposal · 30-second highlight · 3-minute film.</p></div>
+    <div class="card"><h4>13.8 Three debates</h4><p>The nature of immersive shows, disclosure standards for AI, discontinued parts and preservation. Know each side's grounds and decide where you stand.</p></div>
+  </div>
+</section>

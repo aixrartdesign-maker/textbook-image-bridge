@@ -1,0 +1,602 @@
+[
+{
+"key": "part14b.html#506",
+"de": "Formel für Besucher pro Stunde in den Fließtext von 6.7 übernommen; Grundrisstafel mit Rundgang ergänzt"
+},
+{
+"key": "part14b.html#507",
+"de": "Ausstellungsplanung"
+},
+{
+"key": "part14b.html#508",
+"de": "AR · MR · VR nach Geräten zu ordnen, stiftet endlose Verwirrung."
+},
+{
+"key": "part14b.html#509",
+"de": "Kontinuum von real bis virtuell als Diagramm dargestellt, um die Begriffsgrenzen zu zeigen"
+},
+{
+"key": "part14b.html#510",
+"de": "05 Didaktik · Karriereberatung – Lernniveau und Nutzbarkeit"
+},
+{
+"key": "part14b.html#511",
+"de": "Didaktik"
+},
+{
+"key": "part14b.html#512",
+"de": "200 Seiten schafft man in einem Semester kaum. Legen Sie fest, was in jede Sitzung gehört."
+},
+{
+"key": "part14b.html#513",
+"de": "Leitfaden für Lehrende im Vorspann und 15-Wochen-Plan in Anhang H ergänzt"
+},
+{
+"key": "part14b.html#514",
+"de": "Didaktik"
+},
+{
+"key": "part14b.html#515",
+"de": "Listen allein vermitteln keinen Kontext. Es braucht erklärenden Fließtext."
+},
+{
+"key": "part14b.html#516",
+"de": "Jeden Teil mit einem Essay in drei Absätzen eröffnet und mit den Kernpunkten abgeschlossen"
+},
+{
+"key": "part14b.html#517",
+"de": "Karriereberatung"
+},
+{
+"key": "part14b.html#518",
+"de": "Auf den Beruf bereiten sich Studierende nur vor, wenn es dafür einen eigenen Kurs gibt."
+},
+{
+"key": "part14b.html#519",
+"de": "TEIL 11 eigenständig angelegt: Portfolio, Lebenslauf, Vorstellungsgespräch, Kommunikation, Fallbeispiele"
+},
+{
+"key": "part14b.html#520",
+"de": "Didaktik"
+},
+{
+"key": "part14b.html#521",
+"de": "Mehr Farben bedeuten höhere Druckkosten, und in Fotokopien gehen Informationen verloren."
+},
+{
+"key": "part14b.html#522",
+"de": "Das ganze Buch einfarbig neu gestaltet; Hierarchie allein über Helligkeitskontrast und Schriftgröße"
+},
+{
+"key": "part14b.html#523",
+"de": "Nicht übernommen"
+},
+{
+"key": "part14b.html#524",
+"de": "Der Vorschlag, Screenshots von Beispielvideos aufzunehmen, wurde nicht übernommen. Neben der Urheberrechtsfrage gilt: Sobald ein Lehrbuch Standbilder eines bestimmten Werks abdruckt, wird es zur Kopiervorlage für dieses Werk. Stattdessen sind die Techniken zu Diagrammen abstrahiert, die für jedes Motiv gelten."
+},
+{
+"key": "part14b.html#525",
+"de": "<b>Anhang</b>Referenzfotos und Generierungsprompts"
+},
+{
+"key": "part14b.html#526",
+"de": "Referenzfotos und Generierungsprompts"
+},
+{
+"key": "part14b.html#527",
+"de": "Die 135 Bilder für die Referenzfoto-Platzhalter im Text. Alle sind mit generativen Bildmodellen inszenierte Referenzen, keine Fotografien realer Personen oder bestimmter Werke. Die vollständigen Generierungsprompts liegen in den Produktionsdateien."
+},
+{
+"key": "part14b.html#528",
+"de": "<b>Modellkürzel</b>"
+},
+{
+"key": "part14b.html#529",
+"de": "GPT steht für die GPT-Image-Familie, NB für die Nano-Banana-Familie (generiert auf Higgsfield). Motive, die durchgehend dieselbe Figur brauchten, entstanden mit NB."
+},
+{
+"key": "part14b.html#530",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part14b.html#531",
+"de": "Generieren Sie die Bilder im Unterricht mit denselben Prompts neu oder lassen Sie Studierende unter gleichen Bedingungen selbst aufnehmen und vergleichen."
+},
+{
+"key": "part14b.html#532",
+"de": "Die IDs stehen für „Abschnitt · Gruppe · Platz“. So ist 1.2A-a das erste Bild der ersten Galerie in Abschnitt 1.2."
+},
+{
+"key": "part14b.html#533",
+"de": "ID"
+},
+{
+"key": "part14b.html#534",
+"de": "Bildtext"
+},
+{
+"key": "part14b.html#535",
+"de": "Abschnitt"
+},
+{
+"key": "part14b.html#536",
+"de": "TEIL 01"
+},
+{
+"key": "part14b.html#537",
+"de": "Camera obscura – die Szene draußen kopfüber an der Wand"
+},
+{
+"key": "part14b.html#538",
+"de": "Daguerreotypie-Kamera – Holzkasten und Messingobjektiv"
+},
+{
+"key": "part14b.html#539",
+"de": "Großformat-Fachkamera – Faltenbalg und Einstelltuch"
+},
+{
+"key": "part14b.html#540",
+"de": "Rollfilm-Boxkamera – jeder kann fotografieren"
+},
+{
+"key": "part14b.html#541",
+"de": "Kleinbild-Messsucherkamera – Straßenfotografie"
+},
+{
+"key": "part14b.html#542",
+"de": "Analoge Spiegelreflexkamera und eine Filmrolle"
+},
+{
+"key": "part14b.html#543",
+"de": "Sofortbildkamera – ein Foto, das in Minuten erscheint"
+},
+{
+"key": "part14b.html#544",
+"de": "Frühe digitale Kompaktkamera und Speicherkarte"
+},
+{
+"key": "part14b.html#545",
+"de": "Smartphone mit Mehrfachkamera"
+},
+{
+"key": "part14b.html#546",
+"de": "Dunkelkammer unter rotem Schutzlicht"
+},
+{
+"key": "part14b.html#547",
+"de": "Vergrößerer – projiziert ein Negativ auf Fotopapier"
+},
+{
+"key": "part14b.html#548",
+"de": "Ein Bild erscheint im Entwickler"
+},
+{
+"key": "part14b.html#549",
+"de": "Negative und Lupe auf dem Leuchtpult"
+},
+{
+"key": "part14b.html#550",
+"de": "Kontaktabzug – Auswahl markiert"
+},
+{
+"key": "part14b.html#551",
+"de": "Abzüge trocknen nach dem Wässern"
+},
+{
+"key": "part14b.html#552",
+"de": "4-Farb-Offsetmaschine – C · M · Y · K, vier Platten"
+},
+{
+"key": "part14b.html#553",
+"de": "Rasterpunkte vergrößert – CMYK-Rosette"
+},
+{
+"key": "part14b.html#554",
+"de": "Proof und Lupe – Druckfarbe prüfen"
+},
+{
+"key": "part14b.html#555",
+"de": "Laterna magica – projiziert Glasbilder"
+},
+{
+"key": "part14b.html#556",
+"de": "Zoetrop – Bewegung durch Schlitze gesehen"
+},
+{
+"key": "part14b.html#557",
+"de": "Phenakistiskop – eine Drehscheibe im Spiegel"
+},
+{
+"key": "part14b.html#558",
+"de": "Kinetoskop – ein Kasten für jeweils eine Person"
+},
+{
+"key": "part14b.html#559",
+"de": "35-mm-Filmprojektor im Vorführraum"
+},
+{
+"key": "part14b.html#560",
+"de": "Diaprojektor – Kleinbilddias im Rundmagazin"
+},
+{
+"key": "part14b.html#561",
+"de": "8-mm-Heimprojektor"
+},
+{
+"key": "part14b.html#562",
+"de": "OHP – Folienprojektion im Klassenzimmer"
+},
+{
+"key": "part14b.html#563",
+"de": "Eine Familie vor dem Röhrenfernseher"
+},
+{
+"key": "part14b.html#564",
+"de": "Videokassette und Videorekorder"
+},
+{
+"key": "part14b.html#565",
+"de": "Flachbildfernseher und Streaming"
+},
+{
+"key": "part14b.html#566",
+"de": "Mobile Bildschirme und VR – der persönliche Bildschirm"
+},
+{
+"key": "part14b.html#567",
+"de": "TEIL 02"
+},
+{
+"key": "part14b.html#568",
+"de": "Supertotale – der Raum ist der Star, der Mensch ein Punkt"
+},
+{
+"key": "part14b.html#569",
+"de": "Totale – ganze Figur und Umgebung"
+},
+{
+"key": "part14b.html#570",
+"de": "Halbtotale – von Kopf bis Fuß"
+},
+{
+"key": "part14b.html#571",
+"de": "Amerikanische – ab den Knien aufwärts"
+},
+{
+"key": "part14b.html#572",
+"de": "Halbnahe – ab der Hüfte aufwärts"
+},
+{
+"key": "part14b.html#573",
+"de": "Nahe – ab der Brust aufwärts"
+},
+{
+"key": "part14b.html#574",
+"de": "Großaufnahme – das ganze Gesicht"
+},
+{
+"key": "part14b.html#575",
+"de": "Detail – die Augen"
+},
+{
+"key": "part14b.html#576",
+"de": "Insert – Hände und Gegenstände"
+},
+{
+"key": "part14b.html#577",
+"de": "Einer – Urteil und Gefühl einer Person"
+},
+{
+"key": "part14b.html#578",
+"de": "Zweier – Abstand der beiden = Abstand in der Beziehung"
+},
+{
+"key": "part14b.html#579",
+"de": "Gruppe – Team und Gemeinschaft"
+},
+{
+"key": "part14b.html#580",
+"de": "Over-Shoulder – Gespräch über eine Schulter hinweg"
+},
+{
+"key": "part14b.html#581",
+"de": "POV-Einstellung – was die Figur sieht"
+},
+{
+"key": "part14b.html#582",
+"de": "Reaktionseinstellung – das Gesicht des Zuhörers"
+},
+{
+"key": "part14b.html#583",
+"de": "Establishing Shot – Ort und Zeit setzen"
+},
+{
+"key": "part14b.html#584",
+"de": "Insert – das entscheidende Detail"
+},
+{
+"key": "part14b.html#585",
+"de": "Zwischenschnitt – Zeit verdichten, Stimmung setzen"
+},
+{
+"key": "part14b.html#586",
+"de": "Normalsicht – neutral und gleichrangig"
+},
+{
+"key": "part14b.html#587",
+"de": "Aufsicht – klein und verletzlich"
+},
+{
+"key": "part14b.html#588",
+"de": "Untersicht – Autorität und Bedrohung"
+},
+{
+"key": "part14b.html#589",
+"de": "Vogelperspektive – senkrecht von oben"
+},
+{
+"key": "part14b.html#590",
+"de": "Dutch Angle – schräg und unruhig"
+},
+{
+"key": "part14b.html#591",
+"de": "Froschperspektive – vom Boden nach oben"
+},
+{
+"key": "part14b.html#592",
+"de": "Untersicht aufs Gesicht – Kinn und Nasenlöcher, Autorität"
+},
+{
+"key": "part14b.html#593",
+"de": "Normalsicht aufs Gesicht – Gespräch und Empathie"
+},
+{
+"key": "part14b.html#594",
+"de": "Aufsicht aufs Gesicht – größere Stirn, kleineres Kinn"
+},
+{
+"key": "part14b.html#595",
+"de": "Drittelregel – Augen auf einem Schnittpunkt"
+},
+{
+"key": "part14b.html#596",
+"de": "Goldener Schnitt – zum Zentrum der Spirale"
+},
+{
+"key": "part14b.html#597",
+"de": "Zentralsymmetrie – eine entschiedene Frontalansicht"
+},
+{
+"key": "part14b.html#598",
+"de": "Rhythmus und Wiederholung – nur eines ist anders"
+},
+{
+"key": "part14b.html#599",
+"de": "Führungslinien – zum Fluchtpunkt hin"
+},
+{
+"key": "part14b.html#600",
+"de": "Rahmen im Rahmen – ein gefangener Blick"
+},
+{
+"key": "part14b.html#601",
+"de": "Begegnende Blicke – die Achse einer Beziehung"
+},
+{
+"key": "part14b.html#602",
+"de": "Dem Blick zum Objekt folgen – Blickanschluss"
+},
+{
+"key": "part14b.html#603",
+"de": "Helligkeit und Schärfe führen den Blick"
+},
+{
+"key": "part14b.html#604",
+"de": "Dolly – Fahrt auf Schienen nach vorn"
+},
+{
+"key": "part14b.html#605",
+"de": "Kreisfahrt – das Motiv umkreisen"
+},
+{
+"key": "part14b.html#606",
+"de": "Kran – senkrechter Aufstieg und Weite"
+},
+{
+"key": "part14b.html#607",
+"de": "Schwenk – den Raum um eine feste Achse abtasten"
+},
+{
+"key": "part14b.html#608",
+"de": "Heranzoomen – gleicher Standpunkt, nur das Bild wächst"
+},
+{
+"key": "part14b.html#609",
+"de": "Herauszoomen – der Kontext erscheint"
+},
+{
+"key": "part14b.html#610",
+"de": "Orange und Petrol – das Motiv abheben"
+},
+{
+"key": "part14b.html#611",
+"de": "Kaltes Blau – Isolation"
+},
+{
+"key": "part14b.html#612",
+"de": "Eine Akzentfarbe – den Blick erzwingen"
+},
+{
+"key": "part14b.html#613",
+"de": "TEIL 03"
+},
+{
+"key": "part14b.html#614",
+"de": "24 mm – gedehnter Raum und Verzerrung"
+},
+{
+"key": "part14b.html#615",
+"de": "50 mm – natürliche Perspektive"
+},
+{
+"key": "part14b.html#616",
+"de": "135 mm – komprimierter Hintergrund, Isolation"
+},
+{
+"key": "part14b.html#617",
+"de": "F1,4 – geringe Schärfentiefe"
+},
+{
+"key": "part14b.html#618",
+"de": "F8 – große Schärfentiefe"
+},
+{
+"key": "part14b.html#619",
+"de": "Hohe ISO – Rauschen"
+},
+{
+"key": "part14b.html#620",
+"de": "360°-Shutter – lange Unschärfe"
+},
+{
+"key": "part14b.html#621",
+"de": "45°-Shutter – abgehackte Schärfe"
+},
+{
+"key": "part14b.html#622",
+"de": "Highspeed-Aufnahme – ein eingefrorener Tropfen"
+},
+{
+"key": "part14b.html#623",
+"de": "WB 3200 K bei Tageslicht – bläulich"
+},
+{
+"key": "part14b.html#624",
+"de": "WB 5600 K bei Tageslicht – normal"
+},
+{
+"key": "part14b.html#625",
+"de": "WB 7500 K bei Tageslicht – gelblich"
+},
+{
+"key": "part14b.html#626",
+"de": "Mischlicht – Tageslicht vom Fenster und Kunstlicht im Raum"
+},
+{
+"key": "part14b.html#627",
+"de": "Referenz mit der Graukarte setzen"
+},
+{
+"key": "part14b.html#628",
+"de": "Gewollte Farbverschiebung – das Blau der Dämmerung"
+},
+{
+"key": "part14b.html#629",
+"de": "Stativ mit Fluidkopf"
+},
+{
+"key": "part14b.html#630",
+"de": "Slider"
+},
+{
+"key": "part14b.html#631",
+"de": "3-Achsen-Gimbal"
+},
+{
+"key": "part14b.html#632",
+"de": "TEIL 04"
+},
+{
+"key": "part14b.html#633",
+"de": "Nur Führungslicht"
+},
+{
+"key": "part14b.html#634",
+"de": "Führung+Aufhellung"
+},
+{
+"key": "part14b.html#635",
+"de": "Führung + Aufhellung + Spitze"
+},
+{
+"key": "part14b.html#636",
+"de": "High-Key – helles, gnädiges Licht"
+},
+{
+"key": "part14b.html#637",
+"de": "Low-Key-Porträt – das Dunkel dominiert"
+},
+{
+"key": "part14b.html#638",
+"de": "Low-Key-Produkt – Luxus und Fokus"
+},
+{
+"key": "part14b.html#639",
+"de": "Glas – Gegenlicht für Transparenz"
+},
+{
+"key": "part14b.html#640",
+"de": "Metall – Reflexe vom Streifenlicht"
+},
+{
+"key": "part14b.html#641",
+"de": "Essen – Gegenlicht für Dampf und Glanz"
+},
+{
+"key": "part14b.html#642",
+"de": "Gleichmäßig ausgeleuchteter Greenscreen"
+},
+{
+"key": "part14b.html#643",
+"de": "Spill – Grün an den Kanten"
+},
+{
+"key": "part14b.html#644",
+"de": "Fertiges Composite"
+},
+{
+"key": "part14b.html#645",
+"de": "Angelmikro – von oben gerichtet"
+},
+{
+"key": "part14b.html#646",
+"de": "Ansteckmikro – im Kragen versteckt"
+},
+{
+"key": "part14b.html#647",
+"de": "Interviewaufnahme vor Ort"
+},
+{
+"key": "part14b.html#648",
+"de": "TEIL 05"
+},
+{
+"key": "part14b.html#649",
+"de": "Cel-Animation – auf transparente Folien gemalt"
+},
+{
+"key": "part14b.html#650",
+"de": "Legetrick – bewegte ausgeschnittene Teile"
+},
+{
+"key": "part14b.html#651",
+"de": "Sandanimation – in Sand gezeichnete Szenen"
+},
+{
+"key": "part14b.html#652",
+"de": "Pixilation – Menschen Bild für Bild aufgenommen"
+},
+{
+"key": "part14b.html#653",
+"de": "Papier · Knet-Stop-Motion"
+},
+{
+"key": "part14b.html#654",
+"de": "3D-CG – eine Figur im virtuellen Raum"
+},
+{
+"key": "part14b.html#655",
+"de": "2D – Zeichnen in Linie und Fläche"
+}
+]

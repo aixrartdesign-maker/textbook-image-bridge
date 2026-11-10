@@ -1,0 +1,2445 @@
+{
+ "stem": "p255_262_1831x997",
+ "size": [
+  2684,
+  1436
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Three adjectives on sensory axes become production terms",
+   "en": "Three adjectives on sensory axes become production terms",
+   "lines": [
+    [
+     591,
+     38,
+     2088,
+     91
+    ]
+   ],
+   "ocr": "Three adjectives on sensory axes become production terms",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    591,
+    38,
+    2088,
+    91
+   ],
+   "ltexts": [
+    "Three adjectives on sensory axes become production terms"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    35,
+    40,
+    44
+   ],
+   "weight": "Bold",
+   "size": 51.33,
+   "baselines": [
+    79
+   ],
+   "xs": [
+    590
+   ],
+   "inkboxes": [
+    [
+     591,
+     38,
+     2088,
+     91
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.52,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 591,
+    "right": 596,
+    "up": 38,
+    "down": 81,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "1 Three adjectives",
+   "en": "Three adjectives",
+   "lines": [
+    [
+     137,
+     173,
+     496,
+     221
+    ]
+   ],
+   "ocr": "Three adjectives",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    137,
+    173,
+    496,
+    221
+   ],
+   "ltexts": [
+    "Three adjectives"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    121,
+    29,
+    48
+   ],
+   "weight": "Bold",
+   "size": 45.46,
+   "baselines": [
+    209
+   ],
+   "xs": [
+    136
+   ],
+   "inkboxes": [
+    [
+     137,
+     173,
+     496,
+     221
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.57,
+   "align": "left",
+   "room": {
+    "left": 35,
+    "right": 356,
+    "up": 173,
+    "down": 56,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "3 Production terms",
+   "en": "Production terms",
+   "lines": [
+    [
+     2044,
+     173,
+     2428,
+     210
+    ]
+   ],
+   "ocr": "Production terms",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    2044,
+    173,
+    2428,
+    210
+   ],
+   "ltexts": [
+    "Production terms"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    124,
+    31,
+    50
+   ],
+   "weight": "Bold",
+   "size": 45.14,
+   "baselines": [
+    209
+   ],
+   "xs": [
+    2041
+   ],
+   "inkboxes": [
+    [
+     2045,
+     173,
+     2428,
+     210
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.85,
+   "align": "left",
+   "room": {
+    "left": 36,
+    "right": 256,
+    "up": 173,
+    "down": 53,
+    "lb": true,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "2 Sensory axes",
+   "en": "Sensory axes",
+   "lines": [
+    [
+     920,
+     175,
+     1204,
+     221
+    ]
+   ],
+   "ocr": "Sensory axes",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    920,
+    175,
+    1204,
+    221
+   ],
+   "ltexts": [
+    "Sensory axes"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    122,
+    30,
+    49
+   ],
+   "weight": "Bold",
+   "size": 45.87,
+   "baselines": [
+    210
+   ],
+   "xs": [
+    918
+   ],
+   "inkboxes": [
+    [
+     920,
+     175,
+     1204,
+     221
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.41,
+   "align": "left",
+   "room": {
+    "left": 38,
+    "right": 774,
+    "up": 175,
+    "down": 133,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Color",
+   "en": "Color",
+   "lines": [
+    [
+     2018,
+     291,
+     2105,
+     317
+    ]
+   ],
+   "ocr": "Color",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    2018,
+    291,
+    2105,
+    317
+   ],
+   "ltexts": [
+    "Color"
+   ],
+   "bg": [
+    239,
+    242,
+    244
+   ],
+   "bgstd": 2.1,
+   "color": [
+    39,
+    44,
+    49
+   ],
+   "weight": "Bold",
+   "size": 32.72,
+   "baselines": [
+    316
+   ],
+   "xs": [
+    2016
+   ],
+   "inkboxes": [
+    [
+     2018,
+     291,
+     2105,
+     317
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.45,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 37,
+    "right": 525,
+    "up": 24,
+    "down": 69,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Cold",
+   "en": "Cold",
+   "lines": [
+    [
+     290,
+     337,
+     390,
+     374
+    ]
+   ],
+   "ocr": "Cold",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    290,
+    337,
+    390,
+    374
+   ],
+   "ltexts": [
+    "Cold"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.4,
+   "color": [
+    36,
+    40,
+    44
+   ],
+   "weight": "Bold",
+   "size": 46.42,
+   "baselines": [
+    373
+   ],
+   "xs": [
+    288
+   ],
+   "inkboxes": [
+    [
+     290,
+     337,
+     390,
+     374
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.79,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 210,
+    "right": 214,
+    "up": 47,
+    "down": 50,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Blue-gray base · 1 warm apricot accent",
+   "en": "Blue-gray base · 1 warm apricot accent",
+   "lines": [
+    [
+     2020,
+     338,
+     2579,
+     370
+    ]
+   ],
+   "ocr": "Blue-gray base 1 warm apricot accent",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    2020,
+    338,
+    2579,
+    370
+   ],
+   "ltexts": [
+    "Blue-gray base · 1 warm apricot accent"
+   ],
+   "bg": [
+    239,
+    242,
+    244
+   ],
+   "bgstd": 1.2,
+   "color": [
+    81,
+    91,
+    101
+   ],
+   "weight": "Regular",
+   "size": 30.73,
+   "baselines": [
+    362
+   ],
+   "xs": [
+    2017
+   ],
+   "inkboxes": [
+    [
+     2020,
+     338,
+     2579,
+     370
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.25,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 39,
+    "right": 51,
+    "up": 71,
+    "down": 16,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Cold",
+   "en": "Cold",
+   "lines": [
+    [
+     1013,
+     351,
+     1086,
+     379
+    ]
+   ],
+   "ocr": "Cold",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    1013,
+    351,
+    1086,
+    379
+   ],
+   "ltexts": [
+    "Cold"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.9,
+   "color": [
+    83,
+    93,
+    103
+   ],
+   "weight": "Regular",
+   "size": 35.53,
+   "baselines": [
+    379
+   ],
+   "xs": [
+    1011
+   ],
+   "inkboxes": [
+    [
+     1013,
+     351,
+     1086,
+     379
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.52,
+   "align": "right",
+   "align_src": "neighbours",
+   "room": {
+    "left": 395,
+    "right": 23,
+    "up": 351,
+    "down": 1057,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Warm",
+   "en": "Warm",
+   "lines": [
+    [
+     1632,
+     353,
+     1724,
+     379
+    ]
+   ],
+   "ocr": "Warm",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    1632,
+    353,
+    1724,
+    379
+   ],
+   "ltexts": [
+    "Warm"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.4,
+   "color": [
+    85,
+    95,
+    105
+   ],
+   "weight": "Regular",
+   "size": 35.12,
+   "baselines": [
+    379
+   ],
+   "xs": [
+    1631
+   ],
+   "inkboxes": [
+    [
+     1632,
+     353,
+     1724,
+     379
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.53,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 19,
+    "right": 253,
+    "up": 353,
+    "down": 1057,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Light",
+   "en": "Light",
+   "lines": [
+    [
+     2020,
+     430,
+     2099,
+     464
+    ]
+   ],
+   "ocr": "Light",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    2020,
+    430,
+    2099,
+    464
+   ],
+   "ltexts": [
+    "Light"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    36,
+    41,
+    46
+   ],
+   "weight": "Bold",
+   "size": 32.45,
+   "baselines": [
+    456
+   ],
+   "xs": [
+    2017
+   ],
+   "inkboxes": [
+    [
+     2020,
+     430,
+     2099,
+     464
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.86,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1404,
+    "right": 585,
+    "up": 40,
+    "down": 77,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Overcast window light · low contrast",
+   "en": "Overcast window light · low contrast",
+   "lines": [
+    [
+     2018,
+     483,
+     2541,
+     515
+    ]
+   ],
+   "ocr": "Overcast window light low contrast",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 10,
+   "box": [
+    2018,
+    483,
+    2541,
+    515
+   ],
+   "ltexts": [
+    "Overcast window light · low contrast"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    82,
+    91,
+    102
+   ],
+   "weight": "Regular",
+   "size": 30.61,
+   "baselines": [
+    507
+   ],
+   "xs": [
+    2016
+   ],
+   "inkboxes": [
+    [
+     2018,
+     483,
+     2541,
+     515
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.17,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 405,
+    "right": 143,
+    "up": 93,
+    "down": 26,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Static",
+   "en": "Static",
+   "lines": [
+    [
+     1000,
+     499,
+     1087,
+     526
+    ]
+   ],
+   "ocr": "Static",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 11,
+   "box": [
+    1000,
+    499,
+    1087,
+    526
+   ],
+   "ltexts": [
+    "Static"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    85,
+    94,
+    105
+   ],
+   "weight": "Regular",
+   "size": 34.56,
+   "baselines": [
+    526
+   ],
+   "xs": [
+    997
+   ],
+   "inkboxes": [
+    [
+     999,
+     499,
+     1087,
+     526
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.77,
+   "align": "right",
+   "align_src": "neighbours",
+   "room": {
+    "left": 382,
+    "right": 22,
+    "up": 499,
+    "down": 910,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Dynamic",
+   "en": "Dynamic",
+   "lines": [
+    [
+     1635,
+     499,
+     1773,
+     535
+    ]
+   ],
+   "ocr": "Dynamic",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 12,
+   "box": [
+    1635,
+    499,
+    1773,
+    535
+   ],
+   "ltexts": [
+    "Dynamic"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    85,
+    94,
+    105
+   ],
+   "weight": "Regular",
+   "size": 35.42,
+   "baselines": [
+    526
+   ],
+   "xs": [
+    1632
+   ],
+   "inkboxes": [
+    [
+     1635,
+     499,
+     1773,
+     535
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.6,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 22,
+    "right": 911,
+    "up": 499,
+    "down": 901,
+    "lb": true,
+    "rb": false,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Quiet",
+   "en": "Quiet",
+   "lines": [
+    [
+     279,
+     524,
+     402,
+     570
+    ]
+   ],
+   "ocr": "Quiet",
+   "ratio": 1.0,
+   "src": [
+    "crop"
+   ],
+   "id": 13,
+   "box": [
+    279,
+    524,
+    402,
+    570
+   ],
+   "ltexts": [
+    "Quiet"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.5,
+   "color": [
+    35,
+    40,
+    44
+   ],
+   "weight": "Bold",
+   "size": 45.66,
+   "baselines": [
+    561
+   ],
+   "xs": [
+    277
+   ],
+   "inkboxes": [
+    [
+     279,
+     524,
+     402,
+     569
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.58,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 199,
+    "right": 202,
+    "up": 45,
+    "down": 43,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Lens",
+   "en": "Lens",
+   "lines": [
+    [
+     2020,
+     574,
+     2090,
+     599
+    ]
+   ],
+   "ocr": "Lens",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 14,
+   "box": [
+    2020,
+    574,
+    2090,
+    599
+   ],
+   "ltexts": [
+    "Lens"
+   ],
+   "bg": [
+    240,
+    242,
+    245
+   ],
+   "bgstd": 1.8,
+   "color": [
+    39,
+    44,
+    49
+   ],
+   "weight": "Bold",
+   "size": 32.28,
+   "baselines": [
+    598
+   ],
+   "xs": [
+    2017
+   ],
+   "inkboxes": [
+    [
+     2020,
+     574,
+     2090,
+     598
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.83,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 39,
+    "right": 540,
+    "up": 29,
+    "down": 68,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "50–85mm · shallow depth of field",
+   "en": "50–85mm · shallow depth of field",
+   "lines": [
+    [
+     2019,
+     621,
+     2522,
+     654
+    ]
+   ],
+   "ocr": "50-85mm shallow depth of field",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 15,
+   "box": [
+    2019,
+    621,
+    2522,
+    654
+   ],
+   "ltexts": [
+    "50–85mm · shallow depth of field"
+   ],
+   "bg": [
+    239,
+    242,
+    244
+   ],
+   "bgstd": 1.3,
+   "color": [
+    82,
+    91,
+    101
+   ],
+   "weight": "Regular",
+   "size": 32.21,
+   "baselines": [
+    647
+   ],
+   "xs": [
+    2018
+   ],
+   "inkboxes": [
+    [
+     2019,
+     621,
+     2522,
+     654
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.22,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 38,
+    "right": 108,
+    "up": 76,
+    "down": 13,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Rough",
+   "en": "Rough",
+   "lines": [
+    [
+     987,
+     645,
+     1086,
+     681
+    ]
+   ],
+   "ocr": "Rough",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 16,
+   "box": [
+    987,
+    645,
+    1086,
+    681
+   ],
+   "ltexts": [
+    "Rough"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.5,
+   "color": [
+    84,
+    93,
+    103
+   ],
+   "weight": "Regular",
+   "size": 34.63,
+   "baselines": [
+    672
+   ],
+   "xs": [
+    984
+   ],
+   "inkboxes": [
+    [
+     987,
+     645,
+     1086,
+     681
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.71,
+   "align": "right",
+   "align_src": "neighbours",
+   "room": {
+    "left": 369,
+    "right": 23,
+    "up": 645,
+    "down": 755,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Smooth",
+   "en": "Smooth",
+   "lines": [
+    [
+     1633,
+     645,
+     1756,
+     672
+    ]
+   ],
+   "ocr": "Smooth",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 17,
+   "box": [
+    1633,
+    645,
+    1756,
+    672
+   ],
+   "ltexts": [
+    "Smooth"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    84,
+    94,
+    105
+   ],
+   "weight": "Regular",
+   "size": 33.89,
+   "baselines": [
+    671
+   ],
+   "xs": [
+    1631
+   ],
+   "inkboxes": [
+    [
+     1633,
+     645,
+     1756,
+     672
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.47,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 20,
+    "right": 221,
+    "up": 645,
+    "down": 764,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Camera",
+   "en": "Camera",
+   "lines": [
+    [
+     2018,
+     712,
+     2141,
+     737
+    ]
+   ],
+   "ocr": "Camera",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 18,
+   "box": [
+    2018,
+    712,
+    2141,
+    737
+   ],
+   "ltexts": [
+    "Camera"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.9,
+   "color": [
+    37,
+    42,
+    46
+   ],
+   "weight": "Bold",
+   "size": 33.2,
+   "baselines": [
+    737
+   ],
+   "xs": [
+    2016
+   ],
+   "inkboxes": [
+    [
+     2018,
+     712,
+     2141,
+     737
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.64,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 94,
+    "right": 543,
+    "up": 41,
+    "down": 78,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Tender",
+   "en": "Tender",
+   "lines": [
+    [
+     262,
+     713,
+     420,
+     750
+    ]
+   ],
+   "ocr": "Tender",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 19,
+   "box": [
+    262,
+    713,
+    420,
+    750
+   ],
+   "ltexts": [
+    "Tender"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    36,
+    40,
+    44
+   ],
+   "weight": "Bold",
+   "size": 46.36,
+   "baselines": [
+    749
+   ],
+   "xs": [
+    261
+   ],
+   "inkboxes": [
+    [
+     262,
+     713,
+     420,
+     750
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.83,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 182,
+    "right": 184,
+    "up": 45,
+    "down": 51,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Fixed · slow dolly in",
+   "en": "Fixed · slow dolly in",
+   "lines": [
+    [
+     2020,
+     764,
+     2309,
+     797
+    ]
+   ],
+   "ocr": "Fixed slow dolly in",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 20,
+   "box": [
+    2020,
+    764,
+    2309,
+    797
+   ],
+   "ltexts": [
+    "Fixed · slow dolly in"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.0,
+   "color": [
+    82,
+    91,
+    102
+   ],
+   "weight": "Regular",
+   "size": 31.88,
+   "baselines": [
+    789
+   ],
+   "xs": [
+    2017
+   ],
+   "inkboxes": [
+    [
+     2020,
+     764,
+     2309,
+     797
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.31,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 407,
+    "right": 375,
+    "up": 93,
+    "down": 18,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Dark",
+   "en": "Dark",
+   "lines": [
+    [
+     1015,
+     789,
+     1088,
+     817
+    ]
+   ],
+   "ocr": "Dark",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 21,
+   "box": [
+    1015,
+    789,
+    1088,
+    817
+   ],
+   "ltexts": [
+    "Dark"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    87,
+    96,
+    106
+   ],
+   "weight": "Regular",
+   "size": 35.05,
+   "baselines": [
+    817
+   ],
+   "xs": [
+    1012
+   ],
+   "inkboxes": [
+    [
+     1015,
+     789,
+     1088,
+     817
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.65,
+   "align": "right",
+   "align_src": "neighbours",
+   "room": {
+    "left": 397,
+    "right": 21,
+    "up": 789,
+    "down": 619,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Bright",
+   "en": "Bright",
+   "lines": [
+    [
+     1635,
+     789,
+     1728,
+     826
+    ]
+   ],
+   "ocr": "Bright",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 22,
+   "box": [
+    1635,
+    789,
+    1728,
+    826
+   ],
+   "ltexts": [
+    "Bright"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    84,
+    93,
+    103
+   ],
+   "weight": "Regular",
+   "size": 34.53,
+   "baselines": [
+    817
+   ],
+   "xs": [
+    1632
+   ],
+   "inkboxes": [
+    [
+     1635,
+     789,
+     1728,
+     826
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.44,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 22,
+    "right": 249,
+    "up": 789,
+    "down": 610,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Editing",
+   "en": "Editing",
+   "lines": [
+    [
+     2019,
+     846,
+     2131,
+     881
+    ]
+   ],
+   "ocr": "Editing",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 23,
+   "box": [
+    2019,
+    846,
+    2131,
+    881
+   ],
+   "ltexts": [
+    "Editing"
+   ],
+   "bg": [
+    239,
+    242,
+    244
+   ],
+   "bgstd": 2.0,
+   "color": [
+    38,
+    43,
+    48
+   ],
+   "weight": "Bold",
+   "size": 32.47,
+   "baselines": [
+    873
+   ],
+   "xs": [
+    2017
+   ],
+   "inkboxes": [
+    [
+     2020,
+     847,
+     2131,
+     881
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.81,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 38,
+    "right": 499,
+    "up": 28,
+    "down": 58,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Long-held shots · 4–6s",
+   "en": "Long-held shots · 4–6s",
+   "lines": [
+    [
+     2020,
+     896,
+     2360,
+     929
+    ]
+   ],
+   "ocr": "Long-held shots 4—6s",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 24,
+   "box": [
+    2020,
+    896,
+    2360,
+    929
+   ],
+   "ltexts": [
+    "Long-held shots · 4–6s"
+   ],
+   "bg": [
+    239,
+    242,
+    244
+   ],
+   "bgstd": 1.3,
+   "color": [
+    81,
+    91,
+    101
+   ],
+   "weight": "Regular",
+   "size": 32.01,
+   "baselines": [
+    921
+   ],
+   "xs": [
+    2017
+   ],
+   "inkboxes": [
+    [
+     2020,
+     896,
+     2360,
+     929
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.4,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 39,
+    "right": 270,
+    "up": 78,
+    "down": 10,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Near",
+   "en": "Near",
+   "lines": [
+    [
+     1014,
+     936,
+     1088,
+     963
+    ]
+   ],
+   "ocr": "Near",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 25,
+   "box": [
+    1014,
+    936,
+    1088,
+    963
+   ],
+   "ltexts": [
+    "Near"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    84,
+    93,
+    104
+   ],
+   "weight": "Regular",
+   "size": 35.78,
+   "baselines": [
+    962
+   ],
+   "xs": [
+    1010
+   ],
+   "inkboxes": [
+    [
+     1014,
+     936,
+     1088,
+     963
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.64,
+   "align": "right",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1014,
+    "right": 21,
+    "up": 936,
+    "down": 473,
+    "lb": false,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Far",
+   "en": "Far",
+   "lines": [
+    [
+     1635,
+     937,
+     1681,
+     963
+    ]
+   ],
+   "ocr": "Far",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 26,
+   "box": [
+    1635,
+    937,
+    1681,
+    963
+   ],
+   "ltexts": [
+    "Far"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    86,
+    95,
+    105
+   ],
+   "weight": "Regular",
+   "size": 34.36,
+   "baselines": [
+    962
+   ],
+   "xs": [
+    1632
+   ],
+   "inkboxes": [
+    [
+     1635,
+     937,
+     1681,
+     963
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.66,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 22,
+    "right": 296,
+    "up": 937,
+    "down": 473,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Sound",
+   "en": "Sound",
+   "lines": [
+    [
+     2018,
+     984,
+     2118,
+     1010
+    ]
+   ],
+   "ocr": "Sound",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 27,
+   "box": [
+    2018,
+    984,
+    2118,
+    1010
+   ],
+   "ltexts": [
+    "Sound"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    38,
+    43,
+    47
+   ],
+   "weight": "Bold",
+   "size": 32.59,
+   "baselines": [
+    1010
+   ],
+   "xs": [
+    2016
+   ],
+   "inkboxes": [
+    [
+     2018,
+     984,
+     2118,
+     1010
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.72,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 2018,
+    "right": 566,
+    "up": 41,
+    "down": 80,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Ambience-led · 1 piano",
+   "en": "Ambience-led · 1 piano",
+   "lines": [
+    [
+     2017,
+     1036,
+     2369,
+     1068
+    ]
+   ],
+   "ocr": "Ambience-led 1 piano",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 28,
+   "box": [
+    2017,
+    1036,
+    2369,
+    1068
+   ],
+   "ltexts": [
+    "Ambience-led · 1 piano"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    85,
+    94,
+    105
+   ],
+   "weight": "Regular",
+   "size": 31.76,
+   "baselines": [
+    1060
+   ],
+   "xs": [
+    2017
+   ],
+   "inkboxes": [
+    [
+     2017,
+     1036,
+     2369,
+     1068
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.21,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 2017,
+    "right": 315,
+    "up": 93,
+    "down": 22,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "A mix with tension",
+   "en": "A mix with tension creates a world",
+   "lines": [
+    [
+     191,
+     1068,
+     495,
+     1096
+    ],
+    [
+     211,
+     1119,
+     474,
+     1148
+    ]
+   ],
+   "ocr": "A mix with tension / creates a world",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "merged_labels": [
+    "A mix with tension",
+    "creates a world"
+   ],
+   "id": 29,
+   "box": [
+    191,
+    1068,
+    495,
+    1148
+   ],
+   "ltexts": [
+    "A mix with tension",
+    "creates a world"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    84,
+    93,
+    103
+   ],
+   "weight": "Regular",
+   "size": 36.64,
+   "baselines": [
+    1095,
+    1148
+   ],
+   "xs": [
+    191,
+    209
+   ],
+   "inkboxes": [
+    [
+     191,
+     1068,
+     495,
+     1096
+    ],
+    [
+     211,
+     1119,
+     474,
+     1148
+    ]
+   ],
+   "pitch": 53.0,
+   "fitscore": 0.39,
+   "align": "center",
+   "align_src": "lines",
+   "room": {
+    "left": 191,
+    "right": 614,
+    "up": 254,
+    "down": 288,
+    "lb": false,
+    "rb": true,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Complex",
+   "en": "Complex",
+   "lines": [
+    [
+     947,
+     1081,
+     1088,
+     1117
+    ]
+   ],
+   "ocr": "Complex",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 30,
+   "box": [
+    947,
+    1081,
+    1088,
+    1117
+   ],
+   "ltexts": [
+    "Complex"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    84,
+    93,
+    104
+   ],
+   "weight": "Regular",
+   "size": 34.93,
+   "baselines": [
+    1109
+   ],
+   "xs": [
+    945
+   ],
+   "inkboxes": [
+    [
+     947,
+     1081,
+     1088,
+     1117
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.53,
+   "align": "right",
+   "align_src": "neighbours",
+   "room": {
+    "left": 947,
+    "right": 21,
+    "up": 1081,
+    "down": 319,
+    "lb": false,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Simple",
+   "en": "Simple",
+   "lines": [
+    [
+     1634,
+     1081,
+     1740,
+     1117
+    ]
+   ],
+   "ocr": "Simple",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 31,
+   "box": [
+    1634,
+    1081,
+    1740,
+    1117
+   ],
+   "ltexts": [
+    "Simple"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    86,
+    95,
+    105
+   ],
+   "weight": "Regular",
+   "size": 34.25,
+   "baselines": [
+    1109
+   ],
+   "xs": [
+    1632
+   ],
+   "inkboxes": [
+    [
+     1634,
+     1081,
+     1740,
+     1117
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.39,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 21,
+    "right": 236,
+    "up": 1081,
+    "down": 319,
+    "lb": true,
+    "rb": true,
+    "ub": false,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Avoid",
+   "en": "Avoid",
+   "lines": [
+    [
+     2017,
+     1119,
+     2107,
+     1145
+    ]
+   ],
+   "ocr": "Avoid",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 32,
+   "box": [
+    2017,
+    1119,
+    2107,
+    1145
+   ],
+   "ltexts": [
+    "Avoid"
+   ],
+   "bg": [
+    245,
+    232,
+    235
+   ],
+   "bgstd": 2.4,
+   "color": [
+    123,
+    33,
+    50
+   ],
+   "weight": "Bold",
+   "size": 32.58,
+   "baselines": [
+    1145
+   ],
+   "xs": [
+    2017
+   ],
+   "inkboxes": [
+    [
+     2017,
+     1119,
+     2107,
+     1145
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.5,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 36,
+    "right": 522,
+    "up": 25,
+    "down": 64,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Fast zooms · saturated colors",
+   "en": "Fast zooms · saturated colors",
+   "lines": [
+    [
+     2020,
+     1166,
+     2431,
+     1191
+    ]
+   ],
+   "ocr": "Fast zooms saturated colors",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 33,
+   "box": [
+    2020,
+    1166,
+    2431,
+    1191
+   ],
+   "ltexts": [
+    "Fast zooms · saturated colors"
+   ],
+   "bg": [
+    245,
+    232,
+    235
+   ],
+   "bgstd": 1.7,
+   "color": [
+    80,
+    90,
+    98
+   ],
+   "weight": "Regular",
+   "size": 29.92,
+   "baselines": [
+    1190
+   ],
+   "xs": [
+    2017
+   ],
+   "inkboxes": [
+    [
+     2020,
+     1166,
+     2430,
+     1190
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.41,
+   "align": "left",
+   "align_src": "neighbours",
+   "room": {
+    "left": 39,
+    "right": 198,
+    "up": 72,
+    "down": 18,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Adjectives are emotional coordinates; the production table is the team's pact to hit them",
+   "en": "Adjectives are emotional coordinates; the production table is the team's pact to hit them",
+   "lines": [
+    [
+     599,
+     1328,
+     2078,
+     1365
+    ]
+   ],
+   "ocr": "Adjectives are emotional coordinates; the production table is the team's pact to hit them",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 34,
+   "box": [
+    599,
+    1328,
+    2078,
+    1365
+   ],
+   "ltexts": [
+    "Adjectives are emotional coordinates; the production table is the team's pact to hit them"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.2,
+   "color": [
+    86,
+    96,
+    107
+   ],
+   "weight": "Regular",
+   "size": 35.88,
+   "baselines": [
+    1357
+   ],
+   "xs": [
+    599
+   ],
+   "inkboxes": [
+    [
+     599,
+     1328,
+     2078,
+     1365
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.2,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 599,
+    "right": 606,
+    "up": 114,
+    "down": 71,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": []
+}

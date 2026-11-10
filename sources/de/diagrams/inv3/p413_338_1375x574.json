@@ -1,0 +1,563 @@
+{
+ "stem": "p413_338_1375x574",
+ "size": [
+  2673,
+  1107
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Standard page layout for one project",
+   "en": "Standard page layout for one project",
+   "lines": [
+    [
+     966,
+     50,
+     1704,
+     91
+    ]
+   ],
+   "ocr": "Standard page layout for one project",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    966,
+    50,
+    1704,
+    91
+   ],
+   "ltexts": [
+    "Standard page layout for one project"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "weight": "Regular",
+   "size": 43.57,
+   "baselines": [
+    83
+   ],
+   "xs": [
+    964
+   ],
+   "inkboxes": [
+    [
+     966,
+     50,
+     1704,
+     91
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.41,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 966,
+    "right": 969,
+    "up": 50,
+    "down": 14,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Hero image — the strongest cut",
+   "en": "Hero image — the strongest cut",
+   "lines": [
+    [
+     1071,
+     250,
+     1598,
+     285
+    ]
+   ],
+   "ocr": "Hero image the strongest cut",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    1071,
+    250,
+    1598,
+    285
+   ],
+   "ltexts": [
+    "Hero image — the strongest cut"
+   ],
+   "bg": [
+    228,
+    228,
+    233
+   ],
+   "bgstd": 0.9,
+   "color": [
+    4,
+    4,
+    4
+   ],
+   "weight": "Regular",
+   "size": 36.6,
+   "baselines": [
+    277
+   ],
+   "xs": [
+    1067
+   ],
+   "inkboxes": [
+    [
+     1071,
+     250,
+     1598,
+     285
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.47,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 456,
+    "right": 464,
+    "up": 72,
+    "down": 75,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Title and one-line summary",
+   "en": "Title and one-line summary",
+   "lines": [
+    [
+     1113,
+     407,
+     1557,
+     442
+    ]
+   ],
+   "ocr": "Title and one-line summary",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    1113,
+    407,
+    1557,
+    442
+   ],
+   "ltexts": [
+    "Title and one-line summary"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 1.1,
+   "color": [
+    4,
+    4,
+    4
+   ],
+   "weight": "Regular",
+   "size": 34.71,
+   "baselines": [
+    434
+   ],
+   "xs": [
+    1112
+   ],
+   "inkboxes": [
+    [
+     1113,
+     408,
+     1557,
+     441
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.54,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 498,
+    "right": 505,
+    "up": 13,
+    "down": 10,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Basics — role · period · tools · length",
+   "en": "Basics — role · period · tools · length",
+   "lines": [
+    [
+     1019,
+     515,
+     1652,
+     550
+    ]
+   ],
+   "ocr": "Basics role period tools length",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    1019,
+    515,
+    1652,
+    550
+   ],
+   "ltexts": [
+    "Basics — role · period · tools · length"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 1.0,
+   "color": [
+    5,
+    4,
+    5
+   ],
+   "weight": "Regular",
+   "size": 36.51,
+   "baselines": [
+    543
+   ],
+   "xs": [
+    1015
+   ],
+   "inkboxes": [
+    [
+     1019,
+     516,
+     1652,
+     550
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.37,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 404,
+    "right": 410,
+    "up": 31,
+    "down": 21,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Intent — what you solved and how",
+   "en": "Intent — what you solved and how",
+   "lines": [
+    [
+     1051,
+     641,
+     1621,
+     676
+    ]
+   ],
+   "ocr": "Intent what you solved and how",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    1051,
+    641,
+    1621,
+    676
+   ],
+   "ltexts": [
+    "Intent — what you solved and how"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 0.8,
+   "color": [
+    4,
+    4,
+    4
+   ],
+   "weight": "Regular",
+   "size": 35.92,
+   "baselines": [
+    669
+   ],
+   "xs": [
+    1047
+   ],
+   "inkboxes": [
+    [
+     1051,
+     642,
+     1620,
+     676
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.27,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 436,
+    "right": 441,
+    "up": 36,
+    "down": 31,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Process — proposal · storyboard · set · before/after",
+   "en": "Process — proposal · storyboard · set · before/after",
+   "lines": [
+    [
+     910,
+     780,
+     1762,
+     814
+    ]
+   ],
+   "ocr": "Process proposal storyboard set before/after",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    910,
+    780,
+    1762,
+    814
+   ],
+   "ltexts": [
+    "Process — proposal · storyboard · set · before/after"
+   ],
+   "bg": [
+    229,
+    229,
+    233
+   ],
+   "bgstd": 0.8,
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "weight": "Regular",
+   "size": 35.35,
+   "baselines": [
+    807
+   ],
+   "xs": [
+    907
+   ],
+   "inkboxes": [
+    [
+     910,
+     780,
+     1762,
+     814
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.52,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 295,
+    "right": 300,
+    "up": 39,
+    "down": 37,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Results — link and metrics · lessons",
+   "en": "Results — link and metrics · lessons",
+   "lines": [
+    [
+     1049,
+     902,
+     1622,
+     929
+    ]
+   ],
+   "ocr": "Results link and metrics lessons",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    1049,
+    902,
+    1622,
+    929
+   ],
+   "ltexts": [
+    "Results — link and metrics · lessons"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 1.2,
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "weight": "Regular",
+   "size": 34.01,
+   "baselines": [
+    929
+   ],
+   "xs": [
+    1047
+   ],
+   "inkboxes": [
+    [
+     1050,
+     902,
+     1622,
+     929
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.34,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 434,
+    "right": 440,
+    "up": 17,
+    "down": 20,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "One format for 5–8 projects shows expertise by itself",
+   "en": "One format for 5–8 projects shows expertise by itself",
+   "lines": [
+    [
+     875,
+     1027,
+     1801,
+     1064
+    ]
+   ],
+   "ocr": "One format for 5-8 projects shows expertise by itself",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    875,
+    1027,
+    1801,
+    1064
+   ],
+   "ltexts": [
+    "One format for 5–8 projects shows expertise by itself"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.5,
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "weight": "Regular",
+   "size": 38.25,
+   "baselines": [
+    1056
+   ],
+   "xs": [
+    873
+   ],
+   "inkboxes": [
+    [
+     875,
+     1027,
+     1800,
+     1063
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.57,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 875,
+    "right": 872,
+    "up": 36,
+    "down": 43,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": []
+}

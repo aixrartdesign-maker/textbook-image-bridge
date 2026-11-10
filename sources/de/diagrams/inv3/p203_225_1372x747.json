@@ -1,0 +1,1129 @@
+{
+ "stem": "p203_225_1372x747",
+ "size": [
+  2680,
+  1441
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Correct first, then apply the look",
+   "en": "Correct first, then apply the look",
+   "lines": [
+    [
+     834,
+     34,
+     1848,
+     99
+    ]
+   ],
+   "ocr": "Correct first, then apply the look",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    834,
+    34,
+    1848,
+    99
+   ],
+   "ltexts": [
+    "Correct first, then apply the look"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    29,
+    29,
+    32
+   ],
+   "weight": "Bold",
+   "size": 62.8,
+   "baselines": [
+    85
+   ],
+   "xs": [
+    831
+   ],
+   "inkboxes": [
+    [
+     834,
+     34,
+     1848,
+     99
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.54,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 834,
+    "right": 832,
+    "up": 34,
+    "down": 167,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "4,",
+   "lines": [
+    [
+     2036,
+     406,
+     2062,
+     446
+    ]
+   ],
+   "ocr": "4,",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 36.9,
+   "id": 1,
+   "box": [
+    2036,
+    406,
+    2062,
+    446
+   ],
+   "ltexts": [
+    "4,"
+   ],
+   "bg": [
+    103,
+    91,
+    92
+   ],
+   "bgstd": 42.4,
+   "color": [
+    200,
+    184,
+    188
+   ],
+   "weight": "Regular",
+   "size": 52.17,
+   "baselines": [
+    437
+   ],
+   "xs": [
+    2031
+   ],
+   "inkboxes": [
+    [
+     2032,
+     402,
+     2066,
+     450
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.15,
+   "align": "center",
+   "room": {
+    "left": 12,
+    "right": 12,
+    "up": 12,
+    "down": 12,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "token",
+   "en": "2 4",
+   "lines": [
+    [
+     2204,
+     501,
+     2318,
+     555
+    ]
+   ],
+   "ocr": "2 4",
+   "ratio": null,
+   "src": [
+    "crop"
+   ],
+   "conf": 41.5,
+   "id": 2,
+   "box": [
+    2204,
+    501,
+    2318,
+    555
+   ],
+   "ltexts": [
+    "2 4"
+   ],
+   "bg": [
+    117,
+    104,
+    104
+   ],
+   "bgstd": 54.6,
+   "color": [
+    227,
+    202,
+    212
+   ],
+   "weight": "Regular",
+   "size": 92.06,
+   "baselines": [
+    563
+   ],
+   "xs": [
+    2196
+   ],
+   "inkboxes": [
+    [
+     2200,
+     497,
+     2316,
+     559
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.15,
+   "align": "center",
+   "room": {
+    "left": 16,
+    "right": 16,
+    "up": 16,
+    "down": 16,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "① Original log",
+   "en": "Original log",
+   "lines": [
+    [
+     367,
+     887,
+     649,
+     937
+    ]
+   ],
+   "ocr": "Original log",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    367,
+    887,
+    649,
+    937
+   ],
+   "ltexts": [
+    "Original log"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    28,
+    29,
+    31
+   ],
+   "weight": "Bold",
+   "size": 48.72,
+   "baselines": [
+    925
+   ],
+   "xs": [
+    364
+   ],
+   "inkboxes": [
+    [
+     367,
+     887,
+     649,
+     937
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.41,
+   "align": "left",
+   "room": {
+    "left": 17,
+    "right": 501,
+    "up": 30,
+    "down": 91,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "② Correction",
+   "en": "Correction",
+   "lines": [
+    [
+     1220,
+     887,
+     1471,
+     927
+    ]
+   ],
+   "ocr": "Correction",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    1220,
+    887,
+    1471,
+    927
+   ],
+   "ltexts": [
+    "Correction"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    29,
+    29,
+    32
+   ],
+   "weight": "Bold",
+   "size": 48.34,
+   "baselines": [
+    926
+   ],
+   "xs": [
+    1217
+   ],
+   "inkboxes": [
+    [
+     1220,
+     887,
+     1471,
+     926
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.58,
+   "align": "left",
+   "room": {
+    "left": 16,
+    "right": 592,
+    "up": 30,
+    "down": 117,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "③ Look",
+   "en": "Look",
+   "lines": [
+    [
+     2135,
+     887,
+     2249,
+     926
+    ]
+   ],
+   "ocr": "Look",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    2135,
+    887,
+    2249,
+    926
+   ],
+   "ltexts": [
+    "Look"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    29,
+    29,
+    32
+   ],
+   "weight": "Bold",
+   "size": 48.64,
+   "baselines": [
+    926
+   ],
+   "xs": [
+    2131
+   ],
+   "inkboxes": [
+    [
+     2135,
+     887,
+     2249,
+     926
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.88,
+   "align": "left",
+   "room": {
+    "left": 18,
+    "right": 431,
+    "up": 30,
+    "down": 131,
+    "lb": true,
+    "rb": false,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Low contrast, washed out",
+   "en": "Low contrast, washed out",
+   "lines": [
+    [
+     271,
+     987,
+     672,
+     1019
+    ]
+   ],
+   "ocr": "Low contrast, washed out",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    271,
+    987,
+    672,
+    1019
+   ],
+   "ltexts": [
+    "Low contrast, washed out"
+   ],
+   "bg": [
+    242,
+    243,
+    244
+   ],
+   "bgstd": 0.8,
+   "color": [
+    131,
+    131,
+    137
+   ],
+   "weight": "Regular",
+   "size": 33.17,
+   "baselines": [
+    1013
+   ],
+   "xs": [
+    268
+   ],
+   "inkboxes": [
+    [
+     271,
+     987,
+     672,
+     1019
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.26,
+   "align": "center",
+   "room": {
+    "left": 191,
+    "right": 186,
+    "up": 49,
+    "down": 9,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Exposure · white balance · cut match",
+   "en": "Exposure · white balance · cut match",
+   "lines": [
+    [
+     1022,
+     987,
+     1605,
+     1021
+    ]
+   ],
+   "ocr": "Exposure white balance cut match",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    1022,
+    987,
+    1605,
+    1021
+   ],
+   "ltexts": [
+    "Exposure · white balance · cut match"
+   ],
+   "bg": [
+    242,
+    243,
+    244
+   ],
+   "bgstd": 1.2,
+   "color": [
+    130,
+    130,
+    136
+   ],
+   "weight": "Regular",
+   "size": 33.37,
+   "baselines": [
+    1013
+   ],
+   "xs": [
+    1019
+   ],
+   "inkboxes": [
+    [
+     1022,
+     987,
+     1605,
+     1021
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.32,
+   "align": "center",
+   "room": {
+    "left": 93,
+    "right": 99,
+    "up": 49,
+    "down": 10,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Apply intended tone",
+   "en": "Apply intended tone",
+   "lines": [
+    [
+     2009,
+     987,
+     2340,
+     1021
+    ]
+   ],
+   "ocr": "Apply intended tone",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    2009,
+    987,
+    2340,
+    1021
+   ],
+   "ltexts": [
+    "Apply intended tone"
+   ],
+   "bg": [
+    242,
+    243,
+    244
+   ],
+   "bgstd": 0.8,
+   "color": [
+    133,
+    133,
+    138
+   ],
+   "weight": "Regular",
+   "size": 35.25,
+   "baselines": [
+    1014
+   ],
+   "xs": [
+    2009
+   ],
+   "inkboxes": [
+    [
+     2009,
+     987,
+     2340,
+     1021
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.79,
+   "align": "center",
+   "room": {
+    "left": 234,
+    "right": 213,
+    "up": 49,
+    "down": 31,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Bunched in the middle",
+   "en": "Bunched in the middle",
+   "lines": [
+    [
+     284,
+     1215,
+     665,
+     1244
+    ]
+   ],
+   "ocr": "Bunched in the middle",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    284,
+    1215,
+    665,
+    1244
+   ],
+   "ltexts": [
+    "Bunched in the middle"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    85,
+    86,
+    91
+   ],
+   "weight": "Regular",
+   "size": 36.22,
+   "baselines": [
+    1244
+   ],
+   "xs": [
+    280
+   ],
+   "inkboxes": [
+    [
+     284,
+     1215,
+     665,
+     1244
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.32,
+   "align": "left",
+   "room": {
+    "left": 284,
+    "right": 2015,
+    "up": 39,
+    "down": 197,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Spans end to end",
+   "en": "Spans end to end",
+   "lines": [
+    [
+     1179,
+     1215,
+     1468,
+     1251
+    ]
+   ],
+   "ocr": "Spans end to end",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 10,
+   "box": [
+    1179,
+    1215,
+    1468,
+    1251
+   ],
+   "ltexts": [
+    "Spans end to end"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.2,
+   "color": [
+    87,
+    87,
+    92
+   ],
+   "weight": "Regular",
+   "size": 35.74,
+   "baselines": [
+    1243
+   ],
+   "xs": [
+    1177
+   ],
+   "inkboxes": [
+    [
+     1179,
+     1215,
+     1468,
+     1251
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.35,
+   "align": "left",
+   "room": {
+    "left": 1179,
+    "right": 1212,
+    "up": 39,
+    "down": 190,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Skewed on purpose",
+   "en": "Skewed on purpose",
+   "lines": [
+    [
+     2002,
+     1215,
+     2332,
+     1251
+    ]
+   ],
+   "ocr": "Skewed on purpose",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 11,
+   "box": [
+    2002,
+    1215,
+    2332,
+    1251
+   ],
+   "ltexts": [
+    "Skewed on purpose"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    85,
+    86,
+    91
+   ],
+   "weight": "Regular",
+   "size": 35.63,
+   "baselines": [
+    1243
+   ],
+   "xs": [
+    2000
+   ],
+   "inkboxes": [
+    [
+     2002,
+     1215,
+     2332,
+     1251
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.32,
+   "align": "left",
+   "room": {
+    "left": 2002,
+    "right": 348,
+    "up": 38,
+    "down": 190,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Keep the order. Apply the look first and every exposure fix breaks the color",
+   "en": "Keep the order. Apply the look first and every exposure fix breaks the color",
+   "lines": [
+    [
+     669,
+     1330,
+     2013,
+     1369
+    ]
+   ],
+   "ocr": "Keep the order. Apply the look first and every exposure fix breaks the color",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 12,
+   "box": [
+    669,
+    1330,
+    2013,
+    1369
+   ],
+   "ltexts": [
+    "Keep the order. Apply the look first and every exposure fix breaks the color"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.1,
+   "color": [
+    133,
+    133,
+    137
+   ],
+   "weight": "Regular",
+   "size": 38.54,
+   "baselines": [
+    1361
+   ],
+   "xs": [
+    665
+   ],
+   "inkboxes": [
+    [
+     669,
+     1330,
+     2013,
+     1369
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.22,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 669,
+    "right": 667,
+    "up": 152,
+    "down": 72,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "=X",
+   "box": [
+    1382,
+    281,
+    1426,
+    326
+   ],
+   "conf": 26.6
+  },
+  {
+   "text": "I it",
+   "box": [
+    1100,
+    315,
+    1408,
+    454
+   ],
+   "conf": 37.8
+  },
+  {
+   "text": "j=",
+   "box": [
+    2184,
+    316,
+    2256,
+    375
+   ],
+   "conf": 55.1
+  },
+  {
+   "text": "x=",
+   "box": [
+    2116,
+    331,
+    2152,
+    346
+   ],
+   "conf": 38.2
+  },
+  {
+   "text": "y",
+   "box": [
+    1967,
+    333,
+    1982,
+    378
+   ],
+   "conf": 6.9
+  },
+  {
+   "text": "(i",
+   "box": [
+    373,
+    381,
+    504,
+    482
+   ],
+   "conf": 38.2
+  },
+  {
+   "text": "Y//",
+   "box": [
+    1960,
+    389,
+    2001,
+    422
+   ],
+   "conf": 49.6
+  },
+  {
+   "text": "f fy",
+   "box": [
+    1039,
+    482,
+    1112,
+    611
+   ],
+   "conf": 65.5
+  },
+  {
+   "text": "Me,",
+   "box": [
+    1111,
+    558,
+    1182,
+    611
+   ],
+   "conf": 52.5
+  },
+  {
+   "text": "A=",
+   "box": [
+    1873,
+    579,
+    2168,
+    724
+   ],
+   "conf": 76.7
+  },
+  {
+   "text": "Yh",
+   "box": [
+    1960,
+    663,
+    1971,
+    677
+   ],
+   "conf": 6.3
+  },
+  {
+   "text": "Wf",
+   "box": [
+    1111,
+    669,
+    1125,
+    688
+   ],
+   "conf": 0.0
+  },
+  {
+   "text": "a)",
+   "box": [
+    1071,
+    695,
+    1100,
+    724
+   ],
+   "conf": 12.9
+  },
+  {
+   "text": "J",
+   "box": [
+    1487,
+    721,
+    1551,
+    833
+   ],
+   "conf": 68.3
+  },
+  {
+   "text": "Oy J",
+   "box": [
+    1875,
+    721,
+    2398,
+    833
+   ],
+   "conf": 33.3
+  },
+  {
+   "text": "‘Op",
+   "box": [
+    1882,
+    743,
+    2078,
+    840
+   ],
+   "conf": 52.7
+  },
+  {
+   "text": "Yi",
+   "box": [
+    1969,
+    784,
+    1991,
+    802
+   ],
+   "conf": 23.9
+  },
+  {
+   "text": "(2)",
+   "box": [
+    1153,
+    887,
+    1201,
+    935
+   ],
+   "conf": 86.8
+  },
+  {
+   "text": "(3)",
+   "box": [
+    2066,
+    887,
+    2114,
+    935
+   ],
+   "conf": 94.1
+  },
+  {
+   "text": "OU, allan utunai,",
+   "box": [
+    1494,
+    1023,
+    2511,
+    1167
+   ],
+   "conf": 9.2
+  },
+  {
+   "text": "cee _-alllodanaratniamt",
+   "box": [
+    436,
+    1027,
+    1662,
+    1151
+   ],
+   "conf": 16.0
+  },
+  {
+   "text": "oe ala",
+   "box": [
+    123,
+    1117,
+    423,
+    1150
+   ],
+   "conf": 25.7
+  }
+ ]
+}

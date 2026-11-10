@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#109",
+"de": "Bewegung beim Sprechen"
+},
+{
+"key": "part02.html#110",
+"de": "MS"
+},
+{
+"key": "part02.html#111",
+"de": "Halbnahe"
+},
+{
+"key": "part02.html#112",
+"de": "Ab der Hüfte"
+},
+{
+"key": "part02.html#113",
+"de": "Neutral, alltäglich"
+},
+{
+"key": "part02.html#114",
+"de": "Standard für Interview, Dialog"
+},
+{
+"key": "part02.html#115",
+"de": "BS"
+},
+{
+"key": "part02.html#116",
+"de": "Nahe"
+},
+{
+"key": "part02.html#117",
+"de": "Ab der Brust"
+},
+{
+"key": "part02.html#118",
+"de": "Vertrauen, Nähe"
+},
+{
+"key": "part02.html#119",
+"de": "News, Testimonials"
+},
+{
+"key": "part02.html#120",
+"de": "CU"
+},
+{
+"key": "part02.html#121",
+"de": "Großaufnahme"
+},
+{
+"key": "part02.html#122",
+"de": "Ganzes Gesicht"
+},
+{
+"key": "part02.html#123",
+"de": "Gefühl, Fokus"
+},
+{
+"key": "part02.html#124",
+"de": "Reaktionen, zentrale Mienen"
+},
+{
+"key": "part02.html#125",
+"de": "ECU"
+},
+{
+"key": "part02.html#126",
+"de": "Detail"
+},
+{
+"key": "part02.html#127",
+"de": "Augen, Mund, Produktteil"
+},
+{
+"key": "part02.html#128",
+"de": "Spannung, Materialität, Betonung"
+},
+{
+"key": "part02.html#129",
+"de": "Produkttextur, dramatische Momente"
+},
+{
+"key": "part02.html#130",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part02.html#131",
+"de": "Die Größe ergibt sich daraus, wo der Bildrand anschneidet, nicht aus der Größe der Person. Auch mit Tele ist ein an der Brust angeschnittenes Bild eine Nahe. Brennweite und Einstellungsgröße sind zweierlei."
+},
+{
+"key": "part02.html#132",
+"de": "Regeln für den Größenwechsel"
+},
+{
+"key": "part02.html#133",
+"de": "<b>01</b><span>Aufeinanderfolgende Einstellungen sollten sich um mindestens zwei Größen unterscheiden. Ein direkter Wechsel von MS zu NS wirkt nur wie ein Sprung.</span>"
+},
+{
+"key": "part02.html#134",
+"de": "<b>02</b><span>Erst den Raum weit zeigen, dann schrittweise näher heran: Das ist der stabilste Aufbau. Wer mit einem Detail beginnt und dann aufzieht, weckt Neugier.</span>"
+},
+{
+"key": "part02.html#135",
+"de": "<b>03</b><span>Großaufnahmen haben nur Kraft, wenn man sie dosiert. In einem 15-Sekunden-Spot sind 2 Einstellungen in CU oder enger angemessen.</span>"
+},
+{
+"key": "part02.html#136",
+"de": "<b>04</b><span>In der Produktwerbung beweist das Detail die Textur. Zeigen sich Oberfläche, Maserung, Tropfen oder Glanz nicht, gibt es keinen Grund für ein Detail.</span>"
+},
+{
+"key": "part02.html#137",
+"de": "<b>Referenzfotos 2.2D</b>Generierte Bilder – dieselben 8 Einstellungen, andere Personen · andere Orte. Merken Sie sie sich an der Höhe der Figur im Bild"
+},
+{
+"key": "part02.html#138",
+"de": "<span class=\"ph-id\">P02-SIZE2-ELS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Supertotale ELS – der Raum ist der Star, der Mensch ein Punkt</b></span>"
+},
+{
+"key": "part02.html#139",
+"de": "<b>Supertotale ELS</b>Der Raum ist der Star, der Mensch ein Punkt"
+},
+{
+"key": "part02.html#140",
+"de": "<span class=\"ph-id\">P02-SIZE2-LS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Totale LS – ganze Figur und Umgebung</b></span>"
+},
+{
+"key": "part02.html#141",
+"de": "<b>Totale LS</b>Ganze Figur und Umgebung"
+},
+{
+"key": "part02.html#142",
+"de": "<span class=\"ph-id\">P02-SIZE2-FS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Halbtotale FS – von Kopf bis Fuß</b></span>"
+},
+{
+"key": "part02.html#143",
+"de": "<b>Halbtotale FS</b>Von Kopf bis Fuß"
+},
+{
+"key": "part02.html#144",
+"de": "<span class=\"ph-id\">P02-SIZE2-KS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Amerikanische KS – ab den Knien</b></span>"
+},
+{
+"key": "part02.html#145",
+"de": "<b>Amerikanische KS</b>Ab den Knien"
+},
+{
+"key": "part02.html#146",
+"de": "<span class=\"ph-id\">P02-SIZE2-MS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Halbnahe MS – ab der Hüfte</b></span>"
+},
+{
+"key": "part02.html#147",
+"de": "<b>Halbnahe MS</b>Ab der Hüfte"
+},
+{
+"key": "part02.html#148",
+"de": "<span class=\"ph-id\">P02-SIZE2-BS</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Nahe BS – ab der Brust</b></span>"
+},
+{
+"key": "part02.html#149",
+"de": "<b>Nahe BS</b>Ab der Brust"
+},
+{
+"key": "part02.html#150",
+"de": "<span class=\"ph-id\">P02-SIZE2-CU</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Großaufnahme CU – das ganze Gesicht</b></span>"
+},
+{
+"key": "part02.html#151",
+"de": "<b>Großaufnahme CU</b>Das ganze Gesicht"
+},
+{
+"key": "part02.html#152",
+"de": "<span class=\"ph-id\">P02-SIZE2-ECU</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Detail ECU – die Augen</b></span>"
+},
+{
+"key": "part02.html#153",
+"de": "<b>Detail ECU</b>Die Augen"
+},
+{
+"key": "part02.html#154",
+"de": "<small>Übung</small>1.2"
+},
+{
+"key": "part02.html#155",
+"de": "Aufgabe"
+},
+{
+"key": "part02.html#156",
+"de": "Nehmen Sie dieselbe Person am selben Ort in allen 8 Einstellungsgrößen auf und stellen Sie die Bilder auf einem Kontaktbogen zusammen."
+},
+{
+"key": "part02.html#157",
+"de": "Tipp"
+},
+{
+"key": "part02.html#158",
+"de": "Ändern Sie nur Objektiv oder Abstand, sonst nichts an der Kamera; so werden die Unterschiede klarer. Halten Sie den Kopfraum konstant."
+},
+{
+"key": "part02.html#159",
+"de": "Bewertung"
+},
+{
+"key": "part02.html#160",
+"de": "Bildgrenzen (kein Anschnitt an Gelenken), konstanter Kopfraum · Laufraum"
+},
+{
+"key": "part02.html#161",
+"de": "Musterlösung"
+},
+{
+"key": "part02.html#162",
+"de": "Schreiben Sie zu jeder Einstellung eine Zeile dazu, „was nur diese Größe vermittelt“."
+},
+{
+"key": "part02.html#163",
+"de": "<b>TEIL 02</b>Die Sprache des Videos"
+},
+{
+"key": "part02.html#164",
+"de": "Einstellungen nach Personenzahl"
+},
+{
+"key": "part02.html#165",
+"de": "Im Zweier (Two-Shot) liest man den räumlichen Abstand zweier Menschen als psychologische Distanz. Ihn passen Sie zuerst an, wenn Sie Familie, Paare oder Kollegen zeigen."
+},
+{
+"key": "part02.html#166",
+"de": "<b>Referenzfotos 1.3A</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part02.html#167",
+"de": "<b>Einer 1S</b>Urteil und Gefühl einer Person – wenn die Entscheidung eines Einzelnen im Mittelpunkt steht"
+},
+{
+"key": "part02.html#168",
+"de": "<b>Zweier 2S</b>Abstand der beiden = Abstand in der Beziehung – eine Fingerbreite Lücke und sich berührende Schultern erzählen verschiedene Geschichten"
+},
+{
+"key": "part02.html#169",
+"de": "<b>Gruppe G.S</b>Kleine Gruppe ab vier Personen – Team, Familie, Kollegen"
+},
+{
+"key": "part02.html#170",
+"de": "Räumlicher Abstand wirkt als Beziehungsabstand"
+},
+{
+"key": "part02.html#171",
+"de": "<b>1S Einer</b><span>Eine Person – Gefühl und Fokus</span>"
+},
+{
+"key": "part02.html#172",
+"de": "<b>2S Zweier</b><span>Zwei Personen – Beziehung, Standard im Dialog</span>"
+},
+{
+"key": "part02.html#173",
+"de": "<b>3S Dreier</b><span>Drei Personen – die mittlere ist der Angelpunkt</span>"
+},
+{
+"key": "part02.html#174",
+"de": "<b>G.S Gruppe</b><span>Viele – Gruppe, Stimmung, Ausmaß</span>"
+},
+{
+"key": "part02.html#175",
+"de": "Jede weitere Person weitet die Einstellung um eine Stufe – 1S als Nahe, 2S · 3S als Halbnahe, Gruppen als Halbtotale. Den <b>Abstand</b> zwischen Menschen liest man als Beziehungsabstand."
+},
+{
+"key": "part02.html#176",
+"de": "<b>Abb. 12</b> Einstellungen nach Personenzahl – dasselbe Studio, dieselbe Kamerahöhe, Basis: Halbnahe in 16:9."
+},
+{
+"key": "part02.html#177",
+"de": "Begriff"
+},
+{
+"key": "part02.html#178",
+"de": "Abk."
+},
+{
+"key": "part02.html#179",
+"de": "Bildaufbau"
+},
+{
+"key": "part02.html#180",
+"de": "Bedeutung"
+},
+{
+"key": "part02.html#181",
+"de": "Einer"
+},
+{
+"key": "part02.html#182",
+"de": "Nur eine Person im Bild"
+},
+{
+"key": "part02.html#183",
+"de": "Fokus auf Gefühl und Urteil einer Person"
+},
+{
+"key": "part02.html#184",
+"de": "Zweier"
+},
+{
+"key": "part02.html#185",
+"de": "Zwei Personen zusammen"
+},
+{
+"key": "part02.html#186",
+"de": "Zeigt Beziehung, Konflikt, Nähe im Bild"
+},
+{
+"key": "part02.html#187",
+"de": "Dreier"
+},
+{
+"key": "part02.html#188",
+"de": "Drei Personen zusammen"
+},
+{
+"key": "part02.html#189",
+"de": "Dreieck; Balance und Ausgrenzung zugleich"
+},
+{
+"key": "part02.html#190",
+"de": "Gruppe"
+},
+{
+"key": "part02.html#191",
+"de": "Kleine Gruppe ab vier Personen"
+},
+{
+"key": "part02.html#192",
+"de": "Team, Familie, Kollegen"
+},
+{
+"key": "part02.html#193",
+"de": "Menschenmenge"
+},
+{
+"key": "part02.html#194",
+"de": "Menge"
+},
+{
+"key": "part02.html#195",
+"de": "Viele, anonym"
+},
+{
+"key": "part02.html#196",
+"de": "Ausmaß, Energie, sozialer Kontext"
+},
+{
+"key": "part02.html#197",
+"de": "<small>Übung</small>1.3"
+},
+{
+"key": "part02.html#198",
+"de": "Aufgabe"
+},
+{
+"key": "part02.html#199",
+"de": "Drehen Sie dieselbe Dialogszene als Einer, Zweier, Dreier und Gruppeneinstellung und vergleichen Sie, wie die Beziehungen wirken."
+},
+{
+"key": "part02.html#200",
+"de": "Tipp"
+},
+{
+"key": "part02.html#201",
+"de": "Variieren Sie bewusst Abstand und Höhenunterschied zwischen den Personen."
+},
+{
+"key": "part02.html#202",
+"de": "Bewertung"
+},
+{
+"key": "part02.html#203",
+"de": "Zeigt der Bildaufbau Nähe, Konflikt oder Ausgrenzung?"
+},
+{
+"key": "part02.html#204",
+"de": "Musterlösung"
+},
+{
+"key": "part02.html#205",
+"de": "Stellen Sie eine Person allein an den Bildrand, um Ausgrenzung wortlos zu zeigen."
+},
+{
+"key": "part02.html#206",
+"de": "<b>TEIL 02</b>Die Sprache des Videos"
+},
+{
+"key": "part02.html#207",
+"de": "Einstellungen nach Situation"
+},
+{
+"key": "part02.html#208",
+"de": "Einstellungen nach Funktion: Sie tragen die Szene. Drehen Sie pro Szene immer 1 Mastereinstellung und mindestens 2 Inserts."
+},
+{
+"key": "part02.html#209",
+"de": "<b>Referenzfotos 1.4A</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part02.html#210",
+"de": "<b>Over-Shoulder OSS</b>Dialog über eine Schulter – der Dialogstandard, vermittelt Beziehung und Blickwinkel zugleich"
+},
+{
+"key": "part02.html#211",
+"de": "<b>Subjektive P.O.V</b>Was die Figur sieht – wirkt nur nach einer Einstellung, in der sie schaut; Immersion aus der Ich-Perspektive und Angst"
+},
+{
+"key": "part02.html#212",
+"de": "<b>Reaktionseinstellung</b>Das Gesicht des Zuhörers – Gefühle übertragen sich mehr über Reaktionen als über Dialog"
+},
+{
+"key": "part02.html#213",
+"de": "<b>Referenzfotos 1.4B</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part02.html#214",
+"de": "<b>Establishing Shot</b>Setzt Ort und Zeit – ohne ihn rätselt das Publikum über den Raum, statt der Geschichte zu folgen"
+},
+{
+"key": "part02.html#215",
+"de": "<b>Insert</b>Das entscheidende Detail – Hand, Uhr, Textnachricht, Produktetikett. Der Retter im Schnitt: eingeschoben, wenn ein Anschluss holpert"
+},
+{
+"key": "part02.html#216",
+"de": "<b>Zwischenschnitt</b>Zeitverdichtung und Stimmung – ein Schnitt auf etwas außerhalb der Haupthandlung"
+},
+{
+"key": "part02.html#217",
+"de": "<b>Referenzfotos 1.4C</b>Generierte Bilder – drei Kameras für eine Dialogszene"
+},
+{
+"key": "part02.html#218",
+"de": "<span class=\"ph-id\">P02-OTS</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Over-Shoulder – Dialog über eine Schulter</b>Ein Café; die nahe Schulter unscharf, das Gegenüber scharf</span>"
+},
+{
+"key": "part02.html#219",
+"de": "<b>Over-Shoulder</b>Um eine Beziehung zu zeigen und uns zugleich auf eine Seite zu stellen – das Publikum fühlt sich, als säße es mitten im Gespräch. Etwa 50 mm, nahe Schulter unscharf"
+},
+{
+"key": "part02.html#220",
+"de": "<span class=\"ph-id\">P02-POV</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>POV-Einstellung – was die Figur sieht</b>Unten meine Hand und Tasse; das Gegenüber blickt ins Objektiv</span>"
+},
+{
+"key": "part02.html#221",
+"de": "<b>POV-Einstellung</b>Um genau zu zeigen, was die Figur sieht – das Publikum wird zu ihren Augen, und wenn das Gegenüber ins Objektiv blickt, wirkt es, als spräche es mit uns. Normaler Bildwinkel auf Augenhöhe"
+},
+{
+"key": "part02.html#222",
+"de": "<span class=\"ph-id\">P02-REACTION</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Reaktionseinstellung – das Gesicht des Zuhörers</b>Ein leicht überraschtes Lächeln, Blick knapp am Objektiv vorbei</span>"
+},
+{
+"key": "part02.html#223",
+"de": "<b>Reaktionseinstellung</b>Wenn die Reaktion, nicht die Worte, das Gefühl trägt – das Publikum liest das Gewicht eines Satzes im Gesicht des Zuhörers. Kurzes Tele um 85 mm, Blick knapp am Objektiv vorbei"
+},
+{
+"key": "part02.html#224",
+"de": "<span class=\"ph-id\">P02-ESTAB</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Establishing Shot – wo, wann</b>Eine Wohnstraße in der Abenddämmerung, erleuchtete Fenster, Hügel dahinter</span>"
+},
+{
+"key": "part02.html#225",
+"de": "<b>Hinweis</b>Ein Establishing Shot muss in einer Einstellung drei Fragen beantworten – wo (was für ein Viertel), wann (Abendlicht), wer (die Menschen hinter erleuchteten Fenstern). Fehlt eine, rätselt das Publikum in der nächsten Einstellung über den Raum und verliert die Geschichte."
+},
+{
+"key": "part02.html#226",
+"de": "<small>Einführung</small>Establishing Shot"
+},
+{
+"key": "part02.html#227",
+"de": "Ort · Zeit · Aufstellung der Figuren zugleich, zu Beginn einer Szene"
+},
+{
+"key": "part02.html#228",
+"de": "<small>Umkehr</small>Gegenschuss"
+},
+{
+"key": "part02.html#229",
+"de": "Die Gegenperspektive zu einer OSS- oder POV-Einstellung"
+},
+{
+"key": "part02.html#230",
+"de": "Im Dialog im Wechsel einsetzen; die 180-Grad-Regel ist Pflicht"
+},
+{
+"key": "part02.html#231",
+"de": "<small>Master</small>Mastereinstellung"
+},
+{
+"key": "part02.html#232",
+"de": "Die ganze Szene von Anfang bis Ende in einer Größe"
+},
+{
+"key": "part02.html#233",
+"de": "Das Sicherheitsnetz des Schnitts; Pflicht für Anfänger"
+},
+{
+"key": "part02.html#234",
+"de": "Pflichtroutine am Set"
+},
+{
+"key": "part02.html#235",
+"de": "Drehen Sie in jeder Szene immer 1 Mastereinstellung und mindestens 2 Inserts. Wer sie aus Zeitmangel weglässt, bereut es im Schnitt."
+},
+{
+"key": "part02.html#236",
+"de": "<small>Übung</small>1.4"
+},
+{
+"key": "part02.html#237",
+"de": "Aufgabe"
+},
+{
+"key": "part02.html#238",
+"de": "Drehen Sie eine 30-Sekunden-Szene mit Over-Shoulder-, POV-, Insert- und Reaktionseinstellungen."
+},
+{
+"key": "part02.html#239",
+"de": "Tipp"
+},
+{
+"key": "part02.html#240",
+"de": "Drehen Sie Reaktionseinstellungen länger als den gesprochenen Text. Sie werden im Schnitt am häufigsten verwendet."
+},
+{
+"key": "part02.html#241",
+"de": "Bewertung"
+},
+{
+"key": "part02.html#242",
+"de": "Bleibt die Funktion jeder Einstellung im Schnitt erhalten?"
+},
+{
+"key": "part02.html#243",
+"de": "Musterlösung"
+},
+{
+"key": "part02.html#244",
+"de": "Setzen Sie POV und Inserts so ein, dass das Publikum im selben Moment erfährt, was die Figur erfährt."
+},
+{
+"key": "part02.html#245",
+"de": "<b>TEIL 02</b>Die Sprache des Videos"
+},
+{
+"key": "part02.html#246",
+"de": "Perspektive: die Macht der Kamerahöhe"
+},
+{
+"key": "part02.html#247",
+"de": "Die Kamerahöhe bestimmt den Status einer Figur. Beschränken Sie ein Werk auf zwei oder drei Perspektiven, damit jede ihre Bedeutung behält."
+},
+{
+"key": "part02.html#248",
+"de": "<b>Referenzfotos 1.5A</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part02.html#249",
+"de": "<b>Normalsicht</b>Neutral und gleichrangig – Standard für Dialoge und Interviews; am sichersten, aber flach"
+},
+{
+"key": "part02.html#250",
+"de": "<b>Aufsicht</b>Klein und verletzlich – Notlage, Niedlichkeit, Resümee. Kann herablassend wirken"
+},
+{
+"key": "part02.html#251",
+"de": "<b>Untersicht</b>Autorität und Bedrohung – Produkt als Held, starke Figuren. Auf Decke und Leuchten im Bild achten"
+},
+{
+"key": "part02.html#252",
+"de": "<b>Referenzfotos 1.5B</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part02.html#253",
+"de": "<b>Vogelperspektive</b>Senkrecht von oben – Kochen, Unboxing, Karten. Schematisch, aber ohne Mimik"
+},
+{
+"key": "part02.html#254",
+"de": "<b>Dutch Angle</b>Schräg und unruhig – steigende Spannung, Halluzination. Übermäßig eingesetzt wirkt es unreif"
+},
+{
+"key": "part02.html#255",
+"de": "<b>Froschperspektive</b>Vom Boden nach oben – Fahrzeuge, Gebäude, Monster. Überwältigend und fremd; Objektiv schützen"
+},
+{
+"key": "part02.html#256",
+"de": "<b>Abb. 13</b> 5 Perspektiven nach Kamerahöhe"
+},
+{
+"key": "part02.html#257",
+"de": "<b>Abb. 14</b> Seitenansicht der 5 Kamerahöhen"
+},
+{
+"key": "part02.html#258",
+"de": "<b>Abb. 15</b> Kamerapositionen rund um das Motiv"
+}
+]

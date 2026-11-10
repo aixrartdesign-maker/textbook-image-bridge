@@ -1,0 +1,602 @@
+[
+{
+"key": "part05.html#600",
+"de": "Gain-Regler"
+},
+{
+"key": "part05.html#601",
+"de": "Lichter"
+},
+{
+"key": "part05.html#602",
+"de": "Lichter fressen leicht aus"
+},
+{
+"key": "part05.html#603",
+"de": "Kurven"
+},
+{
+"key": "part05.html#604",
+"de": "Präzise Steuerung je Tonwertbereich"
+},
+{
+"key": "part05.html#605",
+"de": "Eine S-Kurve ist die Grundform der Kontrastanhebung"
+},
+{
+"key": "part05.html#606",
+"de": "HSL-Sekundärkorrektur"
+},
+{
+"key": "part05.html#607",
+"de": "Korrigiert nur ausgewählte Farben"
+},
+{
+"key": "part05.html#608",
+"de": "Unverzichtbar für die Hautkorrektur"
+},
+{
+"key": "part05.html#609",
+"de": "Farbräder"
+},
+{
+"key": "part05.html#610",
+"de": "Färbt je Tonwertbereich ein"
+},
+{
+"key": "part05.html#611",
+"de": "Kühle Tiefen, warme Lichter: der Grundlook"
+},
+{
+"key": "part05.html#612",
+"de": "<b>G-17</b> Color Grading – Log-Original und zwei Looks · GPT-generiertes Bild, nur zur Veranschaulichung"
+},
+{
+"key": "part05.html#613",
+"de": "<small>Übung</small>5.8"
+},
+{
+"key": "part05.html#614",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#615",
+"de": "Erstellen Sie für dasselbe Material zwei verschiedene Looks und erläutern Sie die jeweilige Emotion."
+},
+{
+"key": "part05.html#616",
+"de": "Tipp"
+},
+{
+"key": "part05.html#617",
+"de": "Schließen Sie die Primärkorrektur (Belichtung, Weißabgleich) ab, bevor Sie zur Sekundärkorrektur übergehen. Behalten Sie die Scopes im Blick."
+},
+{
+"key": "part05.html#618",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#619",
+"de": "Hauttöne erhalten, einheitlicher Look"
+},
+{
+"key": "part05.html#620",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#621",
+"de": "Gleichen Sie den Look an ein Referenzstandbild an und fügen Sie Screenshots der Scopes bei."
+},
+{
+"key": "part05.html#622",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#623",
+"de": "Mobile und automatisierte Schnittwerkzeuge"
+},
+{
+"key": "part05.html#624",
+"de": "Automatisch Erzeugtes ist ein Entwurf. Wer es ungeprüft abgibt, verspielt auf einen Schlag das Vertrauen."
+},
+{
+"key": "part05.html#625",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part05.html#626",
+"de": "Prüfen Sie bei kommerzieller Nutzung den Lizenzumfang von Vorlagen und Musik, und klonen Sie nie ohne Erlaubnis die Stimme einer realen Person."
+},
+{
+"key": "part05.html#627",
+"de": "<small>Kurzvideo</small>CapCut"
+},
+{
+"key": "part05.html#628",
+"de": "Vorlagen, Auto-Untertitel, Beat-Sync, Hintergrundentfernung"
+},
+{
+"key": "part05.html#629",
+"de": "Effizient für Kurzvideos in großer Stückzahl"
+},
+{
+"key": "part05.html#630",
+"de": "Kommerzielle Nutzung: Lizenzen für Vorlagen · Musik prüfen"
+},
+{
+"key": "part05.html#631",
+"de": "<small>Untertitel</small>Vrew"
+},
+{
+"key": "part05.html#632",
+"de": "Automatische Untertitel aus Sprache, Pausen in einem Durchgang entfernen"
+},
+{
+"key": "part05.html#633",
+"de": "Erste Rohschnitte von Vorlesungen, Interviews, Erklärvideos"
+},
+{
+"key": "part05.html#634",
+"de": "Ein Mensch prüft Fehler bei Eigennamen"
+},
+{
+"key": "part05.html#635",
+"de": "<small>Stimme</small>Typecast"
+},
+{
+"key": "part05.html#636",
+"de": "Text-zu-Sprache"
+},
+{
+"key": "part05.html#637",
+"de": "Vorläufige Off-Stimme, mehrsprachige Synchronisation"
+},
+{
+"key": "part05.html#638",
+"de": "Kein unerlaubtes Klonen realer Stimmen"
+},
+{
+"key": "part05.html#639",
+"de": "<small>Generativ</small>Runway u. Ä."
+},
+{
+"key": "part05.html#640",
+"de": "Video aus Text und Bildern, Hintergrundentfernung"
+},
+{
+"key": "part05.html#641",
+"de": "Ersatz für Inserts, die sich nicht drehen lassen"
+},
+{
+"key": "part05.html#642",
+"de": "<small>3D-Modelle</small>Meshy"
+},
+{
+"key": "part05.html#643",
+"de": "Macht aus Bildern 3D-Modelle"
+},
+{
+"key": "part05.html#644",
+"de": "Prototypen für Requisiten · Figuren, Vorschau für Rigging und Animation"
+},
+{
+"key": "part05.html#645",
+"de": "<small>Bild</small>Photoroom u. Ä."
+},
+{
+"key": "part05.html#646",
+"de": "Automatische Hintergrundentfernung, Retusche"
+},
+{
+"key": "part05.html#647",
+"de": "Produktfotos bereinigen"
+},
+{
+"key": "part05.html#648",
+"de": "Regeln für Automatisierungstools"
+},
+{
+"key": "part05.html#649",
+"de": "Eigennamen in Auto-Untertiteln, das Tempo automatischer Schnitte, Finger und Schrift in generierten Videos: Das prüft immer ein Mensch."
+},
+{
+"key": "part05.html#650",
+"de": "<small>Übung</small>5.9"
+},
+{
+"key": "part05.html#651",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#652",
+"de": "Machen Sie mit einer mobilen Schnitt-App und Automatisierung aus demselben Material in unter 15 Minuten ein Kurzvideo."
+},
+{
+"key": "part05.html#653",
+"de": "Tipp"
+},
+{
+"key": "part05.html#654",
+"de": "Lesen Sie automatische Untertitel immer Korrektur."
+},
+{
+"key": "part05.html#655",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#656",
+"de": "Balance aus Tempo und Qualität, Korrekturen am automatischen Ergebnis"
+},
+{
+"key": "part05.html#657",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#658",
+"de": "Listen Sie auf, was ein Mensch am automatisch geschnittenen Ergebnis korrigiert hat."
+},
+{
+"key": "part05.html#659",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#660",
+"de": "Ausgabespezifikationen und Abgabe"
+},
+{
+"key": "part05.html#661",
+"de": "Codecs unterscheiden sich je nach Zweck, und typische Ausgabeprobleme haben bekannte Ursachen."
+},
+{
+"key": "part05.html#662",
+"de": "<span class=\"ph-id\">P05-DELIVER</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Abgabe und Sicherung</b>Zwei beschriftete mobile SSDs, eine Checkliste auf Papier, ein Laptop mit Export-Fortschrittsbalken</span>"
+},
+{
+"key": "part05.html#663",
+"de": "<b>Hinweis</b>Abgabe und Sicherung – Exporte auf zwei getrennten Datenträgern aufbewahren und die Spezifikationen auf einer Checkliste abhaken"
+},
+{
+"key": "part05.html#664",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part05.html#665",
+"de": "Erfassen Sie vor dem Export Auflösung, Bitrate, Lautheit (LUFS) und Regeln zur Dateibenennung in einer Tabelle."
+},
+{
+"key": "part05.html#666",
+"de": "Ausgabespezifikationen nach Zweck"
+},
+{
+"key": "part05.html#667",
+"de": "Zweck"
+},
+{
+"key": "part05.html#668",
+"de": "Codec / Format"
+},
+{
+"key": "part05.html#669",
+"de": "Wichtige Einstellungen"
+},
+{
+"key": "part05.html#670",
+"de": "Für die Schnittsoftware"
+},
+{
+"key": "part05.html#671",
+"de": "ProRes 422 HQ"
+},
+{
+"key": "part05.html#672",
+"de": "Standard, wenn kein Alpha nötig ist"
+},
+{
+"key": "part05.html#673",
+"de": "Zwischenformat mit Alpha"
+},
+{
+"key": "part05.html#674",
+"de": "ProRes 4444 oder PNG-Sequenz"
+},
+{
+"key": "part05.html#675",
+"de": "Alphakanal aktivieren"
+},
+{
+"key": "part05.html#676",
+"de": "Online-Upload"
+},
+{
+"key": "part05.html#677",
+"de": "H.264 mp4"
+},
+{
+"key": "part05.html#678",
+"de": "40–60 Mbit/s für 4K"
+},
+{
+"key": "part05.html#679",
+"de": "Vorführung, Ausstellung"
+},
+{
+"key": "part05.html#680",
+"de": "ProRes 422 HQ oder unkomprimiert"
+},
+{
+"key": "part05.html#681",
+"de": "Start- und Endbild der Schleife prüfen"
+},
+{
+"key": "part05.html#682",
+"de": "Außen-LED"
+},
+{
+"key": "part05.html#683",
+"de": "Vorgaben des Medienbetreibers"
+},
+{
+"key": "part05.html#684",
+"de": "Auflösung und Bildrate vorab klären"
+},
+{
+"key": "part05.html#685",
+"de": "Archiv"
+},
+{
+"key": "part05.html#686",
+"de": "Originalcodec beibehalten"
+},
+{
+"key": "part05.html#687",
+"de": "Projektdateien mit dem Quellmaterial aufbewahren"
+},
+{
+"key": "part05.html#688",
+"de": "Lösungen nach Fehlerbild"
+},
+{
+"key": "part05.html#689",
+"de": "Fehlerbild"
+},
+{
+"key": "part05.html#690",
+"de": "Ursache"
+},
+{
+"key": "part05.html#691",
+"de": "Abhilfe"
+},
+{
+"key": "part05.html#692",
+"de": "Sehr langsames Rendern"
+},
+{
+"key": "part05.html#693",
+"de": "Hochaufgelöstes Material, gestapelte Effekte"
+},
+{
+"key": "part05.html#694",
+"de": "Proxys, Vorrendern, weniger Effekte"
+},
+{
+"key": "part05.html#695",
+"de": "Unsaubere Textkanten"
+},
+{
+"key": "part05.html#696",
+"de": "Kontinuierliche Rasterung aus"
+},
+{
+"key": "part05.html#697",
+"de": "Diese Option aktivieren"
+},
+{
+"key": "part05.html#698",
+"de": "Farben wirken anders"
+},
+{
+"key": "part05.html#699",
+"de": "Uneinheitliches Farbmanagement"
+},
+{
+"key": "part05.html#700",
+"de": "Projektfarbraum festlegen"
+},
+{
+"key": "part05.html#701",
+"de": "Composite zittert"
+},
+{
+"key": "part05.html#702",
+"de": "Instabile Tracking-Daten"
+},
+{
+"key": "part05.html#703",
+"de": "Neu tracken, Glättung anwenden"
+},
+{
+"key": "part05.html#704",
+"de": "Datei lässt sich nicht öffnen"
+},
+{
+"key": "part05.html#705",
+"de": "Codec nicht installiert"
+},
+{
+"key": "part05.html#706",
+"de": "In gängigem Codec neu exportieren"
+},
+{
+"key": "part05.html#707",
+"de": "Ton zu leise"
+},
+{
+"key": "part05.html#708",
+"de": "Lautheit nicht angepasst"
+},
+{
+"key": "part05.html#709",
+"de": "Auf Plattform-Lautheit normalisieren"
+},
+{
+"key": "part05.html#710",
+"de": "<small>Übung</small>5.10"
+},
+{
+"key": "part05.html#711",
+"de": "Aufgabe"
+},
+{
+"key": "part05.html#712",
+"de": "Exportieren Sie dasselbe Video in drei Spezifikationen: YouTube, Instagram Reels und Kinovorführung."
+},
+{
+"key": "part05.html#713",
+"de": "Tipp"
+},
+{
+"key": "part05.html#714",
+"de": "Erfassen Sie zuerst Auflösung, Bitrate, Lautheit (LUFS) und Regeln zur Dateibenennung in einer Tabelle."
+},
+{
+"key": "part05.html#715",
+"de": "Bewertung"
+},
+{
+"key": "part05.html#716",
+"de": "Einhaltung der Spezifikationen, Dateiverwaltung"
+},
+{
+"key": "part05.html#717",
+"de": "Musterlösung"
+},
+{
+"key": "part05.html#718",
+"de": "Erstellen Sie eine eigene Abgabe-Checkliste und fügen Sie die Ergebnisse jedes Exports bei."
+},
+{
+"key": "part05.html#719",
+"de": "<b>TEIL 05</b>Schnitt und Postproduktion"
+},
+{
+"key": "part05.html#720",
+"de": "Expressions und Automatisierung"
+},
+{
+"key": "part05.html#721",
+"de": "After Effects für Fortgeschrittene. Expressions berechnen Werte ohne Keyframes. Die Syntax müssen Sie nicht beherrschen: Lernen Sie nur fünf davon, und Ihre Arbeitszeit sinkt deutlich."
+},
+{
+"key": "part05.html#722",
+"de": "<b>Abb. 53</b> 5 Easing-Kurven"
+},
+{
+"key": "part05.html#723",
+"de": "Funktion"
+},
+{
+"key": "part05.html#724",
+"de": "Wirkung"
+},
+{
+"key": "part05.html#725",
+"de": "Beispiele"
+},
+{
+"key": "part05.html#726",
+"de": "wiggle(Frequenz, Amplitude)"
+},
+{
+"key": "part05.html#727",
+"de": "Zufälliges Wackeln"
+},
+{
+"key": "part05.html#728",
+"de": "Handkamera-Look, Glitches, Zittern"
+},
+{
+"key": "part05.html#729",
+"de": "loopOut('cycle')"
+},
+{
+"key": "part05.html#730",
+"de": "Wiederholt einen Keyframe-Abschnitt endlos"
+},
+{
+"key": "part05.html#731",
+"de": "Rotierende Logos, Hintergründe in Schleife"
+},
+{
+"key": "part05.html#732",
+"de": "time * Wert"
+},
+{
+"key": "part05.html#733",
+"de": "Wert ändert sich mit der Zeit"
+},
+{
+"key": "part05.html#734",
+"de": "Gleichmäßige Drehung, Scrollen"
+},
+{
+"key": "part05.html#735",
+"de": "linear(t, tMin, tMax, Wert1, Wert2)"
+},
+{
+"key": "part05.html#736",
+"de": "Überträgt die Änderung eines Werts auf einen anderen"
+},
+{
+"key": "part05.html#737",
+"de": "Ein Schieberegler steuert mehrere Eigenschaften"
+},
+{
+"key": "part05.html#738",
+"de": "Parenting (Pick-Whip)"
+},
+{
+"key": "part05.html#739",
+"de": "Übernimmt den Wert einer anderen Eigenschaft unverändert"
+},
+{
+"key": "part05.html#740",
+"de": "Steuert viele Elemente als Einheit"
+},
+{
+"key": "part05.html#741",
+"de": "Gewohnheiten, die Ihre Arbeit beschleunigen"
+},
+{
+"key": "part05.html#742",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part05.html#743",
+"de": "Nutzen Sie Vorkompositionen ruhig großzügig – doch ab 3 Verschachtelungsebenen wird die Verwaltung schwieriger."
+},
+{
+"key": "part05.html#744",
+"de": "Speichern Sie häufig genutzte Einstellungen als Animationsvorgaben und verwenden Sie sie wieder."
+},
+{
+"key": "part05.html#745",
+"de": "Machen Sie ein Null-Objekt zum Steuerelement, damit ein Schieberegler mehrere Werte regelt."
+},
+{
+"key": "part05.html#746",
+"de": "Benennen Sie Ihre Ebenen immer. Selbst Sie verstehen 40 unbenannte Ebenen am nächsten Tag nicht mehr."
+},
+{
+"key": "part05.html#747",
+"de": "Sortieren Sie Ebenen nach Farbmarkierung. Text, Hintergrund, Effekte, Kamera – jeweils eine eigene Farbe."
+},
+{
+"key": "part05.html#748",
+"de": "Entfernen Sie ungenutztes Material regelmäßig mit den Aufräumfunktionen des Projekts."
+},
+{
+"key": "part05.html#749",
+"de": "Premiere und After Effects verknüpfen"
+}
+]

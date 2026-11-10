@@ -1,0 +1,326 @@
+[
+{
+"key": "part03.html#583",
+"de": "ca. 1800 K"
+},
+{
+"key": "part03.html#584",
+"de": "Sehr warm, orange"
+},
+{
+"key": "part03.html#585",
+"de": "Glühlampe"
+},
+{
+"key": "part03.html#586",
+"de": "ca. 2800–3200 K"
+},
+{
+"key": "part03.html#587",
+"de": "Warm, Innenraumstimmung"
+},
+{
+"key": "part03.html#588",
+"de": "Kunstlicht"
+},
+{
+"key": "part03.html#589",
+"de": "Standard für innen"
+},
+{
+"key": "part03.html#590",
+"de": "Leuchtstoffröhre"
+},
+{
+"key": "part03.html#591",
+"de": "ca. 4000–5000 K"
+},
+{
+"key": "part03.html#592",
+"de": "Vorsicht vor Grünstich"
+},
+{
+"key": "part03.html#593",
+"de": "Tageslicht"
+},
+{
+"key": "part03.html#594",
+"de": "Standard für außen"
+},
+{
+"key": "part03.html#595",
+"de": "Bewölkt"
+},
+{
+"key": "part03.html#596",
+"de": "ca. 6500 K"
+},
+{
+"key": "part03.html#597",
+"de": "Bläulicher Stich"
+},
+{
+"key": "part03.html#598",
+"de": "Schatten, blauer Himmel"
+},
+{
+"key": "part03.html#599",
+"de": "ab 7500 K"
+},
+{
+"key": "part03.html#600",
+"de": "Kalt, Morgengrauen"
+},
+{
+"key": "part03.html#601",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part03.html#602",
+"de": "Schalten Sie den Auto-Weißabgleich aus und geben Sie den Kelvinwert selbst ein."
+},
+{
+"key": "part03.html#603",
+"de": "Regeln am Set"
+},
+{
+"key": "part03.html#604",
+"de": "Der Auto-Weißabgleich ändert die Farbe von Einstellung zu Einstellung, sodass die Bilder nicht zusammenpassen. Fixieren Sie ihn immer manuell."
+},
+{
+"key": "part03.html#605",
+"de": "Bekleben Sie bei Mischlicht die Fenster mit Farbfolie oder tauschen Sie die Innenlampen, damit alle Quellen dieselbe Farbe haben."
+},
+{
+"key": "part03.html#606",
+"de": "Ein manueller Weißabgleich mit einer Grau- oder Weißkarte erleichtert die Farbkorrektur in der Postproduktion."
+},
+{
+"key": "part03.html#607",
+"de": "Entscheiden Sie gewollte Farbverschiebungen am Set, nicht in der Postproduktion. Setzen Sie auch bei Log vor dem Dreh eine Referenz."
+},
+{
+"key": "part03.html#608",
+"de": "<b>Referenzfotos 3.9B</b>KI-generierte Bilder – Regiereferenz"
+},
+{
+"key": "part03.html#609",
+"de": "<b>a</b>Mischlicht – Tageslicht vom Fenster und Kunstlicht im Raum"
+},
+{
+"key": "part03.html#610",
+"de": "<b>b</b>Referenz mit einer Graukarte setzen"
+},
+{
+"key": "part03.html#611",
+"de": "<b>c</b>Gewollte Farbverschiebung – das Blau der Dämmerung"
+},
+{
+"key": "part03.html#612",
+"de": "Farbraum"
+},
+{
+"key": "part03.html#613",
+"de": "Farbraum"
+},
+{
+"key": "part03.html#614",
+"de": "Farbumfang"
+},
+{
+"key": "part03.html#615",
+"de": "Haupteinsatz"
+},
+{
+"key": "part03.html#616",
+"de": "Hinweis"
+},
+{
+"key": "part03.html#617",
+"de": "Rec.709"
+},
+{
+"key": "part03.html#618",
+"de": "Klein"
+},
+{
+"key": "part03.html#619",
+"de": "Standard für TV und Web"
+},
+{
+"key": "part03.html#620",
+"de": "Basis für die meisten Endabgaben"
+},
+{
+"key": "part03.html#621",
+"de": "sRGB"
+},
+{
+"key": "part03.html#622",
+"de": "Ähnlich wie Rec.709"
+},
+{
+"key": "part03.html#623",
+"de": "Webgrafik"
+},
+{
+"key": "part03.html#624",
+"de": "Beim Mischen von Video und Grafik prüfen"
+},
+{
+"key": "part03.html#625",
+"de": "DCI-P3"
+},
+{
+"key": "part03.html#626",
+"de": "Mittel"
+},
+{
+"key": "part03.html#627",
+"de": "Kino, neueste Smartphones"
+},
+{
+"key": "part03.html#628",
+"de": "Braucht eine eigene SDR-Version"
+},
+{
+"key": "part03.html#629",
+"de": "Rec.2020"
+},
+{
+"key": "part03.html#630",
+"de": "Sehr groß"
+},
+{
+"key": "part03.html#631",
+"de": "8K, HDR"
+},
+{
+"key": "part03.html#632",
+"de": "Eingeschränkte Wiedergabe"
+},
+{
+"key": "part03.html#633",
+"de": "<b>G-09</b> Weißabgleich – eine Szene, vier Farbtemperatureinstellungen"
+},
+{
+"key": "part03.html#634",
+"de": "<small>Übung</small>3.9"
+},
+{
+"key": "part03.html#635",
+"de": "Aufgabe"
+},
+{
+"key": "part03.html#636",
+"de": "Führen Sie bei Glühlampen-, Leuchtstoff- und Fensterlicht einen Weißabgleich mit einem weißen Blatt Papier durch und dokumentieren Sie den Ablauf."
+},
+{
+"key": "part03.html#637",
+"de": "Tipp"
+},
+{
+"key": "part03.html#638",
+"de": "Schalten Sie den Auto-Weißabgleich aus und geben Sie den Kelvinwert selbst ein."
+},
+{
+"key": "part03.html#639",
+"de": "Bewertung"
+},
+{
+"key": "part03.html#640",
+"de": "Genauigkeit der Kelvinwahl; Umgang mit Mischlicht"
+},
+{
+"key": "part03.html#641",
+"de": "Musterlösung"
+},
+{
+"key": "part03.html#642",
+"de": "Ergänzen Sie eine Einstellung mit bewusst verschobener Farbtemperatur, um Emotion zu erzeugen (kalt, warm)."
+},
+{
+"key": "part03.html#643",
+"de": "<b>TEIL 03</b>Kameras und Aufnahmetechnik"
+},
+{
+"key": "part03.html#644",
+"de": "Codecs · Bittiefe · Log"
+},
+{
+"key": "part03.html#645",
+"de": "Wählen Sie je Phase einen eigenen Codec: 10 Bit fürs Color Grading, 4:2:2 oder besser fürs Compositing. Log erkauft Spielraum in der Postproduktion mit geringerer Belichtungstoleranz."
+},
+{
+"key": "part03.html#646",
+"de": "Videocodec"
+},
+{
+"key": "part03.html#647",
+"de": "Charakter"
+},
+{
+"key": "part03.html#648",
+"de": "Dateigröße"
+},
+{
+"key": "part03.html#649",
+"de": "Ideale Phase"
+},
+{
+"key": "part03.html#650",
+"de": "Anmerkungen"
+},
+{
+"key": "part03.html#651",
+"de": "Für die Abgabe komprimiert"
+},
+{
+"key": "part03.html#652",
+"de": "Sehr klein"
+},
+{
+"key": "part03.html#653",
+"de": "Endabgabe, Web-Upload"
+},
+{
+"key": "part03.html#654",
+"de": "Schlecht als Schnittmaterial"
+},
+{
+"key": "part03.html#655",
+"de": "H.265 (HEVC)"
+},
+{
+"key": "part03.html#656",
+"de": "Effiziente Kompression"
+},
+{
+"key": "part03.html#657",
+"de": "Klein"
+},
+{
+"key": "part03.html#658",
+"de": "4K-Kameraoriginale"
+},
+{
+"key": "part03.html#659",
+"de": "Mit Proxys schneiden"
+},
+{
+"key": "part03.html#660",
+"de": "ProRes 422 HQ"
+},
+{
+"key": "part03.html#661",
+"de": "Schnittfreundlich"
+},
+{
+"key": "part03.html#662",
+"de": "Groß"
+},
+{
+"key": "part03.html#663",
+"de": "Standard für Schnitt/Compositing"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part01.html#281",
+"de": "Querformat beginnt oft mit der Situation, Hochformat mit einem Gesicht und dem Fazit."
+},
+{
+"key": "part01.html#282",
+"de": "Bewertung"
+},
+{
+"key": "part01.html#283",
+"de": "Die Gestaltung zeigt, dass das erste Bild auf jeder Plattform eine andere Rolle spielt"
+},
+{
+"key": "part01.html#284",
+"de": "Musterlösung"
+},
+{
+"key": "part01.html#285",
+"de": "Passt eine Botschaft an beide Formate an und variiert sogar Schnittzahl, Untertitelposition und Musikeinsatz."
+},
+{
+"key": "part01.html#286",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#287",
+"de": "Die Landschaft im Zeitalter des generativen KI-Videos"
+},
+{
+"key": "part01.html#288",
+"de": "Früher hatte alles auf dem Bildschirm jemand gedreht oder gezeichnet; heute nicht unbedingt. Tempo, Kostenstrukturen und ethische Maßstäbe geraten zugleich ins Wanken."
+},
+{
+"key": "part01.html#289",
+"de": "<span class=\"ph-id\">P01-GENAI</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Das Zeitalter des generativen KI-Videos</b>Ein Videomacher prüft am großen Monitor ein Prompt-Panel und ein Raster aus Clipvarianten</span>"
+},
+{
+"key": "part01.html#290",
+"de": "<b>Hinweis</b> Nie gedrehte Einstellungen auswählen und beurteilen – die neue Aufgabe der Videomacher im Zeitalter generativer KI"
+},
+{
+"key": "part01.html#291",
+"de": "Bereich"
+},
+{
+"key": "part01.html#292",
+"de": "Werkzeugtyp"
+},
+{
+"key": "part01.html#293",
+"de": "Rolle in der Praxis"
+},
+{
+"key": "part01.html#294",
+"de": "Vorsicht"
+},
+{
+"key": "part01.html#295",
+"de": "Planung"
+},
+{
+"key": "part01.html#296",
+"de": "Dialogfähige Sprachmodelle"
+},
+{
+"key": "part01.html#297",
+"de": "Ideenerweiterung, Drehbuchentwürfe, Textvarianten"
+},
+{
+"key": "part01.html#298",
+"de": "Fakten prüfen; letzte Entscheidung beim Menschen"
+},
+{
+"key": "part01.html#299",
+"de": "Bild"
+},
+{
+"key": "part01.html#300",
+"de": "Bildgenerierende Modelle"
+},
+{
+"key": "part01.html#301",
+"de": "Moodboards, Concept Art, Storyboard-Entwürfe"
+},
+{
+"key": "part01.html#302",
+"de": "Trainingsdaten und kommerzielle Nutzungsrechte prüfen"
+},
+{
+"key": "part01.html#303",
+"de": "Video"
+},
+{
+"key": "part01.html#304",
+"de": "Text/Bild-zu-Video-Generierung"
+},
+{
+"key": "part01.html#305",
+"de": "Inserts, Hintergründe, unmögliche Szenen"
+},
+{
+"key": "part01.html#306",
+"de": "Konsistenz bleibt eine Herausforderung"
+},
+{
+"key": "part01.html#307",
+"de": "Stimme"
+},
+{
+"key": "part01.html#308",
+"de": "Sprachsynthese"
+},
+{
+"key": "part01.html#309",
+"de": "Platzhalter-Sprecher, mehrsprachige Vertonung"
+},
+{
+"key": "part01.html#310",
+"de": "Nie die Stimme einer realen Person klonen"
+},
+{
+"key": "part01.html#311",
+"de": "Schnitt"
+},
+{
+"key": "part01.html#312",
+"de": "Auto-Untertitel, Auto-Schnitt"
+},
+{
+"key": "part01.html#313",
+"de": "Erster Rohschnitt, Untertitel-Generierung"
+},
+{
+"key": "part01.html#314",
+"de": "Eigennamen immer auf Fehler prüfen"
+},
+{
+"key": "part01.html#315",
+"de": "Bild-zu-3D-Generierung"
+},
+{
+"key": "part01.html#316",
+"de": "Requisiten, Figurenprototypen"
+},
+{
+"key": "part01.html#317",
+"de": "Polygon-Nacharbeit nötig"
+},
+{
+"key": "part01.html#318",
+"de": "Was KI nicht ersetzen kann"
+},
+{
+"key": "part01.html#319",
+"de": "Entscheiden, was gedreht wird, erklären, warum es genau diese Einstellung sein muss, sich mit dem Auftraggeber einigen, Unerwartetes am Set beurteilen. Je mächtiger die Werkzeuge, desto wertvoller das Urteilsvermögen."
+},
+{
+"key": "part01.html#320",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part01.html#321",
+"de": "Ersetzen Sie den ganzen Prozess durch KI, bricht die Qualität ein; verweigern Sie sie ganz, fallen Sie beim Tempo zurück."
+},
+{
+"key": "part01.html#322",
+"de": "Entscheidend ist zu planen, wo generative KI hineinpasst. Dieses Buch empfiehlt, sie auf drei Punkte zu beschränken."
+},
+{
+"key": "part01.html#323",
+"de": "<b>01</b><i>Planungsphase</i>Ideen erweitern"
+},
+{
+"key": "part01.html#324",
+"de": "<b>02</b><i>Entwurfsphase</i>Visualisierung"
+},
+{
+"key": "part01.html#325",
+"de": "<b>03</b><i>Postproduktion</i>Automatisierung"
+},
+{
+"key": "part01.html#326",
+"de": "<small>Übung</small>12.8"
+},
+{
+"key": "part01.html#327",
+"de": "Aufgabe"
+},
+{
+"key": "part01.html#328",
+"de": "Erstellen Sie mit generativer KI 3 Einstellungen à 5 s und vergleichen Sie sie mit selbst gedrehten derselben Szene."
+},
+{
+"key": "part01.html#329",
+"de": "Tipp"
+},
+{
+"key": "part01.html#330",
+"de": "Schreiben Sie Einstellungsgröße, Objektiv, Licht und Bewegung in Filmbegriffen in den Prompt."
+},
+{
+"key": "part01.html#331",
+"de": "Bewertung"
+},
+{
+"key": "part01.html#332",
+"de": "Werkzeugprotokoll und Prüfung von Urheberrecht · Recht am eigenen Bild geführt; Stärken und Schwächen beider Methoden konkret benannt"
+},
+{
+"key": "part01.html#333",
+"de": "Musterlösung"
+},
+{
+"key": "part01.html#334",
+"de": "Mischt KI-Einstellungen unter gedrehte, legt ihren Einsatz offen und reicht den Prompt-Versionsverlauf ein."
+},
+{
+"key": "part01.html#335",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#336",
+"de": "Kurze Geschichte der koreanischen Bewegtbildbranche"
+},
+{
+"key": "part01.html#337",
+"de": "Vom Kino-Drama bis zu globalem Streaming und Shopping per Kurzvideo hat die koreanische Bewegtbildbranche mit jedem technischen Umbruch neue Berufe hervorgebracht."
+},
+{
+"key": "part01.html#338",
+"de": "<span class=\"ph-id\">P01-KOREA</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Am Set der koreanischen Bewegtbildbranche</b>Eine 35-mm-Kamera auf Dollyschienen in einer engen Gasse bei Nacht, Crew mit Funkgeräten</span>"
+},
+{
+"key": "part01.html#339",
+"de": "<b>Hinweis</b> Der Boom der Produzentenfilme und der Werbung in den 1990er-Jahren formte Koreas heutige Produktionsteams"
+},
+{
+"key": "part01.html#340",
+"de": "<b>1919</b><i>Righteous Revenge</i>Vorführung eines Kino-Dramas. Ausgangspunkt der koreanischen Filmgeschichte"
+},
+{
+"key": "part01.html#341",
+"de": "<b>1926</b><i>Arirang</i>Na Woon-gyus wegweisender Stummfilm; enorme Resonanz beim Publikum"
+},
+{
+"key": "part01.html#342",
+"de": "<b>1956–</b><i>Fernsehen</i>Sendebeginn im System des öffentlichen Rundfunks. Fernsehpersonal wird in großem Stil ausgebildet"
+},
+{
+"key": "part01.html#343",
+"de": "<b>1990er</b><i>Produzentenfilme</i>Kapital von Großkonzernen fließt ein; die Werbung reift. Werbefilmer wechseln zum Kinofilm"
+},
+{
+"key": "part01.html#344",
+"de": "<b>2000er</b><i>Multiplexe</i>Koreanische Filme gewinnen Marktanteile; die Nachfrage verteilt sich auf Kabel- und Vollprogramme"
+},
+{
+"key": "part01.html#345",
+"de": "<b>2010er</b><i>K-Pop · YouTube</i>Musikvideos heben die Produktionsstandards; ein eigener Kanal wird Basis der Unternehmens-PR"
+},
+{
+"key": "part01.html#346",
+"de": "<b>2019–</b><i>Globales Streaming</i>Weltweite Nachfrage nach koreanischen Inhalten steigt rasant. Mehr Bedarf an Crews für Kamera · Licht · Ausstattung · Post"
+},
+{
+"key": "part01.html#347",
+"de": "<b>2020er</b><i>Kurzvideo · Handel</i>Ein großer Teil der neuen Jobs. Inhouse-Stellen für Markenvideos nehmen zu"
+},
+{
+"key": "part01.html#348",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part01.html#349",
+"de": "Prüfen Sie stets Titel, Jahr und Produzent und nennen Sie Ihre Quellen."
+},
+{
+"key": "part01.html#350",
+"de": "<small>Übung</small>12.9"
+},
+{
+"key": "part01.html#351",
+"de": "Aufgabe"
+},
+{
+"key": "part01.html#352",
+"de": "Wählen Sie ein Jahr der koreanischen Bewegtbildgeschichte und recherchieren Sie je ein Schlüsselwerk aus Film · Fernsehen · Werbung."
+},
+{
+"key": "part01.html#353",
+"de": "Tipp"
+},
+{
+"key": "part01.html#354",
+"de": "Prüfen Sie stets Titel, Jahr und Produzent und nennen Sie Ihre Quellen."
+},
+{
+"key": "part01.html#355",
+"de": "Bewertung"
+},
+{
+"key": "part01.html#356",
+"de": "Faktentreue; Bezug zwischen historischem Kontext und Form"
+},
+{
+"key": "part01.html#357",
+"de": "Musterlösung"
+},
+{
+"key": "part01.html#358",
+"de": "Zeigt, wie technischer Wandel (z. B. Farbfernsehen, Digitalumstellung) die Form beeinflusst hat."
+},
+{
+"key": "part01.html#359",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#360",
+"de": "Arbeitsprinzipien aus der Geschichte"
+},
+{
+"key": "part01.html#361",
+"de": "Sechs Arbeitsprinzipien aus der Geschichte. Was 130 Jahre Geschichte hinterlassen haben, ist keine Zeitleiste, sondern sechs Sätze, die Sie heute direkt in ein Konzept übernehmen können."
+},
+{
+"key": "part01.html#362",
+"de": "<span class=\"ph-id\">P01-PRINCIPLES</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Ein Seminar lernt Prinzipien aus der Geschichte</b>Eine Lehrkraft zeigt auf ein an die Wand projiziertes Filmstandbild, Studierende mit aufgeschlagenen Heften</span>"
+},
+{
+"key": "part01.html#363",
+"de": "<b>Hinweis</b> Statt eine Zeitleiste auswendig zu lernen, leitet dieser Abschnitt aus einer einzigen Szene ein sofort nutzbares Prinzip ab"
+},
+{
+"key": "part01.html#364",
+"de": "<b>01</b><span><b>Das Medium macht die Form.</b> Bildschirmgröße, Betrachtungsabstand, Umgebungsgeräusche und Bedienung bestimmen Länge und Einstellungsgrößen eines Werks. Planen Sie ohne Plattformwahl, produzieren Sie am Ende neu.</span>"
+},
+{
+"key": "part01.html#365",
+"de": "<b>02</b><span><b>Bedeutung liegt zwischen den Einstellungen.</b> Ein Prinzip, unverändert seit Kuleschow. Legen Sie die Montagefolge fest, bevor Sie gutes Material sammeln.</span>"
+},
+{
+"key": "part01.html#366",
+"de": "<b>03</b><span><b>Neue Technik ist zuerst eine Einschränkung.</b> Ein neues Werkzeug verengt anfangs den Ausdruck. Nutzen Sie es vor anderen, aber bringen Sie es erst dann ins fertige Werk, wenn Sie seine Grenzen in Ihre Regie einbinden können.</span>"
+},
+{
+"key": "part01.html#367",
+"de": "<b>04</b><span><b>Standards sind Konventionen.</b> 24 fps, 16:9 und der 180-Grad-Shutter sind Vereinbarungen, keine Naturgesetze. Kennen Sie die Gründe, können Sie sie bewusst brechen.</span>"
+},
+{
+"key": "part01.html#368",
+"de": "<b>05</b><span><b>Kleiner Bildschirm, alles größer.</b> Schrumpft der Bildschirm, werden Motive größer, Einstellungen kürzer und Untertitel größer. Die Kernregel für Mobilgeräte.</span>"
+},
+{
+"key": "part01.html#369",
+"de": "<b>06</b><span><b>Verbreitung verändert das Schaffen.</b> Seit YouTube die Verbreitungshürde beseitigt hat, beginnt die Planung nicht bei der Idee, sondern bei der Auffindbarkeit. Deshalb wurden Titel und Thumbnails Teil der Regie.</span>"
+},
+{
+"key": "part01.html#370",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part01.html#371",
+"de": "Erklären Sie das Prinzip nicht in Worten, zeigen Sie es im Bild."
+},
+{
+"key": "part01.html#372",
+"de": "<small>Übung</small>12.10"
+},
+{
+"key": "part01.html#373",
+"de": "Aufgabe"
+},
+{
+"key": "part01.html#374",
+"de": "Belegen Sie eines der sechs Arbeitsprinzipien in einem 1-Minuten-Video."
+},
+{
+"key": "part01.html#375",
+"de": "Tipp"
+},
+{
+"key": "part01.html#376",
+"de": "Erklären Sie das Prinzip nicht in Worten, zeigen Sie es im Bild."
+},
+{
+"key": "part01.html#377",
+"de": "Bewertung"
+},
+{
+"key": "part01.html#378",
+"de": "Prinzip und Ergebnis stimmen überein; die Absicht ist ohne Erklärung lesbar"
+},
+{
+"key": "part01.html#379",
+"de": "Musterlösung"
+},
+{
+"key": "part01.html#380",
+"de": "Zeigt eine Fassung, die dem Prinzip folgt, und eine, die es bricht, nebeneinander."
+},
+{
+"key": "part01.html#381",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#382",
+"de": "Theorie, die Ihre Arbeit am Set verändert"
+},
+{
+"key": "part01.html#383",
+"de": "Theorien, die Ihre Arbeit am Set verändern, sobald Sie sie kennen. Theorie wird am Set nicht sofort angewandt, aber sie lässt Sie erklären, warum etwas getan werden muss. Nur wer erklären kann, kann ein Team überzeugen und einen Auftraggeber gewinnen."
+},
+{
+"key": "part01.html#384",
+"de": "<span class=\"ph-id\">P01-THEORY</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Werkzeuge der Filmtheorie</b>Ein Stapel abgegriffener Filmtheoriebücher, ein Leuchtpult mit 35-mm-Filmstreifen und eine Lupe</span>"
+},
+{
+"key": "part01.html#385",
+"de": "<b>Hinweis</b> Theorie liefert die Sprache, um anderen Ihre Entscheidungen am Set zu erklären"
+},
+{
+"key": "part01.html#386",
+"de": "<small>Schnitt</small>Kuleschow-Effekt"
+},
+{
+"key": "part01.html#387",
+"de": "Dasselbe ausdruckslose Gesicht wirkt je nach umgebenden Einstellungen wie Hunger · Trauer · Begehren"
+},
+{
+"key": "part01.html#388",
+"de": "Grundlage für Werbung, die ein Produkt mit emotionalen Bildern paart"
+},
+{
+"key": "part01.html#389",
+"de": "<small>Schnitt</small>Kollisionsmontage"
+},
+{
+"key": "part01.html#390",
+"de": "Zwei kollidierende Bilder erzeugen eine 3. Bedeutung"
+},
+{
+"key": "part01.html#391",
+"de": "Theoretische Basis von Vergleichswerbung und Plot-Twists"
+},
+{
+"key": "part01.html#392",
+"de": "<small>Schnitt</small>Unsichtbarer Schnitt"
+},
+{
+"key": "part01.html#393",
+"de": "Einstellungen so fließend verbinden, dass das Publikum den Schnitt nicht bemerkt"
+},
+{
+"key": "part01.html#394",
+"de": "180-Grad-Regel, Blickanschluss, Bewegungsanschluss"
+},
+{
+"key": "part01.html#395",
+"de": "<small>Ton · Welt</small>Diegese"
+},
+{
+"key": "part01.html#396",
+"de": "Radiomusik in der Szene ist diegetisch, Filmmusik im Hintergrund nichtdiegetisch"
+},
+{
+"key": "part01.html#397",
+"de": "Ein bewusster Wechsel zwischen beiden wirkt stark"
+},
+{
+"key": "part01.html#398",
+"de": "<small>Blick</small>Perspektive und Fokalisierung"
+},
+{
+"key": "part01.html#399",
+"de": "Durch wessen Augen wir sehen"
+},
+{
+"key": "part01.html#400",
+"de": "Kameraposition, POV-Einstellungen und Erzählstimme müssen zusammenspielen, damit es stimmig bleibt"
+},
+{
+"key": "part01.html#401",
+"de": "<small>Vom Publikum gelernt</small>Genrekonventionen"
+},
+{
+"key": "part01.html#402",
+"de": "Low-Key-Licht im Horror, warmes Gegenlicht in der Romanze"
+},
+{
+"key": "part01.html#403",
+"de": "Einhalten, um ohne Erklärung zu kommunizieren; brechen, um Aufmerksamkeit zu wecken"
+},
+{
+"key": "part01.html#404",
+"de": "<small>Erzähldynamik</small>Erwartung und Bruch"
+},
+{
+"key": "part01.html#405",
+"de": "Das Publikum raten lassen, dann überraschen"
+},
+{
+"key": "part01.html#406",
+"de": "Kern der Werbung mit Twist"
+},
+{
+"key": "part01.html#407",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part01.html#408",
+"de": "Die Gesichtseinstellung muss mindestens 3 Sekunden ohne Änderung des Ausdrucks dauern, damit das Experiment trägt."
+},
+{
+"key": "part01.html#409",
+"de": "<small>Übung</small>12.11"
+},
+{
+"key": "part01.html#410",
+"de": "Aufgabe"
+},
+{
+"key": "part01.html#411",
+"de": "Stellen Sie den Kuleschow-Effekt nach. Verbinden Sie ein ausdrucksloses Gesicht mit drei anderen Einstellungen und fragen Sie 5 Zuschauer, welches Gefühl sie lesen."
+},
+{
+"key": "part01.html#412",
+"de": "Tipp"
+},
+{
+"key": "part01.html#413",
+"de": "Die Gesichtseinstellung muss mindestens 3 Sekunden ohne Änderung des Ausdrucks dauern, damit das Experiment trägt."
+},
+{
+"key": "part01.html#414",
+"de": "Bewertung"
+},
+{
+"key": "part01.html#415",
+"de": "Kontrollen im Versuchsaufbau, Protokoll der Antworten, Logik der Schlussfolgerung"
+},
+{
+"key": "part01.html#416",
+"de": "Musterlösung"
+},
+{
+"key": "part01.html#417",
+"de": "Kuleschows Originalexperiment. Wertet die Antworten tabellarisch aus und belegt mit Zahlen, dass Schnitt Bedeutung erzeugt."
+},
+{
+"key": "part01.html#418",
+"de": "<b>TEIL 01</b>Was ist Video?"
+},
+{
+"key": "part01.html#419",
+"de": "Entstehung und Prinzipien der Fotografie"
+},
+{
+"key": "part01.html#420",
+"de": "Eine Geschichte von der dunklen Kammer bis zum Smartphone. Die Fotografie entstand vor dem Video, und fast jede Videotechnik baut auf Fototechnik auf."
+},
+{
+"key": "part01.html#421",
+"de": "Eine Kamera ist ein Loch, das Licht sammelt, und eine Fläche, die es auffängt"
+},
+{
+"key": "part01.html#422",
+"de": "<b>① Lochblende – Licht breitet sich geradlinig aus</b><span>Die Szene draußen fällt durch ein winziges Loch und landet kopfüber an der Wand. Je kleiner das Loch, desto schärfer und dunkler</span>"
+},
+{
+"key": "part01.html#423",
+"de": "<b>② Objektiv – bündelt Licht in einem Punkt</b><span>Glas bricht das Licht, sodass das Bild hell und scharf zugleich ist. Die Blende regelt die Menge, der Verschluss die Zeit</span>"
+},
+{
+"key": "part01.html#424",
+"de": "<b>③ Aufnahmefläche – vom Silber zur Elektrizität</b><span>Im Film werden belichtete Silberkörner schwarz, im Sensor wandeln Pixel Licht in Ladung um</span>"
+},
+{
+"key": "part01.html#425",
+"de": "<b>Abb. 3</b> So funktioniert eine Kamera – ausgehend von einem einfachen Loch wurde sie vollendet, indem nacheinander Objektiv · Blende · Verschluss · Aufnahmefläche hinzukamen."
+},
+{
+"key": "part01.html#426",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "part01.html#427",
+"de": "Camera obscura – lateinisch für „dunkle Kammer“. Licht, das durch ein kleines Loch fällt, projiziert die Szene draußen kopfüber auf die gegenüberliegende Wand."
+},
+{
+"key": "part01.html#428",
+"de": "Die Fotografie begann mit Versuchen, dieses Bild, das Maler seit der Renaissance als Zeichenhilfe nutzten, chemisch festzuhalten."
+},
+{
+"key": "part01.html#429",
+"de": "Die fünf Elemente einer Kamera"
+},
+{
+"key": "part01.html#430",
+"de": "<b>01</b><i>Dunkle Kammer</i>Das Gehäuse, das nur das gewünschte Licht hereinlässt. Der Name kommt vom lateinischen „camera“ (Kammer)"
+}
+]

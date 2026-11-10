@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#133",
+"de": "Merkmale"
+},
+{
+"key": "part03.html#134",
+"de": "Vollformat"
+},
+{
+"key": "part03.html#135",
+"de": "36 × 24 mm"
+},
+{
+"key": "part03.html#136",
+"de": "Geringe Schärfentiefe, gut bei wenig Licht, teuer"
+},
+{
+"key": "part03.html#137",
+"de": "Super 35 mm"
+},
+{
+"key": "part03.html#138",
+"de": "ca. 24,9 × 18,7 mm"
+},
+{
+"key": "part03.html#139",
+"de": "Kinostandard, große Objektivauswahl"
+},
+{
+"key": "part03.html#140",
+"de": "APS-C"
+},
+{
+"key": "part03.html#141",
+"de": "ca. 23,5 × 15,6 mm"
+},
+{
+"key": "part03.html#142",
+"de": "Preiswert, gut für Tele, Standard für Einsteiger"
+},
+{
+"key": "part03.html#143",
+"de": "Micro Four Thirds (MFT)"
+},
+{
+"key": "part03.html#144",
+"de": "17,3 × 13 mm"
+},
+{
+"key": "part03.html#145",
+"de": "Klein und leicht, große Schärfentiefe, gimbalfreundlich"
+},
+{
+"key": "part03.html#146",
+"de": "1 Zoll"
+},
+{
+"key": "part03.html#147",
+"de": "13,2 × 8,8 mm"
+},
+{
+"key": "part03.html#148",
+"de": "Drohnen und Kompaktkameras"
+},
+{
+"key": "part03.html#149",
+"de": "Smartphones"
+},
+{
+"key": "part03.html#150",
+"de": "ca. 1/1,3 Zoll oder kleiner"
+},
+{
+"key": "part03.html#151",
+"de": "Gut für Makro/Weitwinkel, schwach bei wenig Licht"
+},
+{
+"key": "part03.html#152",
+"de": "<b>Cropfaktor</b>"
+},
+{
+"key": "part03.html#153",
+"de": "Ein Multiplikator, der angibt, um wie viel enger ein Objektiv derselben Brennweite sieht als an Vollformat."
+},
+{
+"key": "part03.html#154",
+"de": "Ein 50-mm-Objektiv an APS-C ergibt den Bildwinkel eines 75-mm-Objektivs an Vollformat. Je kleiner der Sensor, desto kürzer muss die Brennweite sein, um in engen Räumen eine ganze Person ins Bild zu bekommen."
+},
+{
+"key": "part03.html#155",
+"de": "Je größer der Sensor, desto geringer die Schärfentiefe. Ein großer Sensor hilft, wenn Sie einen unscharfen Hintergrund wollen, aber auch das Halten der Schärfe wird schwieriger. Wenn alles scharf sein muss, etwa in der Produktwerbung, ist ein kleiner Sensor sogar einfacher."
+},
+{
+"key": "part03.html#156",
+"de": "<span class=\"ph-id\">P03-SENSOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Ein Vollformatsensor – der „Ausgangspunkt des Bildwinkels“, den Sie bei abgenommenem Objektiv sehen</b></span>"
+},
+{
+"key": "part03.html#157",
+"de": "<b>Hinweis</b>Ein Vollformatsensor – der „Ausgangspunkt des Bildwinkels“, den Sie bei abgenommenem Objektiv sehen"
+},
+{
+"key": "part03.html#158",
+"de": "<small>Übung</small>3.3"
+},
+{
+"key": "part03.html#159",
+"de": "Aufgabe"
+},
+{
+"key": "part03.html#160",
+"de": "Drehen Sie von derselben Position aus mit Vollformat und mit Cropsensor (oder mit den Zoomstufen eines Smartphones) und dokumentieren Sie den Unterschied im Bildwinkel."
+},
+{
+"key": "part03.html#161",
+"de": "Tipp"
+},
+{
+"key": "part03.html#162",
+"de": "Berechnen Sie die äquivalenten Brennweiten selbst und notieren Sie sie."
+},
+{
+"key": "part03.html#163",
+"de": "Bewertung"
+},
+{
+"key": "part03.html#164",
+"de": "Korrekte Berechnung des Cropfaktors"
+},
+{
+"key": "part03.html#165",
+"de": "Musterlösung"
+},
+{
+"key": "part03.html#166",
+"de": "Fasst nicht nur den Bildwinkel zusammen, sondern auch Unterschiede bei Schärfentiefe und Rauschen."
+},
+{
+"key": "part03.html#167",
+"de": "<b>TEIL 03</b>Kameraausrüstung und -technik"
+},
+{
+"key": "part03.html#168",
+"de": "Die Psychologie von Objektiv und Brennweite"
+},
+{
+"key": "part03.html#169",
+"de": "Die Brennweite verändert nicht nur den Bildwinkel, sondern auch, wie nah sich das Publikum einer Figur fühlt. Ein Objektiv wählen heißt wählen, wo die Kamera steht."
+},
+{
+"key": "part03.html#170",
+"de": "<b>Abb. 29</b> Bildwinkel nach Brennweite"
+},
+{
+"key": "part03.html#171",
+"de": "<b>Referenzfotos 3.4A</b>KI-generiertes Bild – Regiereferenz"
+},
+{
+"key": "part03.html#172",
+"de": "<b>a</b>24 mm – gedehnter Raum und Verzerrung"
+},
+{
+"key": "part03.html#173",
+"de": "<b>b</b>50 mm – natürliche Perspektive"
+},
+{
+"key": "part03.html#174",
+"de": "<b>c</b>135 mm – komprimierter Hintergrund und Isolation"
+},
+{
+"key": "part03.html#175",
+"de": "<b>d</b>300 mm – extreme Kompression, der ferne Beobachter"
+},
+{
+"key": "part03.html#176",
+"de": "Brennweite"
+},
+{
+"key": "part03.html#177",
+"de": "Bildwinkel"
+},
+{
+"key": "part03.html#178",
+"de": "Verzerrung"
+},
+{
+"key": "part03.html#179",
+"de": "Psychologische Wirkung"
+},
+{
+"key": "part03.html#180",
+"de": "Einsatz"
+},
+{
+"key": "part03.html#181",
+"de": "14–24 mm"
+},
+{
+"key": "part03.html#182",
+"de": "Superweitwinkel"
+},
+{
+"key": "part03.html#183",
+"de": "Stark"
+},
+{
+"key": "part03.html#184",
+"de": "Übertreibung, gedehnter Raum, Unbehagen"
+},
+{
+"key": "part03.html#185",
+"de": "Ort etablieren, dynamische Inserts"
+},
+{
+"key": "part03.html#186",
+"de": "28–35 mm"
+},
+{
+"key": "part03.html#187",
+"de": "Weitwinkel"
+},
+{
+"key": "part03.html#188",
+"de": "Gering"
+},
+{
+"key": "part03.html#189",
+"de": "Gefühl des Dabeiseins, Beobachterblick"
+},
+{
+"key": "part03.html#190",
+"de": "Dokumentarischer Stil, Alltagsszenen, Vlogs"
+},
+{
+"key": "part03.html#191",
+"de": "50 mm"
+},
+{
+"key": "part03.html#192",
+"de": "Normalobjektiv"
+},
+{
+"key": "part03.html#193",
+"de": "Kaum"
+},
+{
+"key": "part03.html#194",
+"de": "Natürlich, neutral"
+},
+{
+"key": "part03.html#195",
+"de": "Standard für Personen, Dialoge"
+},
+{
+"key": "part03.html#196",
+"de": "85 mm"
+},
+{
+"key": "part03.html#197",
+"de": "Leichtes Tele"
+},
+{
+"key": "part03.html#198",
+"de": "Keine"
+},
+{
+"key": "part03.html#199",
+"de": "Nähe, Schönheit"
+},
+{
+"key": "part03.html#200",
+"de": "Personen-Großaufnahmen, Beauty"
+},
+{
+"key": "part03.html#201",
+"de": "100-mm-Makro"
+},
+{
+"key": "part03.html#202",
+"de": "Makro"
+},
+{
+"key": "part03.html#203",
+"de": "Keine"
+},
+{
+"key": "part03.html#204",
+"de": "Materialität, Haptik"
+},
+{
+"key": "part03.html#205",
+"de": "Produkttextur, Flüssigkeiten, Pulver"
+},
+{
+"key": "part03.html#206",
+"de": "135–200 mm"
+},
+{
+"key": "part03.html#207",
+"de": "Tele"
+},
+{
+"key": "part03.html#208",
+"de": "Kompression"
+},
+{
+"key": "part03.html#209",
+"de": "Isolation, Fokus, Distanz"
+},
+{
+"key": "part03.html#210",
+"de": "Emotion, komprimierter Hintergrund"
+},
+{
+"key": "part03.html#211",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part03.html#212",
+"de": "Je länger die Brennweite, desto weiter müssen Sie zurück. Notieren Sie den Abstand."
+},
+{
+"key": "part03.html#213",
+"de": "Spezialobjektive"
+},
+{
+"key": "part03.html#214",
+"de": "<small>Anamorphot</small>Kinolook in 2,39:1"
+},
+{
+"key": "part03.html#215",
+"de": "Horizontal gestaucht, später entzerrt"
+},
+{
+"key": "part03.html#216",
+"de": "Ovales Bokeh, horizontale Flares"
+},
+{
+"key": "part03.html#217",
+"de": "<small>Sondenobjektiv</small>Kommt durch enge Räume"
+},
+{
+"key": "part03.html#218",
+"de": "Langer, dünner Tubus"
+},
+{
+"key": "part03.html#219",
+"de": "Fahrten ins Motiv: Getränke, Food, Miniaturen"
+},
+{
+"key": "part03.html#220",
+"de": "<small>Tilt-Shift</small>Neigt die Schärfeebene"
+},
+{
+"key": "part03.html#221",
+"de": "Miniatureffekt"
+},
+{
+"key": "part03.html#222",
+"de": "Architektur-Senkrechte"
+},
+{
+"key": "part03.html#223",
+"de": "<small>Split-Diopter</small>Schärfe auf zwei Distanzen zugleich"
+},
+{
+"key": "part03.html#224",
+"de": "Nahfokus auf einem Bildteil"
+},
+{
+"key": "part03.html#225",
+"de": "Produkt vorn und Person hinten, beide scharf"
+},
+{
+"key": "part03.html#226",
+"de": "<small>Vintage-Objektiv</small>Retro-Textur"
+},
+{
+"key": "part03.html#227",
+"de": "Geringer Kontrast, weiche Flares"
+},
+{
+"key": "part03.html#228",
+"de": "Meist manueller Fokus"
+},
+{
+"key": "part03.html#229",
+"de": "<b>G-06</b> Wie die Brennweite Gesicht und Hintergrund verändert – 16 · 35 · 85 · 200 mm"
+},
+{
+"key": "part03.html#230",
+"de": "<small>Übung</small>3.4"
+},
+{
+"key": "part03.html#231",
+"de": "Aufgabe"
+},
+{
+"key": "part03.html#232",
+"de": "Drehen Sie bei gleicher Gesichtsgröße mit 16 · 35 · 85 · 135 mm."
+},
+{
+"key": "part03.html#233",
+"de": "Tipp"
+},
+{
+"key": "part03.html#234",
+"de": "Je länger die Brennweite, desto weiter müssen Sie zurück. Notieren Sie den Abstand."
+},
+{
+"key": "part03.html#235",
+"de": "Bewertung"
+},
+{
+"key": "part03.html#236",
+"de": "Perspektivische Verzerrung und Kompression beobachtet"
+},
+{
+"key": "part03.html#237",
+"de": "Musterlösung"
+},
+{
+"key": "part03.html#238",
+"de": "Hält fest, wie die Figur bei jeder Brennweite anders wirkt – bis hin zu den Reaktionen des Publikums."
+},
+{
+"key": "part03.html#239",
+"de": "<b>TEIL 03</b>Kameraausrüstung und -technik"
+},
+{
+"key": "part03.html#240",
+"de": "Das Belichtungsdreieck"
+},
+{
+"key": "part03.html#241",
+"de": "Es gibt nur drei Wege, die Bildhelligkeit einzustellen, und jeder hat seinen eigenen Preis. Der entscheidende Unterschied zur Fotografie: Beim Video können Sie den Verschluss nicht frei nutzen."
+},
+{
+"key": "part03.html#242",
+"de": "Gleiche Helligkeit, anderes Bild – ändern Sie einen der drei Werte und gleichen Sie ihn mit einem anderen aus"
+},
+{
+"key": "part03.html#243",
+"de": "<b>Blende geöffnet</b><span class=\"mono\">f/1,8 · 1/1000 · ISO 100</span><span>Der Hintergrund verschwimmt – der Preis der geringen Schärfentiefe</span>"
+},
+{
+"key": "part03.html#244",
+"de": "Blende"
+},
+{
+"key": "part03.html#245",
+"de": "Verschluss"
+},
+{
+"key": "part03.html#246",
+"de": "ISO"
+},
+{
+"key": "part03.html#247",
+"de": "<b>ISO erhöht</b><span class=\"mono\">f/16 · 1/1000 · ISO 6400</span><span>Rauschen in den Schatten – der Preis der Empfindlichkeit</span>"
+},
+{
+"key": "part03.html#248",
+"de": "Blende"
+},
+{
+"key": "part03.html#249",
+"de": "Verschluss"
+},
+{
+"key": "part03.html#250",
+"de": "ISO"
+},
+{
+"key": "part03.html#251",
+"de": "<b>Verschlusszeit verlängert</b><span class=\"mono\">f/16 · 1/15 · ISO 100</span><span>Das Wasser verwischt – der Preis der Zeit</span>"
+},
+{
+"key": "part03.html#252",
+"de": "Blende"
+},
+{
+"key": "part03.html#253",
+"de": "Verschluss"
+},
+{
+"key": "part03.html#254",
+"de": "ISO"
+},
+{
+"key": "part03.html#255",
+"de": "<b>Alle drei sind gleich hell.</b> Das Licht ist dasselbe, doch der Preis wurde an verschiedenen Stellen bezahlt – bei der <b>Blende</b> mit Schärfentiefe, beim <b>Verschluss</b> mit Bewegungsunschärfe, bei der <b>ISO</b> mit Rauschen. Verdoppeln Sie einen Wert und halbieren Sie dafür einen anderen (1 Blendenstufe)."
+},
+{
+"key": "part03.html#256",
+"de": "<b>Abb. 30</b> Das Belichtungsdreieck – gleiche Szene, gleiche Helligkeit, drei verschiedene Entscheidungen. Die Regler zeigen, welcher Wert bis zum Anschlag ausgereizt wurde."
+},
+{
+"key": "part03.html#257",
+"de": "Je kleiner die Blendenzahl, desto schmaler der Schärfebereich"
+},
+{
+"key": "part03.html#258",
+"de": "<b>f/1,4 · geringe Schärfentiefe</b><span>Nur die Person bleibt, der Hintergrund zerfließt – Fokus · Emotion · Schönheit</span>"
+},
+{
+"key": "part03.html#259",
+"de": "<b>f/4 · mittlere Schärfentiefe</b><span>Person scharf, Hintergrund als Stimmung – Standard für Interview · Spielfilm</span>"
+},
+{
+"key": "part03.html#260",
+"de": "<b>f/11 · große Schärfentiefe</b><span>Scharf von vorn bis hinten – Landschaften · ganze Produkte · Information</span>"
+},
+{
+"key": "part03.html#261",
+"de": "<b>Vier Wege zu geringer Schärfentiefe</b><span>Blende öffnen f/1,4</span><span>Längere Brennweite 85→200 mm</span><span>Näher ans Motiv</span><span>Hintergrund weiter weg</span>"
+},
+{
+"key": "part03.html#262",
+"de": "<b>Abb. 31</b> Schärfentiefe nach Blende – gleicher Ort, gleiche Person, nur die Blende geändert. Die Schärfentiefe ist eine Regieentscheidung darüber, „wie viel scharf bleiben soll“."
+},
+{
+"key": "part03.html#263",
+"de": "<small>Blende (Blendenzahl)</small>Das Rad, das den Look bestimmt"
+},
+{
+"key": "part03.html#264",
+"de": "Kleinere Zahl: heller, unschärferer Hintergrund"
+},
+{
+"key": "part03.html#265",
+"de": "F1,4 · 2 · 2,8 · 4 · 5,6 · 8 – jede Stufe halbiert das Licht"
+},
+{
+"key": "part03.html#266",
+"de": "Der direkteste Ausdruck der Absicht"
+},
+{
+"key": "part03.html#267",
+"de": "<small>Verschlusszeit</small>Beim Video fix"
+},
+{
+"key": "part03.html#268",
+"de": "Belichtungsdauer eines Einzelbilds"
+},
+{
+"key": "part03.html#269",
+"de": "An die 180-Grad-Shutter-Regel gebunden; nie zum Regeln der Belichtung verwenden"
+},
+{
+"key": "part03.html#270",
+"de": "<small>ISO</small>Zuerst Basis-ISO"
+},
+{
+"key": "part03.html#271",
+"de": "Erhöhen hellt auf, bringt aber Rauschen"
+},
+{
+"key": "part03.html#272",
+"de": "Jedes Modell hat eine Basis-ISO mit dem geringsten Rauschen"
+},
+{
+"key": "part03.html#273",
+"de": "Viele Modelle haben Dual-ISO"
+},
+{
+"key": "part03.html#274",
+"de": "<small>ND-Filter</small>Das vierte Rad"
+},
+{
+"key": "part03.html#275",
+"de": "Optischer Filter, der nur Licht schluckt"
+},
+{
+"key": "part03.html#276",
+"de": "Unverzichtbar für Offenblende bei Tageslicht"
+},
+{
+"key": "part03.html#277",
+"de": "<b>ND8<em>3 Stufen</em></b>Bewölkte Tage, innen am Fenster"
+},
+{
+"key": "part03.html#278",
+"de": "<b>ND64<em>6 Stufen</em></b>Offenblende an sonnigen Tagen"
+},
+{
+"key": "part03.html#279",
+"de": "<b>ND1000<em>10 Stufen</em></b>Langzeitbelichtung bei Tageslicht"
+},
+{
+"key": "part03.html#280",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part03.html#281",
+"de": "Halten Sie diese Reihenfolge ein, dann stimmt Ihr Urteil an jeder Kamera."
+},
+{
+"key": "part03.html#282",
+"de": "Ablauf der Videobelichtung"
+}
+]

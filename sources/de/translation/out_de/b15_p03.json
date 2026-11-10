@@ -1,0 +1,602 @@
+[
+{
+"key": "part13.html#296",
+"de": "<small>Übung</small>13.5"
+},
+{
+"key": "part13.html#297",
+"de": "Aufgabe"
+},
+{
+"key": "part13.html#298",
+"de": "Nehmen Sie an, Sie installieren Ihr Werk in einer fiktiven Galerie (6 m breit, 4 m tief, 3 m hoch), und erstellen Sie eine Aufbauzeichnung, eine Geräteliste und einen Betriebsplan."
+},
+{
+"key": "part13.html#299",
+"de": "Tipp"
+},
+{
+"key": "part13.html#300",
+"de": "Berechnen Sie Projektionsabstand und Bildgröße und notieren Sie die Zahlen. Tragen Sie Stromanschlüsse und Kabelwege immer in die Zeichnung ein."
+},
+{
+"key": "part13.html#301",
+"de": "Bewertung"
+},
+{
+"key": "part13.html#302",
+"de": "Sind die Werte berechnet? Gibt es einen Plan für Ausfälle?"
+},
+{
+"key": "part13.html#303",
+"de": "Musterlösung"
+},
+{
+"key": "part13.html#304",
+"de": "Ein Betriebsplan, Tag für Tag ausgearbeitet, mit Autostart, täglichen Neustarts und einem Ersatzvideo."
+},
+{
+"key": "part13.html#305",
+"de": "<b>TEIL 13</b>Medienkunst und Expanded Cinema"
+},
+{
+"key": "part13.html#306",
+"de": "Werkstatements und Portfolios"
+},
+{
+"key": "part13.html#307",
+"de": "In der Medienkunst ist das Schreiben Teil des Werks. Betrachter lesen das Statement, um das Werk zu verstehen, und bei Ausschreibungen und Residenzprogrammen wird allein nach Text und Fotos entschieden. Die Anforderungen unterscheiden sich von einem Videoportfolio – üben Sie daher gesondert."
+},
+{
+"key": "part13.html#308",
+"de": "Anatomie eines Statements"
+},
+{
+"key": "part13.html#309",
+"de": "<b>01</b><i>Was es ist</i>Beginnen Sie mit „Dieses Werk ist …“ – wer mit dem Hintergrund anfängt, wird nicht bis zum Ende gelesen"
+},
+{
+"key": "part13.html#310",
+"de": "<b>02</b><i>Wie</i>Was passiert, wenn der Betrachter was tut. Die Bedienungsanleitung eines interaktiven Werks"
+},
+{
+"key": "part13.html#311",
+"de": "<b>03</b><i>Warum</i>Der Grund, warum es diese Form haben muss. Begründung einer Entscheidung, keine Technikschau"
+},
+{
+"key": "part13.html#312",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part13.html#313",
+"de": "Wandtexte in der Galerie mit 150 bis 300 Zeichen werden gelesen. Bei längeren bleibt niemand zum Lesen stehen."
+},
+{
+"key": "part13.html#314",
+"de": "Zu meidende Wörter"
+},
+{
+"key": "part13.html#315",
+"de": "<b>Vage große Wörter</b> – „Existenz“, „Beziehung“, „Grenze“ ohne Erklärung sagen gar nichts. Wenn Sie eines verwenden, benennen Sie mindestens einmal konkret, worauf es sich in diesem Werk bezieht."
+},
+{
+"key": "part13.html#316",
+"de": "<b>Technik aufzählen</b> – Werkzeuge gehören in die Materialangabe. Wer im Statement mit Werkzeugen prahlt, lässt das Werk klein wirken."
+},
+{
+"key": "part13.html#317",
+"de": "<b>Ungeprüfte Zitate</b> – Zitieren Sie keine Bücher, die Sie nicht gelesen haben. Danach fragt die Jury als Erstes."
+},
+{
+"key": "part13.html#318",
+"de": "Was ins Portfolio gehört"
+},
+{
+"key": "part13.html#319",
+"de": "Element"
+},
+{
+"key": "part13.html#320",
+"de": "Inhalt"
+},
+{
+"key": "part13.html#321",
+"de": "Typischer Fehler"
+},
+{
+"key": "part13.html#322",
+"de": "Schlüsselbilder"
+},
+{
+"key": "part13.html#323",
+"de": "1 Installationsansicht, 2 Details"
+},
+{
+"key": "part13.html#324",
+"de": "Nur Screenshots"
+},
+{
+"key": "part13.html#325",
+"de": "Dokumentationsvideo"
+},
+{
+"key": "part13.html#326",
+"de": "1–2 Min., inkl. Publikumsreaktionen"
+},
+{
+"key": "part13.html#327",
+"de": "Lange Aufnahmen nur des Bildschirms"
+},
+{
+"key": "part13.html#328",
+"de": "Materialangabe"
+},
+{
+"key": "part13.html#329",
+"de": "Medium, Maße, Dauer, Jahr"
+},
+{
+"key": "part13.html#330",
+"de": "Ganz weggelassen"
+},
+{
+"key": "part13.html#331",
+"de": "Systemdiagramm"
+},
+{
+"key": "part13.html#332",
+"de": "1 Flussdiagramm Eingabe-Verarbeitung-Ausgabe"
+},
+{
+"key": "part13.html#333",
+"de": "Nur in Worten erklärt"
+},
+{
+"key": "part13.html#334",
+"de": "Aufbauanforderungen"
+},
+{
+"key": "part13.html#335",
+"de": "Raum, Strom, Verdunkelung"
+},
+{
+"key": "part13.html#336",
+"de": "Jury erkennt nicht, ob es aufbaubar ist"
+},
+{
+"key": "part13.html#337",
+"de": "Eigenanteil"
+},
+{
+"key": "part13.html#338",
+"de": "Ihr Anteil an einer Gemeinschaftsarbeit"
+},
+{
+"key": "part13.html#339",
+"de": "Teamarbeit als Einzelwerk ausgegeben"
+},
+{
+"key": "part13.html#340",
+"de": "Die Dokumentation hält das Werk am Leben"
+},
+{
+"key": "part13.html#341",
+"de": "Ein Medienkunstwerk verschwindet, wenn die Ausstellung endet. Nur die Dokumentation bleibt, und an ihr entscheiden sich die nächste Ausschreibung und die nächste Ausstellung. Halten Sie während der Laufzeit unbedingt Installationsansichten, Details, echte Publikumsreaktionen und sogar den Aufbau in Foto und Video fest."
+},
+{
+"key": "part13.html#342",
+"de": "Der wichtigste Tag in der Galerie ist nicht die Eröffnung, sondern der Tag, an dem Sie die Dokumentation drehen.<small>13.6 Werkstatements und Portfolios</small>"
+},
+{
+"key": "part13.html#343",
+"de": "<small>Übung</small>13.6"
+},
+{
+"key": "part13.html#344",
+"de": "Aufgabe"
+},
+{
+"key": "part13.html#345",
+"de": "Schreiben Sie für eines Ihrer Werke ein Ausstellungsstatement mit 250 Zeichen und erstellen Sie ein einseitiges Portfolio. Nehmen Sie Materialangabe, Systemdiagramm und Aufbauanforderungen auf."
+},
+{
+"key": "part13.html#346",
+"de": "Tipp"
+},
+{
+"key": "part13.html#347",
+"de": "Lassen Sie das fertige Statement von jemandem lesen, der das Werk nicht kennt, und fragen Sie, ob er erkennt, „was er tun soll“."
+},
+{
+"key": "part13.html#348",
+"de": "Bewertung"
+},
+{
+"key": "part13.html#349",
+"de": "Definiert der erste Satz das Werk? Sind die Aufbauanforderungen konkret genug, damit die Jury urteilen kann?"
+},
+{
+"key": "part13.html#350",
+"de": "Musterlösung"
+},
+{
+"key": "part13.html#351",
+"de": "Ein Layout, das Fotos der Publikumsreaktionen neben das Systemdiagramm stellt, sodass eine Seite zeigt, was man sieht und wie es funktioniert."
+},
+{
+"key": "part13.html#352",
+"de": "<b>TEIL 13</b>Medienkunst und Expanded Cinema"
+},
+{
+"key": "part13.html#353",
+"de": "Ausschreibungen und Förderungen"
+},
+{
+"key": "part13.html#354",
+"de": "So bewerben Sie sich tatsächlich. Medienkunst kostet für Technik, Raum und Aufbau mehr als Videoproduktion; Ausschreibungen und Förderungen werden daher zur Voraussetzung für das Werk. Die folgende Liste beruht auf tatsächlichen Ausschreibungen für 2026; Beträge und Termine ändern sich jedes Jahr, prüfen Sie sie daher immer in der offiziellen Ausschreibung."
+},
+{
+"key": "part13.html#355",
+"de": "Ausschreibungen in Korea, offen für Studierende"
+},
+{
+"key": "part13.html#356",
+"de": "Ausschreibung"
+},
+{
+"key": "part13.html#357",
+"de": "Veranstalter"
+},
+{
+"key": "part13.html#358",
+"de": "Frist (2026)"
+},
+{
+"key": "part13.html#359",
+"de": "Preise"
+},
+{
+"key": "part13.html#360",
+"de": "Dream Big Art Award"
+},
+{
+"key": "part13.html#361",
+"de": "DB World"
+},
+{
+"key": "part13.html#362",
+"de": "Sep"
+},
+{
+"key": "part13.html#363",
+"de": "120 Mio. KRW insgesamt; eigene Studierendenkategorie"
+},
+{
+"key": "part13.html#364",
+"de": "JoongAng Media Art Competition"
+},
+{
+"key": "part13.html#365",
+"de": "JoongAng Ilbo"
+},
+{
+"key": "part13.html#366",
+"de": "Aug"
+},
+{
+"key": "part13.html#367",
+"de": "45 Mio. KRW insgesamt; eigene Studierendenkategorie"
+},
+{
+"key": "part13.html#368",
+"de": "Medienkunst am Nationalfriedhof Seoul"
+},
+{
+"key": "part13.html#369",
+"de": "Ministerium für Patrioten und Veteranen"
+},
+{
+"key": "part13.html#370",
+"de": "Aug"
+},
+{
+"key": "part13.html#371",
+"de": "Hauptpreis 30 Mio. KRW"
+},
+{
+"key": "part13.html#372",
+"de": "Seoullo Media Canvas, Nachwuchskünstler"
+},
+{
+"key": "part13.html#373",
+"de": "Stadt Seoul"
+},
+{
+"key": "part13.html#374",
+"de": "Aug"
+},
+{
+"key": "part13.html#375",
+"de": "20 Teams, je 1,5 Mio. KRW + Ausstellung"
+},
+{
+"key": "part13.html#376",
+"de": "Seoul Light Gwanghwamun"
+},
+{
+"key": "part13.html#377",
+"de": "Stadt Seoul"
+},
+{
+"key": "part13.html#378",
+"de": "Nov"
+},
+{
+"key": "part13.html#379",
+"de": "6 Teams, 12 Mio. KRW"
+},
+{
+"key": "part13.html#380",
+"de": "NEXT:ON Incheon"
+},
+{
+"key": "part13.html#381",
+"de": "Incheon Technopark"
+},
+{
+"key": "part13.html#382",
+"de": "Aug"
+},
+{
+"key": "part13.html#383",
+"de": "3 Teams, je 25 Mio. KRW"
+},
+{
+"key": "part13.html#384",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part13.html#385",
+"de": "Der Studierendenpreis von Dream Big wird als Stipendium über Ihre Hochschule ausgezahlt; ist das dort nicht möglich, kann die Auszeichnung entfallen. Klären Sie das vor der Bewerbung mit Ihrem Fachbereich."
+},
+{
+"key": "part13.html#386",
+"de": "Dream Big und JoongAng haben eigene Studierendenkategorien. Dort treten Sie nicht gegen Berufskünstler an – achten Sie daher zuerst auf Ausschreibungen mit Studierendenkategorie."
+},
+{
+"key": "part13.html#387",
+"de": "Residenzen · Inkubation · öffentliche Förderung"
+},
+{
+"key": "part13.html#388",
+"de": "<small>Gwangyang Media Art Residence</small>Frist im Mai"
+},
+{
+"key": "part13.html#389",
+"de": "Nur Medienkunst, 3 Künstler ausgewählt"
+},
+{
+"key": "part13.html#390",
+"de": "Stipendium von 1,6 Mio. KRW pro Monat × fünf Monate, Atelier und Unterkunft"
+},
+{
+"key": "part13.html#391",
+"de": "<small>G.MAP Digital Art Culture Lab</small>Frist im August"
+},
+{
+"key": "part13.html#392",
+"de": "Gwangju, 14 Teams, 18 Mentoring-Termine plus Technik · Raum"
+},
+{
+"key": "part13.html#393",
+"de": "Alle Teammitglieder ab 19 Jahren"
+},
+{
+"key": "part13.html#394",
+"de": "<small>MMCA-Residenz</small>Ein Ziel für die kommenden Jahre"
+},
+{
+"key": "part13.html#395",
+"de": "Goyang ab 25, Changdong ab 40 Jahren"
+},
+{
+"key": "part13.html#396",
+"de": "Alle Sparten inkl. neuer Medien, fast 1 Jahr vor Ort"
+},
+{
+"key": "part13.html#397",
+"de": "<small>K-Art Young Creators Support</small>Bewerbung im März"
+},
+{
+"key": "part13.html#398",
+"de": "2026 neu: Programm des Ministeriums für Kultur, Sport und Tourismus – 9 Mio. KRW pro Jahr für 3.000 Personen bis 39 Jahre"
+},
+{
+"key": "part13.html#399",
+"de": "Medienkunst ist nicht als eigene Sparte aufgeführt – schauen Sie in die interdisziplinäre Kategorie"
+},
+{
+"key": "part13.html#400",
+"de": "<small>Art Korea Lab</small>Gestufte Förderung"
+},
+{
+"key": "part13.html#401",
+"de": "Anschlussförderung nach dem Hauptprogramm (15 Förderungen à 30 Mio. KRW)"
+},
+{
+"key": "part13.html#402",
+"de": "<small>Kunst- und Kulturstiftung Seoul</small>Seoul Convergence Art Festival"
+},
+{
+"key": "part13.html#403",
+"de": "Uraufführung neuer Werke ausgewählter Künstler"
+},
+{
+"key": "part13.html#404",
+"de": "Der Weg der Ars-Electronica-Preisträger von 2023"
+},
+{
+"key": "part13.html#405",
+"de": "Der Weg ins Ausland"
+},
+{
+"key": "part13.html#406",
+"de": "Name"
+},
+{
+"key": "part13.html#407",
+"de": "Veranstalter · Ort"
+},
+{
+"key": "part13.html#408",
+"de": "Frist"
+},
+{
+"key": "part13.html#409",
+"de": "Preis"
+},
+{
+"key": "part13.html#410",
+"de": "Prix Ars Electronica"
+},
+{
+"key": "part13.html#411",
+"de": "Linz (Österreich)"
+},
+{
+"key": "part13.html#412",
+"de": "Mär"
+},
+{
+"key": "part13.html#413",
+"de": "10.000 € pro Kategorie"
+},
+{
+"key": "part13.html#414",
+"de": "STARTS Prize"
+},
+{
+"key": "part13.html#415",
+"de": "Europäische Kommission"
+},
+{
+"key": "part13.html#416",
+"de": "Mär"
+},
+{
+"key": "part13.html#417",
+"de": "je 20.000 €, 2 Kategorien"
+},
+{
+"key": "part13.html#418",
+"de": "Lumen Prize"
+},
+{
+"key": "part13.html#419",
+"de": "UK"
+},
+{
+"key": "part13.html#420",
+"de": "Mai"
+},
+{
+"key": "part13.html#421",
+"de": "30.000 $ insgesamt; Teilnahmegebühr"
+},
+{
+"key": "part13.html#422",
+"de": "SIGGRAPH Art Gallery"
+},
+{
+"key": "part13.html#423",
+"de": "USA"
+},
+{
+"key": "part13.html#424",
+"de": "Jan"
+},
+{
+"key": "part13.html#425",
+"de": "Kein Preisgeld; Ausstellung"
+},
+{
+"key": "part13.html#426",
+"de": "ISEA"
+},
+{
+"key": "part13.html#427",
+"de": "Gastgeberstadt wechselt jährlich"
+},
+{
+"key": "part13.html#428",
+"de": "Dez"
+},
+{
+"key": "part13.html#429",
+"de": "Kein Preisgeld; wissenschaftlicher Vortrag"
+},
+{
+"key": "part13.html#430",
+"de": "VH AWARD"
+},
+{
+"key": "part13.html#431",
+"de": "Hyundai Motor Group"
+},
+{
+"key": "part13.html#432",
+"de": "Jul"
+},
+{
+"key": "part13.html#433",
+"de": "Produktionsförderung + Residenz"
+},
+{
+"key": "part13.html#434",
+"de": "Beim Prix Ars Electronica 2023 gewannen zwei koreanische Künstler den Hauptpreis und einen Sonderpreis. Beide waren mehrfach für öffentliche Förderungen in Korea ausgewählt worden, und einer hatte bei einem koreanischen Festival für Konvergenzkunst debütiert. Der Weg von koreanischen Ausschreibungen über koreanische Festivals auf die internationale Bühne funktioniert tatsächlich."
+},
+{
+"key": "part13.html#435",
+"de": "Vier lohnende Vorhaben für ein Semester"
+},
+{
+"key": "part13.html#436",
+"de": "<b>01</b><i>Künstlerstatement auf Koreanisch, 500 Wörter</i>Die meisten koreanischen Ausschreibungen verlangen eine Werkbeschreibung"
+},
+{
+"key": "part13.html#437",
+"de": "<b>02</b><i>Englisches Konzept, 3 Seiten</i>Verlangt von VH AWARD und ISEA. Standard: 11 pt, PDF"
+},
+{
+"key": "part13.html#438",
+"de": "<b>03</b><i>30-Sekunden-Highlightvideo</i>Die JoongAng Media Art Competition verlangt bei der Bewerbung 20–30 s"
+},
+{
+"key": "part13.html#439",
+"de": "<b>04</b><i>3-minütiger Portfoliofilm</i>VH AWARD verlangt bis zu 3 Minuten"
+},
+{
+"key": "part13.html#440",
+"de": "Hängen Sie nicht eine einzelne Frist, sondern den Ausschreibungskalender über Ihren Schreibtisch. März, Mai, Juli, August, September und November sind die Fristmonate der koreanischen Medienkunst.<small>13.7 Ausschreibungen und Förderungen</small>"
+},
+{
+"key": "part13.html#441",
+"de": "<small>Übung</small>13.7"
+},
+{
+"key": "part13.html#442",
+"de": "Aufgabe"
+},
+{
+"key": "part13.html#443",
+"de": "Wählen Sie drei der oben genannten Ausschreibungen, die zu Ihnen passen, und stellen Sie die jeweils geforderten Unterlagen in einer Tabelle zusammen. Planen Sie, sich bei einer davon tatsächlich zu bewerben, und erstellen Sie einen Zeitplan, rückwärts gerechnet von der Frist."
+},
+{
+"key": "part13.html#444",
+"de": "Tipp"
+},
+{
+"key": "part13.html#445",
+"de": "Rechnen Sie von der Frist rückwärts. Notieren Sie, wie viele Tage Sie für Videoproduktion, Unterlagen, Prüfung und Einreichung brauchen."
+}
+]

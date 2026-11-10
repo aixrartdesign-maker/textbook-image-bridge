@@ -1,0 +1,246 @@
+{
+ "stem": "p024_003_1375x644",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p024_003_1375x644.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "The brain fills in 'motion' between two stills",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 46,
+    "chars_per_line_max": 95,
+    "chars_per_line_if_shrunk": 116,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "0.04 – 0.1 s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 85,
+    "chars_per_line_if_shrunk": 104,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Not in the same spot",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 96,
+    "chars_per_line_if_shrunk": 117,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Brain fills in",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Perception",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 51,
+    "chars_per_line_if_shrunk": 63,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Frame 1",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 42,
+    "chars_per_line_if_shrunk": 51,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "Frame 2",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 59,
+    "chars_per_line_if_shrunk": 72,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Dot on the right",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 74,
+    "chars_per_line_if_shrunk": 91,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "One dot moved",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 35,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "9",
+   "en": "Dot on the left",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 57,
+    "chars_per_line_if_shrunk": 69,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "10",
+   "en": "Ideal",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "Too short",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 32,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "Too long",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "0.02 s or less",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "0.04 – 0.1 s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 41,
+    "chars_per_line_if_shrunk": 50,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "0.2 s or more",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 36,
+    "chars_per_line_if_shrunk": 44,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "Two dots overlap into one",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 25,
+    "chars_per_line_max": 43,
+    "chars_per_line_if_shrunk": 52,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "17",
+   "en": "One dot moves smoothly",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 38,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "18",
+   "en": "Looks like two separate dots",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 28,
+    "chars_per_line_max": 42,
+    "chars_per_line_if_shrunk": 51,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "19",
+   "en": "Same two images, but timing changes the result — why 24 fps became standard",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 75,
+    "chars_per_line_max": 145,
+    "chars_per_line_if_shrunk": 177,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

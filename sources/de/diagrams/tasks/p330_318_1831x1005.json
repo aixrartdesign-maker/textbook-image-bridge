@@ -1,0 +1,378 @@
+{
+ "stem": "p330_318_1831x1005",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p330_318_1831x1005.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Longer runtime (log scale): less message, more character",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 56,
+    "chars_per_line_max": 78,
+    "chars_per_line_if_shrunk": 95,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Bumper ad",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "6 s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 8,
+    "chars_per_line_if_shrunk": 10,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "One scene · one message · logo",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "TV · online ad",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "15 s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 7,
+    "chars_per_line_if_shrunk": 8,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Hook → proof → brand",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 32,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "7",
+   "en": "Micro-short festival",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 27,
+    "chars_per_line_if_shrunk": 33,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "29 s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 7,
+    "chars_per_line_if_shrunk": 8,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "9",
+   "en": "One twist",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "10",
+   "en": "Promo · short-form ad",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 21,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 31,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "min",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 5,
+    "chars_per_line_if_shrunk": 7,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "12",
+   "en": "4–6 re-hooks",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 35,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "13",
+   "en": "Brand film",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 26,
+    "chars_per_line_if_shrunk": 31,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "min",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 5,
+    "chars_per_line_if_shrunk": 7,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "15",
+   "en": "Character · conflict · resolution",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 33,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 40,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "16",
+   "en": "Outdoor LED loop",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 16,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "17",
+   "en": "15 s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 7,
+    "chars_per_line_if_shrunk": 8,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "18",
+   "en": "Silent · looping · distant",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 26,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 41,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "19",
+   "en": "Short film",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "20",
+   "en": "min",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 4,
+    "chars_per_line_if_shrunk": 5,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "21",
+   "en": "One event · 3 acts",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 34,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "22",
+   "en": "Feature film",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "23",
+   "en": "min",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 4,
+    "chars_per_line_if_shrunk": 5,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "24",
+   "en": "Subplots · character arcs",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 25,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 34,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "25",
+   "en": "1 min",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "26",
+   "en": "min",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 19,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "27",
+   "en": "min",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 8,
+    "chars_per_line_if_shrunk": 10,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "28",
+   "en": "min",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 11,
+    "chars_per_line_if_shrunk": 13,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "29",
+   "en": "5 s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "30",
+   "en": "30 s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 7,
+    "chars_per_line_if_shrunk": 8,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

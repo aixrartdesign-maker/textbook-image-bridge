@@ -1,0 +1,150 @@
+{
+ "stem": "p304_310_1375x412",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p304_310_1375x412.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "15 seconds isn't a short ad but the densest story unit",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 54,
+    "chars_per_line_max": 136,
+    "chars_per_line_if_shrunk": 166,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "1",
+   "en": "Hook",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 15,
+    "chars_per_line_if_shrunk": 18,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "2",
+   "en": "Body",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 46,
+    "chars_per_line_if_shrunk": 56,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "Wrap-up",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Question·oddity·sound·motion",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 28,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 34,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "5",
+   "en": "Visually prove a single benefit",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 31,
+    "chars_per_line_max": 77,
+    "chars_per_line_if_shrunk": 94,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Logo · sound logo · call to action",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 34,
+    "chars_per_line_max": 38,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "7",
+   "en": "0s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 2,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "8",
+   "en": "3s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 2,
+    "chars_per_line_max": 68,
+    "chars_per_line_if_shrunk": 83,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "9",
+   "en": "11s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 41,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "10",
+   "en": "15s",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 14,
+    "chars_per_line_if_shrunk": 17,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "11",
+   "en": "Show the brand once in the first 5s, once at the end",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 52,
+    "chars_per_line_max": 162,
+    "chars_per_line_if_shrunk": 197,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

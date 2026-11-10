@@ -1,0 +1,602 @@
+[
+{
+"key": "part00.html#150",
+"de": "<em>F09</em>Wie weit sollte das Color Grading gehen?"
+},
+{
+"key": "part00.html#151",
+"de": "Gleichen Sie zuerst Belichtung und Weißabgleich an, dann die Einstellungen untereinander, und wenden Sie erst danach den Look an. Die Reihenfolge zählt. (5.8)"
+},
+{
+"key": "part00.html#152",
+"de": "<em>F10</em>Woher bekomme ich Musik?"
+},
+{
+"key": "part00.html#153",
+"de": "Am sichersten sind Musikbibliotheken mit Abo-Lizenz. Bewahren Sie den Kaufnachweis im Projektordner auf. (4.9)"
+},
+{
+"key": "part00.html#154",
+"de": "<em>F11</em>Ist ein kurzer Clip urheberrechtlich unbedenklich?"
+},
+{
+"key": "part00.html#155",
+"de": "Eine solche Regel gibt es nicht. Unabhängig von der Länge ist es eine Rechtsverletzung. (7.7)"
+},
+{
+"key": "part00.html#156",
+"de": "<em>F12</em>Ich kann keine Storyboards zeichnen. Was tun?"
+},
+{
+"key": "part00.html#157",
+"de": "Zeichentalent ist nicht nötig. Kästen und Pfeile genügen; wichtiger sind die Notationsregeln. (2.1)"
+},
+{
+"key": "part00.html#158",
+"de": "<em>F13</em>Was tun, wenn die Planung stockt?"
+},
+{
+"key": "part00.html#159",
+"de": "Notieren Sie 20 Probleme der Zielgruppe und wählen Sie die aus, die das Produkt löst. Die sicherste Methode. (2.5)"
+},
+{
+"key": "part00.html#160",
+"de": "<em>F14</em>Passen nicht zwei Botschaften in 15 Sekunden?"
+},
+{
+"key": "part00.html#161",
+"de": "Beide verpuffen. Behalten Sie eine. (7.1)"
+},
+{
+"key": "part00.html#162",
+"de": "<em>F15</em>Wie gestalte ich die ersten 3 Sekunden?"
+},
+{
+"key": "part00.html#163",
+"de": "Wählen Sie einen der sechs Typen und beginnen Sie nie mit Logo und Aufblende. (7.2)"
+},
+{
+"key": "part00.html#164",
+"de": "<em>F16</em>Ich bekomme keine Aufrufe"
+},
+{
+"key": "part00.html#165",
+"de": "Prüfen Sie der Reihe nach Reichweite, Klickrate, Wiedergabedauer und Interaktion, dann grenzt sich die Ursache ein. (8.8)"
+},
+{
+"key": "part00.html#166",
+"de": "<em>F17</em>Wie lang sollte ein Titel sein?"
+},
+{
+"key": "part00.html#167",
+"de": "40–60 Zeichen, die Schlüsselwörter in den ersten 25. (8.11)"
+},
+{
+"key": "part00.html#168",
+"de": "<em>F18</em>Wie viele Hashtags?"
+},
+{
+"key": "part00.html#169",
+"de": "Große, mittlere und kleine mischen, etwa 10–15. (8.4)"
+},
+{
+"key": "part00.html#170",
+"de": "<em>F19</em>Kann ich Querformat einfach hochkant zuschneiden?"
+},
+{
+"key": "part00.html#171",
+"de": "Drehen Sie in 4K und markieren Sie schon beim Dreh Hilfslinien fürs Hochformat. Der Bildaufbau selbst ändert sich. (6.2)"
+},
+{
+"key": "part00.html#172",
+"de": "<em>F20</em>Wohin gehören Untertitel in Kurzvideos?"
+},
+{
+"key": "part00.html#173",
+"de": "Mittig, etwa ein Drittel über dem unteren Rand. Die oberen 12 % und die unteren 20 % sind von Bedienelementen verdeckt. (6.3)"
+},
+{
+"key": "part00.html#174",
+"de": "<em>F21</em>Kann ich ein ganzes Video mit KI machen?"
+},
+{
+"key": "part00.html#175",
+"de": "Ersetzt man den ganzen Prozess, bricht die Konsistenz zusammen. Beschränken Sie KI auf drei Punkte: Ideenfindung, Entwürfe, Automatisierung. (8.9)"
+},
+{
+"key": "part00.html#176",
+"de": "<em>F22</em>Muss ich den KI-Einsatz offenlegen?"
+},
+{
+"key": "part00.html#177",
+"de": "Bei Wettbewerben und Auftragsarbeiten nehmen Offenlegungspflichten zu. Dokumentieren Sie den KI-Einsatz in den Unterlagen. (8.9)"
+},
+{
+"key": "part00.html#178",
+"de": "<em>F23</em>Wie viele Arbeiten ins Portfolio?"
+},
+{
+"key": "part00.html#179",
+"de": "5–8. Ihre schwächste Arbeit gilt als Ihr Niveau. (10.3)"
+},
+{
+"key": "part00.html#180",
+"de": "<em>F24</em>Ich habe keine Erfahrung. Was zeige ich?"
+},
+{
+"key": "part00.html#181",
+"de": "Fertige eigene Arbeiten samt Material zum Entstehungsprozess. Nicht nur Auftragsarbeiten zählen. (10.3)"
+},
+{
+"key": "part00.html#182",
+"de": "<em>F25</em>Wie lang sollte ein Showreel sein?"
+},
+{
+"key": "part00.html#183",
+"de": "60–90 Sekunden. Über 2 Minuten schaut niemand bis zum Ende. (10.4)"
+},
+{
+"key": "part00.html#184",
+"de": "<em>F26</em>Die häufigste Frage im Vorstellungsgespräch?"
+},
+{
+"key": "part00.html#185",
+"de": "„Führen Sie uns durch eine Arbeit aus Ihrem Portfolio.“ Antworten Sie in der Reihenfolge Absicht, Problem, Lösung, Ergebnis. (10.6)"
+},
+{
+"key": "part00.html#186",
+"de": "<em>F27</em>Was ist ein guter erster Job?"
+},
+{
+"key": "part00.html#187",
+"de": "Eine Organisation, die klein genug ist, um den ganzen Prozess zu überblicken. Ihre erste Rolle ist nicht Ihre endgültige Identität. (10.1)"
+},
+{
+"key": "part00.html#188",
+"de": "<em>F28</em>Wann sollte ich freiberuflich arbeiten?"
+},
+{
+"key": "part00.html#189",
+"de": "Wenn Sie drei Monate Lebenshaltungskosten angespart haben und ein Angebot und einen Vertrag aufsetzen können. (10.10)"
+},
+{
+"key": "part00.html#190",
+"de": "<em>F29</em>Die Korrekturwünsche nehmen kein Ende"
+},
+{
+"key": "part00.html#191",
+"de": "Weil im Vertrag die Zahl der Korrekturschleifen nicht festgelegt war. Begrenzen Sie sie in der Regel auf 2–3. (9.5)"
+},
+{
+"key": "part00.html#192",
+"de": "<em>F30</em>Ich trete auf der Stelle"
+},
+{
+"key": "part00.html#193",
+"de": "Arbeiten Sie am Ton. Wer bisher nur aufs Bild gestarrt hat, verbessert sich damit am schnellsten. (4.10)"
+},
+{
+"key": "prologue.html#0",
+"de": "Prolog · VOR DEM DREH"
+},
+{
+"key": "prologue.html#1",
+"de": "Die Grundeinheiten des Bildes"
+},
+{
+"key": "prologue.html#2",
+"de": "Lernen Sie zuerst die zehn Wörter, die Sie für dieses Buch brauchen: Bildrahmen, Seitenverhältnis, Auflösung, Bildrate, Verschluss, Einstellung, Szene, Sequenz, Take und Plattformvorgaben. Ein kurzes Wörterbuch von vier Seiten – doch jeder Satz der folgenden TEILE baut darauf auf."
+},
+{
+"key": "prologue.html#3",
+"de": "<b>Prolog</b>Die Grundeinheiten des Bildes"
+},
+{
+"key": "prologue.html#4",
+"de": "Bildrahmen und Seitenverhältnis"
+},
+{
+"key": "prologue.html#5",
+"de": "Der Bildrahmen ist die Begrenzung durch die vier Bildränder; das Seitenverhältnis ist das Verhältnis von Breite zu Höhe. Diese beiden entscheiden vor allem anderen, was ins Bild kommt und was abgeschnitten wird."
+},
+{
+"key": "prologue.html#6",
+"de": "<span class=\"ph-id\">P00-FRAME</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Kameramonitor mit Rahmenlinien</b>Weiße Hilfslinien und ein Sicherheitsrahmen über einer Straßenszene</span>"
+},
+{
+"key": "prologue.html#7",
+"de": "<b>Hinweis</b> Die Hilfslinien auf dem Kameramonitor zeigen vorab, was im endgültigen Format bleibt und was wegfällt"
+},
+{
+"key": "prologue.html#8",
+"de": "Das Seitenverhältnis wird als Breite geteilt durch Höhe angegeben. 16:9 ergibt 1,78, CinemaScope 2,39. Hochformatvideo dreht dieselben Zahlen um und heißt 9:16."
+},
+{
+"key": "prologue.html#9",
+"de": "Format"
+},
+{
+"key": "prologue.html#10",
+"de": "Typische Auflösung"
+},
+{
+"key": "prologue.html#11",
+"de": "Einsatz"
+},
+{
+"key": "prologue.html#12",
+"de": "Alte Fernseher und Monitore, Archivmaterial, bewusster Retro-Look"
+},
+{
+"key": "prologue.html#13",
+"de": "Standard-Querformat für TV · YouTube · Lehrvideos"
+},
+{
+"key": "prologue.html#14",
+"de": "1998×1080 (DCI-Flat)"
+},
+{
+"key": "prologue.html#15",
+"de": "Flat-Format für die Kinoprojektion; wirkt fast wie 16:9"
+},
+{
+"key": "prologue.html#16",
+"de": "2048×858 (DCI-Scope), 2560×1080"
+},
+{
+"key": "prologue.html#17",
+"de": "CinemaScope, Breitbildmonitore, Spots mit Letterbox"
+},
+{
+"key": "prologue.html#18",
+"de": "Instagram-Feed, Karussells, Profilvideos"
+},
+{
+"key": "prologue.html#19",
+"de": "Hochformatiger Instagram-Feedpost; das Feedformat mit der größten Bildfläche"
+},
+{
+"key": "prologue.html#20",
+"de": "Shorts · Reels · TikTok · Stories, Vollbild im Hochformat"
+},
+{
+"key": "prologue.html#21",
+"de": "Vertikale LED-Werbeflächen, Vollbild auf manchen Smartphones"
+},
+{
+"key": "prologue.html#22",
+"de": "Equirektanguläre Projektion für 360-Grad-VR-Video, doppelt so breit wie hoch"
+},
+{
+"key": "prologue.html#23",
+"de": "<b>16<em>:9</em></b>Der Querformat-Standard, TV und YouTube"
+},
+{
+"key": "prologue.html#24",
+"de": "<b>9<em>:16</em></b>Vollbild hochkant, Kurzvideos und Stories"
+},
+{
+"key": "prologue.html#25",
+"de": "<b>21<em>:9</em></b>Kinoanmutung für Leinwand und Werbung"
+},
+{
+"key": "prologue.html#26",
+"de": "<b>1<em>:1</em></b>Quadrat im Feed, Karussells"
+},
+{
+"key": "prologue.html#27",
+"de": "<span class=\"ph-id\">P00-RATIOS</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Eine Szene, drei Formate</b>Ein 16:9-Fernseher, ein Breitbildmonitor mit Letterbox, ein hochkant gehaltenes Smartphone</span>"
+},
+{
+"key": "prologue.html#28",
+"de": "<b>Hinweis</b> Ändert man das Format, zeigt selbst dieselbe Szene einen anderen Ausschnitt und eine andere Motivgröße"
+},
+{
+"key": "prologue.html#29",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "prologue.html#30",
+"de": "Sicherheitsbereich – die innere Zone für Wichtiges, falls die Bildränder beschnitten oder von Bedienelementen verdeckt werden. Im Fernsehen blieben die äußeren 10 % frei; heute gilt das für die Stellen unter Plattform-Buttons und Untertiteln."
+},
+{
+"key": "prologue.html#31",
+"de": "Legen Sie das Format vor Drehbeginn fest: Wer quer dreht und hochkant zuschneidet, verliert 2/3 des Bildes. Müssen Sie in mehreren Formaten liefern, halten Sie das Motiv mittig, mit Luft auf beiden Seiten."
+},
+{
+"key": "prologue.html#32",
+"de": "<small>Übung</small>0.1"
+},
+{
+"key": "prologue.html#33",
+"de": "Aufgabe"
+},
+{
+"key": "prologue.html#34",
+"de": "Aktivieren Sie das Kameraraster am Handy und fotografieren Sie vom selben Punkt je einmal in 16:9, 1:1 und 9:16. Markieren Sie, was wegfällt."
+},
+{
+"key": "prologue.html#35",
+"de": "Tipp"
+},
+{
+"key": "prologue.html#36",
+"de": "Bewegen Sie nicht das Motiv, sondern drehen Sie nur die Kamera. Das Format verändert nicht das Motiv, sondern wie viel von der Umgebung zu sehen ist."
+},
+{
+"key": "prologue.html#37",
+"de": "<b>Prolog</b>Die Grundeinheiten des Bildes"
+},
+{
+"key": "prologue.html#38",
+"de": "Auflösung · Bildrate · Verschluss"
+},
+{
+"key": "prologue.html#39",
+"de": "Wie dicht jedes Bild ist, wie viele in 1 Sekunde gezeigt werden, wie lange jedes belichtet wurde: Diese drei Zahlen bestimmen die Textur eines Videos."
+},
+{
+"key": "prologue.html#40",
+"de": "<b>1080<em>p</em></b>1920×1080, FHD. Der Standard für die Abgabe"
+},
+{
+"key": "prologue.html#41",
+"de": "<b>4K<em>UHD</em></b>3840×2160, die vierfache Fläche von FHD"
+},
+{
+"key": "prologue.html#42",
+"de": "<b>24<em>fps</em></b>Die Konvention für Kino und Markenfilme"
+},
+{
+"key": "prologue.html#43",
+"de": "<b>30<em>fps</em></b>TV · Erklärvideos; 60 fps für Sport · Zeitlupe"
+},
+{
+"key": "prologue.html#44",
+"de": "<span class=\"ph-id\">P00-FPS</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Bilder pro Sekunde – aus Standbildern wird Bewegung</b>Zwölf Fotos eines Wassertropfens in Folge, wie ein Filmstreifen auf dem Leuchttisch</span>"
+},
+{
+"key": "prologue.html#45",
+"de": "<b>Hinweis</b> Video ist letztlich eine Folge von Standbildern; wie viele davon in 1 Sekunde gezeigt werden, entscheidet, wie flüssig die Bewegung wirkt"
+},
+{
+"key": "prologue.html#46",
+"de": "Pixel ergeben ein Bild"
+},
+{
+"key": "prologue.html#47",
+"de": "<b>16 × 9 = 144 Pixel</b><span>Man sieht Punkte</span>"
+},
+{
+"key": "prologue.html#48",
+"de": "<b>64 × 36 = 2.304 Pixel</b><span>Man sieht Formen</span>"
+},
+{
+"key": "prologue.html#49",
+"de": "<b>256 × 144</b><span>Man sieht Mimik</span>"
+},
+{
+"key": "prologue.html#50",
+"de": "<b>1920 × 1080 = 2,07 Mio. Pixel</b><span>FHD – die Pixel verschwinden</span>"
+},
+{
+"key": "prologue.html#51",
+"de": "4K UHD 3840×2160"
+},
+{
+"key": "prologue.html#52",
+"de": "FHD 1920×1080"
+},
+{
+"key": "prologue.html#53",
+"de": "HD 1280×720"
+},
+{
+"key": "prologue.html#54",
+"de": "<b>Auflösung = Anzahl der Punkte</b><span>FHD ist 4-mal HD, 4K 4-mal FHD, 8K 4-mal 4K</span><span>Bei gleicher Bildschirmgröße wirken mehr Punkte schärfer; bei gleicher Punktzahl wirkt ein größerer Bildschirm gröber (LED-Pitch)</span><span>Wer in 4K dreht und in FHD abgibt, kann bis zum Faktor zwei hineinzoomen und bleibt scharf</span>"
+},
+{
+"key": "prologue.html#55",
+"de": "<b>Abb. 0-1</b> Auflösung und Pixel – dasselbe Foto, dargestellt mit 144, 2.304, 36.000 und 2,07 Mio. Punkten. Der Moment, in dem die Punkte verschwinden, ist „Bildqualität“."
+},
+{
+"key": "prologue.html#56",
+"de": "<small>Auflösung</small>Anzahl der Punkte"
+},
+{
+"key": "prologue.html#57",
+"de": "Breite×Höhe in Pixeln. 1920×1080 sind etwa 2,07 Mio."
+},
+{
+"key": "prologue.html#58",
+"de": "Höhere Auflösung bleibt auch groß gezeigt scharf, aber die Dateien werden größer"
+},
+{
+"key": "prologue.html#59",
+"de": "Nach Bildschirmgröße und Betrachtungsabstand wählen"
+},
+{
+"key": "prologue.html#60",
+"de": "<small>Bildrate</small>Bilder pro Sekunde"
+},
+{
+"key": "prologue.html#61",
+"de": "Angabe in fps. 24 fürs Kino, 30 fürs Fernsehen, 60 für Sport und Games"
+},
+{
+"key": "prologue.html#62",
+"de": "Hoch aufnehmen, langsam abspielen: Zeitlupe"
+},
+{
+"key": "prologue.html#63",
+"de": "Im ganzen Projekt einen Wert beibehalten"
+},
+{
+"key": "prologue.html#64",
+"de": "<small>Verschluss</small>Belichtungszeit pro Bild"
+},
+{
+"key": "prologue.html#65",
+"de": "Lange Verschlusszeit verwischt Bewegung, kurze lässt sie ruckeln"
+},
+{
+"key": "prologue.html#66",
+"de": "180-Grad-Regel – Verschlusszeit 1/(2 × Bildrate), bei 24 fps 1/48 s"
+},
+{
+"key": "prologue.html#67",
+"de": "Basis für natürliche Bewegungsunschärfe"
+},
+{
+"key": "prologue.html#68",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "prologue.html#69",
+"de": "Drehen Sie in 4K und liefern Sie in FHD, dann hat der Schnitt Spielraum zum Hineinzoomen oder Neukadrieren fürs Hochformat. Diesen Spielraum schafft nur der Dreh."
+},
+{
+"key": "prologue.html#70",
+"de": "Legen Sie die drei Zahlen vor dem Dreh fest und halten Sie sie bis zum Ende. Wer sie mittendrin ändert, bekommt im Schnitt doppelte oder fehlende Bilder und eine uneinheitliche Bildqualität. Die Abgabevorgaben kommen zuerst; leiten Sie die Kameraeinstellungen daraus ab."
+},
+{
+"key": "prologue.html#71",
+"de": "<small>Übung</small>0.2"
+},
+{
+"key": "prologue.html#72",
+"de": "Aufgabe"
+},
+{
+"key": "prologue.html#73",
+"de": "Filmen Sie dieselbe Bewegung einmal mit 24 fps und einmal mit 60 fps, spielen Sie beides nebeneinander ab und schreiben Sie einen Satz dazu, was „filmisch“ und was „lebensecht“ wirkt."
+},
+{
+"key": "prologue.html#74",
+"de": "Tipp"
+},
+{
+"key": "prologue.html#75",
+"de": "Stellen Sie die Verschlusszeit auf 1/48 s bzw. 1/120 s, dann sehen Sie den Unterschied, den allein die Bildrate ausmacht."
+},
+{
+"key": "prologue.html#76",
+"de": "<b>Prolog</b>Die Grundeinheiten des Bildes"
+},
+{
+"key": "prologue.html#77",
+"de": "Einstellung · Szene · Sequenz · Take"
+},
+{
+"key": "prologue.html#78",
+"de": "Das sind die Einheiten, in denen man Video zählt. Sprechen Set und Schnittraum nicht dieselbe Sprache, stellt sich jeder bei derselben Szene etwas anderes vor."
+},
+{
+"key": "prologue.html#79",
+"de": "<span class=\"ph-id\">P00-TIMELINE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Einstellung · Szene · Sequenz sind Einheiten der Timeline</b>Clips in farbigen Blöcken gruppiert, eine Hand am Shuttle-Rad</span>"
+},
+{
+"key": "prologue.html#80",
+"de": "<b>Hinweis</b> Auf der Schnitt-Timeline ist ein Clip eine Einstellung, eine gleichfarbige Gruppe eine Szene und eine Gruppe von Gruppen eine Sequenz"
+},
+{
+"key": "prologue.html#81",
+"de": "<b>01</b><i>Einzelbild</i>Ein einzelnes Standbild. Ein 15-Sekunden-Spot hat bei 24 fps 360 Einzelbilder"
+},
+{
+"key": "prologue.html#82",
+"de": "<b>02</b><i>Einstellung</i>Ein ununterbrochener Kameralauf. Ein 15-Sekunden-Spot hat meist 6–12 Einstellungen"
+},
+{
+"key": "prologue.html#83",
+"de": "<b>03</b><i>Szene</i>Einstellungen am selben Ort · zur selben Zeit. Man zählt sie als Küchenszene, Straßenszene"
+},
+{
+"key": "prologue.html#84",
+"de": "<b>04</b><i>Sequenz</i>Szenen, die zusammen ein Ereignis bilden. Ein 15-Sekunden-Spot ist meist eine einzige Problem-Lösungs-Sequenz"
+},
+{
+"key": "prologue.html#85",
+"de": "Einstellung – die Einheit des Schnitts"
+},
+{
+"key": "prologue.html#86",
+"de": "Ein durchgehender Bildabschnitt im fertigen Werk"
+},
+{
+"key": "prologue.html#87",
+"de": "Was der Schnitt trennt und verbindet"
+},
+{
+"key": "prologue.html#88",
+"de": "„Viele Schnitte“ heißt: schneller Schnittrhythmus"
+},
+{
+"key": "prologue.html#89",
+"de": "Take – die Einheit des Drehs"
+},
+{
+"key": "prologue.html#90",
+"de": "Ein Versuch, eine Einstellung zu drehen. Take 1, Take 2"
+},
+{
+"key": "prologue.html#91",
+"de": "Jedes „Noch mal!“ am Set ergibt einen weiteren Take"
+},
+{
+"key": "prologue.html#92",
+"de": "Schneiden heißt, aus mehreren Takes einen auszuwählen"
+},
+{
+"key": "prologue.html#93",
+"de": "Coverage heißt, eine Szene in mehrere Größen und Perspektiven aufgelöst zu drehen. Erst mit einer Totale, die alles zeigt, einer Halbnahen auf die Personen und Großaufnahmen von Gesichtern und Händen hat der Schnitt eine Wahl. Eine Szene ohne Coverage lässt sich nicht schneiden; sie muss neu gedreht werden."
+},
+{
+"key": "prologue.html#94",
+"de": "<small>Übung</small>0.3"
+},
+{
+"key": "prologue.html#95",
+"de": "Aufgabe"
+},
+{
+"key": "prologue.html#96",
+"de": "Wählen Sie einen 15-Sekunden-Spot, der Ihnen gefällt, zählen Sie die Einstellungen und halten Sie in einer Tabelle fest, in wie viele Szenen er sich gliedert."
+},
+{
+"key": "prologue.html#97",
+"de": "Tipp"
+},
+{
+"key": "prologue.html#98",
+"de": "Halten Sie bei jedem Bildwechsel an. Aufeinanderfolgende Einstellungen am selben Ort gehören zu einer Szene."
+},
+{
+"key": "prologue.html#99",
+"de": "<b>Prolog</b>Die Grundeinheiten des Bildes"
+},
+{
+"key": "prologue.html#100",
+"de": "Querformat, Hochformat und Plattformvorgaben"
+},
+{
+"key": "prologue.html#101",
+"de": "Je nach Veröffentlichungsort hat dasselbe Video ein anderes Format, eine andere Länge, andere verdeckte Bereiche. Die Plattform ist nicht die letzte Variable der Planung, sondern ihre erste Bedingung."
+},
+{
+"key": "prologue.html#102",
+"de": "<span class=\"ph-id\">P00-PHONEVERT</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Das Zeitalter des Hochformats</b>Eine junge Frau filmt nachts an einem Straßenstand mit hochkant gehaltenem Handy, warmes Licht</span>"
+},
+{
+"key": "prologue.html#103",
+"de": "<b>Hinweis</b> Ein Hochformatbild zeigt Gesichter und Hände groß, verzichtet aber auf den Kontext zu beiden Seiten"
+},
+{
+"key": "prologue.html#104",
+"de": "Plattform"
+},
+{
+"key": "prologue.html#105",
+"de": "Format"
+}
+]

@@ -1,0 +1,654 @@
+<!-- PART 05 편집과 후반 작업 -->
+<section class="part" id="part5">
+  <div class="photo"><img src="img_new/OPEN-EDIT.jpg" alt=""><div class="label">PART</div><div class="num"><small>PART</small>05</div></div>
+  <div class="body">
+    <div class="makes"><b>What you make in this PART</b><ol><li>A 1-minute edit cut down with purposeful cuts</li><li>A 5-second logo animation with easing</li><li>A delivery master with compositing · grading · output specs</li></ol></div>
+    <div><h1>Editing and post-production</h1><p class="intro">Shooting gathers material; editing makes meaning. Change the order and length and the same footage becomes a different video. This PART moves from the history and principles of editing to a map of Premiere Pro, After Effects and DaVinci Resolve. The question that opens this chapter — what keeps people watching to the end?</p></div>
+  </div>
+  <div class="credit">Photo P-05 Night edit suite — timeline and grading monitor · generative image</div>
+</section>
+
+<section class="howto page">
+  <figure class="hero wide"><img src="img/p183_210_1344x752.png" alt=""><figcaption><b>P-05</b> Night edit suite — timeline and grading monitor</figcaption></figure>
+  <div class="kicker">Using this chapter in class</div>
+  <p class="goal">Cut for a reason and apply easing</p>
+  <p class="prep"><b>Materials</b>Editing app installed, practice footage folder, 1 music track</p>
+  <div class="timeline">
+    <div class="slot"><b>10 min</b><i>Intro</i><span>Screen edits with music laid first vs. last</span></div>
+    <div class="slot"><b>15 min</b><i>Concept</i><span>8 editing principles, action and match cuts, Premiere vs. After Effects roles</span></div>
+    <div class="slot"><b>10 min</b><i>Plates</i><span>Explain easing with the bouncing ball and timing diagrams</span></div>
+    <div class="slot"><b>10 min</b><i>Exercise</i><span>Same footage, two 30-second edits</span></div>
+    <div class="slot"><b>5 min</b><i>Wrap-up</i><span>Agree on project folder naming</span></div>
+  </div>
+  <div class="check"><b>Check point</b>You can say in one line why you made each cut</div>
+</section>
+
+<section class="essay page" id="intro-5">
+  <header><div class="crumb">PART 05</div><h2>Introduction</h2></header>
+  <div class="cols">
+    <p>Shooting gathers material; editing makes meaning. Change the order and length and the same footage yields an entirely different video. Kuleshov proved this 100 years ago, and it works even harder in the short-form era of ever-shorter cuts.</p>
+    <p>This part starts from the history of editing technology and lays out Premiere Pro and After Effects features systematically. The feature lists are a map, not something to memorize. Know which area of which tool a problem belongs to and one search solves it; without a map, you wander for hours.</p>
+    <p>After Effects in particular thinks differently from Premiere. Premiere handles time horizontally; After Effects handles layers vertically. Trying to cut in After Effects without knowing this is the classic beginner's mistake. Simply splitting the two tools' roles halves your working time.</p>
+  </div>
+</section>
+
+<section class="essay page" id="essay-7">
+  <header><div class="crumb">Background 7</div><h2>Invisible editing</h2></header>
+  <div class="cols">
+    <p>Good editing keeps the audience from noticing the editing. A cut slices time and space, yet the audience must feel it as a natural flow.</p>
+    <p>Editor Walter Murch's In the Blink of an Eye (1995) likens a blink to a cut. We blink when a thought changes or our gaze shifts. A good cut likewise falls where one paragraph of the viewer's thought ends. So the editor looks first not at the screen but at where the audience's mind has reached.</p>
+    <p>Murch ranked the criteria for a cut: emotion 51 percent, story 23 percent, rhythm 10 percent, eye-trace 7 percent, the 2D plane of the screen 5 percent, 3D spatial continuity 4 percent. The order matters more than the numbers: pick the cut with the right emotion even if continuity slips a little. Student work often flips this order, clinging to matched action and losing the emotional flow.</p>
+    <p>Continuity techniques — cutting on action, eyeline match, the 180-degree rule — all keep the audience from getting lost in space and time. Eisenstein's montage tradition did the opposite, exposing the seams to create collision and meaning. The editor chooses, case by case, to hide the seams or show them.</p>
+    <p>Editing is also an art of time. Shorter cuts raise tension; longer ones give the audience room to think. Cuts in ads and short-form speed up not just to pack in information but to keep catching the viewer's attention afresh.</p>
+    <p>Digital nonlinear editing made everything undoable, but it does not supply judgment. Even while learning the software, make a habit of asking at every cut, 'What is the audience feeling now?' Further reading: Walter Murch, In the Blink of an Eye; Ken Dancyger, The Technique of Film and Video Editing.</p>
+  </div>
+</section>
+
+<article class="sec page" id="s5-1">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.1</div>
+    <h2>History of editing tools</h2>
+    <p class="lead">Tools went from film scissors to generative AI; the skeleton of the work barely changed.</p>
+  </header>
+  <div class="gallery cols-2 wide big"><div class="title"><b>Reference photos 5.1A</b>Generated images — the splicing era</div>
+    <figure class="ph" data-id="P05-SPLICER" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. editor's hands at a vintage 35mm film splicer, cut film strips, tape, a pair of white cotton gloves, warm lamp">
+      <div class="ph-box"><span class="ph-id">P05-SPLICER</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>When film was cut and spliced</b>An editor's hands at a splicer, cut film strips and tape</span></div>
+      <figcaption><b>a</b>Splicer — a tool that physically cuts film and joins it with tape or cement. We still call the unit of editing a 'cut' after this physical act of cutting film with scissors.</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-FLATBED" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a flatbed film editing table with reels, small viewing screen and film threaded through, dim editing room">
+      <div class="ph-box"><span class="ph-id">P05-FLATBED</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Flatbed editor</b>Horizontal editing table with reels and a small screen, dark cutting room</span></div>
+      <figcaption><b>b</b>Flatbed editor — a horizontal table such as the Steenbeck, where film was wound back and forth to find the cut point. The feel for counting frames by fingertip was trained here.</figcaption>
+    </figure>
+  </div>
+  <aside class="term"><b>EDL</b><p>Edit decision list. The reference document for rebuilding offline edit decisions in high quality during the online.</p></aside>
+  <table class="t compact">
+    <thead><tr><th>Period</th><th>What changed</th></tr></thead>
+    <tbody>
+      <tr><td>1920s</td><td>Physical editing: cutting and splicing film by hand. Editors wound film on the Moviola and Steenbeck to find points and counted frames by fingertip.</td></tr>
+      <tr><td>1956–</td><td>Videotape arrives. Editing shifts to linear assembly, copying between two decks.</td></tr>
+      <tr><td>1970–80s</td><td>Timecode standardized, EDL introduced. The 2-stage method takes hold: decide offline, rebuild in high quality online.</td></tr>
+      <tr><td>1989</td><td>Nonlinear editing systems go commercial. With random access, editing becomes a thinking job of rearranging material.</td></tr>
+      <tr><td>1991–1999</td><td>Desktop editing software arrives in waves. The personal computer becomes the cutting room and entry costs plunge.</td></tr>
+      <tr><td>2000s</td><td>HD transition, more codecs. Proxy editing goes mainstream.</td></tr>
+      <tr><td>2010s</td><td>Cloud collaboration, auto color matching, GPU acceleration. A pro grading tool goes free and color correction becomes a common skill.</td></tr>
+      <tr><td>2020s</td><td>Mobile editing apps, auto captions, auto cutting. Generative AI joins as an editing assistant; the 1st rough cut is being automated while people focus on judgment.</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>Habits from history</h4><p>The old split between offline and online lives on in today's proxy editing. EDLs and timecode are still the basis of collaboration, and the Moviola-era feel for frames still marks a good editor.</p></div>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.1</div>
+    <dl><dt>Task</dt><dd>Make two versions of the same scene: joined strictly in order, as in the Moviola era, and edited nonlinearly.</dd><dt>Tip</dt><dd>Set a rule: no undo in the in-order version.</dd><dt>Assessment</dt><dd>How the method shapes working attitude</dd><dt>Model answer</dt><dd>Log both methods' working time and results.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-2">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.2</div>
+    <h2>Basic editing principles</h2>
+    <p class="lead">Cut not because it's dull but when the next cut offers better information.</p>
+  </header>
+  <figure class="ph wide" data-id="P05-NLE" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. editor at a dual-monitor nonlinear editing suite, timeline with color-coded clips, a reference monitor showing a city shot">
+    <div class="ph-box"><span class="ph-id">P05-NLE</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>Nonlinear editing</b>A dual-monitor edit suite, a timeline of color-coded clips and a reference monitor</span></div>
+    <figcaption><b>Note</b>Nonlinear editing — with instant access to any point, editing changed from 'cutting' to 'thinking by choosing and arranging'</figcaption>
+  </figure>
+  <figure class="fg wide"><div class="ttl">Read the timeline in four rows</div><svg viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="230" fill="#F6F5F3"/><text x="62" y="46" text-anchor="end" font-weight="500" fill="#1B1B1D">V2 Titles</text><rect x="117.6" y="30" width="65.6" height="24" fill="#D8C7CB"/><rect x="317.5" y="30" width="65.6" height="24" fill="#D8C7CB"/><text x="62" y="78" text-anchor="end" font-weight="500" fill="#1B1B1D">V1 Video</text><rect x="70.0" y="62" width="141.8" height="24" fill="#B9B5AC"/><rect x="212.8" y="62" width="132.3" height="24" fill="#8E8A82"/><rect x="346.1" y="62" width="198.9" height="24" fill="#B9B5AC"/><text x="62" y="120" text-anchor="end" font-weight="500" fill="#1B1B1D">A1 Dialogue</text><rect x="70.0" y="104" width="170.4" height="24" fill="#C9D6D0"/><rect x="241.4" y="104" width="75.2" height="24" fill="#A8BFB4"/><rect x="317.5" y="104" width="227.5" height="24" fill="#C9D6D0"/><text x="62" y="152" text-anchor="end" font-weight="500" fill="#1B1B1D">A2 Music · SFX</text><rect x="70.0" y="136" width="475.0" height="24" fill="#EFE9DF"/><line x1="212.8" y1="56" x2="212.8" y2="90" stroke="#1B1B1D" stroke-width="1.2"/><line x1="241.4" y1="98" x2="241.4" y2="132" stroke="#1B1B1D" stroke-width="1.2"/><path d="M212.8,88 L212.8,96 L241.4,96 L241.4,100" fill="none" stroke="#7A1C2B" stroke-width="1.4"/><text x="227.1" y="176" text-anchor="middle" fill="#7A1C2B" font-weight="500">L-cut</text><text x="241.4" y="188" text-anchor="end" fill="#3C3C40" font-size="8">Previous shot's sound carries over</text><line x1="346.1" y1="56" x2="346.1" y2="90" stroke="#1B1B1D" stroke-width="1.2"/><line x1="317.5" y1="98" x2="317.5" y2="132" stroke="#1B1B1D" stroke-width="1.2"/><path d="M346.1,88 L346.1,96 L317.5,96 L317.5,100" fill="none" stroke="#7A1C2B" stroke-width="1.4"/><text x="331.8" y="176" text-anchor="middle" fill="#7A1C2B" font-weight="500">J-cut</text><text x="317.5" y="188" text-anchor="start" fill="#3C3C40" font-size="8">Next shot's sound comes in early</text><line x1="279.4" y1="20" x2="279.4" y2="164" stroke="#7A1C2B" stroke-width="1.6"/><polygon points="274.4,14 284.4,14 279.4,22" fill="#7A1C2B"/><text x="285.4" y="18" fill="#7A1C2B" font-size="8">Playhead</text><text x="70" y="214" fill="#1B1B1D" font-weight="500">Offset the picture and sound edits and the cut flows. Cut both at one point and it "clunks."</text></svg><figcaption><b>Figure 46</b> Structure of an editing timeline — the top two rows are "what you see," the bottom two "what you hear." J- and L-cuts put the sound edit before or after the picture edit.</figcaption></figure>
+  <aside class="tip"><b>TIP</b><p>Lay sound first. Set the timing of music and dialogue, then lay picture on top, and the finish improves.</p></aside>
+  <ol class="rule">
+    <li><b>01</b><span>Cut only for a reason: when the next cut gives better information.</span></li>
+    <li><b>02</b><span>Cut mid-action. Cut after the action ends and the rhythm sags.</span></li>
+    <li><b>03</b><span>Lay sound first. Set the music and dialogue timing, then add picture.</span></li>
+    <li><b>04</b><span>Change size and angle together. Change only one and it looks like a jump.</span></li>
+    <li><b>05</b><span>Keep eyelines. If a character looking left looks right in the next cut, the relationship breaks.</span></li>
+    <li><b>06</b><span>Throw out boldly. Keep a shot just because it was hard won and the video drags.</span></li>
+    <li><b>07</b><span>Lock the opening and ending first. Once they are set, the middle sorts itself out.</span></li>
+    <li><b>08</b><span>Rewatch a day after finishing. Slack you couldn't see that day will show.</span></li>
+  </ol>
+  <blockquote class="pull">Keep the cuts you need, not the good ones.<small>5.2 Basic editing principles</small></blockquote>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.2</div>
+    <dl><dt>Task</dt><dd>Cut 3 minutes of footage to 1 minute. List what you threw out.</dd><dt>Tip</dt><dd>Keep the cuts you need, not the good ones. Start each cut mid-action.</dd><dt>Assessment</dt><dd>Clarity of story, natural cut points</dd><dt>Model answer</dt><dd>Walter Murch's editing priorities (emotion, story, rhythm). One line on why each cut was dropped.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-3">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.3</div>
+    <h2>Comparing editing software</h2>
+    <p class="lead">For jobs, knowing two tools deeply beats knowing three shallowly.</p>
+  </header>
+  <aside class="note"><b>Note</b><p>Check first: CapCut's commercial-use terms, and Final Cut's Mac-only status and collaboration limits.</p></aside>
+  <table class="t compact wide">
+    <thead><tr><th>Tool</th><th>Strengths</th><th>Weaknesses</th><th>Best for</th><th>Pricing</th></tr></thead>
+    <tbody>
+      <tr><td>Premiere Pro</td><td>Versatility, After Effects link, Korean hiring standard</td><td>Uneven stability, corrupted projects</td><td>Ads, web video, most pro work</td><td>Subscription</td></tr>
+      <tr><td>Final Cut Pro</td><td>Speed, stability, magnetic timeline</td><td>Mac only, limited collaboration</td><td>Solo creators, Mac users</td><td>One-time purchase</td></tr>
+      <tr><td>DaVinci Resolve</td><td>Top-tier grading, strong free version</td><td>Learning curve, high specs</td><td>Color-centric, no-budget work</td><td>Free + paid edition</td></tr>
+      <tr><td>After Effects</td><td>Compositing, motion graphics, 3D space</td><td>Unsuited to cutting</td><td>Titles, VFX, infographics</td><td>Subscription</td></tr>
+      <tr><td>CapCut</td><td>Auto captions, templates, mobile sync</td><td>Check commercial-use terms</td><td>Short-form, quick jobs</td><td>Free + paid</td></tr>
+      <tr><td>Vrew</td><td>Speech-to-text captions, silence removal</td><td>Limited precision</td><td>Lectures, interviews, explainers</td><td>Free + paid</td></tr>
+      <tr><td>Avid Media Composer</td><td>Large teams, broadcast standard</td><td>High entry barrier</td><td>TV drama, broadcasters</td><td>Subscription</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>What to learn first</h4><p>Korean job postings most often ask for Premiere Pro plus After Effects. Add DaVinci Resolve to go deep into color, or CapCut if you turn out a lot of short-form.</p></div>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.3</div>
+    <dl><dt>Task</dt><dd>Do the same 10-cut edit in two editing programs and compare the workflows.</dd><dt>Tip</dt><dd>Focus the comparison on shortcuts and project structure.</dd><dt>Assessment</dt><dd>Specific comparison points, reasons for your choice</dd><dt>Model answer</dt><dd>Tabulate recommended tools by use (short-form, ads, features).</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-4">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.4</div>
+    <h2>Premiere Pro at a glance</h2>
+    <p class="lead">Know each panel's role and have a map of when the 20 features are needed, and one search solves any problem.</p>
+  </header>
+  <aside class="tip"><b>TIP</b><p>Splitting bins by shoot day, scene, music and graphics is a habit that sets your editing speed.</p></aside>
+  <h3>Workspace layout</h3>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Manage</small>Project panel</h4><ul><li>The drawer for source files</li><li>Bins by shoot day · scene · music · graphics</li></ul></div>
+    <div class="card"><h4><small>Review</small>Source monitor</h4><ul><li>View raw clips, set in · out points</li><li>Screen clips here before the timeline</li></ul></div>
+    <div class="card"><h4><small>Review</small>Program monitor</h4><ul><li>The window showing your edit</li><li>Keep safe-area guides and margins on</li></ul></div>
+    <div class="card"><h4><small>Edit</small>Timeline</h4><ul><li>Where the actual editing happens</li><li>Video tracks stack up, audio tracks down</li></ul></div>
+    <div class="card"><h4><small>Effects</small>Effects panel · Effect Controls</h4><ul><li>Transitions and effects; favorite the ones you use often</li><li>Adjust position · scale · rotation · opacity and effect values, add keyframes</li></ul></div>
+    <div class="card"><h4><small>Color</small>Lumetri Color</h4><ul><li>Dedicated color panel</li><li>Basic Correction, Creative, Curves, Color Wheels, HSL Secondary, Vignette</li></ul></div>
+    <div class="card"><h4><small>Graphics</small>Essential Graphics</h4><ul><li>Titles and graphics templates</li><li>Load a motion graphics template and change only the text</li></ul></div>
+    <div class="card"><h4><small>Sound</small>Audio Track Mixer</h4><ul><li>Volume and pan per track</li><li>Manage audio effects</li></ul></div>
+    <div class="card"><h4><small>Sound</small>Essential Sound</h4><ul><li>Tag as dialogue · music · SFX · ambience for auto processing</li><li>Dialogue noise reduction, loudness normalization</li></ul></div>
+  </div>
+  <h3>20 features you must learn</h3>
+  <table class="t compact wide">
+    <thead><tr><th>Feature</th><th>What it does</th><th>When to use</th></tr></thead>
+    <tbody>
+      <tr><td>Sequence settings</td><td>Set resolution, fps, aspect ratio</td><td>First thing in a new project</td></tr>
+      <tr><td>Create proxies</td><td>Edit with light stand-ins</td><td>4K-plus footage, low-spec PC</td></tr>
+      <tr><td>Multicam editing</td><td>Sync several cameras and switch</td><td>Events, interviews, shows</td></tr>
+      <tr><td>Audio sync</td><td>Auto-sync by waveform</td><td>With an external recorder</td></tr>
+      <tr><td>Ripple edit</td><td>Trim and what follows closes up</td><td>Whole rough cut</td></tr>
+      <tr><td>Rolling edit</td><td>Moves only the edit point</td><td>Fine-tuning timing</td></tr>
+      <tr><td>Slip and slide</td><td>Change content or position, same length</td><td>Swap content, keep rhythm</td></tr>
+      <tr><td>Markers</td><td>Flags and notes on the timeline</td><td>Applying feedback, marking beats</td></tr>
+      <tr><td>Nesting</td><td>Groups clips into one</td><td>Effects on a group</td></tr>
+      <tr><td>Adjustment layer</td><td>Effects on all clips below at once</td><td>Overall grade, grain</td></tr>
+      <tr><td>Speed change</td><td>Slow, fast, reverse</td><td>Slow motion, time-lapse</td></tr>
+      <tr><td>Time interpolation</td><td>Frame blending, optical flow</td><td>Smooth slow motion</td></tr>
+      <tr><td>Masks and tracking</td><td>Effects on one area only</td><td>Blurring faces, hiding logos</td></tr>
+      <tr><td>Warp Stabilizer</td><td>Removes shake</td><td>Handheld shots</td></tr>
+      <tr><td>Lumetri LUTs</td><td>Converts log footage</td><td>Grading step 1</td></tr>
+      <tr><td>Color Match</td><td>Auto-matches two shots' color</td><td>Shots from different cameras</td></tr>
+      <tr><td>Auto captions</td><td>Captions via speech recognition</td><td>Interviews, explainers</td></tr>
+      <tr><td>Essential Graphics templates</td><td>Reuse recurring title styles</td><td>Series content</td></tr>
+      <tr><td>Relink offline media</td><td>Reconnect sources with broken paths</td><td>After moving folders</td></tr>
+      <tr><td>Project Manager</td><td>Collects only the media used</td><td>Backup, vendor handoff</td></tr>
+    </tbody>
+  </table>
+  <h3>Common shortcuts</h3>
+  <table class="t compact">
+    <thead><tr><th>Shortcut</th><th>Function</th><th>Shortcut</th><th>Function</th></tr></thead>
+    <tbody>
+      <tr><td>C</td><td>Razor tool</td><td>V</td><td>Selection tool</td></tr>
+      <tr><td>A</td><td>Track select forward</td><td>B</td><td>Ripple edit tool</td></tr>
+      <tr><td>I / O</td><td>In / out point</td><td>Space</td><td>Play and stop</td></tr>
+      <tr><td>Q / W</td><td>Ripple trim previous / next</td><td>M</td><td>Add marker</td></tr>
+      <tr><td>Ctrl+K</td><td>Cut at playhead</td><td>Shift+Delete</td><td>Ripple delete</td></tr>
+      <tr><td>J / K / L</td><td>Reverse / stop / play</td><td>Arrow keys</td><td>Move 1 frame</td></tr>
+      <tr><td>Ctrl+M</td><td>Export</td><td>Ctrl+S</td><td>Save</td></tr>
+    </tbody>
+  </table>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.4</div>
+    <dl><dt>Task</dt><dd>Finish a 1-minute video in Premiere Pro: cutting, captions, audio cleanup, color and export.</dd><dt>Tip</dt><dd>Match the sequence settings to the source and set up shortcuts early.</dd><dt>Assessment</dt><dd>Tidy timeline, output specs met</dd><dt>Model answer</dt><dd>Split tracks by role (dialogue, SFX, music) and color-label them.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-5">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.5</div>
+    <h2>After Effects at a glance</h2>
+    <p class="lead">After Effects is not a cutting tool but one for stacking, moving and compositing elements within a single frame. Premiere handles time horizontally; After Effects handles layers vertically.</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">Edit in time, composite in layers</div><div class="grid plan"><img src="img_new/LAYERS-ISO.jpg"><ol class="misel"><li><i>6</i><span><b>Camera</b> — virtual camera — views every layer</span></li><li><i>5</i><span><b>Light</b> — shadow and brightness for 3D layers only</span></li><li><i>4</i><span><b>3D text</b> — letters with depth — sides show as the camera turns</span></li><li><i>3</i><span><b>Person (keyed)</b> — footage, background removed</span></li><li><i>2</i><span><b>Midground</b> — graphics · gradient — depth</span></li><li><i>1</i><span><b>Background plate</b> — bottom — base footage</span></li><li class="x">The top layer is the front of the frame. Reorder and what is hidden changes — edit in time, composite in layers.</li></ol></div><figcaption><b>Figure 47</b> The After Effects layer stack — six layers stacked bottom to top. Camera and light are not images but "ways of viewing the layers."</figcaption></figure>
+  <aside class="term"><b>P · S · R · T</b><p>Position, scale, rotation, opacity. Shortcuts that call up the five basic keyframe properties.</p></aside>
+  <h3>Key concepts</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Unit</small>Composition</h4><ul><li>The unit canvas. Resolution · frame rate · duration are fixed here</li><li>Check first — set it wrong and you redo everything</li></ul></div>
+    <div class="card"><h4><small>Element</small>Layer</h4><ul><li>Upper layers cover lower ones</li><li>Footage, solid, text, shape, camera, light, null</li></ul></div>
+    <div class="card"><h4><small>Motion</small>Keyframe</h4><ul><li>Marks when a value changes</li><li>Basics: position · scale · rotation · opacity, shortcuts P S R T</li></ul></div>
+    <div class="card"><h4><small>Wrap</small>Pre-compose</h4><ul><li>Bundles several layers into one</li><li>Key to controlling effect order</li></ul></div>
+    <div class="card"><h4><small>Cutout</small>Track matte</h4><ul><li>Cuts out by another layer's shape (alpha) or brightness (luma)</li><li>Used constantly to mask 3D text</li></ul></div>
+    <div class="card"><h4><small>Hierarchy</small>Parenting</h4><ul><li>Ties one layer to another so they move together</li><li>Parent to a null to drive complex motion as one</li></ul></div>
+    <div class="card"><h4><small>Math</small>Expressions</h4><ul><li>Values by formula: loops · wiggle · links without keyframes</li><li>wiggle and loopOut are the starter essentials</li></ul></div>
+  </div>
+  <h3>Features by category</h3>
+  <table class="t compact wide">
+    <thead><tr><th>Category</th><th>Main features</th><th>Practical use</th></tr></thead>
+    <tbody>
+      <tr><td>Text</td><td>Text animators, Source Text, path text</td><td>Titles, caption motion, copy reveals</td></tr>
+      <tr><td>Shapes</td><td>Shape layers, Trim Paths, Repeater</td><td>Infographics, line animation, shape transitions</td></tr>
+      <tr><td>Masks</td><td>Pen masks, mask feather, mask expansion</td><td>Partial reveals, transitions</td></tr>
+      <tr><td>Roto</td><td>Roto Brush, Refine Edge</td><td>Isolating people when chroma key is impossible</td></tr>
+      <tr><td>Keying</td><td>Keylight, Spill Suppressor, Advanced Spill</td><td>Green-screen compositing</td></tr>
+      <tr><td>Tracking</td><td>2D point, corner pin, 3D Camera Tracker, Mocha</td><td>Pinning elements, screen swaps</td></tr>
+      <tr><td>3D</td><td>3D layers, cameras, lights, shadows, depth of field</td><td>3D titles, spatial staging</td></tr>
+      <tr><td>Puppet</td><td>Puppet pins, Starch tool</td><td>Animating illustrated characters</td></tr>
+      <tr><td>Time</td><td>Time remap, Force Motion Blur, Pixel Motion</td><td>Retiming, speed ramps</td></tr>
+      <tr><td>Color</td><td>Lumetri Color, Curves, Color Balance</td><td>Matching element color</td></tr>
+      <tr><td>Effects</td><td>Glow, blur, displacement, Fractal Noise</td><td>Light, distortion, texture</td></tr>
+      <tr><td>Output</td><td>Render Queue, Media Encoder link</td><td>Output with alpha, final delivery</td></tr>
+    </tbody>
+  </table>
+  <h3>Working order for 3D text and lighting</h3>
+  <aside class="tip"><b>TIP</b><p>Match the camera's focal length to the live-action lens, or the perspective won't line up.</p></aside>
+  <ol class="rule">
+    <li><b>01</b><span>Choose the typeface. Tight tracking makes faces collide in 3D extrusion, so track wide and go bold.</span></li>
+    <li><b>02</b><span>Make the text layer 3D and set extrusion depth. 15–30% of letter height is safe.</span></li>
+    <li><b>03</b><span>Set the material. Metal: reflections and highlights; matte: mostly diffuse.</span></li>
+    <li><b>04</b><span>Add a camera. Match its focal length to the live-action lens.</span></li>
+    <li><b>05</b><span>Place lights. Check the shadow direction in the footage and set the key light at the same angle.</span></li>
+    <li><b>06</b><span>Make a floor layer to catch shadows. Without it, the text looks like a sticker floating in air.</span></li>
+    <li><b>07</b><span>Add motion. By default, ease out for entrances, ease in for exits.</span></li>
+    <li><b>08</b><span>Turn on motion blur and match the grain to the live action.</span></li>
+  </ol>
+  <h3>Easing (accel · decel) reference values</h3>
+  <aside class="term"><b>Easing</b><p>The acceleration · deceleration curve of a move. Linear is mechanical; Easy Ease slows going in and out. Shape it as a speed curve in the Graph Editor.</p></aside>
+  <table class="t compact">
+    <thead><tr><th>Easing type</th><th>Feel</th><th>Use for</th><th>Frames at 24fps</th></tr></thead>
+    <tbody>
+      <tr><td>Linear</td><td>Mechanical, lifeless</td><td>Endless loops, spinning BGs</td><td>-</td></tr>
+      <tr><td>Ease out</td><td>Arrives fast, settles softly</td><td>Entrances</td><td>10–15 frames</td></tr>
+      <tr><td>Ease in</td><td>Starts slow, speeds away</td><td>Exits</td><td>8–12 frames</td></tr>
+      <tr><td>Ease in-out</td><td>Most natural</td><td>Most moves</td><td>12–18 frames</td></tr>
+      <tr><td>Overshoot</td><td>Passes the target, comes back</td><td>Lively logo reveals</td><td>15–20 frames</td></tr>
+      <tr><td>Bounce</td><td>Bounces to rest</td><td>Casual, kids' content</td><td>20–25 frames</td></tr>
+    </tbody>
+  </table>
+  <h3>Motion graphics fix-up order</h3>
+  <div class="steps cols-4">
+    <div class="step"><b>01</b><i>Apply easing</i>No right-angle breaks in the speed curve</div>
+    <div class="step"><b>02</b><i>Add anticipation</i>Move the opposite way first</div>
+    <div class="step"><b>03</b><i>Separate follow-through</i>Let attached parts trail behind</div>
+    <div class="step"><b>04</b><i>Push exaggeration</i>Bigger than life</div>
+  </div>
+  <p>Apply just these four steps in order and the beginner look disappears. A speed curve that bends at a right angle in the Graph Editor always looks awkward, so smooth it out.</p>
+  <h3>What recent updates changed</h3>
+  <aside class="note"><b>Note</b><p>Feature names and behavior change between versions. Before the exercise, check the what's-new notes for your installed version.</p></aside>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Roto</small>Roto Brush 3.0</h4><ul><li>AI-model Roto Brush. Rough strokes on one frame track even hair · soft edges</li><li>Now the standard tool for isolating people shot without chroma key</li></ul></div>
+    <div class="card"><h4><small>3D</small>Advanced 3D renderer</h4><ul><li>Import .glb · .gltf · .obj · .fbx 3D models straight into a composition</li><li>3D lights, shadows and environment light that blend with live action</li></ul></div>
+    <div class="card"><h4><small>Camera</small>3D camera · null object</h4><ul><li>Parent the camera to a null to drive dolly · orbit · push-in from one property</li><li>Text · models · flat layers share one perspective in one space</li></ul></div>
+    <div class="card"><h4><small>Keying</small>Keylight + Key Cleaner · Advanced Spill Suppressor</h4><ul><li>Pull the primary key with Keylight, clean edges with Key Cleaner</li><li>Remove green spill on skin with Advanced Spill Suppressor. Stacking the three in order is the basic set</li></ul></div>
+    <div class="card"><h4><small>Properties</small>Properties panel · Essential Properties</h4><ul><li>A selected layer's common properties in one panel, editable without opening the timeline</li><li>Essential Properties expose values inside a precomp so each copy can differ</li></ul></div>
+    <div class="card"><h4><small>Integration</small>Dynamic Link · Text-Based Editing · Generative Extend</h4><ul><li>Dynamic Link places AE compositions on the Premiere timeline without rendering</li><li>Premiere's Text-Based Editing (cutting from the transcript) and Generative Extend (generating extra length at clip ends) speed up cutting</li></ul></div>
+  </div>
+  <div class="gallery cols-2 wide big"><div class="title"><b>Reference photos 5.5A</b>Generated images — compositing and motion graphics</div>
+    <figure class="ph" data-id="P05-ROTO" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. split-screen style still: left half a person in front of a green screen with a dashed mask outline, right half the same person composited into a street scene">
+      <div class="ph-box"><span class="ph-id">P05-ROTO</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Roto · keying · compositing</b>Left, a person before a green screen with mask lines; right, the result composited into a street scene</span></div>
+      <figcaption><b>a</b>Roto · keying · compositing — separation (roto · key), cleanup (spill removal) and background color matching are one set</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-MOGRAPH" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. motion designer at a workstation with a 3D viewport showing a camera rig and null objects, animated text layers">
+      <div class="ph-box"><span class="ph-id">P05-MOGRAPH</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Motion graphics work</b>A 3D viewport showing a camera rig and null object, animated text layers</span></div>
+      <figcaption><b>b</b>Motion graphics work — design camera moves with a 3D camera and null object, and apply easing to text layers</figcaption>
+    </figure>
+  </div>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.5</div>
+    <dl><dt>Task</dt><dd>Make a 5-second logo-reveal motion graphic in After Effects.</dd><dt>Tip</dt><dd>Adjust ease in · ease out in the Graph Editor.</dd><dt>Assessment</dt><dd>Acceleration and deceleration, fit with the brand tone</dd><dt>Model answer</dt><dd>Compare linear and curved versions side by side.</dd></dl></div>
+</article>
+
+<section class="essay page" id="essay-8">
+  <header><div class="crumb">Background 8</div><h2>The illusion of life<br>— origins of the animation principles</h2></header>
+  <div class="cols">
+    <p>How to breathe weight, character and emotion into still drawings was worked out over decades of trial and error. The principles of animation are physics and acting theory at once.</p>
+    <p>In 1914, Winsor McCay's Gertie the Dinosaur showed a character taking orders and reacting before an audience, proving animation could create a being with personality. Preparing Snow White and the Seven Dwarfs (1937), the Walt Disney Studio had its animators observe real animals and people in motion and taught them drawing and anatomy.</p>
+    <p>Disney's core animators of the era were called the 'Nine Old Men.' Two of them, Frank Thomas and Ollie Johnston, distilled the studio's principles into twelve in The Illusion of Life (1981): squash and stretch, anticipation, staging, pose to pose, follow-through, slow in and slow out, arcs, secondary action, timing, exaggeration, solid drawing, appeal. These are less rules than ways of translating observed reality so the audience feels it more.</p>
+    <p>Half the principles are physics. A ball squashing as it lands and stretching as it bounces, a heavy object starting and stopping slowly — these make mass and inertia visible. The other half is acting. Anticipation signals the next action, exaggeration clarifies emotion, and appeal makes the audience give their heart to the character.</p>
+    <p>In 1987, Pixar's John Lasseter presented "Principles of Traditional Animation Applied to 3D Computer Animation" at SIGGRAPH. His point: the tools changed from pencil to computer, but how audiences sense life in motion did not. A motion designer easing a logo in the Graph Editor today follows the same principles.</p>
+    <p>Before memorizing the principles, build the habit of watching movement around you. An eye for the order in which a person rises from a chair or a ball rolls down stairs makes the principles living tools. Further reading: Frank Thomas · Ollie Johnston, The Illusion of Life; Richard Williams, The Animator's Survival Kit.</p>
+  </div>
+</section>
+
+<article class="sec page" id="s5-6">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.6</div>
+    <h2>The 12 principles of animation</h2>
+    <p class="lead">Twelve principles, applied to advertising. Half are physics, half acting. Fix easing · anticipation · follow-through · exaggeration in that order and the beginner look disappears.</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">The 12 principles — movement through one character</div><div class="grid c4"><div class="it"><img src="img_new/ANIM-01.jpg"><b><i>01</i>Squash and stretch</b><span>Squashes and stretches, keeping volume — weight and elasticity</span></div><div class="it"><img src="img_new/ANIM-02.jpg"><b><i>02</i>Anticipation</b><span>Moves the opposite way before a big action</span></div><div class="it"><img src="img_new/ANIM-03.jpg"><b><i>03</i>Staging</b><span>The silhouette alone reads the intent</span></div><div class="it"><img src="img_new/ANIM-04.jpg"><b><i>04</i>Pose to pose</b><span>Set key poses first, then fill in between</span></div><div class="it"><img src="img_new/ANIM-05.jpg"><b><i>05</i>Follow-through · overlap</b><span>The body stops; hair and clothes stop later</span></div><div class="it"><img src="img_new/ANIM-06.jpg"><b><i>06</i>Slow in · slow out</b><span>Bunch frames at the start and end of a move</span></div><div class="it"><img src="img_new/ANIM-07.jpg"><b><i>07</i>Arcs</b><span>Joints move in arcs, not straight lines</span></div><div class="it"><img src="img_new/ANIM-08.jpg"><b><i>08</i>Secondary action</b><span>Small actions backing the main one build character</span></div><div class="it"><img src="img_new/ANIM-09.jpg"><b><i>09</i>Timing</b><span>Same distance — frame count sets weight and speed</span></div><div class="it"><img src="img_new/ANIM-10.jpg"><b><i>10</i>Exaggeration</b><span>One step past reality — sharpen the intent</span></div><div class="it"><img src="img_new/ANIM-11.jpg"><b><i>11</i>Solid drawing</b><span>Draw forms with volume · weight · balance</span></div><div class="it"><img src="img_new/ANIM-12.jpg"><b><i>12</i>Appeal</b><span>Simple shapes and clear character create charm</span></div></div><figcaption><b>Figure 48</b> The 12 principles of animation — twelve rules of movement on one character (Disney, 1981). Red lines mark the "movement" each principle points to.</figcaption></figure>
+  <figure class="fg wide"><div class="ttl">One bouncing ball holds four principles</div><svg viewBox="0 0 560 210" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9"><rect width="560" height="210" fill="#F6F5F3"/><line x1="10" y1="180" x2="550" y2="180" stroke="#1B1B1D" stroke-width="1.2"/><ellipse cx="20.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="36.4" cy="119.5" rx="6.7" ry="10.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="52.7" cy="80.5" rx="7.0" ry="10.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="69.1" cy="51.4" rx="7.3" ry="9.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="85.5" cy="32.2" rx="7.6" ry="9.0" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="101.8" cy="22.9" rx="7.9" ry="8.3" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="118.2" cy="22.9" rx="7.9" ry="8.3" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="134.5" cy="32.2" rx="7.6" ry="9.0" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="150.9" cy="51.4" rx="7.3" ry="9.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="167.3" cy="80.5" rx="7.0" ry="10.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="183.6" cy="119.5" rx="6.7" ry="10.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="200.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M20,180 Q110.0,-120 200,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="200.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="214.4" cy="131.7" rx="6.8" ry="10.7" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="228.9" cy="104.4" rx="7.1" ry="9.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="243.3" cy="86.4" rx="7.5" ry="9.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="257.8" cy="77.8" rx="7.8" ry="8.4" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="272.2" cy="77.8" rx="7.8" ry="8.4" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="286.7" cy="86.4" rx="7.5" ry="9.2" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="301.1" cy="104.4" rx="7.1" ry="9.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="315.6" cy="131.7" rx="6.8" ry="10.7" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="330.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M200,180 Q265.0,-10 330,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="330.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="341.9" cy="145.3" rx="6.8" ry="10.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="353.8" cy="129.0" rx="7.2" ry="9.8" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="365.6" cy="119.6" rx="7.6" ry="8.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="377.5" cy="117.0" rx="8.0" ry="8.0" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="389.4" cy="119.6" rx="7.6" ry="8.9" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="401.2" cy="129.0" rx="7.2" ry="9.8" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="413.1" cy="145.3" rx="6.8" ry="10.6" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="425.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M330,180 Q377.5,70 425,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="425.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><ellipse cx="434.3" cy="154.8" rx="6.9" ry="10.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="443.6" cy="146.0" rx="7.3" ry="9.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="452.9" cy="142.1" rx="7.8" ry="8.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="462.1" cy="142.1" rx="7.8" ry="8.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="471.4" cy="146.0" rx="7.3" ry="9.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="480.7" cy="154.8" rx="6.9" ry="10.5" fill="#fff" stroke="#1B1B1D" stroke-width="1" opacity=".95"/><ellipse cx="490.0" cy="174.0" rx="11.0" ry="6.0" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.4" opacity=".95"/><path d="M425,180 Q457.5,120 490,180" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><text x="230" y="22" fill="#1B1B1D" font-weight="500">Apex — tight spacing (slow · slow in/out)</text><text x="20" y="200" fill="#7A1C2B" font-weight="500">Red ball = landing, flattened (squash)</text><text x="260" y="200" fill="#3C3C40">Falling — wide spacing, stretched tall (stretch)</text><text x="330" y="80" fill="#7A7A80">Each bounce is lower and shorter (timing)</text></svg><figcaption><b>Figure 49</b> The bouncing ball — arcs · timing · spacing · squash and stretch, all in one ball. Balls are drawn at equal time intervals: slow and tight at the apex, fast and sparse near the floor. The red ball is the moment it hits the floor (squash).</figcaption></figure>
+  <figure class="fg wide"><div class="ttl">Same distance and frames — spacing alone makes a different motion</div><svg viewBox="0 0 560 190" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="190" fill="#F6F5F3"/><text x="14" y="34" font-weight="500" fill="#1B1B1D">Even spacing — mechanical</text><text x="14" y="46" fill="#7A7A80" font-size="8">Robots · conveyors. No life</text><circle cx="230.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="261.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="292.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="323.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="354.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="385.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="416.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="447.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="478.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="509.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="540.0" cy="30" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><text x="14" y="74" font-weight="500" fill="#1B1B1D">Ease in·out — natural</text><text x="14" y="86" fill="#7A7A80" font-size="8">Soft start and arrival. Most motion</text><circle cx="230.0" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="237.6" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="259.6" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="293.9" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="337.1" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="385.0" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="432.9" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="476.1" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="510.4" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="532.4" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><circle cx="540.0" cy="70" r="5" fill="none" stroke="#1B1B1D" stroke-width="1.3"/><text x="14" y="114" font-weight="500" fill="#1B1B1D">Fast → slow — stresses arrival</text><text x="14" y="126" fill="#7A7A80" font-size="8">Shoots out and stops. Pop-ups · emphasis · UI</text><circle cx="230.0" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="299.3" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="358.5" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="408.3" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="449.0" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="481.3" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="505.6" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="522.8" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="533.5" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="538.8" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="540.0" cy="110" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><text x="14" y="154" font-weight="500" fill="#1B1B1D">Slow → fast — stresses departure</text><text x="14" y="166" fill="#7A7A80" font-size="8">Hesitates, then goes. Jumps · launches</text><circle cx="230.0" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="231.2" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="236.5" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="247.2" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="264.4" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="288.7" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="321.0" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="361.7" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="411.5" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="470.7" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><circle cx="540.0" cy="150" r="5" fill="none" stroke="#7A1C2B" stroke-width="1.3"/><text x="14" y="184" fill="#3C3C40" font-size="8.6">Same distance · same 11 frames — only spacing differs. <tspan font-weight="500">Timing</tspan> = frame count, <tspan font-weight="500">spacing</tspan> = gap between frames</text></svg><figcaption><b>Figure 50</b> Timing and spacing — every row covers the same distance in the same number of frames. Where circles are far apart, the motion is fast.</figcaption></figure>
+  <aside class="tip"><b>TIP</b><p>Key poses first, then fill the in-betweens. Draw the spacing chart first.</p></aside>
+  <h3>The twelve principles — as scenes from a stop-motion short</h3>
+  <div class="cards cols-3 anim">
+    <div class="card"><img src="img_new/ANIMX-01.jpg" alt=""><h4><small>01</small>Squash and stretch</h4><p>Squashes and stretches, keeping volume — weight and elasticity</p></div>
+    <div class="card"><img src="img_new/ANIMX-02.jpg" alt=""><h4><small>02</small>Anticipation</h4><p>Moves the opposite way before a big action</p></div>
+    <div class="card"><img src="img_new/ANIMX-03.jpg" alt=""><h4><small>03</small>Staging</h4><p>The silhouette alone reads the intent</p></div>
+    <div class="card"><img src="img_new/ANIMX-04.jpg" alt=""><h4><small>04</small>Pose to pose</h4><p>Set key poses first, then fill in between</p></div>
+    <div class="card"><img src="img_new/ANIMX-05.jpg" alt=""><h4><small>05</small>Follow-through · overlap</h4><p>The body stops; hair and clothes stop later</p></div>
+    <div class="card"><img src="img_new/ANIMX-06.jpg" alt=""><h4><small>06</small>Slow in · slow out</h4><p>Bunch frames at the start and end of a move</p></div>
+    <div class="card"><img src="img_new/ANIMX-07.jpg" alt=""><h4><small>07</small>Arcs</h4><p>Joints move in arcs, not straight lines</p></div>
+    <div class="card"><img src="img_new/ANIMX-08.jpg" alt=""><h4><small>08</small>Secondary action</h4><p>Small actions backing the main one build character</p></div>
+    <div class="card"><img src="img_new/ANIMX-09.jpg" alt=""><h4><small>09</small>Timing</h4><p>Same distance — frame count sets weight and speed</p></div>
+    <div class="card"><img src="img_new/ANIMX-10.jpg" alt=""><h4><small>10</small>Exaggeration</h4><p>One step past reality — sharpen the intent</p></div>
+    <div class="card"><img src="img_new/ANIMX-11.jpg" alt=""><h4><small>11</small>Solid drawing</h4><p>Draw forms with volume · weight · balance</p></div>
+    <div class="card"><img src="img_new/ANIMX-12.jpg" alt=""><h4><small>12</small>Appeal</h4><p>Simple shapes and clear character create charm</p></div>
+  </div>
+  <figure class="fg wide"><div class="ttl">Squash and stretch — a bouncing ball in sequence</div><svg viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5"><rect width="560" height="230" fill="#F6F5F3"/><line x1="20" y1="186" x2="540" y2="186" stroke="#1B1B1D" stroke-width="1.2"/><path d="M70,186 Q280.0,-74 490,186" fill="none" stroke="#D9D9DE" stroke-dasharray="3 3"/><ellipse cx="70.0" cy="177.9" rx="14.9" ry="8.1" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.3"/><ellipse cx="100.0" cy="136.9" rx="8.3" ry="14.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="130.0" cy="108.8" rx="8.9" ry="13.5" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="160.0" cy="85.8" rx="9.6" ry="12.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="190.0" cy="68.0" rx="10.2" ry="11.9" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="220.0" cy="55.2" rx="10.6" ry="11.4" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="250.0" cy="47.6" rx="10.9" ry="11.1" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="280.0" cy="45.0" rx="11.0" ry="11.0" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><text x="280.0" y="26.0" text-anchor="middle" fill="#1B1B1D" font-weight="500">Apex — round, slow (tight spacing)</text><ellipse cx="310.0" cy="47.6" rx="10.9" ry="11.1" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="340.0" cy="55.2" rx="10.6" ry="11.4" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="370.0" cy="68.0" rx="10.2" ry="11.9" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="400.0" cy="85.8" rx="9.6" ry="12.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="430.0" cy="108.8" rx="8.9" ry="13.5" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="460.0" cy="136.9" rx="8.3" ry="14.6" fill="#fff" stroke="#1B1B1D" stroke-width="1.3"/><ellipse cx="490.0" cy="177.9" rx="14.9" ry="8.1" fill="#7A1C2B" stroke="#7A1C2B" stroke-width="1.3"/><text x="70" y="206" text-anchor="middle" fill="#7A1C2B" font-weight="500">Contact — squashed flat</text><text x="490" y="206" text-anchor="middle" fill="#7A1C2B" font-weight="500">Contact — squashed again</text><text x="150" y="150" text-anchor="middle" fill="#3C3C40">Faster = more stretch along the path</text><text x="410" y="150" text-anchor="middle" fill="#3C3C40">Wide spacing = fast</text><text x="20" y="224" fill="#1B1B1D" font-weight="500">Rule: stretch thins, squash widens — volume (area) never changes. All balls drawn at equal time steps.</text></svg><figcaption><b>G-15</b> Squash and stretch — one parabola of a bouncing ball. Round and tight at the apex, longer and sparser as it falls, flat the instant it lands. The ball's area is the same in all fifteen drawings.</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.6</div>
+    <dl><dt>Task</dt><dd>Animate, in order: a bouncing ball, a heavy ball · a light ball, a character jump.</dd><dt>Tip</dt><dd>Key poses first, then fill the in-betweens. Draw the spacing chart first.</dd><dt>Assessment</dt><dd>Use of squash · timing · arcs</dd><dt>Model answer</dt><dd>The 12 principles from Disney's The Illusion of Life. Compare the same jump by two characters of different weight.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-7">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.7</div>
+    <h2>Compositing and keying in practice</h2>
+    <p class="lead">Judge keying in six steps; when a composite shows, look to three causes: black level · atmospheric perspective · grain.</p>
+  </header>
+  <figure class="wide diagram"><img src="img_en/EN-p201_222_1369x331.png" alt=""><figcaption><b>Figure 51</b> The 6 steps of keying — garbage matte › primary key › matte cleanup › spill removal › edge treatment › color matching</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>Step</th><th>What to do</th><th>Criterion</th></tr></thead>
+    <tbody>
+      <tr><td>Garbage matte</td><td>Mask out what lies outside the green</td><td>Light stands and floor edge removed</td></tr>
+      <tr><td>Primary key</td><td>Key out the screen color</td><td>Hair still intact</td></tr>
+      <tr><td>Matte cleanup</td><td>Clean up viewing alpha in black and white</td><td>Subject pure white, background pure black</td></tr>
+      <tr><td>Spill removal</td><td>Remove green on skin and clothes</td><td>Skin hasn't turned gray</td></tr>
+      <tr><td>Edge treatment</td><td>Choke and feather edges</td><td>No jaggies when zoomed in</td></tr>
+      <tr><td>Color matching</td><td>Match background color and brightness</td><td>Light direction, color temp match</td></tr>
+    </tbody>
+  </table>
+  <h3>Three reasons a composite shows</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Cause 1</small>Black level</h4><ul><li>If an element's blacks are darker than the live action, it jars at once</li><li>Lift the blacks slightly</li></ul></div>
+    <div class="card"><h4><small>Cause 2</small>Atmospheric perspective</h4><ul><li>Distance lowers contrast and mixes in background color</li><li>Lower saturation and contrast with distance</li></ul></div>
+    <div class="card"><h4><small>Cause 3</small>Grain and noise</h4><ul><li>Live action has noise; CG has none</li><li>Add matching grain to the elements</li></ul></div>
+  </div>
+  <aside class="tip"><b>Final check</b><p>Shrink the image or switch to black and white. Mismatches show more on a small screen and in black and white.</p></aside>
+  <figure class="wide"><img src="img/p202_224_1369x774.png" alt=""><figcaption><b>G-16</b> Before and after compositing — chroma key source and final frame · GPT-generated image, for concept only</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.7</div>
+    <dl><dt>Task</dt><dd>Composite one scene from a chroma key source and a background plate.</dd><dt>Tip</dt><dd>After keying, refine in order: edges, spill, shadows, color match.</dd><dt>Assessment</dt><dd>Edge quality, matched light and color</dd><dt>Model answer</dt><dd>Submit a before-and-after comparison with the layer structure.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-8">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.8</div>
+    <h2>Color grading</h2>
+    <p class="lead">Sort out brightness before touching color. The look starts only after primary correction.</p>
+  </header>
+  <figure class="ph wide" data-id="P05-COLOR" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. color grading suite: colorist at a control surface with trackballs, scopes on one screen, graded image on a calibrated monitor">
+    <div class="ph-box"><span class="ph-id">P05-COLOR</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>Color grading suite</b>A colorist at a trackball control surface, scopes on one screen and the grade on a calibrated monitor</span></div>
+    <figcaption><b>Note</b>Color grading suite — set brightness first by the scopes, not the eye, then apply the look</figcaption>
+  </figure>
+  <figure class="wide diagram"><img src="img_en/EN-p203_225_1372x747.png" alt=""><figcaption><b>Figure 52</b> Tonal change at each grading stage</figcaption></figure>
+  <h3>Working order</h3>
+  <div class="steps cols-6">
+    <div class="step"><b>01</b><i>Exposure · contrast</i>Brightness before color</div>
+    <div class="step"><b>02</b><i>White balance</i>Make gray look gray</div>
+    <div class="step"><b>03</b><i>Shot matching</i>One scene, one time of day</div>
+    <div class="step"><b>04</b><i>Look</i>Only now is the color decided</div>
+    <div class="step"><b>05</b><i>Secondaries</i>Just faces, sky, product</div>
+    <div class="step"><b>06</b><i>Check output</i>On monitor, smartphone, TV</div>
+  </div>
+  <aside class="note"><b>Basic look</b><p>Cool shadows, warm highlights. Skin tones are most sensitive to gamma.</p></aside>
+  <table class="t compact">
+    <thead><tr><th>Tool</th><th>What it adjusts</th><th>Note</th></tr></thead>
+    <tbody>
+      <tr><td>Lift</td><td>Shadows</td><td>Too much and the image goes milky</td></tr>
+      <tr><td>Gamma</td><td>Midtones</td><td>Skin tones react most</td></tr>
+      <tr><td>Gain</td><td>Highlights</td><td>Highlights clip easily</td></tr>
+      <tr><td>Curves</td><td>Precise control by range</td><td>An S-curve is the basic contrast boost</td></tr>
+      <tr><td>HSL secondary</td><td>Adjusts selected colors only</td><td>Essential for skin correction</td></tr>
+      <tr><td>Color wheels</td><td>Tints by tonal range</td><td>Cool shadows, warm highlights: the basic look</td></tr>
+    </tbody>
+  </table>
+  <figure class="wide"><img src="img/p204_227_1369x774.png" alt=""><figcaption><b>G-17</b> Color grading — log original and two looks · GPT-generated image, for concept only</figcaption></figure>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.8</div>
+    <dl><dt>Task</dt><dd>Create two different looks for the same footage and explain the emotion of each.</dd><dt>Tip</dt><dd>Finish primary correction (exposure, white balance) before moving to secondaries. Watch the scopes.</dd><dt>Assessment</dt><dd>Skin tones preserved, consistent look</dd><dt>Model answer</dt><dd>Match the look to a reference still and attach scope captures.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-9">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.9</div>
+    <h2>Mobile and automated editing tools</h2>
+    <p class="lead">Automated output is a draft. Deliver it unchecked and you lose trust in one go.</p>
+  </header>
+  <aside class="note"><b>Note</b><p>For commercial use, check the license scope of templates and music, and never clone a real person's voice without permission.</p></aside>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Short-form</small>CapCut</h4><ul><li>Templates, auto captions, beat sync, background removal</li><li>Efficient for short-form at volume</li><li>Commercial use: check template · music licenses</li></ul></div>
+    <div class="card"><h4><small>Captions</small>Vrew</h4><ul><li>Auto captions from speech, batch silence removal</li><li>1st rough cuts of lectures, interviews, explainers</li><li>A person checks proper-noun errors</li></ul></div>
+    <div class="card"><h4><small>Voice</small>Typecast</h4><ul><li>Text to speech</li><li>Draft narration, multilingual dubbing</li><li>No unauthorized cloning of real voices</li></ul></div>
+    <div class="card"><h4><small>Generative</small>Runway and similar</h4><ul><li>Video from text and images, background removal</li><li>Stand-ins for inserts you can't shoot</li></ul></div>
+    <div class="card"><h4><small>3D</small>Meshy</h4><ul><li>Turns images into 3D models</li><li>Prop · character prototypes, rigging and animation previews</li></ul></div>
+    <div class="card"><h4><small>Image</small>Photoroom and similar</h4><ul><li>Auto background removal, retouching</li><li>Product shot cleanup</li></ul></div>
+  </div>
+  <div class="callout"><h4>Rules for automation tools</h4><p>Proper nouns in auto captions, the pacing of auto cuts, fingers and lettering in generated video: a person always checks these.</p></div>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.9</div>
+    <dl><dt>Task</dt><dd>Using a mobile editing app and automation, turn the same source into short-form in under 15 minutes.</dd><dt>Tip</dt><dd>Always proofread auto captions.</dd><dt>Assessment</dt><dd>Balance of speed and quality, fixes to automated output</dd><dt>Model answer</dt><dd>List what a person fixed in the auto-edited result.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-10">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.10</div>
+    <h2>Output specs and delivery</h2>
+    <p class="lead">Codecs differ by purpose, and common output problems have known causes.</p>
+  </header>
+  <figure class="ph" data-id="P05-DELIVER" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. two labeled portable SSDs, a checklist on paper and a laptop showing an export progress bar, tidy desk">
+    <div class="ph-box"><span class="ph-id">P05-DELIVER</span><span class="ph-icon"></span>
+      <span class="ph-desc"><b>Delivery and backup</b>Two labeled portable SSDs, a paper checklist, a laptop showing an export progress bar</span></div>
+    <figcaption><b>Note</b>Delivery and backup — keep exports on two separate media and tick off the specs on a checklist</figcaption>
+  </figure>
+  <aside class="tip"><b>TIP</b><p>Tabulate resolution, bitrate, loudness (LUFS) and file-naming rules before exporting.</p></aside>
+  <h3>Output specs by purpose</h3>
+  <table class="t compact">
+    <thead><tr><th>Purpose</th><th>Codec / format</th><th>Key settings</th></tr></thead>
+    <tbody>
+      <tr><td>To editing software</td><td>ProRes 422 HQ</td><td>Default when no alpha is needed</td></tr>
+      <tr><td>Intermediate with alpha</td><td>ProRes 4444 or PNG sequence</td><td>Enable the alpha channel</td></tr>
+      <tr><td>Online upload</td><td>H.264 mp4</td><td>40–60Mbps for 4K</td></tr>
+      <tr><td>Screening, exhibition</td><td>ProRes 422 HQ or uncompressed</td><td>Check loop start and end frames</td></tr>
+      <tr><td>Outdoor LED</td><td>Media operator's spec</td><td>Confirm resolution and frame rate in advance</td></tr>
+      <tr><td>Archive</td><td>Keep the original codec</td><td>Keep project files with the sources</td></tr>
+    </tbody>
+  </table>
+  <h3>Fixes by symptom</h3>
+  <table class="t compact">
+    <thead><tr><th>Symptom</th><th>Cause</th><th>Fix</th></tr></thead>
+    <tbody>
+      <tr><td>Very slow rendering</td><td>High-res sources, stacked effects</td><td>Proxies, pre-renders, fewer effects</td></tr>
+      <tr><td>Rough text edges</td><td>Continuous rasterization off</td><td>Turn that option on</td></tr>
+      <tr><td>Colors look different</td><td>Mismatched color management</td><td>Lock the project color space</td></tr>
+      <tr><td>Composite jitters</td><td>Unstable tracking data</td><td>Re-track, apply smoothing</td></tr>
+      <tr><td>File won't open</td><td>Codec not installed</td><td>Re-export in a common codec</td></tr>
+      <tr><td>Audio too quiet</td><td>Loudness not adjusted</td><td>Normalize to platform loudness</td></tr>
+    </tbody>
+  </table>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.10</div>
+    <dl><dt>Task</dt><dd>Export the same video in three specs: YouTube, Instagram Reels and theatrical screening.</dd><dt>Tip</dt><dd>Tabulate resolution, bitrate, loudness (LUFS) and file-naming rules first.</dd><dt>Assessment</dt><dd>Spec compliance, file management</dd><dt>Model answer</dt><dd>Make your own delivery checklist and attach the results for each export.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-11">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.11</div>
+    <h2>Expressions and automation</h2>
+    <p class="lead">Advanced After Effects. Expressions compute values without keyframes. You needn't know the syntax: learn just five and your working time drops sharply.</p>
+  </header>
+  <figure class="wide diagram"><img src="img_en/EN-p207_228_1370x384.png" alt=""><figcaption><b>Figure 53</b> 5 easing curves</figcaption></figure>
+  <table class="t compact">
+    <thead><tr><th>Expression</th><th>Role</th><th>Examples</th></tr></thead>
+    <tbody>
+      <tr><td>wiggle(freq, amp)</td><td>Random shake</td><td>Handheld feel, glitches, jitter</td></tr>
+      <tr><td>loopOut()</td><td>Loops a keyframed section endlessly</td><td>Spinning logos, looping BGs</td></tr>
+      <tr><td>time * value</td><td>Value changes with time</td><td>Steady rotation, scrolling</td></tr>
+      <tr><td>linear(t, a, b, c, d)</td><td>Maps one value's change onto another</td><td>One slider drives several properties</td></tr>
+      <tr><td>Parenting (pick whip)</td><td>Takes another property's value as is</td><td>Controls many elements as one</td></tr>
+    </tbody>
+  </table>
+  <h3>Habits that speed up your work</h3>
+  <aside class="note"><b>Note</b><p>Precompose freely, but 3 or more levels of nesting become harder to manage.</p></aside>
+  <ul class="dash">
+    <li>Save setups you use often as animation presets and reuse them.</li>
+    <li>Turn a null object into a controller so one slider adjusts several values.</li>
+    <li>Always name your layers. Even you won't understand 40 unnamed layers the next day.</li>
+    <li>Sort layers by color label. Text, background, effects, camera — each a different color.</li>
+    <li>Use the project cleanup tools to remove unused footage regularly.</li>
+  </ul>
+  <h3>Linking Premiere and After Effects</h3>
+  <div class="steps">
+    <div class="step"><b>01</b><i>Lock the cut</i>In Premiere. If the cut changes, compositing is wasted</div>
+    <div class="step"><b>02</b><i>Replace with comp</i>Turn the clip into an AE comp; changes update automatically</div>
+    <div class="step"><b>03</b><i>Work · save</i>Just save in AE and the timeline updates</div>
+    <div class="step"><b>04</b><i>Render with alpha</i>When it gets heavy, render a file with alpha and lay it back in</div>
+    <div class="step"><b>05</b><i>Final export</i>From Premiere in one pass. Intermediates in a high-quality codec</div>
+  </div>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.11</div>
+    <dl><dt>Task</dt><dd>Use expressions to make text that shakes on its own and a number counter that changes over time.</dd><dt>Tip</dt><dd>Start with the wiggle, time and linear expressions.</dd><dt>Assessment</dt><dd>Understanding of expressions, reusability</dd><dt>Model answer</dt><dd>Builds a template whose values can be adjusted with slider controls.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-12">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.12</div>
+    <h2>DaVinci Resolve features</h2>
+    <p class="lead">The standard tool for color correction, and an integrated environment that also handles editing, compositing and sound. Even the free version covers most commercial work.</p>
+  </header>
+  <aside class="tip"><b>TIP</b><p>Trust measurement over your eyes. Check the numbers on the waveform, parade and vectorscope.</p></aside>
+  <h3>Seven pages</h3>
+  <table class="t compact wide">
+    <thead><tr><th>Page</th><th>Role</th><th>Key features</th></tr></thead>
+    <tbody>
+      <tr><td>Media</td><td>Managing and organizing footage</td><td>Importing clips, metadata, proxy generation</td></tr>
+      <tr><td>Cut</td><td>Fast rough cut</td><td>Source tape, smart editing tools</td></tr>
+      <tr><td>Edit</td><td>Precision editing</td><td>Timeline, transitions, subtitles, speed changes</td></tr>
+      <tr><td>Fusion</td><td>Compositing and motion graphics</td><td>Node-based compositing, tracking, particles</td></tr>
+      <tr><td>Color</td><td>Color correction</td><td>Nodes, curves, qualifiers, power windows, tracker</td></tr>
+      <tr><td>Fairlight</td><td>Sound</td><td>Mixer, audio effects, loudness meter</td></tr>
+      <tr><td>Deliver</td><td>Output</td><td>Codec presets, batch rendering, per-platform versions</td></tr>
+    </tbody>
+  </table>
+  <h3>Key tools on the Color page</h3>
+  <div class="cards cols-3">
+    <div class="card"><h4><small>Structure</small>Nodes</h4><ul><li>Chains correction steps as blocks you can toggle separately</li><li>Serial, parallel and layer nodes</li></ul></div>
+    <div class="card"><h4><small>Color pick</small>Qualifier</h4><ul><li>Selects and corrects one specific color</li><li>For adjusting only skin tones or sky</li></ul></div>
+    <div class="card"><h4><small>Area</small>Power window</h4><ul><li>Corrects only a chosen area of the frame</li><li>With the tracker, it follows moving subjects</li></ul></div>
+    <div class="card"><h4><small>Precision</small>Curves</h4><ul><li>Fine-tunes brightness and color range by range</li><li>An S-curve is the basic contrast boost</li></ul></div>
+    <div class="card"><h4><small>Auto</small>Shot match</h4><ul><li>Matches the color of two shots automatically</li><li>A starting point when cutting between different cameras</li></ul></div>
+    <div class="card"><h4><small>Measurement</small>Scopes</h4><ul><li>Waveform, parade, vectorscope</li><li>Trust measurement over your eyes</li></ul></div>
+  </div>
+  <h3>Example color node setup</h3>
+  <div class="steps cols-4">
+    <div class="step"><b>01</b><i>Technical transform</i>Log to standard</div>
+    <div class="step"><b>02</b><i>Exposure · contrast</i>Set the brightness</div>
+    <div class="step"><b>03</b><i>White balance</i>Make gray gray</div>
+    <div class="step"><b>04</b><i>Shot matching</i>One scene, one time of day</div>
+    <div class="step"><b>05</b><i>Apply the look</i>Set the film's color</div>
+    <div class="step"><b>06</b><i>Skin tones</i>Local fix with a qualifier</div>
+    <div class="step"><b>07</b><i>Sky · background</i>Local fix with a power window</div>
+    <div class="step"><b>08</b><i>Vignette · grain</i>Finishing touches</div>
+  </div>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.12</div>
+    <dl><dt>Task</dt><dd>In DaVinci Resolve, build a correction pipeline of 3 or more nodes.</dd><dt>Tip</dt><dd>Give each node just one job (exposure, color, look).</dd><dt>Assessment</dt><dd>Logic of the node structure, quality of the result</dd><dt>Model answer</dt><dd>Names each node and submits comparison stills with each node toggled on and off.</dd></dl></div>
+</article>
+
+<article class="sec page" id="s5-13">
+  <header>
+    <div class="crumb"><b>PART 05</b>Editing and post-production</div>
+    <div class="num">5.13</div>
+    <h2>Types of animation</h2>
+    <p class="lead">Animation is divided by what each frame is made from, and broadly splits into 2D and 3D. Change the material, and the texture of the motion and the way it is made change with it.</p>
+  </header>
+  <figure class="fg wide"><div class="ttl">Methods differ by what makes each frame</div><div class="grid c4"><div class="it"><img src="img_new/AM-CEL.jpg" alt=""><b>Cel animation</b><span>Drawn on clear cels, layered over a background</span></div><div class="it"><img src="img_new/AM-CUTOUT.jpg" alt=""><b>Cutout</b><span>Jointed paper moved a little at a time</span></div><div class="it"><img src="img_new/AM-SAND.jpg" alt=""><b>Sand animation</b><span>Sand spread over light, frame by frame</span></div><div class="it"><img src="img_new/AM-PIXIL.jpg" alt=""><b>Pixilation</b><span>People shot frame by frame like puppets</span></div><div class="it"><img src="img_new/AM-PAPER.jpg" alt=""><b>Paper drawing</b><span>One frame per sheet, checked by flipping</span></div><div class="it"><img src="img_new/AM-CLAY.jpg" alt=""><b>Clay · stop-motion</b><span>Physical puppets moved bit by bit and shot</span></div><div class="it"><img src="img_new/AM-3D.jpg" alt=""><b>3D CG</b><span>You move the rig; the computer calculates</span></div><div class="it"><img src="img_new/AM-ROTO.jpg" alt=""><b>Rotoscope</b><span>Traced over live action, one frame at a time</span></div></div><figcaption><b>Figure 54</b> Eight methods of animation — change the material and the texture of motion and the production method change with it. From top left to bottom right, the work moves from "drawing" to "computing."</figcaption></figure>
+  <h3>Features of each method</h3>
+  <div class="cards">
+    <div class="card"><h4><small>Cel</small>Cel animation</h4><ul><li>Characters drawn on clear celluloid, shot layered over backgrounds</li><li>The standard for commercial features; the origin of digital layers</li></ul></div>
+    <div class="card"><h4><small>Cutting</small>Cutout</h4><ul><li>Figures cut from paper or cloth, joints pinned, moved bit by bit and shot</li><li>Lotte Reiniger's The Adventures of Prince Achmed (1926); now done with digital puppets</li></ul></div>
+    <div class="card"><h4><small>Sand</small>Sand animation</h4><ul><li>Sand on a lightbox pushed by hand into new shapes and shot</li><li>Known for morphing: one shape flows into the next scene</li></ul></div>
+    <div class="card"><h4><small>People</small>Pixilation</h4><ul><li>People shot one frame at a time like puppets</li><li>Unreal motion — gliding or floating in midair; Norman McLaren's Neighbours (1952)</li></ul></div>
+    <div class="card"><h4><small>Paper</small>Paper · drawing</h4><ul><li>The most basic method: drawing on paper, one sheet at a time</li><li>A flipbook shows the principle most simply</li></ul></div>
+    <div class="card"><h4><small>Clay</small>Clay · stop-motion</h4><ul><li>Clay or jointed puppets moved bit by bit on a set and shot</li><li>The handmade feel of materials and real light survives intact</li></ul></div>
+    <div class="card"><h4><small>Computer</small>3D CG</h4><ul><li>A skeleton (rig) goes into the model, which is keyframed, then rendered</li><li>Toy Story (1995) was the first fully CG feature</li></ul></div>
+    <div class="card"><h4><small>Tracing</small>Rotoscope</h4><ul><li>Live-action footage traced frame by frame</li><li>For carrying realistic motion into a drawn texture</li></ul></div>
+  </div>
+  <div class="gallery cols-3 wide"><div class="title"><b>Reference photos 5.13A</b>Generated images — three materials that make a frame</div>
+    <figure class="ph" data-id="P05-ANIMCEL" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. animator at a light table flipping stacked drawing sheets, pencil keyframes of a bouncing ball">
+      <div class="ph-box"><span class="ph-id">P05-ANIMCEL</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Key poses and in-betweens</b>An animator flipping layered sheets on a light table; a pencil-drawn bouncing ball</span></div>
+      <figcaption><b>a</b>Drawing — draw the key poses first, then fill in the in-betweens</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-STOPMO" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. stop-motion set: a small puppet on a miniature kitchen set, DSLR on a rig, animator adjusting the arm with tweezers">
+      <div class="ph-box"><span class="ph-id">P05-STOPMO</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>Stop-motion</b>A puppet on a miniature kitchen set, a camera fixed on a rig, a hand moving an arm with tweezers</span></div>
+      <figcaption><b>b</b>Stop-motion — the texture of real light and materials stays intact</figcaption>
+    </figure>
+    <figure class="ph" data-id="P05-3D" data-prompt="Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 3D animation workstation showing a wireframe character rig in the viewport, graph editor curves below">
+      <div class="ph-box"><span class="ph-id">P05-3D</span><span class="ph-icon"></span>
+        <span class="ph-desc"><b>3D animation</b>A wireframe character rig in the viewport, graph editor curves below</span></div>
+      <figcaption><b>c</b>3D — keyframe the rig and refine the easing in the graph editor</figcaption>
+    </figure>
+  </div>
+  <figure class="fg wide"><div class="ttl">2D draws motion; 3D designs motion, then computes it</div><div class="grid c2"><div class="it"><img src="img_new/AN-2D.jpg"><b>2D — drawn one by one</b><span>One drawing = one frame. The next is drawn over the original · line · color · motion come from one hand · revising means redrawing</span></div><div class="it"><img src="img_new/AN-3D.jpg"><b>3D — the model is moved</b><span>Build a rig (skeleton), then set only poses = keyframes · the computer calculates the in-betweens · camera · lighting · materials change separately · revising means changing values</span></div></div><div class="rulebar"><b>How to choose</b> — 2D if you need a handmade feel and exaggeration; 3D if the camera moves around and the same character must work from many angles · in many episodes. In practice the two are mixed (3D with a 2D look, 2D characters on 3D backgrounds).</div><figcaption><b>Figure 55</b> 2D and 3D — drawings that make motion versus motion by design. Left: sequential frame drawings; right: a 3D viewport showing a rig and keyframes.</figcaption></figure>
+  <h3>How 2D and 3D differ</h3>
+  <aside class="term"><b>2.5D</b><p>3D dressed in a 2D texture. A hybrid that is growing more common.</p></aside>
+  <table class="t compact">
+    <thead><tr><th>Aspect</th><th>2D</th><th>3D</th></tr></thead>
+    <tbody>
+      <tr><td>Unit of work</td><td>A new drawing for every frame</td><td>Build the model once, then change poses and camera</td></tr>
+      <tr><td>Space</td><td>Depth shown through drawn perspective</td><td>Depth exists in virtual space; the camera can go anywhere</td></tr>
+      <tr><td>Revisions</td><td>Changing a form means redrawing it</td><td>Fix the model and rig and every shot updates; high setup cost up front</td></tr>
+      <tr><td>Expression</td><td>Free line and exaggeration</td><td>Realistic volume · lighting · materials</td></tr>
+      <tr><td>In advertising</td><td>Motion graphics, character ads</td><td>Product demos, explaining structure. In reality, mixing is most common</td></tr>
+    </tbody>
+  </table>
+  <div class="callout"><h4>A sentence to use on set</h4><p>When choosing a method, first decide what texture you want to be remembered for. Budget and schedule come second.</p></div>
+  <div class="gallery cols-3"><div class="title"><b>Reference photos 5.13A</b>Generated images — directing reference</div>
+    <figure><img src="img/p213_234_449x251.png" alt=""><figcaption><b>a</b>Cel animation — painted on clear cels</figcaption></figure>
+    <figure><img src="img/p213_235_449x251.png" alt=""><figcaption><b>b</b>Cutout animation — moving cut-out pieces</figcaption></figure>
+    <figure><img src="img/p213_237_449x251.png" alt=""><figcaption><b>c</b>Sand animation — scenes drawn in sand</figcaption></figure>
+  </div>
+  <div class="gallery cols-3"><div class="title"><b>Reference photos 5.13B</b>Generated images — directing reference</div>
+    <figure><img src="img/p213_238_449x251.png" alt=""><figcaption><b>a</b>Pixilation — people shot frame by frame</figcaption></figure>
+    <figure><img src="img/p213_239_449x251.png" alt=""><figcaption><b>b</b>Paper · clay stop-motion</figcaption></figure>
+    <figure><img src="img/p213_240_449x251.png" alt=""><figcaption><b>c</b>3D CG — characters in virtual space</figcaption></figure>
+  </div>
+  <div class="gallery cols-3"><div class="title"><b>Reference photos 5.13C</b>Generated images — directing reference</div>
+    <figure><img src="img/p213_241_449x251.png" alt=""><figcaption><b>a</b>2D — drawing in line and plane</figcaption></figure>
+    <figure><img src="img/p213_242_449x251.png" alt=""><figcaption><b>b</b>3D — volume and light</figcaption></figure>
+    <figure><img src="img/p213_243_449x251.png" alt=""><figcaption><b>c</b>2.5D — 3D with a 2D texture</figcaption></figure>
+  </div>
+  <div class="lab"><div class="lab-n"><small>Exercise</small>5.13</div>
+    <dl><dt>Task</dt><dd>Make the same 5-second action twice: once as 2D cel, once as 3D or stop-motion.</dd><dt>Tip</dt><dd>Log your hours. They are the most realistic basis for choosing a method.</dd><dt>Assessment</dt><dd>Understanding of each method's traits and production cost</dd><dt>Model answer</dt><dd>Attaches a production timesheet to the results, turning them into a guide for choosing a method.</dd></dl></div>
+</article>
+
+<section class="part-end page" id="end5">
+  <header><div class="crumb">PART 05 wrap-up</div><h2>Exercises and review</h2></header>
+  <ol class="missions">
+    <li><b>Edit it twice</b>Edit a 30-second video twice from the same footage: once laying the music first, once cutting the picture first. Compare the results.</li>
+    <li><b>Three entrances</b>In After Effects, bring in one line of text three ways — linear, ease out, overshoot — and compare.</li>
+    <li><b>Before and after color</b>Make a comparison video showing the same shot before and after color correction, side by side.</li>
+    <li><b>Check auto subtitles</b>Generate subtitles for a 1-minute interview with an auto-captioning tool and count the errors.</li>
+  </ol>
+  <h3>One-page summary</h3>
+  <div class="summary">
+    <div class="card"><h4>5.1 A history of editing technology</h4><p>The tools changed, but proxies, EDLs, timecode and a feel for frames remain.</p></div>
+    <div class="card"><h4>5.2 Basic principles of editing</h4><p>Cut not because it's boring but when the next shot gives better information, and cut mid-action. Lay the sound first.</p></div>
+    <div class="card"><h4>5.3 Comparing editing software</h4><p>Premiere and After Effects are the hiring standard. Know both deeply.</p></div>
+    <div class="card"><h4>5.4 · 5.5 Premiere and After Effects</h4><p>Premiere handles time horizontally; After Effects handles layers vertically. Split the roles and you halve the time.</p></div>
+    <div class="card"><h4>5.6 The 12 principles of animation</h4><p>Fix easing, anticipation, follow-through and exaggeration, in that order, and the beginner look disappears.</p></div>
+    <div class="card"><h4>5.7 Compositing and keying</h4><p>A composite floats for three reasons: black levels, atmospheric perspective and grain.</p></div>
+    <div class="card"><h4>5.8 Color grading</h4><p>Exposure and white balance first, the look after. Lift · gamma · gain adjust shadows · midtones · highlights.</p></div>
+    <div class="card"><h4>5.9 Automation tools</h4><p>Automated output is a draft. A person checks proper nouns, pacing, fingers and lettering.</p></div>
+    <div class="card"><h4>5.10 · 5.11 Export and expressions</h4><p>Stick to the right codec for each purpose, and cut keyframes with wiggle · loopOut · time · linear.</p></div>
+    <div class="card"><h4>5.12 · 5.13 Resolve and animation</h4><p>One job per node. Choose the method by texture first, budget second. Quality comes from the order of cuts, not the number of transitions.</p></div>
+  </div>
+  <h3>Questions to consider</h3>
+  <dl class="qa">
+    <dt>What makes me decide to cut in my edits?</dt><dd>Is it boredom, or because the next shot gives better information? Write one line on why you dropped each cut, and your criterion emerges.</dd>
+    <dt>When you feel like adding a transition, what does that spot actually need?</dt><dd>First check whether it really needs an effect, or just a different order of cuts.</dd>
+    <dt>Self-check</dt><dd>Can you explain each of these: how the roles of Premiere and After Effects differ, when precomposing is needed, alpha vs. luma track mattes, the three reasons a composite floats, and what lift · gamma · gain each adjust?</dd>
+    <dt>Field tips</dt><dd>Agree on project folder structure and file naming on day one. Save frequently used titles and effects as presets (over two months, that saves a day). Always take revision requests by timecode, and when feedback is "it's just not quite there overall," send it back and ask for specifics.</dd>
+  </dl>
+</section>

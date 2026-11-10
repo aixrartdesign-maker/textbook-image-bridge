@@ -1,0 +1,234 @@
+{
+ "stem": "p093_111_1374x800",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p093_111_1374x800.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "When choosing color, value still decides",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 40,
+    "chars_per_line_max": 82,
+    "chars_per_line_if_shrunk": 100,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Analogous",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Monochrome",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 24,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Complementary",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 20,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "One accent",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 16,
+    "chars_per_line_if_shrunk": 20,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "Chosen colors",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 41,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "Chosen colors",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "Chosen colors",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 41,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Chosen colors",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Grayscale value",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "10",
+   "en": "Grayscale value",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "Grayscale value",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "Grayscale value",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 34,
+    "chars_per_line_if_shrunk": 42,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "Opposite hues — most eye-catching",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 33,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 43,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "Adjacent hues — calm and stable",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 31,
+    "chars_per_line_max": 37,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "Shades of one hue — low risk",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 28,
+    "chars_per_line_max": 36,
+    "chars_per_line_if_shrunk": 45,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "One spot on neutrals — leads the eye",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 36,
+    "chars_per_line_max": 36,
+    "chars_per_line_if_shrunk": 44,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "17",
+   "en": "If the bottom row doesn't separate, shapes blur on screen, however good the colors",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 82,
+    "chars_per_line_max": 125,
+    "chars_per_line_if_shrunk": 152,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "18",
+   "en": "If it separates in grayscale, it will in color — the fastest self-check",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 71,
+    "chars_per_line_max": 177,
+    "chars_per_line_if_shrunk": 216,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

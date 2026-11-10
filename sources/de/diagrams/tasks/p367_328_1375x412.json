@@ -1,0 +1,126 @@
+{
+ "stem": "p367_328_1375x412",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p367_328_1375x412.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Read metrics in order — a low early stage makes the rest meaningless",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 68,
+    "chars_per_line_max": 136,
+    "chars_per_line_if_shrunk": 166,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "1",
+   "en": "Retention",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 27,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "2",
+   "en": "Click rate",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 25,
+    "chars_per_line_if_shrunk": 30,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "Reach",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Engagement",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 19,
+    "chars_per_line_if_shrunk": 23,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "Title·thumbnail",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Share motive·questions",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 35,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "7",
+   "en": "Post time·hashtags",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 18,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 35,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "8",
+   "en": "First 3s·mid pacing",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 31,
+    "chars_per_line_if_shrunk": 38,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "9",
+   "en": "Most problems occur at stages two and three",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 43,
+    "chars_per_line_max": 92,
+    "chars_per_line_if_shrunk": 113,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  }
+ ]
+}

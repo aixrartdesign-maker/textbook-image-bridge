@@ -1,0 +1,602 @@
+[
+{
+"key": "part06.html#284",
+"de": "Zielgruppe"
+},
+{
+"key": "part06.html#285",
+"de": "A, Schülerin der 11. Klasse. Berufswahl noch offen; schaut täglich über 90 Min. Kurzvideos"
+},
+{
+"key": "part06.html#286",
+"de": "Kernbotschaft"
+},
+{
+"key": "part06.html#287",
+"de": "Hier hast du den ganzen Tag die Kamera in der Hand"
+},
+{
+"key": "part06.html#288",
+"de": "Konzepttyp"
+},
+{
+"key": "part06.html#289",
+"de": "Konventionsbruch. Zeigt nur Hände und Technik der Studierenden statt Campus-Panoramen"
+},
+{
+"key": "part06.html#290",
+"de": "Aufbau"
+},
+{
+"key": "part06.html#291",
+"de": "0–3 s Auslösergeräusch und Großaufnahme der Hand / 3–45 s Tagesablauf in 8 Einstellungen / 45–60 s Name des Studiengangs und Bewerbungsweg"
+},
+{
+"key": "part06.html#292",
+"de": "Tonalität"
+},
+{
+"key": "part06.html#293",
+"de": "Tageslicht, Handkamera, über Untertitel erzählt, ohne Ton verständlich"
+},
+{
+"key": "part06.html#294",
+"de": "Produktionsplan"
+},
+{
+"key": "part06.html#295",
+"de": "1 Drehtag, 2 Studierende als Darsteller, 1 Systemkamera mit Gimbal, Labor und Campus"
+},
+{
+"key": "part06.html#296",
+"de": "Verbreitungsplan"
+},
+{
+"key": "part06.html#297",
+"de": "Instagram Reels und YouTube Shorts des Studiengangs, geteilt vom offiziellen Account der Hochschule. 12 Hashtags"
+},
+{
+"key": "part06.html#298",
+"de": "Risiken"
+},
+{
+"key": "part06.html#299",
+"de": "3 Ersatzeinstellungen innen für Regen. Freigaben der Darsteller vorab eingeholt"
+},
+{
+"key": "part06.html#300",
+"de": "<b>Themenbeispiele</b>"
+},
+{
+"key": "part06.html#301",
+"de": "Restaurants rund um die Hochschule im Vergleich, die Nutzung des kostenlosen Shuttlebusses, Tipps zum Alleinwohnen und zur Mülltrennung, zwei Mensen im Vergleich, ein Studi-Vlog über einen Tag, die Technik des Studiengangs, Werbung für eine Hochschulgruppe, eine Tour zu versteckten Ecken des Campus."
+},
+{
+"key": "part06.html#302",
+"de": "Die Themen aus echten Kursen haben eines gemeinsam: Nur wer hier studiert, kennt sie. Gehen Sie nicht von dem aus, was niemand weiß, sondern von dem, was nur Sie wissen."
+},
+{
+"key": "part06.html#303",
+"de": "<small>Übung</small>2.8"
+},
+{
+"key": "part06.html#304",
+"de": "Aufgabe"
+},
+{
+"key": "part06.html#305",
+"de": "Schreiben Sie ein 5-seitiges Konzept für einen Wettbewerbsbeitrag (Aufgabe, Insight, Konzept, Storyboard, erwartete Wirkung)."
+},
+{
+"key": "part06.html#306",
+"de": "Tipp"
+},
+{
+"key": "part06.html#307",
+"de": "Ein Satz auf der ersten Seite sollte das Ganze zusammenfassen."
+},
+{
+"key": "part06.html#308",
+"de": "Bewertung"
+},
+{
+"key": "part06.html#309",
+"de": "Logischer Aufbau, Wirkung der Bilder"
+},
+{
+"key": "part06.html#310",
+"de": "Musterlösung"
+},
+{
+"key": "part06.html#311",
+"de": "Belegt Insights mit Daten oder Aussagen aus Interviews."
+},
+{
+"key": "part06.html#312",
+"de": "<b>TEIL 06</b>Planung und Vorproduktion"
+},
+{
+"key": "part06.html#313",
+"de": "Rollen im Team und Zusammenarbeit"
+},
+{
+"key": "part06.html#314",
+"de": "Legen Sie fest, wer entscheidet. Wenn alle Regie führen, führt niemand Regie."
+},
+{
+"key": "part06.html#315",
+"de": "<span class=\"ph-id\">P06-TEAM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Rollen am Monitor – eine Person entscheidet</b></span>"
+},
+{
+"key": "part06.html#316",
+"de": "<b>Hinweis</b>Rollen am Monitor – eine Person entscheidet"
+},
+{
+"key": "part06.html#317",
+"de": "Rolle"
+},
+{
+"key": "part06.html#318",
+"de": "Verantwortung"
+},
+{
+"key": "part06.html#319",
+"de": "Am Drehtag"
+},
+{
+"key": "part06.html#320",
+"de": "Regie"
+},
+{
+"key": "part06.html#321",
+"de": "Entscheidet, was wie gezeigt wird"
+},
+{
+"key": "part06.html#322",
+"de": "Bewertet Takes, führt Darsteller, gibt OK"
+},
+{
+"key": "part06.html#323",
+"de": "DoP"
+},
+{
+"key": "part06.html#324",
+"de": "Technische Umsetzung des Bildes"
+},
+{
+"key": "part06.html#325",
+"de": "Kamerasetup, Bildausschnitt, Belichtung, Schärfe"
+},
+{
+"key": "part06.html#326",
+"de": "Licht"
+},
+{
+"key": "part06.html#327",
+"de": "Plant und setzt das Licht"
+},
+{
+"key": "part06.html#328",
+"de": "Lichtaufbau, Leistungsregelung, Sicherheit"
+},
+{
+"key": "part06.html#329",
+"de": "Ton"
+},
+{
+"key": "part06.html#330",
+"de": "Nimmt den Ton am Set auf"
+},
+{
+"key": "part06.html#331",
+"de": "Mikrofonführung, Pegelkontrolle, Raumton"
+},
+{
+"key": "part06.html#332",
+"de": "Produktion (PD)"
+},
+{
+"key": "part06.html#333",
+"de": "Zeitplan, Budget, Buchungen, Tagesablauf"
+},
+{
+"key": "part06.html#334",
+"de": "Zeitkontrolle, Drehortkontakt, Datensicherung"
+},
+{
+"key": "part06.html#335",
+"de": "Script/Continuity"
+},
+{
+"key": "part06.html#336",
+"de": "Drehprotokoll"
+},
+{
+"key": "part06.html#337",
+"de": "Notiert Takes und OKs je Einstellung"
+},
+{
+"key": "part06.html#338",
+"de": "Ausstattung"
+},
+{
+"key": "part06.html#339",
+"de": "Gegenstände im Bild"
+},
+{
+"key": "part06.html#340",
+"de": "Set-Dressing, Produkt drehfertig halten"
+},
+{
+"key": "part06.html#341",
+"de": "Schnitt"
+},
+{
+"key": "part06.html#342",
+"de": "Prägt die Postproduktion"
+},
+{
+"key": "part06.html#343",
+"de": "Beobachtet am Set oder klärt Rohschnittbedarf"
+},
+{
+"key": "part06.html#344",
+"de": "Rollen in kleinen Teams"
+},
+{
+"key": "part06.html#345",
+"de": "<small>1 Person</small>30–40 s"
+},
+{
+"key": "part06.html#346",
+"de": "Übernimmt alles"
+},
+{
+"key": "part06.html#347",
+"de": "Mit Stativ und statischen Einstellungen planen"
+},
+{
+"key": "part06.html#348",
+"de": "<small>2 Personen</small>40 s–1 Min."
+},
+{
+"key": "part06.html#349",
+"de": "Regie macht auch Kamera"
+},
+{
+"key": "part06.html#350",
+"de": "Produktion macht auch Ton"
+},
+{
+"key": "part06.html#351",
+"de": "<small>3 Personen</small>1 Min.–1 Min. 30 s"
+},
+{
+"key": "part06.html#352",
+"de": "Regie / Kamera"
+},
+{
+"key": "part06.html#353",
+"de": "Produktion macht auch Licht"
+},
+{
+"key": "part06.html#354",
+"de": "<small>4 und mehr</small>1 Min. 30 s–2 Min."
+},
+{
+"key": "part06.html#355",
+"de": "Regie / Kamera / Licht / Produktion, alle getrennt"
+},
+{
+"key": "part06.html#356",
+"de": "Sieben Regeln für Teamarbeit"
+},
+{
+"key": "part06.html#357",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part06.html#358",
+"de": "Geben Sie Feedback beim Ansehen, mit konkreten Zeitpunkten. „Insgesamt passt es irgendwie noch nicht“ hilft nicht weiter."
+},
+{
+"key": "part06.html#359",
+"de": "<b>01</b><span>Legen Sie fest, wer entscheidet.</span>"
+},
+{
+"key": "part06.html#360",
+"de": "<b>02</b><span>Tauschen Sie die Rollen. Bei Studienprojekten lautet das Lernziel: jede Rolle einmal ausprobieren.</span>"
+},
+{
+"key": "part06.html#361",
+"de": "<b>03</b><span>Legen Sie am ersten Tag die Dateinamen fest. Reihenfolge: Datum, Szene, Einstellung, Version.</span>"
+},
+{
+"key": "part06.html#362",
+"de": "<b>04</b><span>Richten Sie die gemeinsame Ordnerstruktur vorab ein. Nach dem Dreh ist es zu spät.</span>"
+},
+{
+"key": "part06.html#363",
+"de": "<b>05</b><span>Geben Sie Feedback beim Ansehen, mit konkreten Zeitpunkten.</span>"
+},
+{
+"key": "part06.html#364",
+"de": "<b>06</b><span>Setzen Sie die interne Deadline einen Tag vor die echte.</span>"
+},
+{
+"key": "part06.html#365",
+"de": "<b>07</b><span>Sagen Sie zuerst, was gut lief. Ein Team hält durch Beziehungen zusammen, nicht durch Können.</span>"
+},
+{
+"key": "part06.html#366",
+"de": "<small>Übung</small>2.9"
+},
+{
+"key": "part06.html#367",
+"de": "Aufgabe"
+},
+{
+"key": "part06.html#368",
+"de": "Erstellen Sie für ein 5-köpfiges Team eine Rollenübersicht und Kommunikationsregeln (Kanäle, Antwortzeiten, Dateiregeln)."
+},
+{
+"key": "part06.html#369",
+"de": "Tipp"
+},
+{
+"key": "part06.html#370",
+"de": "Wenn eine Person zwei Rollen hat, prüfen Sie, wo sich die Zeiten überschneiden."
+},
+{
+"key": "part06.html#371",
+"de": "Bewertung"
+},
+{
+"key": "part06.html#372",
+"de": "Klare Rollen, Einhaltung der Kommunikationsregeln"
+},
+{
+"key": "part06.html#373",
+"de": "Musterlösung"
+},
+{
+"key": "part06.html#374",
+"de": "Dokumentiert nach der Abgabe eine Team-Retrospektive."
+},
+{
+"key": "part06.html#375",
+"de": "<b>TEIL 06</b>Planung und Vorproduktion"
+},
+{
+"key": "part06.html#376",
+"de": "Wettbewerbsbeiträge und Konzepte"
+},
+{
+"key": "part06.html#377",
+"de": "Wettbewerbe bringen beides: ein Portfolio-Stück und Geld für die Produktion. Doch wer nicht versteht, wie bewertet wird, scheidet meist schon in Runde 1 aus."
+},
+{
+"key": "part06.html#378",
+"de": "<b>01</b><i>Runde 1: Unterlagen</i>Themenbezug und Machbarkeit – Begriffe der Ausschreibung wörtlich verwenden"
+},
+{
+"key": "part06.html#379",
+"de": "<b>02</b><i>Runde 2: Planung</i>Eigenständigkeit und Konkretheit – Konzept in einem Satz und Storyboard einreichen"
+},
+{
+"key": "part06.html#380",
+"de": "<b>03</b><i>Runde 3: Produktion</i>Feinschliff und Termintreue – keinen Zwischenbericht versäumen"
+},
+{
+"key": "part06.html#381",
+"de": "<b>04</b><i>Endauswahl</i>Vermittlung der Botschaft und technischer Feinschliff – Schwerpunkte auf die Jury abstimmen"
+},
+{
+"key": "part06.html#382",
+"de": "Was abgelehnte Beiträge gemeinsam haben"
+},
+{
+"key": "part06.html#383",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part06.html#384",
+"de": "Immer wieder werden Preise wegen Urheberrechten an Musik und Schriften aberkannt."
+},
+{
+"key": "part06.html#385",
+"de": "Die Ausschreibung wurde nicht gelesen. Erstaunlich viele Konzepte verwenden das Schlüsselwort des Themas kein einziges Mal im Text."
+},
+{
+"key": "part06.html#386",
+"de": "Es steht nur drin, was man selbst machen will. Ein Wettbewerb ist ein Mittel, die Ziele des Veranstalters zu erreichen."
+},
+{
+"key": "part06.html#387",
+"de": "Das Vorhaben ist nicht machbar. Ein Drehplan, der Budget und Zeitplan sprengt, kostet sofort Punkte."
+},
+{
+"key": "part06.html#388",
+"de": "Der Beitrag hebt sich nicht ab. Zum selben Thema gehen Hunderte Einsendungen ein. Sie müssen in einem Satz sagen können, was Ihren Beitrag unterscheidet."
+},
+{
+"key": "part06.html#389",
+"de": "Das Urheberrecht wurde nicht geprüft."
+},
+{
+"key": "part06.html#390",
+"de": "Einseitige Konzeptübersicht – zehn Punkte"
+},
+{
+"key": "part06.html#391",
+"de": "Titel / Konzept in einem Satz / Zielgruppe / Kernbotschaft / Aufbau (0–3 s, 3–45 s, 45–60 s) / 1 Key Visual / Produktionszeitplan / Budget / Alleinstellungsmerkmal in einem Satz / 1 Wirkungskennzahl. Passen diese zehn Punkte nicht auf eine A4-Seite, ist der Plan noch nicht ausgereift."
+},
+{
+"key": "part06.html#392",
+"de": "<small>Übung</small>2.10"
+},
+{
+"key": "part06.html#393",
+"de": "Aufgabe"
+},
+{
+"key": "part06.html#394",
+"de": "Wählen Sie einen echten Wettbewerb und bringen Sie Anmeldung und Konzept zur Einreichungsreife."
+},
+{
+"key": "part06.html#395",
+"de": "Tipp"
+},
+{
+"key": "part06.html#396",
+"de": "Prüfen Sie zuerst technische Vorgaben, Urheberrechtsklauseln und Einreichungsformat der Ausschreibung."
+},
+{
+"key": "part06.html#397",
+"de": "Bewertung"
+},
+{
+"key": "part06.html#398",
+"de": "Erfüllung der Ausschreibung, Überzeugungskraft"
+},
+{
+"key": "part06.html#399",
+"de": "Musterlösung"
+},
+{
+"key": "part06.html#400",
+"de": "Leitet das Inhaltsverzeichnis des Konzepts aus den Bewertungskriterien ab."
+},
+{
+"key": "part06.html#401",
+"de": "<b>TEIL 06</b>Planung und Vorproduktion"
+},
+{
+"key": "part06.html#402",
+"de": "Interviewvideos planen und drehen"
+},
+{
+"key": "part06.html#403",
+"de": "Interviews sind das am häufigsten beauftragte Format – und sie legen Ihre Grundlagen in Licht, Mikrofonie, Bildausschnitt und Schnitt auf einen Schlag offen."
+},
+{
+"key": "part06.html#404",
+"de": "<span class=\"ph-id\">P06-INTERVIEW</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>2-Kamera-Interview – Führungslicht auf Augenhöhe, Interviewer dicht am Objektiv</b></span>"
+},
+{
+"key": "part06.html#405",
+"de": "<b>Hinweis</b>2-Kamera-Interview – Führungslicht auf Augenhöhe, Interviewer dicht am Objektiv"
+},
+{
+"key": "part06.html#406",
+"de": "Interview – zwei Kameras, ein Blick"
+},
+{
+"key": "part06.html#407",
+"de": "Hintergrund – mit Tiefe, geringe Schärfentiefe"
+},
+{
+"key": "part06.html#408",
+"de": "Befragter"
+},
+{
+"key": "part06.html#409",
+"de": "Führungslicht"
+},
+{
+"key": "part06.html#410",
+"de": "Hauptkamera"
+},
+{
+"key": "part06.html#411",
+"de": "Interviewer"
+},
+{
+"key": "part06.html#412",
+"de": "B-Kamera (45°)"
+},
+{
+"key": "part06.html#413",
+"de": "<b>Aufbau von oben</b><span>Interviewer direkt neben dem Objektiv – der Blick ist fast frontal und doch entspannt wie im Gespräch</span>"
+},
+{
+"key": "part06.html#414",
+"de": "<b>Hauptkamera – Blick neben die Kamera</b><span>Raum in Blickrichtung lassen (Blickraum)</span>"
+},
+{
+"key": "part06.html#415",
+"de": "<b>B-Kamera – fängt die Mimik ein</b><span>Großaufnahme seitlich aus 45°, eine Atempause für den Schnitt</span>"
+},
+{
+"key": "part06.html#416",
+"de": "<b>Abb. 60</b> Standardaufbau für Interviews und die resultierenden Bilder. Ein starrer Blick ins Objektiv erzeugt Anspannung – setzen Sie den Interviewer neben das Objektiv."
+},
+{
+"key": "part06.html#417",
+"de": "Vorbereitung"
+},
+{
+"key": "part06.html#418",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part06.html#419",
+"de": "Planen Sie doppelt so viel Drehzeit ein wie nötig. Die Nervosität braucht Zeit, um sich zu legen."
+},
+{
+"key": "part06.html#420",
+"de": "<b>01</b><span>Formulieren Sie die Fragen vorab und teilen Sie sie, aber nutzen Sie sie nur als Gesprächsrahmen, nicht als Text zum Ablesen.</span>"
+},
+{
+"key": "part06.html#421",
+"de": "<b>02</b><span>Bitten Sie die befragte Person, die Frage in jeder Antwort aufzugreifen. Die Fragen werden im Schnitt entfernt.</span>"
+},
+{
+"key": "part06.html#422",
+"de": "<b>03</b><span>Prüfen Sie den Drehort vorab: ruhig, mit Tiefe im Hintergrund und einem nutzbaren Fenster.</span>"
+},
+{
+"key": "part06.html#423",
+"de": "<b>04</b><span>Beraten Sie vorab zu den Kleidungsfarben. Meiden Sie die Farbe des Hintergrunds, feine Streifen und große Logos.</span>"
+},
+{
+"key": "part06.html#424",
+"de": "<b>05</b><span>Planen Sie doppelt so viel Drehzeit ein wie nötig.</span>"
+},
+{
+"key": "part06.html#425",
+"de": "Drehaufbau"
+},
+{
+"key": "part06.html#426",
+"de": "Bereich"
+},
+{
+"key": "part06.html#427",
+"de": "Grundaufbau"
+},
+{
+"key": "part06.html#428",
+"de": "Warum"
+},
+{
+"key": "part06.html#429",
+"de": "Kamera"
+},
+{
+"key": "part06.html#430",
+"de": "2 Kameras: A Halbnahe, B Großaufnahme"
+},
+{
+"key": "part06.html#431",
+"de": "Vermeidet Jumpcuts im Schnitt"
+},
+{
+"key": "part06.html#432",
+"de": "Bildausschnitt"
+},
+{
+"key": "part06.html#433",
+"de": "Augen auf einem Drittel-Schnittpunkt, Raum in Blickrichtung"
+}
+]

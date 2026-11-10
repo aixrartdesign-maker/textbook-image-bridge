@@ -1,0 +1,701 @@
+{
+ "stem": "p367_328_1375x412",
+ "size": [
+  3073,
+  878
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Read metrics in order — a low early stage makes the rest meaningless",
+   "en": "Read metrics in order — a low early stage makes the rest meaningless",
+   "lines": [
+    [
+     769,
+     72,
+     2248,
+     115
+    ]
+   ],
+   "ocr": "Read metrics in order a low early stage makes the rest meaningless",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    769,
+    72,
+    2248,
+    115
+   ],
+   "ltexts": [
+    "Read metrics in order — a low early stage makes the rest meaningless"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    122,
+    33,
+    48
+   ],
+   "weight": "Medium",
+   "size": 45.19,
+   "baselines": [
+    106
+   ],
+   "xs": [
+    765
+   ],
+   "inkboxes": [
+    [
+     769,
+     72,
+     2248,
+     115
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 769,
+    "right": 825,
+    "up": 72,
+    "down": 144,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Retention",
+   "en": "Retention",
+   "lines": [
+    [
+     1802,
+     342,
+     2025,
+     380
+    ]
+   ],
+   "ocr": "Retention",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    1802,
+    342,
+    2025,
+    380
+   ],
+   "ltexts": [
+    "Retention"
+   ],
+   "bg": [
+    122,
+    29,
+    44
+   ],
+   "bgstd": 1.3,
+   "color": [
+    252,
+    250,
+    252
+   ],
+   "weight": "Bold",
+   "size": 46.94,
+   "baselines": [
+    379
+   ],
+   "xs": [
+    1798
+   ],
+   "inkboxes": [
+    [
+     1802,
+     342,
+     2025,
+     380
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.54,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 200,
+    "right": 199,
+    "up": 73,
+    "down": 172,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Click rate",
+   "en": "Click rate",
+   "lines": [
+    [
+     1091,
+     343,
+     1309,
+     380
+    ]
+   ],
+   "ocr": "Click rate",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    1091,
+    343,
+    1309,
+    380
+   ],
+   "ltexts": [
+    "Click rate"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 1.2,
+   "color": [
+    38,
+    38,
+    41
+   ],
+   "weight": "Bold",
+   "size": 48.0,
+   "baselines": [
+    380
+   ],
+   "xs": [
+    1089
+   ],
+   "inkboxes": [
+    [
+     1092,
+     343,
+     1308,
+     380
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.67,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 197,
+    "right": 195,
+    "up": 73,
+    "down": 171,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Reach",
+   "en": "Reach",
+   "lines": [
+    [
+     421,
+     344,
+     562,
+     380
+    ]
+   ],
+   "ocr": "Reach",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    421,
+    344,
+    562,
+    380
+   ],
+   "ltexts": [
+    "Reach"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 1.3,
+   "color": [
+    37,
+    37,
+    40
+   ],
+   "weight": "Bold",
+   "size": 49.47,
+   "baselines": [
+    381
+   ],
+   "xs": [
+    417
+   ],
+   "inkboxes": [
+    [
+     421,
+     344,
+     561,
+     380
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.77,
+   "align": "center",
+   "room": {
+    "left": 247,
+    "right": 231,
+    "up": 74,
+    "down": 171,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Engagement",
+   "en": "Engagement",
+   "lines": [
+    [
+     2488,
+     345,
+     2777,
+     390
+    ]
+   ],
+   "ocr": "Engagement",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    2488,
+    345,
+    2777,
+    390
+   ],
+   "ltexts": [
+    "Engagement"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 1.2,
+   "color": [
+    37,
+    38,
+    41
+   ],
+   "weight": "Bold",
+   "size": 46.73,
+   "baselines": [
+    379
+   ],
+   "xs": [
+    2484
+   ],
+   "inkboxes": [
+    [
+     2488,
+     345,
+     2777,
+     390
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.39,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 165,
+    "right": 163,
+    "up": 75,
+    "down": 161,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Title·thumbnail",
+   "en": "Title·thumbnail",
+   "lines": [
+    [
+     1059,
+     446,
+     1341,
+     491
+    ]
+   ],
+   "ocr": "Title -thumbnail",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    1059,
+    446,
+    1341,
+    491
+   ],
+   "ltexts": [
+    "Title·thumbnail"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 0.7,
+   "color": [
+    108,
+    108,
+    111
+   ],
+   "weight": "Regular",
+   "size": 37.47,
+   "baselines": [
+    480
+   ],
+   "xs": [
+    1058
+   ],
+   "inkboxes": [
+    [
+     1059,
+     451,
+     1341,
+     481
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.5,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 165,
+    "right": 163,
+    "up": 176,
+    "down": 60,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Share motive·questions",
+   "en": "Share motive·questions",
+   "lines": [
+    [
+     2415,
+     446,
+     2848,
+     494
+    ]
+   ],
+   "ocr": "Share motive: questions",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    2415,
+    446,
+    2848,
+    494
+   ],
+   "ltexts": [
+    "Share motive·questions"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 0.7,
+   "color": [
+    109,
+    109,
+    112
+   ],
+   "weight": "Regular",
+   "size": 37.79,
+   "baselines": [
+    480
+   ],
+   "xs": [
+    2413
+   ],
+   "inkboxes": [
+    [
+     2415,
+     451,
+     2848,
+     489
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.21,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 91,
+    "right": 92,
+    "up": 176,
+    "down": 57,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Post time·hashtags",
+   "en": "Post time·hashtags",
+   "lines": [
+    [
+     313,
+     450,
+     661,
+     490
+    ]
+   ],
+   "ocr": "Post time: hashtags",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    313,
+    450,
+    661,
+    490
+   ],
+   "ltexts": [
+    "Post time·hashtags"
+   ],
+   "bg": [
+    241,
+    241,
+    243
+   ],
+   "bgstd": 1.0,
+   "color": [
+    109,
+    109,
+    112
+   ],
+   "weight": "Regular",
+   "size": 37.9,
+   "baselines": [
+    480
+   ],
+   "xs": [
+    309
+   ],
+   "inkboxes": [
+    [
+     313,
+     451,
+     661,
+     490
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.2,
+   "align": "center",
+   "room": {
+    "left": 139,
+    "right": 132,
+    "up": 180,
+    "down": 61,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "First 3s·mid pacing",
+   "en": "First 3s·mid pacing",
+   "lines": [
+    [
+     1742,
+     451,
+     2087,
+     489
+    ]
+   ],
+   "ocr": "First 3s-mid pacing",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    1742,
+    451,
+    2087,
+    489
+   ],
+   "ltexts": [
+    "First 3s·mid pacing"
+   ],
+   "bg": [
+    122,
+    29,
+    44
+   ],
+   "bgstd": 1.3,
+   "color": [
+    237,
+    228,
+    227
+   ],
+   "weight": "Regular",
+   "size": 38.76,
+   "baselines": [
+    481
+   ],
+   "xs": [
+    1738
+   ],
+   "inkboxes": [
+    [
+     1742,
+     451,
+     2087,
+     489
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.57,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 140,
+    "right": 137,
+    "up": 182,
+    "down": 63,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Most problems occur at stages two and three",
+   "en": "Most problems occur at stages two and three",
+   "lines": [
+    [
+     1085,
+     659,
+     1995,
+     704
+    ]
+   ],
+   "ocr": "Most problems occur at stages two and three",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    1085,
+    659,
+    1995,
+    704
+   ],
+   "ltexts": [
+    "Most problems occur at stages two and three"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.4,
+   "color": [
+    104,
+    104,
+    106
+   ],
+   "weight": "Regular",
+   "size": 43.49,
+   "baselines": [
+    693
+   ],
+   "xs": [
+    1081
+   ],
+   "inkboxes": [
+    [
+     1085,
+     659,
+     1995,
+     704
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.25,
+   "align": "left",
+   "room": {
+    "left": 1085,
+    "right": 1078,
+    "up": 97,
+    "down": 174,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  }
+ ],
+ "missing": [],
+ "noise": []
+}

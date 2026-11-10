@@ -1,0 +1,602 @@
+[
+{
+"key": "part09.html#815",
+"de": "<small>Übung</small>8.12"
+},
+{
+"key": "part09.html#816",
+"de": "Aufgabe"
+},
+{
+"key": "part09.html#817",
+"de": "Erstellen Sie einen Plan für SNS-Werbung mit kleinem (oder fiktivem) Budget (Ziel, Zielgruppe, Werbemittel, Budget, Kennzahlen)."
+},
+{
+"key": "part09.html#818",
+"de": "Tipp"
+},
+{
+"key": "part09.html#819",
+"de": "Bereiten Sie mindestens 2 Werbemittel vor und planen Sie einen Vergleichstest."
+},
+{
+"key": "part09.html#820",
+"de": "Bewertung"
+},
+{
+"key": "part09.html#821",
+"de": "Ziele passend zu Kennzahlen, Budgetverteilung"
+},
+{
+"key": "part09.html#822",
+"de": "Musterlösung"
+},
+{
+"key": "part09.html#823",
+"de": "Legt nach Kampagnenende auch einen Ergebnisbericht vor."
+},
+{
+"key": "part09.html#824",
+"de": "<b>TEIL 09</b>Plattformbetrieb und generative KI"
+},
+{
+"key": "part09.html#825",
+"de": "Eine KI-Produktionspipeline gestalten"
+},
+{
+"key": "part09.html#826",
+"de": "Nicht Tempo trennt die Nutzer generativer Werkzeuge von den Nichtnutzern, sondern Struktur. Überlassen Sie den ganzen Prozess der KI, bricht die Konsistenz zusammen; nutzen Sie gar keine, verlieren Sie beim Volumen. Entscheidend ist, was Sie an welcher Stelle der Pipeline einsetzen."
+},
+{
+"key": "part09.html#827",
+"de": "<span class=\"ph-id\">P09-AISTUDIO</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>KI-Produktionspipeline</b>Ein Videomacher dirigiert generierte Videos vor einem großen Bildschirm, dazu ein Raster generierter Clipvarianten und ein Prompt-Panel, dunkles Studio</span>"
+},
+{
+"key": "part09.html#828",
+"de": "<b>Hinweis</b>KI-Produktionspipeline – Regisseur ist, wer weiß, welcher von Dutzenden Entwürfen der richtige ist"
+},
+{
+"key": "part09.html#829",
+"de": "KI ersetzt nicht den ganzen Prozess, sie setzt an drei Stellen an"
+},
+{
+"key": "part09.html#830",
+"de": "<b>Planung</b><span class=\"deg\">Sprachmodell</span><span>20 Ideen → auf 3 eingegrenzt</span>"
+},
+{
+"key": "part09.html#831",
+"de": "<b>Visualisierung</b><span class=\"deg\">Bildgenerierung</span><span>Moodboard · Storyboard-Entwürfe</span>"
+},
+{
+"key": "part09.html#832",
+"de": "<b>Dreh / Generierung</b><span class=\"deg\">Videogenerierung</span><span>Ersatz für nicht drehbare Inserts</span>"
+},
+{
+"key": "part09.html#833",
+"de": "<b>Stimme</b><span class=\"deg\">Sprachsynthese</span><span>Layoutsprecher · mehrsprachig</span>"
+},
+{
+"key": "part09.html#834",
+"de": "<b>Schnitt</b><span class=\"deg\">Auto-Untertitel · Rohschnitt</span><span>1. Fassung und Untertitelentwurf</span>"
+},
+{
+"key": "part09.html#835",
+"de": "<b>Prüfung</b><span class=\"deg\">Mensch</span><span>Letztes Wort zu Fakten · Rechten · Qualität</span>"
+},
+{
+"key": "part09.html#836",
+"de": "KI ersetzt nicht den ganzen Prozess, sie setzt an <b>drei Stellen</b> an – Ideen erweitern · Entwürfe visualisieren · Postproduktion automatisieren. Urteil und Abstimmung bleiben Menschenarbeit."
+},
+{
+"key": "part09.html#837",
+"de": "<b>Abb. 84</b> Die KI-Produktionspipeline – KI wirkt an fünf der sechs Stufen mit, die Endkontrolle macht ein Mensch."
+},
+{
+"key": "part09.html#838",
+"de": "<b>Abb. 85</b> Karte der generativen Werkzeuge"
+},
+{
+"key": "part09.html#839",
+"de": "Werkzeugkarte"
+},
+{
+"key": "part09.html#840",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part09.html#841",
+"de": "Werkzeuge ändern sich ständig. Merken Sie sich Kategorien und Grenzen, nicht die Namen von Diensten."
+},
+{
+"key": "part09.html#842",
+"de": "Kategorie"
+},
+{
+"key": "part09.html#843",
+"de": "Gängige Tools"
+},
+{
+"key": "part09.html#844",
+"de": "Praxiseinsatz"
+},
+{
+"key": "part09.html#845",
+"de": "Grenzen"
+},
+{
+"key": "part09.html#846",
+"de": "Sprachmodelle"
+},
+{
+"key": "part09.html#847",
+"de": "ChatGPT, Gemini, Claude"
+},
+{
+"key": "part09.html#848",
+"de": "Ideen erweitern, Drehbuchentwürfe, Textvarianten, Recherche ordnen"
+},
+{
+"key": "part09.html#849",
+"de": "Faktencheck nötig; trifft keine Endentscheidung"
+},
+{
+"key": "part09.html#850",
+"de": "Bildgenerierung"
+},
+{
+"key": "part09.html#851",
+"de": "GPT Image, Nano Banana, Midjourney, Seedream"
+},
+{
+"key": "part09.html#852",
+"de": "Moodboards, Concept Art, Storyboard-Entwürfe, Hintergrund-Plates"
+},
+{
+"key": "part09.html#853",
+"de": "Schrift unzuverlässig, Konsistenz schwer zu halten"
+},
+{
+"key": "part09.html#854",
+"de": "Videogenerierung"
+},
+{
+"key": "part09.html#855",
+"de": "Sora, Veo, Kling, Seedance, Runway, Higgsfield"
+},
+{
+"key": "part09.html#856",
+"de": "Inserts, Hintergründe, nicht drehbare Szenen, Previs"
+},
+{
+"key": "part09.html#857",
+"de": "Längenlimits, Figurenkonsistenz, Physikfehler"
+},
+{
+"key": "part09.html#858",
+"de": "Sprachsynthese"
+},
+{
+"key": "part09.html#859",
+"de": "ElevenLabs, Typecast, Seed Audio"
+},
+{
+"key": "part09.html#860",
+"de": "Layoutsprecher, mehrsprachige Synchronisation, Entwürfe testen"
+},
+{
+"key": "part09.html#861",
+"de": "Nie die Stimme realer Personen klonen"
+},
+{
+"key": "part09.html#862",
+"de": "Musikgenerierung"
+},
+{
+"key": "part09.html#863",
+"de": "Suno, Udio"
+},
+{
+"key": "part09.html#864",
+"de": "Layoutmusik für Entwürfe, Stimmung ausloten"
+},
+{
+"key": "part09.html#865",
+"de": "Bedingungen für kommerzielle Nutzung prüfen"
+},
+{
+"key": "part09.html#866",
+"de": "Schnitthilfen"
+},
+{
+"key": "part09.html#867",
+"de": "Vrew, CapCut, KI-Funktionen in Premiere"
+},
+{
+"key": "part09.html#868",
+"de": "Auto-Untertitel, Pausen entfernen, 1. Rohschnitt"
+},
+{
+"key": "part09.html#869",
+"de": "Fehler bei Eigennamen, kein Gespür für Tempo"
+},
+{
+"key": "part09.html#870",
+"de": "3D-Generierung"
+},
+{
+"key": "part09.html#871",
+"de": "Meshy, Tripo"
+},
+{
+"key": "part09.html#872",
+"de": "Requisiten, Figurenprototypen"
+},
+{
+"key": "part09.html#873",
+"de": "Polygon-Bereinigung nötig"
+},
+{
+"key": "part09.html#874",
+"de": "Schritt für Schritt: ein 15-Sekunden-Spot mit KI"
+},
+{
+"key": "part09.html#875",
+"de": "<b>01</b><i>Auffächern</i>Briefing an ein Sprachmodell geben; 20 Pain Points und 10 Konzeptideen erhalten"
+},
+{
+"key": "part09.html#876",
+"de": "<b>02</b><i>Eingrenzen</i>Ein Mensch grenzt sie auf 3 ein und schreibt das Konzept in einem Satz. Gerade diesen Satz delegiert man nie"
+},
+{
+"key": "part09.html#877",
+"de": "<b>03</b><i>Visualisieren</i>Moodboard und Storyboard-Entwürfe mit 6 Einstellungen per Bildgenerierung. Hier beschleunigt sich die Einigung auf Tonalität und Stil am stärksten"
+},
+{
+"key": "part09.html#878",
+"de": "<b>04</b><i>Previs</i>Das Storyboard per Videogenerierung in ein Animatic verwandeln. Rhythmusprobleme vor dem Dreh erkennen"
+},
+{
+"key": "part09.html#879",
+"de": "<b>05</b><i>Aufteilen</i>Realdreh und Generierung aufteilen. Einstellungen mit deutlich sichtbarem Gesicht dreht man sicherer real"
+},
+{
+"key": "part09.html#880",
+"de": "<b>06</b><i>Angleichen</i>In der Post generierte Einstellungen an Farbtemperatur und Korn der Realaufnahmen anpassen. Ohne diesen Schritt sieht man es sofort"
+},
+{
+"key": "part09.html#881",
+"de": "<b>07</b><i>Layoutsprecher</i>Länge und Rhythmus mit Sprachsynthese testen. Für die Endfassung durch einen Sprecher oder die eigene Aufnahme ersetzen"
+},
+{
+"key": "part09.html#882",
+"de": "<b>08</b><i>Layoutmusik</i>Den Schnittrhythmus mit generierter Musik festlegen, für die Abgabe aber gegen klar lizenzierte Titel tauschen"
+},
+{
+"key": "part09.html#883",
+"de": "<b>09</b><i>Untertitel prüfen</i>Ersten Durchgang automatisch erzeugen; ein Mensch prüft Eigennamen und Rechtschreibung"
+},
+{
+"key": "part09.html#884",
+"de": "<b>10</b><i>Protokollieren</i>KI-Einsatz in den Produktionsunterlagen festhalten. Wettbewerbe und Auftraggeber verlangen zunehmend eine Offenlegung"
+},
+{
+"key": "part09.html#885",
+"de": "Drei Regeln für generierte Einstellungen im Realdreh"
+},
+{
+"key": "part09.html#886",
+"de": "<b>Gesichter<em>tabu</em></b>Nicht für Einstellungen mit großem Gesicht im Bild"
+},
+{
+"key": "part09.html#887",
+"de": "<b>1/3<em>max.</em></b>Generierte Einstellungen max. 1/3 eines Werks"
+},
+{
+"key": "part09.html#888",
+"de": "<b>Objektiv<em>+Korn</em></b>Verzeichnung und Korn der Realaufnahmen über generierte Einstellungen legen"
+},
+{
+"key": "part09.html#889",
+"de": "Fünf Regeln für Prompts"
+},
+{
+"key": "part09.html#890",
+"de": "Schreiben Sie in dieser Reihenfolge: Motiv, Handlung, Ort, Zeit, Licht, Objektiv, Stimmung. Je konkreter, wie ein Drehbriefing, desto stabiler das Ergebnis."
+},
+{
+"key": "part09.html#891",
+"de": "Positive Formulierungen wirken besser als negative. Schreiben Sie „eine leere Straße“, nicht „keine Menschen“."
+},
+{
+"key": "part09.html#892",
+"de": "Nutzen Sie Kamerabegriffe. Die meisten Modelle haben Wörter wie Weitwinkel, Tele, Untersicht und geringe Schärfentiefe gelernt."
+},
+{
+"key": "part09.html#893",
+"de": "Verlangen Sie keinen Text im Bild. Schrift selbst im Schnitt einzufügen ist immer genauer."
+},
+{
+"key": "part09.html#894",
+"de": "Denselben Prompt mehrmals laufen zu lassen und auszuwählen geht schneller, als sich mit dem perfekten Prompt im ersten Anlauf abzumühen."
+},
+{
+"key": "part09.html#895",
+"de": "<small>Übung</small>8.13"
+},
+{
+"key": "part09.html#896",
+"de": "Aufgabe"
+},
+{
+"key": "part09.html#897",
+"de": "Entwerfen Sie eine Produktionspipeline mit KI-Werkzeugen in jeder Phase von der Planung bis zum Schnitt, und stellen Sie ein 1-minütiges Video fertig."
+},
+{
+"key": "part09.html#898",
+"de": "Tipp"
+},
+{
+"key": "part09.html#899",
+"de": "Markieren Sie, wo ein Mensch entscheiden muss."
+},
+{
+"key": "part09.html#900",
+"de": "Bewertung"
+},
+{
+"key": "part09.html#901",
+"de": "Pipeline-Effizienz, Qualitätskontrolle, Offenlegung der KI-Nutzung"
+},
+{
+"key": "part09.html#902",
+"de": "Musterlösung"
+},
+{
+"key": "part09.html#903",
+"de": "Legt offen, welche Teile die KI und welche Menschen gemacht haben."
+},
+{
+"key": "part09.html#904",
+"de": "<b>TEIL 09</b>Plattformbetrieb und generative KI"
+},
+{
+"key": "part09.html#905",
+"de": "Die Unternehmenslandschaft und wohin der Markt steuert"
+},
+{
+"key": "part09.html#906",
+"de": "Die Landschaft der generativen Werkzeuge wandelt sich schnell, doch die Unternehmen darin lassen sich wenigen Typen zuordnen. Wer weiß, welches Unternehmen was anstrebt, wählt Werkzeuge und setzt Lernprioritäten leichter."
+},
+{
+"key": "part09.html#907",
+"de": "Typ"
+},
+{
+"key": "part09.html#908",
+"de": "Wichtige Firmen"
+},
+{
+"key": "part09.html#909",
+"de": "Rolle im Video"
+},
+{
+"key": "part09.html#910",
+"de": "Bedeutung für Videomacher"
+},
+{
+"key": "part09.html#911",
+"de": "Basismodelle"
+},
+{
+"key": "part09.html#912",
+"de": "OpenAI, Google, Anthropic"
+},
+{
+"key": "part09.html#913",
+"de": "Liefern Basismodelle für Sprach- und Videogenerierung"
+},
+{
+"key": "part09.html#914",
+"de": "Produktivität bei Planung und Dokumenten"
+},
+{
+"key": "part09.html#915",
+"de": "Plattformen"
+},
+{
+"key": "part09.html#916",
+"de": "Google (YouTube), Meta, ByteDance"
+},
+{
+"key": "part09.html#917",
+"de": "Kontrollieren Verbreitung und Empfehlungsalgorithmen"
+},
+{
+"key": "part09.html#918",
+"de": "Auffindbarkeit entscheidet mehr als Produktion über den Erfolg"
+},
+{
+"key": "part09.html#919",
+"de": "Geräte"
+},
+{
+"key": "part09.html#920",
+"de": "Apple, Google, Meta"
+},
+{
+"key": "part09.html#921",
+"de": "Spatial Computing und Aufnahmegeräte"
+},
+{
+"key": "part09.html#922",
+"de": "Neue Bildschirmformate entstehen"
+},
+{
+"key": "part09.html#923",
+"de": "Spezialisten für Videogenerierung"
+},
+{
+"key": "part09.html#924",
+"de": "Runway, Higgsfield, Kling, Seedance"
+},
+{
+"key": "part09.html#925",
+"de": "Direkt in Produktionsabläufe eingebunden"
+},
+{
+"key": "part09.html#926",
+"de": "Sofort als Arbeitswerkzeug übernommen"
+},
+{
+"key": "part09.html#927",
+"de": "Audio"
+},
+{
+"key": "part09.html#928",
+"de": "ElevenLabs, Suno"
+},
+{
+"key": "part09.html#929",
+"de": "Stimm- und Musikgenerierung"
+},
+{
+"key": "part09.html#930",
+"de": "Entwurfskosten stürzen ab"
+},
+{
+"key": "part09.html#931",
+"de": "Software"
+},
+{
+"key": "part09.html#932",
+"de": "Adobe, Blackmagic"
+},
+{
+"key": "part09.html#933",
+"de": "KI in bestehenden Schnittprogrammen"
+},
+{
+"key": "part09.html#934",
+"de": "Keine neuen Tools zu lernen"
+},
+{
+"key": "part09.html#935",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part09.html#936",
+"de": "Verstehen Sie die Kategorien, statt Dienstnamen auswendig zu lernen – dann erkennen Sie bei jedem neuen Dienst sofort, wohin er gehört."
+},
+{
+"key": "part09.html#937",
+"de": "<small>Plattformen</small>Wer den Algorithmus hat, entscheidet über den Erfolg"
+},
+{
+"key": "part09.html#938",
+"de": "Produktionskönnen allein bringt keinen Erfolg"
+},
+{
+"key": "part09.html#939",
+"de": "Warum Titel · Thumbnail · Posting-Strategie Teil der Regie wurden"
+},
+{
+"key": "part09.html#940",
+"de": "<small>Geräte</small>Neue Bildschirmformate schaffen neue Formen"
+},
+{
+"key": "part09.html#941",
+"de": "So wie Hochkant-Bildschirme das Kurzvideo hervorbrachten"
+},
+{
+"key": "part09.html#942",
+"de": "Räumliche Displays werden eine weitere Form hervorbringen"
+},
+{
+"key": "part09.html#943",
+"de": "<small>Software</small>Integrierte KI begünstigt Einsteiger"
+},
+{
+"key": "part09.html#944",
+"de": "Auto-Untertitel und Hintergrundentfernung ohne Zusatztools"
+},
+{
+"key": "part09.html#945",
+"de": "Als Standardfunktionen sofort nutzbar"
+},
+{
+"key": "part09.html#946",
+"de": "<b>Abb. 86</b> Die Reihenfolge beim Lesen von Leistungskennzahlen"
+},
+{
+"key": "part09.html#947",
+"de": "<small>Übung</small>8.14"
+},
+{
+"key": "part09.html#948",
+"de": "Aufgabe"
+},
+{
+"key": "part09.html#949",
+"de": "Recherchieren Sie ein Videounternehmen, das Sie interessiert, und fassen Sie sein Geschäftsmodell und seine aktuelle Ausrichtung auf 1 Seite zusammen."
+},
+{
+"key": "part09.html#950",
+"de": "Tipp"
+},
+{
+"key": "part09.html#951",
+"de": "Prüfen Sie offizielle Mitteilungen und das Datum von Artikeln."
+},
+{
+"key": "part09.html#952",
+"de": "Bewertung"
+},
+{
+"key": "part09.html#953",
+"de": "Genauigkeit der Informationen, analytische Perspektive"
+},
+{
+"key": "part09.html#954",
+"de": "Musterlösung"
+},
+{
+"key": "part09.html#955",
+"de": "Sagt zudem, welches Portfolio eine Bewerbung bei diesem Unternehmen erfordern würde."
+},
+{
+"key": "part09.html#956",
+"de": "TEIL 08–09 – Abschluss"
+},
+{
+"key": "part09.html#957",
+"de": "Übungen und Wiederholung"
+},
+{
+"key": "part09.html#958",
+"de": "<b>Hook-Typen bestimmen</b>Zeichnen Sie die ersten 3 Sekunden von 3 Lieblingsspots auf und bestimmen Sie ihre Hook-Typen."
+},
+{
+"key": "part09.html#959",
+"de": "<b>5 Titel, 3 Thumbnails</b>Erstellen Sie sie für eines Ihrer Videos und fragen Sie zehn Personen, was sie anklicken würden."
+},
+{
+"key": "part09.html#960",
+"de": "<b>Bildtexte je Plattform</b>Schreiben Sie zum selben Material Bildtexte und Hashtags in drei Fassungen: YouTube Shorts, Instagram Reels und TikTok."
+},
+{
+"key": "part09.html#961",
+"de": "<b>Vom Drehbuch zum Blog</b>Machen Sie aus dem Drehbuch eines Ihrer Videos einen Blogbeitrag und bauen Sie drei Suchbegriffe ein."
+},
+{
+"key": "part09.html#962",
+"de": "<b>Von 20 Ideen zu 3</b>Holen Sie sich 20 Ideen von einem Sprachmodell, grenzen Sie sie auf 3 ein und dokumentieren Sie den Prozess."
+},
+{
+"key": "part09.html#963",
+"de": "<b>Generiertes einmischen</b>Setzen Sie 1 generierte Einstellung zwischen Realaufnahmen und gleichen Sie Farbe und Korn an."
+},
+{
+"key": "part09.html#964",
+"de": "Auf einen Blick"
+}
+]

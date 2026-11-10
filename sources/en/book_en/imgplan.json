@@ -1,0 +1,1283 @@
+[
+ {
+  "id": "P00-FRAME",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. close-up of a camera field monitor showing a street scene with white frame-guide lines and safe-area rectangles overlaid, shallow focus on the screen, film set in background",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "프레임 가이드가 표시된 카메라 모니터"
+ },
+ {
+  "id": "P00-RATIOS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. same living-room scene shown on three devices arranged side by side on a table: a 16:9 television, an ultra-wide cinema monitor with letterbox bars, and a vertical smartphone, demonstrating aspect ratios",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "같은 장면, 세 가지 비율"
+ },
+ {
+  "id": "P00-FPS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a horizontal strip of twelve sequential high-speed frames of a water droplet splashing into a cup, arranged like a film strip on a lightbox",
+  "aspect": "21:9",
+  "quality": "medium",
+  "cap": "초당 프레임 — 연속 사진이 움직임이 된다"
+ },
+ {
+  "id": "P00-TIMELINE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. close-up of a video editing timeline on a monitor, clips grouped in colored blocks, a hand on a shuttle wheel, dark room",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "컷·씬·시퀀스는 타임라인의 단위"
+ },
+ {
+  "id": "P00-PHONEVERT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. young woman filming a street food stall vertically with a smartphone at night, warm stall light, bokeh",
+  "aspect": "3:2",
+  "quality": "medium",
+  "cap": "세로로 찍는 시대"
+ },
+ {
+  "id": "P01-PERSIST",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a Victorian zoetrope spinning on a wooden table, a child peering through the slits, warm lamp light",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "회전하는 조에트로프 — 잔상이 움직임을 만든다"
+ },
+ {
+  "id": "P01-PREFILM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 19th-century parlor magic lantern show, a brass lantern projecting a glass slide image onto a linen sheet, family watching in candlelight",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "환등기 상영회"
+ },
+ {
+  "id": "P01-SILENT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 1900s film crew with a hand-cranked wooden movie camera on a tripod on a city street, period clothing, black-and-white tonality",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "손으로 돌리던 카메라"
+ },
+ {
+  "id": "P01-TALKIE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 1930s sound stage: blimped camera, microphone boom over actors, crew with headphones, monochrome tone",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "유성영화 — 소리가 세트를 조용하게 만들었다"
+ },
+ {
+  "id": "P01-TV",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 1960s television studio floor with pedestal cameras and a lit news desk, control room window above, monochrome monitors",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "텔레비전 스튜디오"
+ },
+ {
+  "id": "P01-VHS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 1990s analog video editing suite with tape decks, CRT monitors, jog wheels and cables, an editor at the console",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "테이프 편집실"
+ },
+ {
+  "id": "P01-WEB",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. 2010s bedroom vlogger talking to a camera on a small tripod with a ring light and laptop, fairy lights",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "인터넷 영상 — 방이 스튜디오가 되다"
+ },
+ {
+  "id": "P01-GENAI",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. contemporary creator reviewing AI-generated video clips on a large monitor, a prompt panel and a grid of variations, studio desk",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "생성형 AI 영상 시대"
+ },
+ {
+  "id": "P01-KOREA",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. 1990s Korean film set in a narrow Seoul alley at night, 35mm camera on dolly track, crew with walkie-talkies, neon signs blurred",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "한국 영상 산업의 현장"
+ },
+ {
+  "id": "P01-PRINCIPLES",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. film school seminar: students around a table with a projected film still on the wall, notebooks, a professor pointing at the frame",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "역사에서 원칙을 배우는 교실"
+ },
+ {
+  "id": "P01-THEORY",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. stack of worn film-theory books, a lightbox with 35mm film strips and a loupe, pencil notes, desk lamp",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "영상 이론의 도구들"
+ },
+ {
+  "id": "P02-OTS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. over-the-shoulder two-shot in a cafe: the back of a man's shoulder and head in soft focus on the left foreground, a woman facing him in focus, 50mm look",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "오버 더 숄더 — 어깨 너머 대화"
+ },
+ {
+  "id": "P02-POV",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. point-of-view shot from a seated person: their own hands holding a coffee cup in the lower frame, across the table a smiling friend looking into the lens",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "시점 숏 — 인물이 보는 것"
+ },
+ {
+  "id": "P02-REACTION",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. reaction close-up of a young man listening, subtle surprised smile, eyes slightly off-lens, window light",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "리액션 숏 — 듣는 사람의 얼굴"
+ },
+ {
+  "id": "P02-GAZE-MUTUAL",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. two people in profile facing each other at close distance, eye to eye, window backlight, symmetrical framing",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "마주봄 — 두 시선이 만난다"
+ },
+ {
+  "id": "P02-GAZE-CAMERA",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. a woman looking directly into the camera lens, neutral calm expression, medium close-up, grey wall",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "카메라를 본다 — 관객에게 말 걸기"
+ },
+ {
+  "id": "P02-GAZE-AWAY",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. a man looking off-frame to the left into the distance, generous look room on the left, soft daylight",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "화면 밖을 본다 — 룩룸"
+ },
+ {
+  "id": "P02-GAZE-BACK",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. a person seen from behind standing at a window looking out over a city skyline at dusk",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "따라봄 — 뒷모습이 시선을 안내한다"
+ },
+ {
+  "id": "P02-GAZE-SHARED",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. two colleagues looking at the same laptop screen together, heads angled toward the screen, office light",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "같은 것을 본다 — 공유 시선"
+ },
+ {
+  "id": "P02-ESTAB",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. establishing wide shot of a Seoul residential neighborhood at blue hour, low-rise buildings, warm windows, mountains behind",
+  "aspect": "21:9",
+  "quality": "medium",
+  "cap": "설정 숏 — 어디, 언제"
+ },
+ {
+  "id": "P03-A7DIAL",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. macro close-up of a mirrorless camera's top plate: mode dial with P S A M markings, exposure compensation dial and shutter button, shallow focus",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "모드 다이얼"
+ },
+ {
+  "id": "P03-LENSTRIO",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. three prime lenses standing in a row on a wooden table: a compact 55mm, a medium 85mm, and a long 200mm telephoto, soft window light",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "55 · 85 · 200"
+ },
+ {
+  "id": "P03-360CAM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. young man holding a compact 360-degree camera on a thin invisible selfie stick in a city park, the camera at arm's length above him",
+  "aspect": "3:2",
+  "quality": "medium",
+  "cap": "360 카메라와 보이지 않는 셀카봉"
+ },
+ {
+  "id": "P03-WEARCAM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. thumb-sized wearable action camera clipped to the brim of a cap and a magnetic pendant version on a chest, close-up, outdoor",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "웨어러블 카메라"
+ },
+ {
+  "id": "P03-DRONE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. small folding camera drone taking off from an open palm at dawn in a riverside park, operator with controller",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "드론 이륙"
+ },
+ {
+  "id": "P03-TRIPOD",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. camera operator adjusting the pan drag on a fluid-head video tripod, cinema camera mounted, studio",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "플루이드 헤드 삼각대"
+ },
+ {
+  "id": "P03-GIMBAL",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. operator walking with a three-axis handheld gimbal and mirrorless camera following a subject on a bridge, motion",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "짐벌 워킹"
+ },
+ {
+  "id": "P03-ND",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. hand holding a variable ND filter in front of a lens against bright sunlight, visible darkening through the glass",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "가변 ND 필터"
+ },
+ {
+  "id": "P03-PHONERIG",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. smartphone mounted in a metal cage rig with a small shotgun microphone and mini LED light, on a tabletop tripod",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "스마트폰 리그"
+ },
+ {
+  "id": "P03-MONITOR",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. external camera monitor showing false-color exposure view of a face, waveform scope in corner, rig in foreground",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "노출 도구 — 폴스컬러와 파형"
+ },
+ {
+  "id": "P03-SENSOR",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. macro shot of a full-frame mirrorless camera sensor with the lens removed, reflections on the sensor glass, dark background",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "풀프레임 센서"
+ },
+ {
+  "id": "P04-FRESNEL",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. a tungsten Fresnel spotlight with barn doors",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "FRESNEL"
+ },
+ {
+  "id": "P04-OPENFACE",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. an open-face redhead tungsten light with reflector",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "OPENFACE"
+ },
+ {
+  "id": "P04-HMI",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. an HMI daylight PAR light with ballast on the floor",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "HMI"
+ },
+ {
+  "id": "P04-LEDPANEL",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. a bi-color LED panel light on a stand",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "LEDPANEL"
+ },
+ {
+  "id": "P04-COBSOFT",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. a COB LED light with a large octagonal softbox",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "COBSOFT"
+ },
+ {
+  "id": "P04-TUBE",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. two RGB LED tube lights, one white one blue, on clamps",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "TUBE"
+ },
+ {
+  "id": "P04-KINO",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. a four-bank fluorescent softlight fixture",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "KINO"
+ },
+ {
+  "id": "P04-RING",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. a ring light with a camera mounted in the center",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "RING"
+ },
+ {
+  "id": "P04-CHINABALL",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. a paper lantern china ball light hanging from a boom",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "CHINABALL"
+ },
+ {
+  "id": "P04-DEDO",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. a small focusing pin-spot light with a projection attachment casting a tight circle",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "DEDO"
+ },
+ {
+  "id": "P04-PRACTICAL",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. a vintage table lamp used as a practical light on a set table",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "PRACTICAL"
+ },
+ {
+  "id": "P04-REFLECTOR",
+  "prompt": "Clean studio product photograph of unbranded film-lighting equipment on a dark grey seamless floor, soft top light, slight side angle, the lamp switched on with a visible beam, no text, no logos. a collapsible 5-in-1 reflector held by a grip, white side, bouncing light",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "REFLECTOR"
+ },
+ {
+  "id": "P04-BOUNCE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. outdoor shoot: a grip holding a large white bounce board to fill an actress's face in afternoon sun",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "바운스 — 가장 싼 필라이트"
+ },
+ {
+  "id": "P04-NEGFILL",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. studio portrait setup with a black flag on a C-stand beside the subject to deepen the shadow side",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "네거티브 필"
+ },
+ {
+  "id": "P04-3POINT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. wide shot of an interview lighting setup: key softbox, fill bounce, back light on a boom, subject on a stool, camera and monitor",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "3점 조명 세팅 전경"
+ },
+ {
+  "id": "P04-PRODUCT-GLASS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. cosmetic glass bottle standing on a clear acrylic sheet with water droplets, backlit, two long strip highlights on the edges, dark background",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "유리·아크릴판 — 반사되는 것을 조명한다"
+ },
+ {
+  "id": "P04-PRODUCT-MIST",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. fine mist sprayed over a chilled beverage bottle, frozen by flash, dark background with a single rim light",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "습기와 미스트"
+ },
+ {
+  "id": "P04-PRODUCT-TURN",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. skincare product on a motorized turntable with five identical units arranged behind, top softbox, white seamless",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "턴테이블과 다중 배치"
+ },
+ {
+  "id": "P04-PRODUCT-SPLASH",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. high-speed photograph of a water splash crown around a glass bottle, frozen droplets, backlight through the liquid",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "물 뿌리기 — 하이스피드"
+ },
+ {
+  "id": "P04-PRODUCT-LIGHTPASS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a hand passing a small LED tube light across a perfume bottle, long exposure light streak, dark",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "빛을 비추며 지나가기 — 라이트 패스"
+ },
+ {
+  "id": "P04-CHROMA",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. wide shot of a green-screen studio: four lights evenly washing the green backdrop, separate key and back light on a presenter standing on a marked spot, camera in foreground",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "크로마키 조명 세팅 — 배경과 인물을 따로 비춘다"
+ },
+ {
+  "id": "P04-CHROMA-CLOSE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. close-up of a green screen with even illumination and a light meter held against it, reading the backdrop",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "배경 균일도 측정"
+ },
+ {
+  "id": "P04-MIC-WIRELESS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. compact wireless lavalier transmitter clipped to a shirt collar, with the small receiver mounted on a mirrorless camera, close-up",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "소형 무선 마이크"
+ },
+ {
+  "id": "P04-MIC-SHOTGUN",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. boom operator holding a shotgun microphone in a furry windshield above two actors, outdoor",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "붐 마이크"
+ },
+ {
+  "id": "P04-ASMR",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. ASMR recording setup: dual binaural microphones with a dummy head, hands tapping a wooden box and brushing a mic, soft pink light",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "ASMR 녹음"
+ },
+ {
+  "id": "P04-FOLEY",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. foley artist stepping on a tray of gravel in front of a microphone while watching a screen",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "폴리 작업"
+ },
+ {
+  "id": "P04-AMBIENT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. handheld field recorder with furry windscreen placed near a crackling fireplace, warm glow",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "장작 타는 소리 녹음"
+ },
+ {
+  "id": "P04-SLEEP",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. smartphone on a nightstand playing a rain-on-window ambience video, dim bedroom, person asleep in background",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "8시간 빗소리 — 수면 음원 영상"
+ },
+ {
+  "id": "P05-SPLICER",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. editor's hands at a vintage 35mm film splicer, cut film strips, tape, a pair of white cotton gloves, warm lamp",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "필름을 자르고 붙이던 시대"
+ },
+ {
+  "id": "P05-FLATBED",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a flatbed film editing table with reels, small viewing screen and film threaded through, dim editing room",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "플랫베드 편집기"
+ },
+ {
+  "id": "P05-NLE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. editor at a dual-monitor nonlinear editing suite, timeline with color-coded clips, a reference monitor showing a city shot",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "비선형 편집"
+ },
+ {
+  "id": "P05-COLOR",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. color grading suite: colorist at a control surface with trackballs, scopes on one screen, graded image on a calibrated monitor",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "컬러 그레이딩 룸"
+ },
+ {
+  "id": "P05-ROTO",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. split-screen style still: left half a person in front of a green screen with a dashed mask outline, right half the same person composited into a street scene",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "로토 · 키잉 · 합성"
+ },
+ {
+  "id": "P05-MOGRAPH",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. motion designer at a workstation with a 3D viewport showing a camera rig and null objects, animated text layers",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "모션그래픽 작업"
+ },
+ {
+  "id": "P05-ANIMCEL",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. animator at a light table flipping stacked drawing sheets, pencil keyframes of a bouncing ball",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "키 포즈와 사이 그림"
+ },
+ {
+  "id": "P05-STOPMO",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. stop-motion set: a small puppet on a miniature kitchen set, DSLR on a rig, animator adjusting the arm with tweezers",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "스톱모션"
+ },
+ {
+  "id": "P05-3D",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 3D animation workstation showing a wireframe character rig in the viewport, graph editor curves below",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "3D 애니메이션"
+ },
+ {
+  "id": "P05-DELIVER",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. two labeled portable SSDs, a checklist on paper and a laptop showing an export progress bar, tidy desk",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "납품과 백업"
+ },
+ {
+  "id": "P06-BRAINSTORM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. creative team at a whiteboard covered with colorful sticky notes and quick sketches, one person placing a note",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "발상 — 사고 모자와 포스트잇"
+ },
+ {
+  "id": "P06-BRIEF",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a client brief document with highlighter marks and a pen, coffee cup, notebook with a one-sentence concept circled",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "브리프 해석"
+ },
+ {
+  "id": "P06-SCRIPT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. screenplay pages on a desk with handwritten margin notes, index cards in a row, reading glasses",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "시놉시스에서 시나리오로"
+ },
+ {
+  "id": "P06-PROPOSAL",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. planner presenting a one-page video proposal on a laptop to a client, printed storyboard beside",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "기획안 발표"
+ },
+ {
+  "id": "P06-SB-HAND",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. overhead view of a hand-drawn pencil storyboard sheet with six 16:9 panels, camera-move arrows, timing notes under each panel, pencils and eraser beside",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "손으로 그린 스토리보드"
+ },
+ {
+  "id": "P06-SB-VERT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. overhead view of a storyboard sheet designed for vertical video: a row of tall 9:16 panels with sketches and notes, phone lying beside for scale",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "세로 영상 스토리보드"
+ },
+ {
+  "id": "P06-SB-DIGITAL",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. storyboard artist drawing panels on a pen tablet, the screen showing a grid of frames with arrows",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "디지털 스토리보드"
+ },
+ {
+  "id": "P06-ANIMATIC",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. editor assembling an animatic: storyboard frames on a timeline with an audio waveform, scratch narration recording mic on desk",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "애니매틱"
+ },
+ {
+  "id": "P06-SB-360",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a designer's sketchbook showing a wide 2:1 panoramic storyboard panel with grid lines and notes for a 360 video, pencil and compass",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "360 보드 스케치"
+ },
+ {
+  "id": "P06-SB-FACADE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. architectural elevation drawing of a building with a pixel grid overlay and colored light pattern sketches, tracing paper, scale ruler",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "미디어 파사드 보드"
+ },
+ {
+  "id": "P06-PPM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. pre-production meeting: team around a table with printed storyboards, mood boards and a schedule pinned on the wall, laptop with reference video",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "PPM — 촬영 전 최종 합의"
+ },
+ {
+  "id": "P06-MOOD",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. physical mood board: pinned photos, fabric swatches, color chips in warm grey, dusty blue and wine red, handwritten adjective labels (illegible)",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "톤앤매너 무드보드"
+ },
+ {
+  "id": "P06-SCOUT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. location scout photographing a sunlit cafe interior with a phone while holding a printed storyboard, light meter on the table",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "로케이션 헌팅"
+ },
+ {
+  "id": "P06-CASTING",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. casting session: an actress on a mark in front of a grey backdrop, a camera on a tripod, three people at a table watching",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "캐스팅"
+ },
+ {
+  "id": "P06-WARDROBE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. stylist reviewing a wardrobe rack with tagged outfits in warm greys and dusty blue, swatch book in hand",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "의상 보드"
+ },
+ {
+  "id": "P06-PROPS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. props table with items laid out on a numbered sheet: ceramic cup, book, eucalyptus, product bottles, labeled tags",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "미장센 — 소품 테이블"
+ },
+ {
+  "id": "P06-CALLSHEET",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a call sheet on a clipboard with a coffee cup at dawn on a production van's hood, walkie-talkie",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "콜시트"
+ },
+ {
+  "id": "P06-SLATE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. clapperboard held in front of an actress at a cafe window, camera assistant's hands",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "슬레이트"
+ },
+ {
+  "id": "P06-SCHEDULE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. production scheduling board with colored strips and a wall calendar marked with shoot days and weather icons",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "촬영 일정표"
+ },
+ {
+  "id": "P06-TEAM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. small film crew huddle on set: director, cinematographer and producer looking at a monitor together",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "팀 역할"
+ },
+ {
+  "id": "P06-INTERVIEW",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. two-camera interview setup in an office: subject on a chair, key softbox, interviewer off-axis",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "인터뷰 영상 세팅"
+ },
+ {
+  "id": "P07-VERT-SHOOT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. creator filming vertical video with a smartphone on a gimbal in a bright shopping street",
+  "aspect": "3:2",
+  "quality": "medium",
+  "cap": "세로 촬영"
+ },
+ {
+  "id": "P07-SCOPE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. empty cinema with an ultra-wide 2.39:1 screen showing a desert horizon, seats in foreground",
+  "aspect": "21:9",
+  "quality": "medium",
+  "cap": "시네마스코프"
+ },
+ {
+  "id": "P07-VR-USER",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. person wearing a VR headset in a living room reaching out with both hands, dramatic cool light, slight motion blur on hands",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "VR — 관객이 서 있다"
+ },
+ {
+  "id": "P07-VR-WORLD",
+  "prompt": "Stylized 3D rendered first-person view inside a virtual museum hall: floating framed artworks, glowing floor path markers, a hand controller visible, depth and perspective lines, no text",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "VR 속 시점 — 입체 공간"
+ },
+ {
+  "id": "P07-360RIG",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. 360-degree camera on a tall thin monopod standing alone in a plaza at golden hour, no operator visible nearby",
+  "aspect": "3:2",
+  "quality": "medium",
+  "cap": "360 촬영 — 삼각대는 지워진다"
+ },
+ {
+  "id": "P07-AR-PHONE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. smartphone screen showing an augmented-reality sofa placed in a real living room, hand holding the phone, the real room visible around",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "AR — 현실 위의 층"
+ },
+ {
+  "id": "P07-AR-GLASS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. young woman wearing slim smart glasses in a cafe, faint translucent caption-like light shapes reflected in the lens (no legible text), shallow focus",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "AR 글래스 — 번역 자막이 눈앞에"
+ },
+ {
+  "id": "P07-MR-MUSEUM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. museum visitor wearing a mixed-reality headset looking at an ancient stone artifact, a translucent holographic reconstruction of the complete object glowing above it",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "MR 박물관 — 유물 위에 복원 홀로그램"
+ },
+ {
+  "id": "P07-HUD",
+  "prompt": "Cinematic first-person view through a futuristic visor: a street scene with a translucent targeting reticle, scanning brackets and data-like glyph bars overlaid (illegible), amber monochrome tint, retro sci-fi film still look",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "영화가 먼저 상상한 '렌즈 너머' 시야"
+ },
+ {
+  "id": "P07-PROJECTION",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. projection mapping on a historic stone building facade at night, geometric light patterns following the windows and columns, crowd silhouettes",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "프로젝션 매핑"
+ },
+ {
+  "id": "P07-ANAMORPHIC",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. corner-wrapped LED billboard at a city crossing at night showing a 3D anamorphic illusion of a giant wave spilling out of the screen, pedestrians looking up",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "아나몰픽 착시 — 정답 위치는 한 곳"
+ },
+ {
+  "id": "P07-LEDWALL",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. virtual production stage: a curved LED volume showing a night highway, a real car on set, camera on a crane, crew",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "XR 스테이지"
+ },
+ {
+  "id": "P07-FACADE-PALACE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a traditional East Asian palace gate with tiled roof lit by a colorful media facade projection at night, audience on the plaza",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "궁궐 미디어 파사드"
+ },
+ {
+  "id": "P07-FACADE-DOME",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a large domed civic building at night with its facade used as a media facade, pixel-like light grid, river in foreground",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "돔 건물 파사드"
+ },
+ {
+  "id": "P07-TRANSLED",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. transparent LED film on a glass storefront showing floating product graphics while the interior remains visible, evening street",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "투명 LED"
+ },
+ {
+  "id": "P07-DOME",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. fulldome planetarium audience reclining under an immersive projected ocean scene",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "풀돔"
+ },
+ {
+  "id": "P07-SIGNAGE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. subway station corridor with a row of tall vertical LED pillars showing abstract flowing graphics, commuters walking",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "세로 LED 사이니지"
+ },
+ {
+  "id": "P07-IMMERSIVE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. immersive exhibition room: visitors standing inside wall-to-floor projections of flowing ink",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "몰입형 전시"
+ },
+ {
+  "id": "P07-LED-DIAGRAM",
+  "prompt": "Clean technical photograph: close-up of an LED display module with visible pixel pitch, a ruler beside, and the same module seen from a few meters away where pixels merge, split composition",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "픽셀 피치와 관람 거리"
+ },
+ {
+  "id": "P08-CRT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. 1990s Korean family watching a CRT television in a living room, warm lamp, snacks on the table",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "브라운관의 거실"
+ },
+ {
+  "id": "P08-OTT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. modern living room with a large wall TV showing a grid of colorful streaming-app tiles (abstract, no logos), remote in hand",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "OTT — 편성표에서 썸네일로"
+ },
+ {
+  "id": "P08-BINGE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. young woman watching a series on a tablet in bed at night, blue screen glow",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "개인의 화면"
+ },
+ {
+  "id": "P08-CREATOR",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. compact creator studio: camera on tripod, key light, acoustic panels, a desk with microphone and two monitors",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "유튜브 스튜디오"
+ },
+ {
+  "id": "P08-KPOP-SET",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. K-pop music video set: a colorful geometric stage, five dancers in formation under saturated lights, camera jib sweeping in foreground, haze",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "K-pop 뮤직비디오 세트"
+ },
+ {
+  "id": "P08-MUSICSHOW",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. behind the scenes of a TV music show: a jib camera operator and a steadicam operator moving in sync with dancers on a bright stage",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "음악 방송 — 카메라가 함께 춤춘다"
+ },
+ {
+  "id": "P08-MV-NEON",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. performance music video still: a singer under magenta and cyan neon with smoke, anamorphic lens flare",
+  "aspect": "21:9",
+  "quality": "medium",
+  "cap": "퍼포먼스 뮤직비디오"
+ },
+ {
+  "id": "P08-ADSET",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. commercial shoot for a beverage: product on a lit table set, large crew, video village with monitors and clients watching",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "광고 촬영 현장"
+ },
+ {
+  "id": "P08-HOOK",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. extreme close-up of fingers snapping with slight motion blur, bright backlit background, high contrast",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "후킹 — 첫 3초"
+ },
+ {
+  "id": "P08-FILMSET",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. Korean period film set: a rain rig showering a night alley, lanterns, actors in historical costume, camera on a dolly",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "영화 현장"
+ },
+ {
+  "id": "P08-DRAMA",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. TV drama shoot in an apartment: two actors at a dining table, handheld camera operator close, boom above",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "드라마 현장"
+ },
+ {
+  "id": "P08-ANIM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. animation studio floor: rows of desks with pen tablets, storyboards pinned on partitions",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "애니메이션 스튜디오"
+ },
+ {
+  "id": "P08-LEDLOOP",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. downtown crossing at night with a giant LED screen on a building showing a looping abstract product animation, crowds",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "옥외 LED 루프"
+ },
+ {
+  "id": "P08-SHORTFORM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. three friends filming a short comedy sketch with a phone on a tripod in a kitchen, laughing",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "숏폼 — 발견되는 구조"
+ },
+ {
+  "id": "P09-FEED",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. close-up of a thumb scrolling a vertical short-video feed on a phone, blurred colorful frames",
+  "aspect": "3:2",
+  "quality": "medium",
+  "cap": "피드를 넘기는 엄지"
+ },
+ {
+  "id": "P09-LIVECOM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. live commerce host presenting a skincare product to a phone on a ring light, products arranged, comment bubbles abstracted as light shapes",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "라이브 커머스"
+ },
+ {
+  "id": "P09-ECOM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. small online shop owner packing orders at a desk, laptop showing an order dashboard, shipping boxes",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "쇼핑몰 운영"
+ },
+ {
+  "id": "P09-AUTOMATION",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. two monitors with automated ad-campaign dashboards: abstract charts, audience segments and scheduling calendar, dark office",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "광고 자동화"
+ },
+ {
+  "id": "P09-GRID",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. planner arranging nine printed square photos into a 3x3 grid on a table to plan an Instagram feed",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "피드 그리드 설계"
+ },
+ {
+  "id": "P09-DANCE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. teenagers filming a dance challenge with a phone on a tripod in a park, one checking the take",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "챌린지 문화"
+ },
+ {
+  "id": "P09-TEXT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. person typing a short text post on a phone at a cafe, coffee, minimal",
+  "aspect": "3:2",
+  "quality": "medium",
+  "cap": "텍스트 기반 매체"
+ },
+ {
+  "id": "P09-ANALYTICS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. monitor showing a video analytics dashboard with an audience retention curve dropping after the first seconds (abstract, no text)",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "시청 지속 곡선"
+ },
+ {
+  "id": "P09-AISTUDIO",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. creator directing AI video generation on a large screen: a grid of generated clip variations and a prompt panel, dark studio",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "AI 제작 파이프라인"
+ },
+ {
+  "id": "P09-MCP",
+  "prompt": "Abstract clean illustration-style photograph: a laptop on a desk with glowing connector lines linking it to several floating translucent service panels (calendar, storage, chat, image), no text, dark background",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "도구를 잇는 연결 — MCP"
+ },
+ {
+  "id": "P09-THUMB",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. designer comparing three thumbnail variations of the same video on a monitor, hand on mouse",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "제목과 썸네일 A/B"
+ },
+ {
+  "id": "P10-AGENCY",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. advertising agency meeting room: team presenting a campaign timeline on a screen to clients",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "광고 대행사"
+ },
+ {
+  "id": "P10-PRODCO",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. video production company office: edit bays, a shelf with awards, a whiteboard with project pipeline",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "프로덕션"
+ },
+ {
+  "id": "P10-FREELANCE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. freelance editor at home editing on a laptop, an invoice document open on a second screen",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "프리랜서"
+ },
+ {
+  "id": "P10-MARKET",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. content market exhibition hall with booths and screens, delegates with lanyards",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "콘텐츠 마켓"
+ },
+ {
+  "id": "P11-PORTFOLIO",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. portfolio review: a mentor and a student watching a showreel on a monitor, notes on paper",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "포트폴리오 리뷰"
+ },
+ {
+  "id": "P11-INTERVIEW",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. job interview: a candidate presenting a showreel on a laptop to two interviewers in a bright meeting room",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "면접"
+ },
+ {
+  "id": "P11-FIRSTDAY",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. new hire at an edit bay with a senior editor pointing at the timeline, first-day energy",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "첫 3개월"
+ },
+ {
+  "id": "P11-RESUME",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. a one-page resume, a business card and a phone showing a showreel on a desk, QR code area blurred",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "이력서와 릴"
+ },
+ {
+  "id": "P11-REMOTE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. remote collaboration: video call on one monitor, shared editing timeline on another, headset",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "원격 협업"
+ },
+ {
+  "id": "P11-SOLO",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. one-person video business desk: camera, laptop with invoices, gimbal, coffee, morning light",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "1인 기업"
+ },
+ {
+  "id": "P11-MEETUP",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. industry networking event: young creators talking in small groups with name badges, projector in background",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "업계 네트워킹"
+ },
+ {
+  "id": "P12-INTERN",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. a silver-haired senior intern in a suit vest working beside young colleagues in a casual creative startup office, laughing",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "인턴 — 세대가 섞이는 사무실"
+ },
+ {
+  "id": "P12-AIASSIST",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. editor working with an AI assistant panel on screen that proposes storyboard frames while she adjusts them",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "AI 보조 작업"
+ },
+ {
+  "id": "P12-SMALLLED",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. small studio with a compact LED wall virtual background and a presenter, single camera",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "소형 LED 월"
+ },
+ {
+  "id": "P12-MOCAP",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. actor in a motion capture suit with markers performing in a capture volume, cameras around",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "디지털 더블"
+ },
+ {
+  "id": "P12-SIM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. monitor showing a fluid simulation render of water splashing, node graph beside",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "시뮬레이션은 왜 남아 있는가"
+ },
+ {
+  "id": "P12-STARTUP",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. two young founders pitching a video content startup to investors with a projected deck",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "창업"
+ },
+ {
+  "id": "P12-PORTSITE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. laptop and phone showing the same personal portfolio website with a video grid, on a clean desk",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "포트폴리오 플랫폼"
+ },
+ {
+  "id": "P12-PROCESS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. wall covered with a hand-drawn production pipeline diagram and sticky notes, a person tracing the flow with a finger",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "프로세스를 아는 것"
+ },
+ {
+  "id": "P12-HIRING",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. a nearly empty row of interview chairs in a corporate lobby, one applicant waiting with a portfolio case",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "신입 채용 시장"
+ },
+ {
+  "id": "P13-INTERACTIVE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. interactive installation: a visitor's silhouette on a large wall triggering swirling particle light that follows her hand movements",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "인터랙티브 미디어아트"
+ },
+ {
+  "id": "P13-CRTTOWER",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. gallery installation of dozens of stacked vintage CRT televisions showing colorful abstract video, dark room, homage to video art pioneers",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "비디오 아트의 기원 — 텔레비전 탑"
+ },
+ {
+  "id": "P13-LEDROOM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. infinity-mirror LED room with visitors reflected endlessly among points of light",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "LED 거울 방"
+ },
+ {
+  "id": "P13-KINETIC",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. kinetic sculpture of hundreds of small mirrors tilting in waves, reflecting a spotlight across a gallery wall",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "키네틱 미디어아트"
+ },
+ {
+  "id": "P13-MUSEUM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. contemporary art museum white hall with a huge video wall artwork and visitors seated on the floor",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "미술관의 영상 작품"
+ },
+ {
+  "id": "P13-SENSOR",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. artist wiring a depth sensor and microcontroller on a workbench, laptop with code (illegible)",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "센서와 코드"
+ },
+ {
+  "id": "P13-DATA",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. gallery projection of data visualization: flowing lines and dots mapped on a curved wall",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "데이터 시각화 작품"
+ },
+ {
+  "id": "P13-SOUND",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. sound installation: an array of small speakers hanging at ear height in a dark room, visitors walking between them",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "사운드 설치"
+ },
+ {
+  "id": "P13-OUTDOOR",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. outdoor media art festival at night: light installations along a riverside with crowds",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "야외 미디어아트 축제"
+ },
+ {
+  "id": "P02-OPENER",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. cinematographer's eye pressed to a cinema camera viewfinder on a Seoul rooftop at golden hour, city skyline soft behind, focus on the eye and the eyepiece",
+  "aspect": "16:9",
+  "quality": "high",
+  "cap": "영상의 언어"
+ },
+ {
+  "id": "P02-SIZE2-ELS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. ELS shot: extreme long shot, the man is a tiny figure in a vast landscape of trees and a long path; the same young Korean man in a dark green coat standing on a quiet wooded campus path in autumn, overcast soft light, 35mm film look",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "익스트림 롱숏 ELS — 공간이 주인공"
+ },
+ {
+  "id": "P02-SIZE2-LS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. LS shot: long shot, full body with plenty of environment around him; the same young Korean man in a dark green coat standing on a quiet wooded campus path in autumn, overcast soft light, 35mm film look",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "롱숏 LS — 전신과 상황"
+ },
+ {
+  "id": "P02-SIZE2-FS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. FS shot: full shot, head to toe filling most of the frame height; the same young Korean man in a dark green coat standing on a quiet wooded campus path in autumn, overcast soft light, 35mm film look",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "풀숏 FS — 머리부터 발끝까지"
+ },
+ {
+  "id": "P02-SIZE2-KS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. KS shot: knee shot, framed from the knees up; the same young Korean man in a dark green coat standing on a quiet wooded campus path in autumn, overcast soft light, 35mm film look",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "니숏 KS — 무릎 위"
+ },
+ {
+  "id": "P02-SIZE2-MS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. MS shot: medium shot, framed from the waist up; the same young Korean man in a dark green coat standing on a quiet wooded campus path in autumn, overcast soft light, 35mm film look",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "미디엄숏 MS — 허리 위"
+ },
+ {
+  "id": "P02-SIZE2-BS",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. BS shot: bust shot, framed from the chest up; the same young Korean man in a dark green coat standing on a quiet wooded campus path in autumn, overcast soft light, 35mm film look",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "바스트숏 BS — 가슴 위"
+ },
+ {
+  "id": "P02-SIZE2-CU",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. CU shot: close-up of the face filling the frame; the same young Korean man in a dark green coat standing on a quiet wooded campus path in autumn, overcast soft light, 35mm film look",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "클로즈업 CU — 얼굴 전체"
+ },
+ {
+  "id": "P02-SIZE2-ECU",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. ECU shot: extreme close-up of the eyes only; the same young Korean man in a dark green coat standing on a quiet wooded campus path in autumn, overcast soft light, 35mm film look",
+  "aspect": "16:9",
+  "quality": "medium",
+  "cap": "익스트림 클로즈업 ECU — 눈"
+ },
+ {
+  "id": "P04-LOOK-REMBRANDT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. studio portrait of a Korean woman in a plain grey top, Rembrandt lighting: key light 45 degrees high from the left creating a small triangle of light on the shadowed cheek, dark background, medium close-up, 85mm",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "렘브란트 — 뺨의 빛 삼각형"
+ },
+ {
+  "id": "P04-LOOK-BUTTERFLY",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. studio portrait of a Korean woman in a plain grey top, butterfly (paramount) lighting: key light high above the camera, symmetrical butterfly shadow under the nose, beauty look, reflector below, medium close-up, 85mm",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "버터플라이 — 코 밑 나비 그림자"
+ },
+ {
+  "id": "P04-LOOK-SPLIT",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. studio portrait of a Korean woman in a plain grey top, split lighting: key light exactly 90 degrees to the side, one half of the face lit and the other half in shadow, moody, medium close-up, 85mm",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "스플릿 — 얼굴의 절반"
+ },
+ {
+  "id": "P04-LOOK-RIM",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. studio portrait of a Korean woman in a plain grey top, rim/back lighting: strong light from behind outlining hair and shoulders, face in soft fill, dark background, medium close-up, 85mm",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "림라이트 — 윤곽선"
+ },
+ {
+  "id": "P04-LOOK-LOOP",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. studio portrait of a Korean woman in a plain grey top, loop lighting: key at 30–40 degrees slightly above eye line, small loop shadow beside the nose, gentle fill, medium close-up, 85mm",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "루프 — 가장 보편적인 인물광"
+ },
+ {
+  "id": "P04-LOOK-SILHOUETTE",
+  "prompt": "Editorial documentary photograph, natural light, muted warm tones, realistic, no text, no logos, no watermark. People are Korean, contemporary. studio portrait of a Korean woman in a plain grey top, silhouette: subject completely dark against a bright window, no fill, medium close-up, 85mm",
+  "aspect": "4:3",
+  "quality": "medium",
+  "cap": "실루엣 — 필 없음"
+ }
+]

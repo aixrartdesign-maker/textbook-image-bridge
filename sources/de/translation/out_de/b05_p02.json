@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#814",
+"de": "Für statische Einstellungen · Zeitraffer · Interview-B-Kamera"
+},
+{
+"key": "part03.html#815",
+"de": "Mittelsäule nur im Notfall"
+},
+{
+"key": "part03.html#816",
+"de": "<small>Mobil</small>Einbein · Mini · flexibel"
+},
+{
+"key": "part03.html#817",
+"de": "Einbein: Tele · Sport · enge Räume"
+},
+{
+"key": "part03.html#818",
+"de": "Ministativ (Tisch): Produkte · Vlogs"
+},
+{
+"key": "part03.html#819",
+"de": "Gorilla-Typ: umschlingt Geländer · Äste"
+},
+{
+"key": "part03.html#820",
+"de": "<b>01</b><span>Zuerst nivellieren. Ein schiefer Schwenk ist in der Post nicht zu retten.</span>"
+},
+{
+"key": "part03.html#821",
+"de": "<b>02</b><span>Erst die dicken Beinsegmente ausziehen; die Mittelsäule nicht hochfahren (Hauptursache für Wackler).</span>"
+},
+{
+"key": "part03.html#822",
+"de": "<b>03</b><span>Sandsack oder Tasche anhängen, um den Schwerpunkt zu senken. Auf windigen Dächern Pflicht.</span>"
+},
+{
+"key": "part03.html#823",
+"de": "<b>04</b><span>Dämpfung nach Einstellung wählen – hoch für langsame Schwenks, niedrig für Mitschwenks.</span>"
+},
+{
+"key": "part03.html#824",
+"de": "<b>05</b><span>Fernauslöser oder 2-Sekunden-Timer nutzen – so verwackelt der Druck auf den Auslöser nichts.</span>"
+},
+{
+"key": "part03.html#825",
+"de": "360° · Wearable-Kameras"
+},
+{
+"key": "part03.html#826",
+"de": "<b>Referenzfotos 3.11C</b>Generierte Bilder – Kameras, die die Hände frei lassen"
+},
+{
+"key": "part03.html#827",
+"de": "<span class=\"ph-id\">P03-360CAM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>360°-Kamera + unsichtbarer Selfiestick – den Blickwinkel wählen Sie nach dem Dreh</b></span>"
+},
+{
+"key": "part03.html#828",
+"de": "<b>Hinweis</b>360°-Kamera + unsichtbarer Selfiestick – den Blickwinkel wählen Sie nach dem Dreh"
+},
+{
+"key": "part03.html#829",
+"de": "<span class=\"ph-id\">P03-WEARCAM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Wearable-Kamera – Ich-Perspektive von Kappenschirm · Halskette · Magnetclip</b></span>"
+},
+{
+"key": "part03.html#830",
+"de": "<b>Hinweis</b>Wearable-Kamera – Ich-Perspektive von Kappenschirm · Halskette · Magnetclip"
+},
+{
+"key": "part03.html#831",
+"de": "<small>360°-Kameras</small>Insta360-X-Serie · DJI Osmo 360 · GoPro 360"
+},
+{
+"key": "part03.html#832",
+"de": "Zwei Fischaugen nehmen alle Richtungen auf; per Reframing 16:9 · 9:16 herauslösen"
+},
+{
+"key": "part03.html#833",
+"de": "Der „unsichtbare Selfiestick“ verschwindet im toten Winkel zwischen den beiden Objektiven"
+},
+{
+"key": "part03.html#834",
+"de": "8K-Klasse 360° ≈ 2,7K flach nach Extraktion"
+},
+{
+"key": "part03.html#835",
+"de": "<small>Wearable · ultrakompakt</small>Insta360-GO-Serie · Actioncams"
+},
+{
+"key": "part03.html#836",
+"de": "Daumengroß; per Magnet · Clip an Kappenschirm · Kragen · Halskette"
+},
+{
+"key": "part03.html#837",
+"de": "Kochen · Basteln · Feldaufnahmen aus Ich-Sicht; POV von Kind · Haustier"
+},
+{
+"key": "part03.html#838",
+"de": "Kernfunktionen: Horizontausgleich · Stabilisierung"
+},
+{
+"key": "part03.html#839",
+"de": "<small>Integrierter Gimbal</small>DJI-Osmo-Pocket-Serie"
+},
+{
+"key": "part03.html#840",
+"de": "Taschenkamera mit integriertem 3-Achsen-Gimbal; Standard für Vlogs im Gehen"
+},
+{
+"key": "part03.html#841",
+"de": "Gesichtsverfolgung (ActiveTrack) · Wechsel ins Hochformat"
+},
+{
+"key": "part03.html#842",
+"de": "Modelle mit direkter Funkmikro-Anbindung: ideal für Solo-Drehs"
+},
+{
+"key": "part03.html#843",
+"de": "<b>HINWEIS</b>"
+},
+{
+"key": "part03.html#844",
+"de": "Nutzen Sie für 360° ein dünnbeiniges Stativ im Einbein-Stil (es verschwindet im Nadir). 360°-Material planen Sie auf dem equirektangulären Board in TEIL 06; der Schnitt ist reines Reframing (Blickrichtung per Keyframes bewegen). Produktnamen · Generationen: Stand bei Redaktionsschluss."
+},
+{
+"key": "part03.html#845",
+"de": "<small>Übung</small>3.11"
+},
+{
+"key": "part03.html#846",
+"de": "Aufgabe"
+},
+{
+"key": "part03.html#847",
+"de": "Drehen Sie dieselbe Bewegung mit Stativ, Slider, Gimbal und aus der Hand und vergleichen Sie die Wirkung."
+},
+{
+"key": "part03.html#848",
+"de": "Tipp"
+},
+{
+"key": "part03.html#849",
+"de": "Gehen Sie mit dem Gimbal im „Ninja-Gang“, die Knie gebeugt – das dämpft das Auf und Ab."
+},
+{
+"key": "part03.html#850",
+"de": "Bewertung"
+},
+{
+"key": "part03.html#851",
+"de": "Stabilität je Rig; Begründung der Wahl"
+},
+{
+"key": "part03.html#852",
+"de": "Musterlösung"
+},
+{
+"key": "part03.html#853",
+"de": "Trennen Sie Szenen mit bewusster Handkamera-Unruhe von Szenen mit Gimbal-Ruhe."
+},
+{
+"key": "part03.html#854",
+"de": "<b>TEIL 03</b>Kameras und Aufnahmetechnik"
+},
+{
+"key": "part03.html#855",
+"de": "Systemkamera einrichten"
+},
+{
+"key": "part03.html#856",
+"de": "Menünamen ändern sich mit jeder Generation, die Reihenfolge der Schritte bleibt gleich. Verinnerlichen Sie den folgenden Ablauf, und Sie richten jedes Modell in unter 5 Minuten ein."
+},
+{
+"key": "part03.html#857",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part03.html#858",
+"de": "Prüfen Sie in dieser Reihenfolge: Auflösung, Bildrate, Verschlusszeit, Bildprofil, Tonpegel und Fokusmodus."
+},
+{
+"key": "part03.html#859",
+"de": "<b>01</b><span>In den manuellen Filmmodus wechseln. Mit Automatik schwankt die Belichtung je Einstellung und passt im Schnitt nicht.</span>"
+},
+{
+"key": "part03.html#860",
+"de": "<b>02</b><span>Zuerst Aufnahmeformat und Bildrate festlegen. Je nach Verwendung 4K 24p oder 4K 60p wählen.</span>"
+},
+{
+"key": "part03.html#861",
+"de": "<b>03</b><span>Bildprofil einstellen: Log, wenn in der Post gegradet wird, Standard bei direkter Abgabe.</span>"
+},
+{
+"key": "part03.html#862",
+"de": "<b>04</b><span>Verschlusszeit auf doppelte Bildrate fixieren. Bei 24p: 1/48 oder 1/50.</span>"
+},
+{
+"key": "part03.html#863",
+"de": "<b>05</b><span>ISO auf Basis-ISO fixieren. Log-Profile haben oft eine höhere Basis-ISO.</span>"
+},
+{
+"key": "part03.html#864",
+"de": "<b>06</b><span>Weißabgleich manuell einstellen oder eigenen Wert messen.</span>"
+},
+{
+"key": "part03.html#865",
+"de": "<b>07</b><span>Schärfentiefe über die Blende bestimmen; ist es zu hell, ND-Filter einsetzen.</span>"
+},
+{
+"key": "part03.html#866",
+"de": "<b>08</b><span>Fokus je nach Situation: AF mit Gesichtserkennung bei einer Einzelperson, manueller Fokus bei Produkten und Compositing-Plates.</span>"
+},
+{
+"key": "part03.html#867",
+"de": "<b>09</b><span>Mit Zebra oder Histogramm prüfen, dass die Lichter nicht ausbrennen.</span>"
+},
+{
+"key": "part03.html#868",
+"de": "<b>10</b><span>Tonpegel manuell einstellen und über Kopfhörer mithören.</span>"
+},
+{
+"key": "part03.html#869",
+"de": "<b>11</b><span>Kartenspeicher und Akkustand prüfen, dann einen Test drehen und abspielen.</span>"
+},
+{
+"key": "part03.html#870",
+"de": "Einstellungen je Situation"
+},
+{
+"key": "part03.html#871",
+"de": "Situation"
+},
+{
+"key": "part03.html#872",
+"de": "Auflösung/fps"
+},
+{
+"key": "part03.html#873",
+"de": "Verschluss"
+},
+{
+"key": "part03.html#874",
+"de": "Blende"
+},
+{
+"key": "part03.html#875",
+"de": "ISO"
+},
+{
+"key": "part03.html#876",
+"de": "Profil"
+},
+{
+"key": "part03.html#877",
+"de": "Emotionales Porträt"
+},
+{
+"key": "part03.html#878",
+"de": "Basis-ISO"
+},
+{
+"key": "part03.html#879",
+"de": "Log + Look-LUT"
+},
+{
+"key": "part03.html#880",
+"de": "Produkt-Slider"
+},
+{
+"key": "part03.html#881",
+"de": "Basis-ISO"
+},
+{
+"key": "part03.html#882",
+"de": "Log"
+},
+{
+"key": "part03.html#883",
+"de": "Produktmakro"
+},
+{
+"key": "part03.html#884",
+"de": "+1 Blende"
+},
+{
+"key": "part03.html#885",
+"de": "Log"
+},
+{
+"key": "part03.html#886",
+"de": "Chroma-Key"
+},
+{
+"key": "part03.html#887",
+"de": "Tiefste Basis"
+},
+{
+"key": "part03.html#888",
+"de": "Standardprofil"
+},
+{
+"key": "part03.html#889",
+"de": "Außen, bewegt"
+},
+{
+"key": "part03.html#890",
+"de": "Basis-ISO"
+},
+{
+"key": "part03.html#891",
+"de": "Log + ND"
+},
+{
+"key": "part03.html#892",
+"de": "Hochkant-Kurzvideo"
+},
+{
+"key": "part03.html#893",
+"de": "4K hochkant 30p"
+},
+{
+"key": "part03.html#894",
+"de": "Basis-ISO"
+},
+{
+"key": "part03.html#895",
+"de": "Standard"
+},
+{
+"key": "part03.html#896",
+"de": "Das Moduswahlrad lesen – P · S · A · M"
+},
+{
+"key": "part03.html#897",
+"de": "<b>Hinweis</b>Moduswahlrad – für Video M (oder A) + Auto-ISO. Im A-Modus regelt das Belichtungskorrekturrad die Helligkeit fein"
+},
+{
+"key": "part03.html#898",
+"de": "Modus"
+},
+{
+"key": "part03.html#899",
+"de": "Name"
+},
+{
+"key": "part03.html#900",
+"de": "Kamera regelt / Sie regeln"
+},
+{
+"key": "part03.html#901",
+"de": "Wann, bei Video"
+},
+{
+"key": "part03.html#902",
+"de": "AUTO"
+},
+{
+"key": "part03.html#903",
+"de": "Vollautomatik"
+},
+{
+"key": "part03.html#904",
+"de": "Kamera regelt alles"
+},
+{
+"key": "part03.html#905",
+"de": "Tabu – Belichtung · Farbe springen je Schnitt"
+},
+{
+"key": "part03.html#906",
+"de": "Programmautomatik"
+},
+{
+"key": "part03.html#907",
+"de": "Kamera: Blende · Verschluss; Sie: den Rest"
+},
+{
+"key": "part03.html#908",
+"de": "Für Schnappschüsse. Verschluss ignoriert die 180-Grad-Regel"
+},
+{
+"key": "part03.html#909",
+"de": "S (Tv)"
+},
+{
+"key": "part03.html#910",
+"de": "Zeitvorwahl"
+},
+{
+"key": "part03.html#911",
+"de": "Sie: Verschluss / Kamera: Blende"
+},
+{
+"key": "part03.html#912",
+"de": "Bei wechselndem Außenlicht; Verschluss fix auf 1/50"
+},
+{
+"key": "part03.html#913",
+"de": "A (Av)"
+},
+{
+"key": "part03.html#914",
+"de": "Blendenvorwahl"
+},
+{
+"key": "part03.html#915",
+"de": "Sie: Blende / Kamera: Verschluss"
+},
+{
+"key": "part03.html#916",
+"de": "Standard für Fotos; nicht für Video, da der Verschluss schwankt"
+},
+{
+"key": "part03.html#917",
+"de": "Manuell"
+},
+{
+"key": "part03.html#918",
+"de": "Sie: Blende · Verschluss; ISO darf auf Auto"
+},
+{
+"key": "part03.html#919",
+"de": "<b>Der Video-Standard.</b> Verschluss 1/50 · feste Blende · Auto-ISO (max. 6400)"
+},
+{
+"key": "part03.html#920",
+"de": "MR (1 · 2 · 3)"
+},
+{
+"key": "part03.html#921",
+"de": "Speicherabruf"
+},
+{
+"key": "part03.html#922",
+"de": "Ruft Gespeichertes ab"
+},
+{
+"key": "part03.html#923",
+"de": "„Interview“, „Außen“, „Zeitlupe“ speichern: Setup in 1 Min."
+},
+{
+"key": "part03.html#924",
+"de": "S&amp;Q"
+},
+{
+"key": "part03.html#925",
+"de": "Zeitlupe &amp; Zeitraffer"
+},
+{
+"key": "part03.html#926",
+"de": "Trennt Aufnahme-fps von Wiedergabe-fps"
+},
+{
+"key": "part03.html#927",
+"de": "120 fps Aufnahme → 24p Wiedergabe = 5× langsamer (ohne Ton)"
+},
+{
+"key": "part03.html#928",
+"de": "Empfohlene Einstellungen je Situation (α7-Serie)"
+},
+{
+"key": "part03.html#929",
+"de": "Situation"
+},
+{
+"key": "part03.html#930",
+"de": "fps"
+},
+{
+"key": "part03.html#931",
+"de": "Verschluss"
+},
+{
+"key": "part03.html#932",
+"de": "Blende"
+},
+{
+"key": "part03.html#933",
+"de": "ISO"
+},
+{
+"key": "part03.html#934",
+"de": "WB"
+},
+{
+"key": "part03.html#935",
+"de": "Bildprofil"
+},
+{
+"key": "part03.html#936",
+"de": "Notizen"
+},
+{
+"key": "part03.html#937",
+"de": "Interview innen"
+},
+{
+"key": "part03.html#938",
+"de": "Wie das Führungslicht (5600 K)"
+},
+{
+"key": "part03.html#939",
+"de": "S-Cinetone"
+},
+{
+"key": "part03.html#940",
+"de": "Leuchtstoffröhren aus; auf Flackern prüfen"
+},
+{
+"key": "part03.html#941",
+"de": "Vlog außen, tagsüber"
+},
+{
+"key": "part03.html#942",
+"de": "Fix auf 5600 K"
+},
+{
+"key": "part03.html#943",
+"de": "S-Cinetone · HLG3"
+},
+{
+"key": "part03.html#944",
+"de": "Verschluss per ND halten"
+},
+{
+"key": "part03.html#945",
+"de": "Stadt bei Nacht"
+},
+{
+"key": "part03.html#946",
+"de": "S-Log3"
+},
+{
+"key": "part03.html#947",
+"de": "Duale Basis-ISO nutzen (S-Log3: 800/12800)"
+},
+{
+"key": "part03.html#948",
+"de": "Produkt-Tabletop"
+},
+{
+"key": "part03.html#949",
+"de": "Wie die Lampen"
+},
+{
+"key": "part03.html#950",
+"de": "S-Cinetone"
+},
+{
+"key": "part03.html#951",
+"de": "Stativ · manueller Fokus · Fokuslupe"
+},
+{
+"key": "part03.html#952",
+"de": "Zeitlupe"
+},
+{
+"key": "part03.html#953",
+"de": "120p (S&amp;Q)"
+},
+{
+"key": "part03.html#954",
+"de": "Fix"
+},
+{
+"key": "part03.html#955",
+"de": "S-Log3"
+},
+{
+"key": "part03.html#956",
+"de": "Braucht 4× so viel Licht; kein Ton"
+},
+{
+"key": "part03.html#957",
+"de": "Chroma-Key"
+},
+{
+"key": "part03.html#958",
+"de": "S-Log3 4:2:2 10 Bit"
+},
+{
+"key": "part03.html#959",
+"de": "Hintergrund und Motiv getrennt belichten; Verschluss nicht verkürzen"
+},
+{
+"key": "part03.html#960",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part03.html#961",
+"de": "180-Grad-Regel: Verschlusszeit = 1 ÷ (fps × 2). 24p → 1/50, 30p → 1/60, 60p → 1/125, 120p → 1/250. Ist es zu hell, regeln Sie mit <b>ND</b> nach, nicht mit ISO."
+},
+{
+"key": "part03.html#962",
+"de": "Drei Objektive für alles – 55 · 85 · 200"
+},
+{
+"key": "part03.html#963",
+"de": "Drei Objektive für alles – 55 · 85 · 200"
+}
+]

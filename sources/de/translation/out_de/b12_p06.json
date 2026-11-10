@@ -1,0 +1,134 @@
+[
+{
+"key": "part12.html#170",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "part12.html#171",
+"de": "Ad Multiplier – Schnittstruktur und Tempo eines erfolgreichen Spots beibehalten und nur Besetzung · Kostüm · Drehort · Requisiten tauschen, um massenhaft Varianten zu erzeugen. Üblich für regionale Fassungen."
+},
+{
+"key": "part12.html#172",
+"de": "Wo KI eingezogen ist"
+},
+{
+"key": "part12.html#173",
+"de": "<b>Varianten und Lokalisierung</b> – Zielgruppenversionen, Formatvarianten, Ad Multiplier"
+},
+{
+"key": "part12.html#174",
+"de": "<b>VFX-Umsetzung</b> – Routinearbeit wie Rotoskopie, Retusche, Plate-Vorbereitung, Entrauschen, Hochskalieren und Texturerzeugung"
+},
+{
+"key": "part12.html#175",
+"de": "<b>Planung und Previs</b> – Concept Art, Storyboards, Previsualisierung. Die Phase, die sich am stärksten verändert hat, seit die Entwurfskosten nahezu auf 0 gefallen sind"
+},
+{
+"key": "part12.html#176",
+"de": "<b>Automatisierte Prüfung</b> – ein globaler Lebensmittelkonzern prüft auf seiner eigenen Plattform ca. 16 Compliance-Punkte automatisch"
+},
+{
+"key": "part12.html#177",
+"de": "Wo weiterhin Menschen arbeiten"
+},
+{
+"key": "part12.html#178",
+"de": "<b>Drehgestaltung</b> – die Tools ballen sich in der Post und haben Kamera- und Lichtgestaltung kaum erreicht. Deshalb widmete dieses Buch Licht · Objektiven · Komposition so viele Seiten"
+},
+{
+"key": "part12.html#179",
+"de": "<b>Marken-Assets</b> – exakte Logos und Produktformen sind bei der Generierung nicht garantiert. Selbst Tool-Hersteller raten: „Wenn Genauigkeit zählt, in der Post ergänzen“"
+},
+{
+"key": "part12.html#180",
+"de": "<b>Strategie und Urteil</b> – Agenturen sehen ihre KI-Reife in Mediaplanung und Creative Direction auf mittlerem Niveau, in strategischer Planung und Research-Analyse auf Anfängerniveau"
+},
+{
+"key": "part12.html#181",
+"de": "KI kann gut „viele Versionen von bereits Entschiedenem erstellen“. Zu entscheiden, was das sein soll, bleibt Sache des Menschen.<small>11.3 Wo im Prozess KI zum Einsatz kommt</small>"
+},
+{
+"key": "part12.html#182",
+"de": "<small>Übung</small>11.3"
+},
+{
+"key": "part12.html#183",
+"de": "Aufgabe"
+},
+{
+"key": "part12.html#184",
+"de": "Drehen Sie einen 15-Sekunden-Spot im Hochformat und adaptieren Sie die Botschaft für 30 Sekunden quer und 6 Sekunden quadratisch. Notieren Sie jeweils, was Sie geändert und was Sie fixiert haben."
+},
+{
+"key": "part12.html#185",
+"de": "Tipp"
+},
+{
+"key": "part12.html#186",
+"de": "Legen Sie zuerst fest, was fixiert wird. Meist sind das die Botschaft in einem Satz, die Produkteinstellung und die Standzeit des Logos."
+},
+{
+"key": "part12.html#187",
+"de": "Bewertung"
+},
+{
+"key": "part12.html#188",
+"de": "Transportieren alle drei Fassungen dieselbe Botschaft? Sind die Kriterien für Variieren und Fixieren klar?"
+},
+{
+"key": "part12.html#189",
+"de": "Musterlösung"
+},
+{
+"key": "part12.html#190",
+"de": "Eine Lösung, die den Wendepunkt je nach Länge anders setzt und das begründet."
+},
+{
+"key": "part12.html#191",
+"de": "<b>TEIL 12</b>Praxis und Karriere im KI-Wandel"
+},
+{
+"key": "part12.html#192",
+"de": "Menschen, digitale Doubles, Einwilligung"
+},
+{
+"key": "part12.html#193",
+"de": "KI-Schauspieler, digitale Doubles und die Frage der Einwilligung. Generative Tools bewährten sich am schnellsten bei Hintergründen und Requisiten; am längsten schwierig bleiben Menschen. Weil das Publikum ein Leben lang geübt hat, Gesichter zu lesen, sind Menschen ein technisches und zugleich ein rechtliches Problem."
+},
+{
+"key": "part12.html#194",
+"de": "<span class=\"ph-id\">P12-MOCAP</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Digitales Double</b>Ein Schauspieler in einem mit Markern übersäten Motion-Capture-Anzug spielt, umringt von Kameras</span>"
+},
+{
+"key": "part12.html#195",
+"de": "<b>Hinweis</b>Digitales Double – einen echten Schauspieler scannen und seine Bewegungen aufzeichnen. Einwilligung und ein Vertrag zum Nutzungsumfang kommen zuerst"
+},
+{
+"key": "part12.html#196",
+"de": "Motion Capture – vom Studio bis zum einzelnen Smartphone"
+},
+{
+"key": "part12.html#197",
+"de": "<b>Optische Marker – Studio · Sportwissenschaft</b><span>Dutzende Infrarotkameras + reflektierende Marker. Millimetergenau; Standard in sportwissenschaftlichen Bewegungslaboren und großen VFX-Produktionen. Braucht Platz</span>"
+},
+{
+"key": "part12.html#198",
+"de": "<b>Inertialanzug – überall</b><span>Ein IMU-Sensor an jedem Gelenk. Ohne Kameras, daher auch im Freien · auf engem Raum nutzbar. Positionsdrift muss korrigiert werden. Haptische Anzüge (Typ Teslasuit) arbeiten umgekehrt: Sie senden „Gefühl“ an den Körper</span>"
+},
+{
+"key": "part12.html#199",
+"de": "<b>Markerlose KI – nur Kameras</b><span>KI schätzt das Skelett aus Aufnahmen von 1–2 Smartphones. Kosten nahe 0 und sofort verfügbar, aber weniger präzise. Reicht für Werbung · Kurzvideo · Previs</span>"
+},
+{
+"key": "part12.html#200",
+"de": "<b>Gesicht – separat erfasst</b><span>Eine Head-Rig-Kamera oder die Tiefenkamera eines Smartphones (ARKit) zeichnet 52 Mimikwerte auf. Zentral für digitale Doubles · virtuelle Menschen</span>"
+},
+{
+"key": "part12.html#201",
+"de": "<b>So wählen Sie</b><span>Präzision → optisch</span><span>Beliebiger Ort → inertial</span><span>Kosten · Tempo → markerlos</span><span>Mimik → Gesichtserfassung ergänzen</span><span>Anbindung an Animationstools → FBX · Retargeting (Auto-Rigging à la Mixamo)</span>"
+},
+{
+"key": "part12.html#202",
+"de": "<b>Abb. 89-2</b> Vier Wege, Bewegung zu erfassen – optische Marker · Inertialanzug · markerlose KI · Gesicht. Der Wandel der 2020er-Jahre: „Was einst ein Studio brauchte, schafft heute ein Smartphone.“"
+}
+]

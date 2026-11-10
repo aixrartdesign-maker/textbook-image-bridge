@@ -1,0 +1,602 @@
+[
+{
+"key": "templates.html#252",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#253",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#254",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#255",
+"de": "Aktion"
+},
+{
+"key": "templates.html#256",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#257",
+"de": "M · SE"
+},
+{
+"key": "templates.html#258",
+"de": "CUT 04"
+},
+{
+"key": "templates.html#259",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#260",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#261",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#262",
+"de": "Aktion"
+},
+{
+"key": "templates.html#263",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#264",
+"de": "M · SE"
+},
+{
+"key": "templates.html#265",
+"de": "CUT 05"
+},
+{
+"key": "templates.html#266",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#267",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#268",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#269",
+"de": "Aktion"
+},
+{
+"key": "templates.html#270",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#271",
+"de": "M · SE"
+},
+{
+"key": "templates.html#272",
+"de": "CUT 06"
+},
+{
+"key": "templates.html#273",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#274",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#275",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#276",
+"de": "Aktion"
+},
+{
+"key": "templates.html#277",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#278",
+"de": "M · SE"
+},
+{
+"key": "templates.html#279",
+"de": "CUT 07"
+},
+{
+"key": "templates.html#280",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#281",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#282",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#283",
+"de": "Aktion"
+},
+{
+"key": "templates.html#284",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#285",
+"de": "M · SE"
+},
+{
+"key": "templates.html#286",
+"de": "CUT 08"
+},
+{
+"key": "templates.html#287",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#288",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#289",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#290",
+"de": "Aktion"
+},
+{
+"key": "templates.html#291",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#292",
+"de": "M · SE"
+},
+{
+"key": "templates.html#293",
+"de": "CUT 09"
+},
+{
+"key": "templates.html#294",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#295",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#296",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#297",
+"de": "Aktion"
+},
+{
+"key": "templates.html#298",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#299",
+"de": "M · SE"
+},
+{
+"key": "templates.html#300",
+"de": "Weinrote gepunktete Linie = Headline-Zone. Eine Karte = ein Satz. 9 Karten ergeben ein Set."
+},
+{
+"key": "templates.html#301",
+"de": "Storyboard-Vorlage · 4:5-Feed"
+},
+{
+"key": "templates.html#302",
+"de": "Instagram-Feed, max. Höhe · 1080×1350"
+},
+{
+"key": "templates.html#303",
+"de": "Projekt ____________  Szene ____  Seite ___/___"
+},
+{
+"key": "templates.html#304",
+"de": "Regie ________  Datum ________  Version v___"
+},
+{
+"key": "templates.html#305",
+"de": "CUT 01"
+},
+{
+"key": "templates.html#306",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#307",
+"de": "SIZE"
+},
+{
+"key": "templates.html#308",
+"de": "MOVE"
+},
+{
+"key": "templates.html#309",
+"de": "Aktion"
+},
+{
+"key": "templates.html#310",
+"de": "SE"
+},
+{
+"key": "templates.html#311",
+"de": "NOTIZEN"
+},
+{
+"key": "templates.html#312",
+"de": "CUT 02"
+},
+{
+"key": "templates.html#313",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#314",
+"de": "SIZE"
+},
+{
+"key": "templates.html#315",
+"de": "MOVE"
+},
+{
+"key": "templates.html#316",
+"de": "Aktion"
+},
+{
+"key": "templates.html#317",
+"de": "SE"
+},
+{
+"key": "templates.html#318",
+"de": "NOTIZEN"
+},
+{
+"key": "templates.html#319",
+"de": "CUT 03"
+},
+{
+"key": "templates.html#320",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#321",
+"de": "SIZE"
+},
+{
+"key": "templates.html#322",
+"de": "MOVE"
+},
+{
+"key": "templates.html#323",
+"de": "Aktion"
+},
+{
+"key": "templates.html#324",
+"de": "SE"
+},
+{
+"key": "templates.html#325",
+"de": "NOTIZEN"
+},
+{
+"key": "templates.html#326",
+"de": "CUT 04"
+},
+{
+"key": "templates.html#327",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#328",
+"de": "SIZE"
+},
+{
+"key": "templates.html#329",
+"de": "MOVE"
+},
+{
+"key": "templates.html#330",
+"de": "Aktion"
+},
+{
+"key": "templates.html#331",
+"de": "SE"
+},
+{
+"key": "templates.html#332",
+"de": "NOTIZEN"
+},
+{
+"key": "templates.html#333",
+"de": "CUT 05"
+},
+{
+"key": "templates.html#334",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#335",
+"de": "SIZE"
+},
+{
+"key": "templates.html#336",
+"de": "MOVE"
+},
+{
+"key": "templates.html#337",
+"de": "Aktion"
+},
+{
+"key": "templates.html#338",
+"de": "SE"
+},
+{
+"key": "templates.html#339",
+"de": "NOTIZEN"
+},
+{
+"key": "templates.html#340",
+"de": "CUT 06"
+},
+{
+"key": "templates.html#341",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#342",
+"de": "SIZE"
+},
+{
+"key": "templates.html#343",
+"de": "MOVE"
+},
+{
+"key": "templates.html#344",
+"de": "Aktion"
+},
+{
+"key": "templates.html#345",
+"de": "SE"
+},
+{
+"key": "templates.html#346",
+"de": "NOTIZEN"
+},
+{
+"key": "templates.html#347",
+"de": "CUT 07"
+},
+{
+"key": "templates.html#348",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#349",
+"de": "SIZE"
+},
+{
+"key": "templates.html#350",
+"de": "MOVE"
+},
+{
+"key": "templates.html#351",
+"de": "Aktion"
+},
+{
+"key": "templates.html#352",
+"de": "SE"
+},
+{
+"key": "templates.html#353",
+"de": "NOTIZEN"
+},
+{
+"key": "templates.html#354",
+"de": "CUT 08"
+},
+{
+"key": "templates.html#355",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#356",
+"de": "SIZE"
+},
+{
+"key": "templates.html#357",
+"de": "MOVE"
+},
+{
+"key": "templates.html#358",
+"de": "Aktion"
+},
+{
+"key": "templates.html#359",
+"de": "SE"
+},
+{
+"key": "templates.html#360",
+"de": "NOTIZEN"
+},
+{
+"key": "templates.html#361",
+"de": "CUT 09"
+},
+{
+"key": "templates.html#362",
+"de": "Headline-Zone"
+},
+{
+"key": "templates.html#363",
+"de": "SIZE"
+},
+{
+"key": "templates.html#364",
+"de": "MOVE"
+},
+{
+"key": "templates.html#365",
+"de": "Aktion"
+},
+{
+"key": "templates.html#366",
+"de": "SE"
+},
+{
+"key": "templates.html#367",
+"de": "NOTIZEN"
+},
+{
+"key": "templates.html#368",
+"de": "Das Format, das im Feed am größten erscheint. 16:9-Material verliert seitlich 44 %."
+},
+{
+"key": "templates.html#369",
+"de": "Storyboard-Vorlage · 2:1 360·VR"
+},
+{
+"key": "templates.html#370",
+"de": "Equirektanguläre Abwicklung – Rundumsicht · 4096×2048 · 7680×3840"
+},
+{
+"key": "templates.html#371",
+"de": "Projekt ____________  Szene ____  Seite ___/___"
+},
+{
+"key": "templates.html#372",
+"de": "Regie ________  Datum ________  Version v___"
+},
+{
+"key": "templates.html#373",
+"de": "CUT 01"
+},
+{
+"key": "templates.html#374",
+"de": "0° Front"
+},
+{
+"key": "templates.html#375",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#376",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#377",
+"de": "Aktion"
+},
+{
+"key": "templates.html#378",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#379",
+"de": "M · SE"
+},
+{
+"key": "templates.html#380",
+"de": "CUT 02"
+},
+{
+"key": "templates.html#381",
+"de": "0° Front"
+},
+{
+"key": "templates.html#382",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#383",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#384",
+"de": "Aktion"
+},
+{
+"key": "templates.html#385",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#386",
+"de": "M · SE"
+},
+{
+"key": "templates.html#387",
+"de": "CUT 03"
+},
+{
+"key": "templates.html#388",
+"de": "0° Front"
+},
+{
+"key": "templates.html#389",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#390",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#391",
+"de": "Aktion"
+},
+{
+"key": "templates.html#392",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#393",
+"de": "M · SE"
+},
+{
+"key": "templates.html#394",
+"de": "CUT 04"
+},
+{
+"key": "templates.html#395",
+"de": "0° Front"
+},
+{
+"key": "templates.html#396",
+"de": "SIZE / ANGLE / LENS"
+},
+{
+"key": "templates.html#397",
+"de": "MOVE / TR"
+},
+{
+"key": "templates.html#398",
+"de": "Aktion"
+},
+{
+"key": "templates.html#399",
+"de": "N · SYNC"
+},
+{
+"key": "templates.html#400",
+"de": "M · SE"
+},
+{
+"key": "templates.html#401",
+"de": "CUT 05"
+}
+]

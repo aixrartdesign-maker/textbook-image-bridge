@@ -1,0 +1,602 @@
+[
+{
+"key": "part07.html#557",
+"de": "<small>COEX · DDP</small>K-POP Square „Wave“ · Seoul Light DDP"
+},
+{
+"key": "part07.html#558",
+"de": "„Wave“, die anamorphe Welle auf der großen Eck-LED-Wand des COEX K-POP Square, ist Koreas anamorphes Vorzeigewerk"
+},
+{
+"key": "part07.html#559",
+"de": "Seoul Light DDP nutzt die geschwungene DDP-Fassade als Leinwand, jährlich mit neuem Künstler"
+},
+{
+"key": "part07.html#560",
+"de": "Bei beiden bringen „Zuschauer, die filmen und posten“ die Reichweite"
+},
+{
+"key": "part07.html#561",
+"de": "<small>Nationalversammlung</small>Fassadenlicht und das „Mazinger-Z-Meme“"
+},
+{
+"key": "part07.html#562",
+"de": "Das Hauptgebäude wird nachts angestrahlt"
+},
+{
+"key": "part07.html#563",
+"de": "Der alte Witz „Wenn sich die Kuppel öffnet, kommt ein Roboter heraus“ zeigt, wie die wahrgenommene Form eines Gebäudes selbst zum Inhalt werden kann"
+},
+{
+"key": "part07.html#564",
+"de": "Nutzen Sie ein Gebäude als Medium, erkunden Sie zuerst das Bild, das die Menschen schon von ihm haben"
+},
+{
+"key": "part07.html#565",
+"de": "<b>Referenzfotos 6.9B</b>Wenn Architektur zur Leinwand wird"
+},
+{
+"key": "part07.html#566",
+"de": "<span class=\"ph-id\">P07-FACADE-PALACE</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Medienfassade am Palast</b>Farbvideo, projiziert auf ein Tor mit Ziegeldach, Publikum auf dem Platz</span>"
+},
+{
+"key": "part07.html#567",
+"de": "<b>a</b>Dachziegellinien und Säulenabstände werden zum Raster des Inhalts"
+},
+{
+"key": "part07.html#568",
+"de": "<span class=\"ph-id\">P07-FACADE-DOME</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Fassade eines Kuppelbaus</b>Kuppelbau bei Nacht, über den Fluss hinweg gesehen, Licht im Pixelraster an den Wänden</span>"
+},
+{
+"key": "part07.html#569",
+"de": "<b>b</b>Wie man die Form eines Gebäudes liest, kann selbst Inhalt werden"
+},
+{
+"key": "part07.html#570",
+"de": "<small>Übung</small>6.9"
+},
+{
+"key": "part07.html#571",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#572",
+"de": "Zeichnen Sie ein Storyboard für eine anamorphe Illusion auf einer Eck-LED-Wand."
+},
+{
+"key": "part07.html#573",
+"de": "Tipp"
+},
+{
+"key": "part07.html#574",
+"de": "Die Illusion trägt nur, wenn zuerst der Standpunkt feststeht."
+},
+{
+"key": "part07.html#575",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#576",
+"de": "Standpunktplanung, Klarheit der Illusion"
+},
+{
+"key": "part07.html#577",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#578",
+"de": "COEX SMTOWN „Wave“ (2020). Markiert den Standpunkt auf einem Lageplan und zeigt eine Bildmontage aus dieser Perspektive."
+},
+{
+"key": "part07.html#579",
+"de": "<b>TEIL 07</b>Medienspezifikationen und immersive Inhalte"
+},
+{
+"key": "part07.html#580",
+"de": "LED-Displays und transparente LED"
+},
+{
+"key": "part07.html#581",
+"de": "Wer gegenüber Anbietern Begriffe wie Pixel Pitch und Nits verwendet, erhält genauere Angebote. Bei transparenter LED gilt zuerst: Schwarz wird durchsichtig."
+},
+{
+"key": "part07.html#582",
+"de": "Begriff"
+},
+{
+"key": "part07.html#583",
+"de": "Bedeutung"
+},
+{
+"key": "part07.html#584",
+"de": "Richtwert"
+},
+{
+"key": "part07.html#585",
+"de": "Folgen für Inhalte"
+},
+{
+"key": "part07.html#586",
+"de": "Pixel Pitch"
+},
+{
+"key": "part07.html#587",
+"de": "Abstand der LED-Punkte"
+},
+{
+"key": "part07.html#588",
+"de": "Kleinere Zahl, feineres Bild"
+},
+{
+"key": "part07.html#589",
+"de": "Max. P2,5 bei Nahbetrachtung"
+},
+{
+"key": "part07.html#590",
+"de": "Mindestabstand"
+},
+{
+"key": "part07.html#591",
+"de": "Abstand, ab dem das Bild homogen wirkt"
+},
+{
+"key": "part07.html#592",
+"de": "Etwa der Pitch-Wert in Metern"
+},
+{
+"key": "part07.html#593",
+"de": "P4: ab ca. 4 m"
+},
+{
+"key": "part07.html#594",
+"de": "Leuchtdichte (Nits)"
+},
+{
+"key": "part07.html#595",
+"de": "Bildschirmhelligkeit"
+},
+{
+"key": "part07.html#596",
+"de": "Innen 500–1500, außen ab 5000"
+},
+{
+"key": "part07.html#597",
+"de": "Außen kontraststark gestalten"
+},
+{
+"key": "part07.html#598",
+"de": "Transparenzgrad"
+},
+{
+"key": "part07.html#599",
+"de": "Wie viel durch die LED scheint"
+},
+{
+"key": "part07.html#600",
+"de": "Ca. 60–80 %"
+},
+{
+"key": "part07.html#601",
+"de": "Hintergrund scheint durch; dunkle Farben leiden"
+},
+{
+"key": "part07.html#602",
+"de": "Bildwiederholrate"
+},
+{
+"key": "part07.html#603",
+"de": "Bildaufbauten pro Sekunde"
+},
+{
+"key": "part07.html#604",
+"de": "Ab 3840 Hz, wenn gefilmt wird"
+},
+{
+"key": "part07.html#605",
+"de": "Zu niedrig: Streifen im Kamerabild"
+},
+{
+"key": "part07.html#606",
+"de": "Cabinet-Größe"
+},
+{
+"key": "part07.html#607",
+"de": "Größe eines Panels"
+},
+{
+"key": "part07.html#608",
+"de": "Basis der Gesamtauflösung"
+},
+{
+"key": "part07.html#609",
+"de": "Bestimmt die Auflösung"
+},
+{
+"key": "part07.html#610",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "part07.html#611",
+"de": "Pixel Pitch (Pixelabstand) – Abstand der LED-Punkte in mm. Bei P4 beträgt der Mindestbetrachtungsabstand etwa 4 m."
+},
+{
+"key": "part07.html#612",
+"de": "Gestalten für transparente LED"
+},
+{
+"key": "part07.html#613",
+"de": "Der Hintergrund scheint durch, Schwarz wird durchsichtig"
+},
+{
+"key": "part07.html#614",
+"de": "Helle, satte Grafiken wirken am besten"
+},
+{
+"key": "part07.html#615",
+"de": "Dünne Linien, kleine Schrift verschwinden"
+},
+{
+"key": "part07.html#616",
+"de": "Vor Tag- und Nachthintergrund prüfen"
+},
+{
+"key": "part07.html#617",
+"de": "Achtung: LED vor der Kamera"
+},
+{
+"key": "part07.html#618",
+"de": "Niedrige Wiederholrate erzeugt wandernde Streifen"
+},
+{
+"key": "part07.html#619",
+"de": "Verschluss auf die LED-Frequenz abstimmen"
+},
+{
+"key": "part07.html#620",
+"de": "Personen vor LED: Farbtemperatur-Konflikt"
+},
+{
+"key": "part07.html#621",
+"de": "Ein Testdreh vorab ist Pflicht"
+},
+{
+"key": "part07.html#622",
+"de": "Abstand bestimmt Schriftgröße"
+},
+{
+"key": "part07.html#623",
+"de": "Abstand bestimmt Schriftgröße"
+},
+{
+"key": "part07.html#624",
+"de": "LED-Wand"
+},
+{
+"key": "part07.html#625",
+"de": "Mind. 2 cm"
+},
+{
+"key": "part07.html#626",
+"de": "Mind. 6 cm"
+},
+{
+"key": "part07.html#627",
+"de": "Mind. 16 cm"
+},
+{
+"key": "part07.html#628",
+"de": "Je weiter weg, desto größer die Schrift – Mindestschrifthöhe ≈ Abstand ÷ 250"
+},
+{
+"key": "part07.html#629",
+"de": "<b>Abb. 66-1</b> Betrachtungsabstand und Schriftgröße – 2 cm bei 5 m, 6 cm bei 15 m, 16 cm bei 40 m. Umgekehrt: Je näher man einen Bildschirm betrachtet, desto feiner muss sein Pixel Pitch sein (Mindestbetrachtungsabstand in m ≈ Pitch in mm)."
+},
+{
+"key": "part07.html#630",
+"de": "<b>Referenzfotos 6.10A</b>Drei Gesichter von LED-Medien"
+},
+{
+"key": "part07.html#631",
+"de": "<span class=\"ph-id\">P07-TRANSLED</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Transparente LED</b>Transparente LED-Folie an einem Schaufenster, hinter schwebenden Grafiken ist das Ladeninnere zu sehen</span>"
+},
+{
+"key": "part07.html#632",
+"de": "<b>a</b>Schwarz wird durchsichtig – nur helle Objekte zeigen"
+},
+{
+"key": "part07.html#633",
+"de": "<span class=\"ph-id\">P07-SIGNAGE</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Vertikale LED-Displays</b>Eine Reihe hochkant stehender LED-Säulen in einer U-Bahn-Passage, vorbeigehende Fahrgäste</span>"
+},
+{
+"key": "part07.html#634",
+"de": "<b>b</b>Ein Medium im Vorbeigehen – kurze Loops, große Schrift"
+},
+{
+"key": "part07.html#635",
+"de": "<span class=\"ph-id\">P07-LED-DIAGRAM</span><span class=\"ph-icon\"></span>\n        <span class=\"ph-desc\"><b>Pixel Pitch und Betrachtungsabstand</b>LED-Modul in Großaufnahme – Punktabstand neben einem Lineal / aus einigen Metern Abstand verschmilzt es zu einer Fläche</span>"
+},
+{
+"key": "part07.html#636",
+"de": "<b>c</b>Der Pitch-Wert ist Ihr Maßstab für den Mindestbetrachtungsabstand"
+},
+{
+"key": "part07.html#637",
+"de": "<small>Übung</small>6.10"
+},
+{
+"key": "part07.html#638",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#639",
+"de": "Erstellen Sie einen 10-Sekunden-Loop für transparente LED; Schwarz gilt als durchsichtig."
+},
+{
+"key": "part07.html#640",
+"de": "Tipp"
+},
+{
+"key": "part07.html#641",
+"de": "Lassen Sie den Hintergrund schwarz und bewegen Sie nur helle Objekte."
+},
+{
+"key": "part07.html#642",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#643",
+"de": "Verständnis des Mediums, nahtloser Loop"
+},
+{
+"key": "part07.html#644",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#645",
+"de": "Berücksichtigt, wie sich der reale Raum hinter dem Glas mit dem Video überlagert."
+},
+{
+"key": "part07.html#646",
+"de": "<b>TEIL 07</b>Medienspezifikationen und immersive Inhalte"
+},
+{
+"key": "part07.html#647",
+"de": "Sehsituationen und Publikum"
+},
+{
+"key": "part07.html#648",
+"de": "Blick, Abstand, Bewegung. Dasselbe Video wirkt völlig anders, je nachdem, wo es gesehen wird. Ob Zuschauer sitzen oder stehen, allein oder in Gruppen sind, vorbeigehen oder verweilen – das verändert die Bedingungen der Regie."
+},
+{
+"key": "part07.html#649",
+"de": "<b>Abb. 69</b> Bildschirmgröße und Aufmerksamkeit nach Sehsituation"
+},
+{
+"key": "part07.html#650",
+"de": "Vorführformate – Leinwand · Ton · Körper"
+},
+{
+"key": "part07.html#651",
+"de": "<b>IMAX · Premium-Großformat</b><span>Riesige Leinwand in 1,43:1 oder 1,90:1, steil ansteigende Sitzreihen – die Leinwand füllt das Sichtfeld. Filme wie Die Odyssee (2026), die mit IMAX-Filmkameras gedreht werden, gestalten Szenen gezielt für dieses Format</span>"
+},
+{
+"key": "part07.html#652",
+"de": "<b>4D-Kino</b><span>Bewegte Sitze · Wind · Wasser · Duft. Getrennt vom Bild entsteht ein eigenes „Effekt-Cue-Sheet“ – für jede Einstellung den Reiz festzulegen, ist ein zweiter Schnitt</span>"
+},
+{
+"key": "part07.html#653",
+"de": "Format"
+},
+{
+"key": "part07.html#654",
+"de": "Seitenverhältnis"
+},
+{
+"key": "part07.html#655",
+"de": "Ton"
+},
+{
+"key": "part07.html#656",
+"de": "Extras"
+},
+{
+"key": "part07.html#657",
+"de": "Produktionshinweise"
+},
+{
+"key": "part07.html#658",
+"de": "Standard-2D"
+},
+{
+"key": "part07.html#659",
+"de": "Standard 5.1–7.1"
+},
+{
+"key": "part07.html#660",
+"de": "Keine"
+},
+{
+"key": "part07.html#661",
+"de": "Basis – Quelle aller Fassungen"
+},
+{
+"key": "part07.html#662",
+"de": "Gleich"
+},
+{
+"key": "part07.html#663",
+"de": "Gleich"
+},
+{
+"key": "part07.html#664",
+"de": "Polarisationsbrille"
+},
+{
+"key": "part07.html#665",
+"de": "Parallaxe planen: Nahe Objekte kollidieren mit Untertiteln, schnelle Schwenks verursachen Schwindel. Helligkeit −30 %"
+},
+{
+"key": "part07.html#666",
+"de": "IMAX"
+},
+{
+"key": "part07.html#667",
+"de": "1,43 · 1,90:1 (mehr Raum oben und unten)"
+},
+{
+"key": "part07.html#668",
+"de": "12 Kanäle · mehr Bass"
+},
+{
+"key": "part07.html#669",
+"de": "Keine"
+},
+{
+"key": "part07.html#670",
+"de": "Braucht zusätzliches Bild oben und unten, separat gedreht (IMAX-Kamera), oder ein in der Höhe erweitertes Master"
+},
+{
+"key": "part07.html#671",
+"de": "Je nach Kino"
+},
+{
+"key": "part07.html#672",
+"de": "Gleich + Effektspur"
+},
+{
+"key": "part07.html#673",
+"de": "Sitze · Wind · Wasser · Duft · Licht"
+},
+{
+"key": "part07.html#674",
+"de": "Braucht „Atempausen“ im Schnitt, um Effekt-Cues zu setzen. Dauereffekte ermüden"
+},
+{
+"key": "part07.html#675",
+"de": "<b>Abb. 69-1</b> 2D · 3D · IMAX · 4D – selbst derselbe Film unterscheidet sich je Fassung in Seitenverhältnis · Ton · Reiz. Vor dem Dreh entscheidet die Produktion, „für welche Fassung gedreht wird“."
+},
+{
+"key": "part07.html#676",
+"de": "Umgebung"
+},
+{
+"key": "part07.html#677",
+"de": "Haltung"
+},
+{
+"key": "part07.html#678",
+"de": "Abstand"
+},
+{
+"key": "part07.html#679",
+"de": "Sichtfeld"
+},
+{
+"key": "part07.html#680",
+"de": "Aufmerksamkeit"
+},
+{
+"key": "part07.html#681",
+"de": "Gestaltungsprinzip"
+},
+{
+"key": "part07.html#682",
+"de": "Kino"
+},
+{
+"key": "part07.html#683",
+"de": "Feste Sitze, dunkel"
+},
+{
+"key": "part07.html#684",
+"de": "1,5- bis 3-fache Bildhöhe"
+},
+{
+"key": "part07.html#685",
+"de": "Sehr weit"
+},
+{
+"key": "part07.html#686",
+"de": "Sehr hoch"
+},
+{
+"key": "part07.html#687",
+"de": "Totalen wirken, langsames Tempo möglich"
+},
+{
+"key": "part07.html#688",
+"de": "Wohnzimmer-TV"
+},
+{
+"key": "part07.html#689",
+"de": "Sitzend, heller Raum"
+},
+{
+"key": "part07.html#690",
+"de": "2- bis 3-fache Bilddiagonale"
+},
+{
+"key": "part07.html#691",
+"de": "Mittel"
+},
+{
+"key": "part07.html#692",
+"de": "Niedrig"
+},
+{
+"key": "part07.html#693",
+"de": "Großaufnahmen, klare Dialoge"
+},
+{
+"key": "part07.html#694",
+"de": "PC-Monitor"
+},
+{
+"key": "part07.html#695",
+"de": "Sitzend, nah"
+},
+{
+"key": "part07.html#696",
+"de": "50–70 cm"
+},
+{
+"key": "part07.html#697",
+"de": "Eng"
+},
+{
+"key": "part07.html#698",
+"de": "Mittel"
+},
+{
+"key": "part07.html#699",
+"de": "Dichte Information möglich"
+},
+{
+"key": "part07.html#700",
+"de": "Smartphone"
+},
+{
+"key": "part07.html#701",
+"de": "In der Hand, unterwegs"
+},
+{
+"key": "part07.html#702",
+"de": "25–35 cm"
+},
+{
+"key": "part07.html#703",
+"de": "Sehr eng"
+},
+{
+"key": "part07.html#704",
+"de": "Sehr niedrig"
+},
+{
+"key": "part07.html#705",
+"de": "Große Untertitel, kurze Schnitte, hochkant"
+},
+{
+"key": "part07.html#706",
+"de": "Außen-Großfläche"
+}
+]

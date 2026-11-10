@@ -1,0 +1,294 @@
+{
+ "stem": "p223_246_1375x696",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p223_246_1375x696.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Spend half on prep — later changes cost more",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 44,
+    "chars_per_line_max": 82,
+    "chars_per_line_if_shrunk": 100,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Change cost",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 109,
+    "chars_per_line_if_shrunk": 133,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "2",
+   "en": "Full remake",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 11,
+    "chars_per_line_if_shrunk": 13,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "A reshoot day",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "One plan line",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 49,
+    "chars_per_line_if_shrunk": 60,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "5",
+   "en": "Pre-production",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 31,
+    "chars_per_line_if_shrunk": 38,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "6",
+   "en": "Production",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 13,
+    "chars_per_line_if_shrunk": 16,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "7",
+   "en": "50%",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 3,
+    "chars_per_line_if_shrunk": 4,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "20%",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 4,
+    "chars_per_line_if_shrunk": 5,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Post",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 40,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "10",
+   "en": "30%",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 3,
+    "chars_per_line_if_shrunk": 4,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "Color grading",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 6,
+    "chars_per_line_if_shrunk": 8,
+    "lines_now": 2,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "12",
+   "en": "Brief",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 5,
+    "chars_per_line_if_shrunk": 6,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "13",
+   "en": "Concept",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 7,
+    "chars_per_line_if_shrunk": 8,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "Research",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 8,
+    "chars_per_line_if_shrunk": 9,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "Plan",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 4,
+    "chars_per_line_if_shrunk": 5,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "17",
+   "en": "On set",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 10,
+    "chars_per_line_if_shrunk": 12,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "18",
+   "en": "Shooting",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 8,
+    "chars_per_line_if_shrunk": 10,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "19",
+   "en": "Rough cut",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 9,
+    "chars_per_line_max": 9,
+    "chars_per_line_if_shrunk": 10,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "20",
+   "en": "VFX",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 3,
+    "chars_per_line_max": 5,
+    "chars_per_line_if_shrunk": 6,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "21",
+   "en": "Sound",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 5,
+    "chars_per_line_if_shrunk": 7,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "22",
+   "en": "Storyboard",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 10,
+    "chars_per_line_max": 10,
+    "chars_per_line_if_shrunk": 11,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "23",
+   "en": "Delivery",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 8,
+    "chars_per_line_if_shrunk": 9,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "24",
+   "en": "Fixing after the shoot costs tens of times more than one line in planning — so pre-production gets the most time",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 112,
+    "chars_per_line_max": 174,
+    "chars_per_line_if_shrunk": 213,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  }
+ ]
+}

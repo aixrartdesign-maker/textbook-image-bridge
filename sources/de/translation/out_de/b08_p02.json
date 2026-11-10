@@ -1,0 +1,602 @@
+[
+{
+"key": "part07.html#407",
+"de": "Vom Eingang zum Ausgang in <b>einer Linie</b>. Führt der Weg zurück, stoßen Besucher mit Headset mit Besuchern ohne zusammen. 90 s Erlebnis × 3 + 60 s Foto + Warten = ca. 8 Min. pro Person, ca. 40 Personen pro Stunde."
+},
+{
+"key": "part07.html#408",
+"de": "<b>Abb. 67</b> Grundriss einer XR-Ausstellung – die rot gepunktete Linie ist der Besucherweg, die Zahlen zeigen die Reihenfolge."
+},
+{
+"key": "part07.html#409",
+"de": "8 Planungsphasen"
+},
+{
+"key": "part07.html#410",
+"de": "<b>01</b><i>Thema</i>Ein Satz, der nach dem Besuch bleibt"
+},
+{
+"key": "part07.html#411",
+"de": "<b>02</b><i>Ortsbegehung</i>Aufmaß, Deckenhöhe, Strom, Lux"
+},
+{
+"key": "part07.html#412",
+"de": "<b>03</b><i>Szenario</i>Verweildauer-Diagramm je Abschnitt"
+},
+{
+"key": "part07.html#413",
+"de": "<b>04</b><i>Route</i>Einbahnweg oder freier Rundgang"
+},
+{
+"key": "part07.html#414",
+"de": "<b>05</b><i>Technik</i>Gerätedaten, Ersatztechnik"
+},
+{
+"key": "part07.html#415",
+"de": "<b>06</b><i>Inhalte</i>Inhaltsliste je Raum"
+},
+{
+"key": "part07.html#416",
+"de": "<b>07</b><i>Aufbau</i>Kalibrierprotokoll vor Ort"
+},
+{
+"key": "part07.html#417",
+"de": "<b>08</b><i>Betrieb</i>Personalhandbuch, Störfallplan"
+},
+{
+"key": "part07.html#418",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part07.html#419",
+"de": "Oft übersehen – die Technik vor der Botschaft wählen, Deckenhöhe und Stromkapazität, kein Plan für Wartezeiten."
+},
+{
+"key": "part07.html#420",
+"de": "Was in jeder Phase oft fehlt"
+},
+{
+"key": "part07.html#421",
+"de": "<small>Planung</small>Thema · Raum · Szenario"
+},
+{
+"key": "part07.html#422",
+"de": "Technik vor der Botschaft wählen"
+},
+{
+"key": "part07.html#423",
+"de": "Deckenhöhe und Stromkapazität"
+},
+{
+"key": "part07.html#424",
+"de": "Kein Plan für Wartezeiten"
+},
+{
+"key": "part07.html#425",
+"de": "<small>Umsetzung</small>Weg · Technik · Aufbau · Betrieb"
+},
+{
+"key": "part07.html#426",
+"de": "Engpässe und Gegenverkehr"
+},
+{
+"key": "part07.html#427",
+"de": "Wartung und Ersatzteile"
+},
+{
+"key": "part07.html#428",
+"de": "Unterschätzte Aufbauzeit"
+},
+{
+"key": "part07.html#429",
+"de": "Kein Neustartplan"
+},
+{
+"key": "part07.html#430",
+"de": "<b>90<em>s</em></b>Dauer eines Durchgangs"
+},
+{
+"key": "part07.html#431",
+"de": "<b>4<em>Pers.</em></b>Pro Durchgang"
+},
+{
+"key": "part07.html#432",
+"de": "<b>160<em>Pers./Std.</em></b>Theoretisch max."
+},
+{
+"key": "part07.html#433",
+"de": "<b>70<em>%</em></b>Realistisch, inkl. Wechsel · Einweisung"
+},
+{
+"key": "part07.html#434",
+"de": "Durchsatz berechnen"
+},
+{
+"key": "part07.html#435",
+"de": "Aus der Dauer eines Durchgangs und der gleichzeitigen Kapazität ergibt sich der stündliche Durchsatz. Ein 90-Sekunden-Erlebnis für 4 Personen gleichzeitig schafft theoretisch höchstens 160 Personen pro Stunde; im realen Betrieb kommen Wechsel- und Einweisungszeiten hinzu – planen Sie mit etwa 70 % dieses Werts."
+},
+{
+"key": "part07.html#436",
+"de": "MR im Museum"
+},
+{
+"key": "part07.html#437",
+"de": "<span class=\"ph-id\">P07-MR-MUSEUM</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>MR im Museum – ein Rekonstruktionshologramm über dem Exponat</b>Besucher mit Headset, über zerbrochenem Mauerwerk schwebt eine halbtransparente rekonstruierte Form</span>"
+},
+{
+"key": "part07.html#438",
+"de": "<b>Hinweis</b>Original unangetastet lassen, nur Fehlendes mit Licht ergänzen"
+},
+{
+"key": "part07.html#439",
+"de": "Im Museum überzeugt MR am meisten, denn die Einschränkung, dass Originale weder berührt noch bewegt werden dürfen, wird hier zur eigentlichen Stärke von MR."
+},
+{
+"key": "part07.html#440",
+"de": "Das Koreanische Nationalmuseum betreibt in seiner Dauerausstellung einen digitalen immersiven Saal mit Inhalten wie einem Goguryeo-Wandmalereigrab in VR, großen Panoramafilmen und einer digitalen Gwanggaeto-Stele; auch große Nationalmuseen im Ausland bieten AR- und MR-Touren zur Rekonstruktion von Artefakten an. Ihr Aufbau lässt sich meist auf drei Elemente zurückführen."
+},
+{
+"key": "part07.html#441",
+"de": "Rekonstruktionshologramme – fehlende Scherben zerbrochener Keramik oder die Originalfarben einer verwitterten Buddha-Statue, über das reale Objekt gelegt. Lassen Sie etwas Transparenz, damit Original und Ergänzung unterscheidbar bleiben."
+},
+{
+"key": "part07.html#442",
+"de": "Guide-Avatare – sie erfassen Blick und Standort der Besucher und erklären das betrachtete Exponat. Halten Sie die Erklärung unter 30 Sekunden pro Exponat; ob mehr folgt, entscheiden die Besucher."
+},
+{
+"key": "part07.html#443",
+"de": "Hand-Tracking-Steuerung – Exponate ohne Controller mit der Hand aufnehmen, drehen und vergrößern. Platzieren Sie Objekte in Armreichweite (ca. 0,5–0,7 m) und lassen Sie sie nach der Handhabung an ihren Platz zurückkehren."
+},
+{
+"key": "part07.html#444",
+"de": "<b>Hinweis</b>"
+},
+{
+"key": "part07.html#445",
+"de": "Bei MR im Museum sind Hygiene und Wechsel die halbe Planung. Nehmen Sie Headset-Desinfektion und Einweisung zwischen den Nutzern in das Verweildauer-Diagramm auf."
+},
+{
+"key": "part07.html#446",
+"de": "<span class=\"ph-id\">P07-LEDWALL</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>XR-Studio</b>Nächtliche Autobahn auf gekrümmter LED-Wand, echtes Auto und Kamerakran am Set</span>"
+},
+{
+"key": "part07.html#447",
+"de": "<b>Hinweis</b>XR-Studio – dank Kamera-Tracking und Echtzeit-Engine folgt der LED-Hintergrund den Kamerabewegungen. XR-Zonen in Ausstellungen und virtuelle Produktion beim Film nutzen dieselbe Technik"
+},
+{
+"key": "part07.html#448",
+"de": "<small>Übung</small>6.7"
+},
+{
+"key": "part07.html#449",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#450",
+"de": "Erstellen Sie für eine fiktive XR-Ausstellung einen Wegeplan und eine Inhaltsliste je Raum."
+},
+{
+"key": "part07.html#451",
+"de": "Tipp"
+},
+{
+"key": "part07.html#452",
+"de": "Legen Sie für jeden Raum eine Verweildauer fest."
+},
+{
+"key": "part07.html#453",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#454",
+"de": "Besucherfluss, Passung von Raum und Inhalt"
+},
+{
+"key": "part07.html#455",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#456",
+"de": "Setzt Ein- und Ausgangserlebnis in Kontrast – für eine einprägsame Struktur."
+},
+{
+"key": "part07.html#457",
+"de": "<b>TEIL 07</b>Medienspezifikationen und immersive Inhalte"
+},
+{
+"key": "part07.html#458",
+"de": "Projection Mapping"
+},
+{
+"key": "part07.html#459",
+"de": "Bauen Sie den Inhalt auf einer Abwicklung des Zielobjekts auf. Am besten wirkt es, wenn die Kanten realer Bauteile wie Fenster und Säulen zur Struktur des Inhalts werden."
+},
+{
+"key": "part07.html#460",
+"de": "<b>G-22</b> Projection Mapping – die Gebäudefläche wird zur Leinwand (mit GPT generiertes Bild – nur zur Veranschaulichung)"
+},
+{
+"key": "part07.html#461",
+"de": "<span class=\"ph-id\">P07-PROJECTION</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Projection Mapping</b>Steinfassade bei Nacht, geometrisches Licht zeichnet die Kanten von Fenstern und Säulen nach, Silhouetten des Publikums</span>"
+},
+{
+"key": "part07.html#462",
+"de": "<b>Hinweis</b>Fenster- und Säulenkanten werden zu Feldern des Inhalts – deshalb arbeiten Sie auf der Abwicklung"
+},
+{
+"key": "part07.html#463",
+"de": "<small>Prinzip</small>Messen → Abgleichen → Entzerren → Kalibrieren"
+},
+{
+"key": "part07.html#464",
+"de": "Die 3D-Form des Objekts vermessen und als virtuelles Modell nachbauen"
+},
+{
+"key": "part07.html#465",
+"de": "Projektorposition mit der virtuellen Kamera abgleichen"
+},
+{
+"key": "part07.html#466",
+"de": "Jede Fläche entzerren, Video rendern"
+},
+{
+"key": "part07.html#467",
+"de": "Nach dem Aufbau durch Kalibrierung vor Ort feinjustieren"
+},
+{
+"key": "part07.html#468",
+"de": "<small>Planungsfaktoren</small>Fläche · Umgebungslicht · Abstand · Überblendung"
+},
+{
+"key": "part07.html#469",
+"de": "Dunkle, raue Flächen schlucken viel Helligkeit"
+},
+{
+"key": "part07.html#470",
+"de": "Nacht oder Verdunkelung erforderlich"
+},
+{
+"key": "part07.html#471",
+"de": "Projektionsabstand und Helligkeit (ANSI-Lumen) berechnen"
+},
+{
+"key": "part07.html#472",
+"de": "Bei mehreren Projektoren Überblendzonen einplanen"
+},
+{
+"key": "part07.html#473",
+"de": "<b>Begriff</b>"
+},
+{
+"key": "part07.html#474",
+"de": "ANSI-Lumen – die Einheit der Projektorhelligkeit. Der Bedarf steigt mit Projektionsfläche und Umgebungslicht."
+},
+{
+"key": "part07.html#475",
+"de": "Faktor"
+},
+{
+"key": "part07.html#476",
+"de": "Kriterium"
+},
+{
+"key": "part07.html#477",
+"de": "Typische Werte"
+},
+{
+"key": "part07.html#478",
+"de": "Helligkeit"
+},
+{
+"key": "part07.html#479",
+"de": "Steigt mit Fläche und Umgebungslicht"
+},
+{
+"key": "part07.html#480",
+"de": "Gebäude außen: ab 20.000 ANSI"
+},
+{
+"key": "part07.html#481",
+"de": "Projektionsabstand"
+},
+{
+"key": "part07.html#482",
+"de": "Über das Projektionsverhältnis"
+},
+{
+"key": "part07.html#483",
+"de": "Kurzdistanzobjektiv spart Platz"
+},
+{
+"key": "part07.html#484",
+"de": "Auflösung"
+},
+{
+"key": "part07.html#485",
+"de": "Nach kürzestem Betrachtungsabstand"
+},
+{
+"key": "part07.html#486",
+"de": "Ab 4K bei naher Betrachtung"
+},
+{
+"key": "part07.html#487",
+"de": "Inhaltsformat"
+},
+{
+"key": "part07.html#488",
+"de": "Abwicklung des Objekts"
+},
+{
+"key": "part07.html#489",
+"de": "Alles andere als 16:9"
+},
+{
+"key": "part07.html#490",
+"de": "Montage"
+},
+{
+"key": "part07.html#491",
+"de": "Vibrations- und temperaturfest"
+},
+{
+"key": "part07.html#492",
+"de": "Rigging- und Kühlplan nötig"
+},
+{
+"key": "part07.html#493",
+"de": "<small>Übung</small>6.8"
+},
+{
+"key": "part07.html#494",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#495",
+"de": "Projizieren Sie ein einfaches Mapping-Video auf Kiste oder Wand."
+},
+{
+"key": "part07.html#496",
+"de": "Tipp"
+},
+{
+"key": "part07.html#497",
+"de": "Teilen Sie die Flächen erst per Maske auf, dann bekommt jede ihre eigene Bewegung."
+},
+{
+"key": "part07.html#498",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#499",
+"de": "Passgenauigkeit, Tiefenwirkung"
+},
+{
+"key": "part07.html#500",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#501",
+"de": "Nutzt die Struktur des Gebäudes für die Illusion, es stürze ein oder öffne sich."
+},
+{
+"key": "part07.html#502",
+"de": "<b>TEIL 07</b>Medienspezifikationen und immersive Inhalte"
+},
+{
+"key": "part07.html#503",
+"de": "Außenwerbung und anamorphe Illusion"
+},
+{
+"key": "part07.html#504",
+"de": "Der Standpunkt gibt die Gestaltung vor. Setzen Sie die virtuelle Kamera dorthin, wo die meisten stehen, und schaffen Sie eine Szene, die man von dort filmt und teilt."
+},
+{
+"key": "part07.html#505",
+"de": "Ein auf zwei Flächen verteiltes, verzerrtes Bild verschmilzt nur von einem Punkt aus"
+},
+{
+"key": "part07.html#506",
+"de": "<b>Vom Referenzstandpunkt – die Box tritt hervor</b><span>Die Bilder auf zwei Flächen verschmelzen von einem Punkt aus</span>"
+},
+{
+"key": "part07.html#507",
+"de": "<b>Von der Seite – zwei verzerrte Bilder</b><span>Abseits des Referenzstandpunkts bricht die Illusion</span>"
+},
+{
+"key": "part07.html#508",
+"de": "Auf zwei Flächen <b>absichtlich verzerrt</b> gezeichnete Bilder verschmelzen nur von einem einzigen Punkt aus. Die erste Gestaltungsfrage lautet daher: „Wo steht der Betrachter?“ Dort ist der Fotospot (hier beginnt die Verbreitung im Netz). Messen Sie zuerst Gehwegbreite · Zebrastreifen · Gehweg gegenüber aus."
+},
+{
+"key": "part07.html#509",
+"de": "<b>Abb. 68</b> So funktioniert die anamorphe Illusion – vom Referenzstandpunkt eine Box, von der Seite zwei verzerrte Bilder."
+},
+{
+"key": "part07.html#510",
+"de": "<b>Referenzfotos 6.9A</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part07.html#511",
+"de": "<b>a</b>Anamorphe Eck-LED-Wand"
+},
+{
+"key": "part07.html#512",
+"de": "<b>b</b>Virtuelle Produktion mit LED-Wand"
+},
+{
+"key": "part07.html#513",
+"de": "<b>c</b>Schaufenster mit transparenter LED"
+},
+{
+"key": "part07.html#514",
+"de": "<small>Anamorphes Prinzip</small>Tiefe nur von einem Punkt aus"
+},
+{
+"key": "part07.html#515",
+"de": "Verzerrtes Video auf abgewinkelter LED-Wand"
+},
+{
+"key": "part07.html#516",
+"de": "Der Standpunkt bestimmt die Gestaltung"
+},
+{
+"key": "part07.html#517",
+"de": "<small>Referenzstandpunkt</small>Virtuelle Kamera fixieren"
+},
+{
+"key": "part07.html#518",
+"de": "Wo die meisten Betrachter stehen"
+},
+{
+"key": "part07.html#519",
+"de": "Abseits davon bricht die Illusion zusammen"
+},
+{
+"key": "part07.html#520",
+"de": "<small>Inhaltsvorgaben</small>Motive mit weichen Kanten"
+},
+{
+"key": "part07.html#521",
+"de": "Eingerahmte Strukturen, herausbrechende Objekte"
+},
+{
+"key": "part07.html#522",
+"de": "Weiche Motive wie Wasser und Wolken"
+},
+{
+"key": "part07.html#523",
+"de": "<small>Der wahre Gewinn</small>Ein Winkel, der zum Filmen lockt"
+},
+{
+"key": "part07.html#524",
+"de": "Echte Reichweite bringen eher Menschen, die filmen und online posten, als Zuschauer vor Ort"
+},
+{
+"key": "part07.html#525",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part07.html#526",
+"de": "Außenwerbung ist grundsätzlich stumm. Ein Konzept, das auf Ton setzt, ist schon bei der Medienwahl gescheitert."
+},
+{
+"key": "part07.html#527",
+"de": "DOOH-Medium"
+},
+{
+"key": "part07.html#528",
+"de": "Merkmale"
+},
+{
+"key": "part07.html#529",
+"de": "Gestaltungsprinzip"
+},
+{
+"key": "part07.html#530",
+"de": "Große LED-Werbetafel"
+},
+{
+"key": "part07.html#531",
+"de": "Massenkontakt aus der Ferne"
+},
+{
+"key": "part07.html#532",
+"de": "Eine Botschaft, in 3 s lesbar, ohne Ton"
+},
+{
+"key": "part07.html#533",
+"de": "Verkehrsmedien"
+},
+{
+"key": "part07.html#534",
+"de": "Wiederholter Nahkontakt"
+},
+{
+"key": "part07.html#535",
+"de": "Kurzer Loop, mit Untertiteln"
+},
+{
+"key": "part07.html#536",
+"de": "Ladenbildschirme"
+},
+{
+"key": "part07.html#537",
+"de": "Am Verkaufsort"
+},
+{
+"key": "part07.html#538",
+"de": "Preise und Angebote im Fokus"
+},
+{
+"key": "part07.html#539",
+"de": "Aufzugsmedien"
+},
+{
+"key": "part07.html#540",
+"de": "Kurzer Zwangskontakt"
+},
+{
+"key": "part07.html#541",
+"de": "Loop von 6–10 s, ohne Ton klar"
+},
+{
+"key": "part07.html#542",
+"de": "Anamorphe Spezial-LED"
+},
+{
+"key": "part07.html#543",
+"de": "Buzz, Verbreitung"
+},
+{
+"key": "part07.html#544",
+"de": "Szene, die gefilmt und geteilt wird"
+},
+{
+"key": "part07.html#545",
+"de": "<b>G-23</b> Anamorphe LED – die Tiefenillusion eines Eckbildschirms (mit GPT generiertes Bild – nur zur Veranschaulichung)"
+},
+{
+"key": "part07.html#546",
+"de": "So entstehen anamorphe Inhalte"
+},
+{
+"key": "part07.html#547",
+"de": "<b>01</b><i>Ortsbegehung · Standpunkt</i>LED-Flächen und ihren Knickwinkel vermessen und den „Sweetspot“ festlegen, an dem die meisten Betrachter stehen"
+},
+{
+"key": "part07.html#548",
+"de": "<b>02</b><i>3D-Modell + Sweetspot-Kamera</i>LED-Flächen maßstabsgetreu in einem 3D-Tool wie Unreal Engine · Cinema 4D · Blender nachbauen und am Sweetspot eine virtuelle Kamera fixieren"
+},
+{
+"key": "part07.html#549",
+"de": "<b>03</b><i>Inhalt · Rendering</i>Das Bild der virtuellen Kamera auf die LED-Abwicklung projizieren und ausgeben. Objekte, die über die Bildschirmkanten hinausragen, verstärken die Illusion"
+},
+{
+"key": "part07.html#550",
+"de": "<b>04</b><i>Korrektur vor Ort</i>Auf der realen LED abspielen, vom Sweetspot aus filmen und Versatz an den Nähten sowie Helligkeit · Farbe korrigieren"
+},
+{
+"key": "part07.html#551",
+"de": "<b>Hinweis</b>Vertikale Anamorphose – ein Wasserfall stürzt eine Gebäudeecke hinab. Die Illusion trägt nur am Sweetspot, der zugleich Fotospot und Ausgangspunkt der Verbreitung im Netz ist"
+},
+{
+"key": "part07.html#552",
+"de": "Medienfassaden in Korea"
+},
+{
+"key": "part07.html#553",
+"de": "<small>Gwanghwamun · Cheonggyecheon</small>Seoul Light Gwanghwamun · Seoul Lantern Festival"
+},
+{
+"key": "part07.html#554",
+"de": "Teil der Seoul Winter Festa rund um Gwanghwamun-Platz und Cheonggyecheon"
+},
+{
+"key": "part07.html#555",
+"de": "Große Medienfassaden-Shows auf dem Platz, Lichtskulpturen, Medienkunst aus offener Ausschreibung"
+},
+{
+"key": "part07.html#556",
+"de": "Kulturerbestätten und der Platz sind die Bühne, daher folgen die Inhalte den Linien der Architektur"
+}
+]

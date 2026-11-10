@@ -1,0 +1,318 @@
+{
+ "stem": "p284_286_1831x997",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p284_286_1831x997.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Where it's seen changes how a video works",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 41,
+    "chars_per_line_max": 81,
+    "chars_per_line_if_shrunk": 99,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "1",
+   "en": "Top numbers = viewing distance,  bars = audience attention",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 58,
+    "chars_per_line_max": 130,
+    "chars_per_line_if_shrunk": 159,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "2",
+   "en": "Cinema",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 35,
+    "chars_per_line_if_shrunk": 43,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "3",
+   "en": "Home TV",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "4",
+   "en": "Outdoor LED",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 11,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "Monitor",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 22,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Phone",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 5,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "7",
+   "en": "10–20m",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 6,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "2–3m",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 33,
+    "chars_per_line_if_shrunk": 41,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "30m+",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 4,
+    "chars_per_line_max": 30,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "10",
+   "en": "50–70cm",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "11",
+   "en": "25–35cm",
+   "role": "number",
+   "fits": {
+    "chars_per_line_now": 7,
+    "chars_per_line_max": 21,
+    "chars_per_line_if_shrunk": 26,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "12",
+   "en": "Immersion · long cuts",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 21,
+    "chars_per_line_max": 39,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "13",
+   "en": "Dialogue · medium cuts",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 22,
+    "chars_per_line_max": 41,
+    "chars_per_line_if_shrunk": 50,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "14",
+   "en": "Info · captions",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 15,
+    "chars_per_line_max": 23,
+    "chars_per_line_if_shrunk": 28,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "15",
+   "en": "Vertical · fast hook",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 28,
+    "chars_per_line_if_shrunk": 34,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "16",
+   "en": "Silent · big shapes",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 36,
+    "chars_per_line_if_shrunk": 44,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "17",
+   "en": "Attention 95%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 52,
+    "chars_per_line_if_shrunk": 64,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "18",
+   "en": "Attention 72%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 42,
+    "chars_per_line_if_shrunk": 51,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "19",
+   "en": "Attention 55%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 18,
+    "chars_per_line_if_shrunk": 22,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "20",
+   "en": "Attention 42%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 24,
+    "chars_per_line_if_shrunk": 29,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "21",
+   "en": "Attention 30%",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 38,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "22",
+   "en": "Three things the venue changes",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 118,
+    "chars_per_line_if_shrunk": 144,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "23",
+   "en": "Shot size — tighter on smaller screens",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 38,
+    "chars_per_line_max": 39,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "24",
+   "en": "Cut length — shorter as attention drops",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 39,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "25",
+   "en": "Sound — captions assume muted playback",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 38,
+    "chars_per_line_max": 56,
+    "chars_per_line_if_shrunk": 69,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}

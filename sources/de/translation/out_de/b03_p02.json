@@ -1,0 +1,602 @@
+[
+{
+"key": "feature_storyboard.html#251",
+"de": "<small>DOPPELSEITE 10</small>Alle Notationszeichen – eine Tabelle zum Übernehmen als Legende"
+},
+{
+"key": "feature_storyboard.html#252",
+"de": "<small>Einstellungsgröße</small>ELS · LS · FS · KS · MS · MCU · BS · CU · ECU"
+},
+{
+"key": "feature_storyboard.html#253",
+"de": "Supertotale / Totale / Halbtotale / Amerikanische / Halbnahe"
+},
+{
+"key": "feature_storyboard.html#254",
+"de": "Medium Close-up / Nahe / Großaufnahme / Detail"
+},
+{
+"key": "feature_storyboard.html#255",
+"de": "Personenzahl: 1S · 2S · 3S · GS (Gruppe)"
+},
+{
+"key": "feature_storyboard.html#256",
+"de": "Situation: OSS (Over-Shoulder) · POV (subjektive Kamera) · INS (Insert) · CA (Zwischenschnitt)"
+},
+{
+"key": "feature_storyboard.html#257",
+"de": "<small>Winkel · Perspektive</small>EYE · HA · LA · BEV · WEV · DUTCH"
+},
+{
+"key": "feature_storyboard.html#258",
+"de": "Normalsicht / Aufsicht / Untersicht"
+},
+{
+"key": "feature_storyboard.html#259",
+"de": "Vogelperspektive / Froschperspektive"
+},
+{
+"key": "feature_storyboard.html#260",
+"de": "Dutch (gekippte Kamera) – Winkel mit angeben: DUTCH 15°"
+},
+{
+"key": "feature_storyboard.html#261",
+"de": "Objektiv: Brennweite in mm oder W (Weitwinkel) · N (Normal) · T (Tele)"
+},
+{
+"key": "feature_storyboard.html#262",
+"de": "Kategorie"
+},
+{
+"key": "feature_storyboard.html#263",
+"de": "Kürzel"
+},
+{
+"key": "feature_storyboard.html#264",
+"de": "Lesart"
+},
+{
+"key": "feature_storyboard.html#265",
+"de": "Am Set"
+},
+{
+"key": "feature_storyboard.html#266",
+"de": "Bewegung"
+},
+{
+"key": "feature_storyboard.html#267",
+"de": "DOLLY IN (langsam)"
+},
+{
+"key": "feature_storyboard.html#268",
+"de": "Langsame Ranfahrt"
+},
+{
+"key": "feature_storyboard.html#269",
+"de": "Slider, 2 m in 5 Sekunden"
+},
+{
+"key": "feature_storyboard.html#270",
+"de": "Bewegung"
+},
+{
+"key": "feature_storyboard.html#271",
+"de": "PAN R 90"
+},
+{
+"key": "feature_storyboard.html#272",
+"de": "Schwenk rechts, 90 Grad"
+},
+{
+"key": "feature_storyboard.html#273",
+"de": "Kopf dreht sich; Anfang und Ende fixieren"
+},
+{
+"key": "feature_storyboard.html#274",
+"de": "Bewegung"
+},
+{
+"key": "feature_storyboard.html#275",
+"de": "TILT U Füße → Gesicht"
+},
+{
+"key": "feature_storyboard.html#276",
+"de": "Neigung nach oben, Füße bis Gesicht"
+},
+{
+"key": "feature_storyboard.html#277",
+"de": "Konstantes Tempo, am Ende 0,5 s halten"
+},
+{
+"key": "feature_storyboard.html#278",
+"de": "Bewegung"
+},
+{
+"key": "feature_storyboard.html#279",
+"de": "TRACK L mit Figur"
+},
+{
+"key": "feature_storyboard.html#280",
+"de": "Parallelfahrt links neben der Figur"
+},
+{
+"key": "feature_storyboard.html#281",
+"de": "Gimbal, im Tempo der Figur"
+},
+{
+"key": "feature_storyboard.html#282",
+"de": "Bewegung"
+},
+{
+"key": "feature_storyboard.html#283",
+"de": "ARC R 180"
+},
+{
+"key": "feature_storyboard.html#284",
+"de": "Halbkreisfahrt nach rechts"
+},
+{
+"key": "feature_storyboard.html#285",
+"de": "Produkt im Zentrum, Radius konstant halten"
+},
+{
+"key": "feature_storyboard.html#286",
+"de": "Bewegung"
+},
+{
+"key": "feature_storyboard.html#287",
+"de": "HH (dezent) · LOCKED"
+},
+{
+"key": "feature_storyboard.html#288",
+"de": "Dezente Handkamera · komplett fixiert"
+},
+{
+"key": "feature_storyboard.html#289",
+"de": "Wackeln wie beim Atmen · Stativ, Referenzeinstellung fürs Compositing"
+},
+{
+"key": "feature_storyboard.html#290",
+"de": "Übergang"
+},
+{
+"key": "feature_storyboard.html#291",
+"de": "CUT TO · DIS · FI · FO"
+},
+{
+"key": "feature_storyboard.html#292",
+"de": "Harter Schnitt · Überblendung · Auf-/Abblende"
+},
+{
+"key": "feature_storyboard.html#293",
+"de": "Sofortiger Wechsel · weicher Wechsel (Länge in Sekunden)"
+},
+{
+"key": "feature_storyboard.html#294",
+"de": "Übergang"
+},
+{
+"key": "feature_storyboard.html#295",
+"de": "WIPE · MATCH · J/L CUT"
+},
+{
+"key": "feature_storyboard.html#296",
+"de": "Wischblende · Match Cut · Ton vorab/nachlaufend"
+},
+{
+"key": "feature_storyboard.html#297",
+"de": "Übergang über Formen · Ton-Vorlauf/-Nachlauf markieren"
+},
+{
+"key": "feature_storyboard.html#298",
+"de": "Postproduktion"
+},
+{
+"key": "feature_storyboard.html#299",
+"de": "INS · CG · VFX · SFX"
+},
+{
+"key": "feature_storyboard.html#300",
+"de": "Insert · Grafik · VFX · SFX"
+},
+{
+"key": "feature_storyboard.html#301",
+"de": "Tracking-Marker und Lichtrichtung am Set separat protokollieren"
+},
+{
+"key": "feature_storyboard.html#302",
+"de": "Sprache"
+},
+{
+"key": "feature_storyboard.html#303",
+"de": "N · V.O. · O.S. · SYNC"
+},
+{
+"key": "feature_storyboard.html#304",
+"de": "Sprechertext · innere Stimme · Dialog aus dem Off · Dialog im Bild"
+},
+{
+"key": "feature_storyboard.html#305",
+"de": "N: Jeden Morgen ein anderer Anfang. / SYNC Minseo: Das ist wirklich schön."
+},
+{
+"key": "feature_storyboard.html#306",
+"de": "Schrift"
+},
+{
+"key": "feature_storyboard.html#307",
+"de": "CAP · SUPER · TAG"
+},
+{
+"key": "feature_storyboard.html#308",
+"de": "Untertitel · Einblendungen · Marken-Schlusszeile"
+},
+{
+"key": "feature_storyboard.html#309",
+"de": "CAP: Heute probieren / TAG: Auch heute, Markenname"
+},
+{
+"key": "feature_storyboard.html#310",
+"de": "Ton"
+},
+{
+"key": "feature_storyboard.html#311",
+"de": "M · SE · ATM · MUTE"
+},
+{
+"key": "feature_storyboard.html#312",
+"de": "Musik · SFX · Atmo · Stille"
+},
+{
+"key": "feature_storyboard.html#313",
+"de": "M-Ein-/Ausstieg, dB-Angaben"
+},
+{
+"key": "feature_storyboard.html#314",
+"de": "<b>HINWEIS</b>"
+},
+{
+"key": "feature_storyboard.html#315",
+"de": "Koreanischer Sprechertext läuft mit etwa 3 Zeichen pro Sekunde. Obergrenzen: 35–45 Zeichen für einen ganzen 15-Sekunden-Spot, 150–180 für ein 1-Minuten-Video."
+},
+{
+"key": "feature_storyboard.html#316",
+"de": "Machen Sie Untertitel und Sprechertext nicht identisch. Untertitel tragen nur Schlüsselwörter; der Sprechertext steht in ganzen Sätzen. Gestalten Sie für das Ansehen ohne Ton und halten Sie Untertitel im Sicherheitsbereich. Symbole müssen im Team einheitlich sein, die Legende steht im ersten Feld."
+},
+{
+"key": "feature_storyboard.html#317",
+"de": "<small>Übung</small>2.1"
+},
+{
+"key": "feature_storyboard.html#318",
+"de": "Aufgabe"
+},
+{
+"key": "feature_storyboard.html#319",
+"de": "Zeichnen Sie ein 30-Sekunden-Video in mind. 8 Feldern – als 16:9 und als 9:16."
+},
+{
+"key": "feature_storyboard.html#320",
+"de": "Tipp"
+},
+{
+"key": "feature_storyboard.html#321",
+"de": "Einstellungsgröße, Richtung und Bewegungspfeile zählen mehr als Zeichentalent. Ein Hochformat-Board braucht meist mehr Einstellungen."
+},
+{
+"key": "feature_storyboard.html#322",
+"de": "Bewertung"
+},
+{
+"key": "feature_storyboard.html#323",
+"de": "Fluss zwischen den Feldern, Kameranotation, Kompositionsunterschiede zwischen beiden Formaten"
+},
+{
+"key": "feature_storyboard.html#324",
+"de": "Musterlösung"
+},
+{
+"key": "feature_storyboard.html#325",
+"de": "Board fotografieren, Felder zu einem Animatic reihen und das Timing prüfen."
+},
+{
+"key": "feature_storyboard.html#326",
+"de": "<small>Übung</small>2.1"
+},
+{
+"key": "feature_storyboard.html#327",
+"de": "Aufgabe"
+},
+{
+"key": "feature_storyboard.html#328",
+"de": "Bauen Sie eine Vorlage, in der alle neun Elemente eines Felds (Nummer · Zeit · Bild · Größe/Winkel · Bewegung · Regieanweisung · Dialog · Ton · Übergang) ausgefüllt sind, und gestalten Sie dann ein zusätzliches Feld für eine 360- oder AR-Version."
+},
+{
+"key": "feature_storyboard.html#329",
+"de": "Tipp"
+},
+{
+"key": "feature_storyboard.html#330",
+"de": "Richten Sie Textgröße und Feldlayout auf die Person aus, die das Board am Set liest. Geben Sie dem 360-Feld auch ein Blickpunkt-Diagramm."
+},
+{
+"key": "feature_storyboard.html#331",
+"de": "Bewertung"
+},
+{
+"key": "feature_storyboard.html#332",
+"de": "Vollständigkeit der Angaben, Praxistauglichkeit am Set, Eignung für das Medium"
+},
+{
+"key": "feature_storyboard.html#333",
+"de": "Musterlösung"
+},
+{
+"key": "feature_storyboard.html#334",
+"de": "Testen Sie: Kann ein Teammitglied sie ohne Erklärung lesen und danach drehen?"
+},
+{
+"key": "feature_storyboard.html#335",
+"de": "<small>Übung</small>2.1"
+},
+{
+"key": "feature_storyboard.html#336",
+"de": "Aufgabe"
+},
+{
+"key": "feature_storyboard.html#337",
+"de": "Zeichnen Sie eine Storyboard-Seite in drei Spuren (Bild · Sprache · Ton) mit allen Symbolen: Schwenk, Zoom, Dolly, Fahrt und Schnittübergänge."
+},
+{
+"key": "feature_storyboard.html#338",
+"de": "Tipp"
+},
+{
+"key": "feature_storyboard.html#339",
+"de": "Symbole müssen im Team einheitlich sein. Setzen Sie die Legende ins erste Feld. Rechnen Sie die Länge des Sprechertexts mit 3 Zeichen pro Sekunde in Spurbreiten um."
+},
+{
+"key": "feature_storyboard.html#340",
+"de": "Bewertung"
+},
+{
+"key": "feature_storyboard.html#341",
+"de": "Korrekter Symbolgebrauch, Ton passend zu den Schnittgrenzen"
+},
+{
+"key": "feature_storyboard.html#342",
+"de": "Musterlösung"
+},
+{
+"key": "feature_storyboard.html#343",
+"de": "So klar, dass sich die Kamerabewegungen allein aus den Symbolen nachstellen lassen."
+},
+{
+"key": "feature_ppm.html#0",
+"de": "Spezial · PRE-PRODUCTION-MEETING"
+},
+{
+"key": "feature_ppm.html#1",
+"de": "PPM,<br>die letzte Vereinbarung vor dem Dreh"
+},
+{
+"key": "feature_ppm.html#2",
+"de": "PPM steht für Pre-Production-Meeting. Es ist das Meeting kurz vor dem Dreh, in dem Auftraggeber · Planung · Regie · Produktion alle Entscheidungen festschreiben – und zugleich das Dokument, das sie festhält. Das freigegebene PPM-Dokument ist die Referenz für jeden späteren Streit. Eine mündliche Vereinbarung, die nicht festgehalten ist, gibt es nicht. Dieses Spezial geht eine PPM-Unterlage Seite für Seite durch."
+},
+{
+"key": "feature_ppm.html#3",
+"de": "Dieselbe Änderung kann je nach Zeitpunkt bis zu 50-mal mehr kosten"
+},
+{
+"key": "feature_ppm.html#4",
+"de": "Korrekturen auf Papier – sie kosten nur Zeit"
+},
+{
+"key": "feature_ppm.html#5",
+"de": "Team·Technik·Zeitplan auf dem Spiel"
+},
+{
+"key": "feature_ppm.html#6",
+"de": "Konzept"
+},
+{
+"key": "feature_ppm.html#7",
+"de": "Board"
+},
+{
+"key": "feature_ppm.html#8",
+"de": "PPM"
+},
+{
+"key": "feature_ppm.html#9",
+"de": "Drehtag"
+},
+{
+"key": "feature_ppm.html#10",
+"de": "Postproduktion"
+},
+{
+"key": "feature_ppm.html#11",
+"de": "← die letzte flache Strecke, bevor die Kostenkurve abknickt"
+},
+{
+"key": "feature_ppm.html#12",
+"de": "<b>Abb. 59</b> Änderungskosten nach Produktionsphase – dieselbe Änderung kann je nach Zeitpunkt bis zu 50-mal mehr kosten. Das PPM ist die letzte flache Strecke, bevor die Kostenkurve abknickt."
+},
+{
+"key": "feature_ppm.html#13",
+"de": "<b>48<em>Std.</em></b>Frist für den Versand der Unterlagen vor dem Meeting"
+},
+{
+"key": "feature_ppm.html#14",
+"de": "<b>12<em> Punkte</em></b>Pflichtteile einer PPM-Unterlage"
+},
+{
+"key": "feature_ppm.html#15",
+"de": "<b>5<em>×</em></b>Änderungskosten in der PPM-Phase (Konzept = 1)"
+},
+{
+"key": "feature_ppm.html#16",
+"de": "<b>1<em> Regel</em></b>Abschlussbedingung – alle können ihre „Aufgaben des Tages“ nennen"
+},
+{
+"key": "feature_ppm.html#17",
+"de": "<span class=\"ph-id\">P06-PPM</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>PPM-Meeting – Storyboard · Moodboard · Zeitplan auf einem Tisch</b></span>"
+},
+{
+"key": "feature_ppm.html#18",
+"de": "<b>Hinweis</b>PPM-Meeting – Storyboard · Moodboard · Zeitplan auf einem Tisch"
+},
+{
+"key": "feature_ppm.html#19",
+"de": "Die zwölf Seiten der PPM-Unterlage – Seitenfolge ist Meetingfolge"
+},
+{
+"key": "feature_ppm.html#20",
+"de": "Punkt"
+},
+{
+"key": "feature_ppm.html#21",
+"de": "Inhalt"
+},
+{
+"key": "feature_ppm.html#22",
+"de": "Freigabe durch"
+},
+{
+"key": "feature_ppm.html#23",
+"de": "Beispiel in diesem Spezial"
+},
+{
+"key": "feature_ppm.html#24",
+"de": "Planungsabsicht"
+},
+{
+"key": "feature_ppm.html#25",
+"de": "Konzept in einem Satz, Zielgruppe, Kernbotschaft"
+},
+{
+"key": "feature_ppm.html#26",
+"de": "Auftraggeber"
+},
+{
+"key": "feature_ppm.html#27",
+"de": "Finales Storyboard"
+},
+{
+"key": "feature_ppm.html#28",
+"de": "Finale Einstellungsliste und Timing, Animatic"
+},
+{
+"key": "feature_ppm.html#29",
+"de": "Auftraggeber, Regie"
+},
+{
+"key": "feature_ppm.html#30",
+"de": "2.1 Spezial"
+},
+{
+"key": "feature_ppm.html#31",
+"de": "Regieabsicht · Tonalität"
+},
+{
+"key": "feature_ppm.html#32",
+"de": "Schlagwörter zu Licht · Farbe · Textur · Tempo, Referenzvideos"
+},
+{
+"key": "feature_ppm.html#33",
+"de": "Regie"
+},
+{
+"key": "feature_ppm.html#34",
+"de": "DOPPELSEITE 01"
+},
+{
+"key": "feature_ppm.html#35",
+"de": "Besetzung"
+},
+{
+"key": "feature_ppm.html#36",
+"de": "Kandidaten und finale Wahl, Vertragsbedingungen"
+},
+{
+"key": "feature_ppm.html#37",
+"de": "Auftraggeber"
+},
+{
+"key": "feature_ppm.html#38",
+"de": "DOPPELSEITE 03"
+},
+{
+"key": "feature_ppm.html#39",
+"de": "Drehort"
+},
+{
+"key": "feature_ppm.html#40",
+"de": "Fotos möglicher Orte, Wegeplan, Genehmigungen"
+},
+{
+"key": "feature_ppm.html#41",
+"de": "Produktion"
+},
+{
+"key": "feature_ppm.html#42",
+"de": "DOPPELSEITE 02"
+},
+{
+"key": "feature_ppm.html#43",
+"de": "Ausstattung · Requisite · Mise-en-scène"
+},
+{
+"key": "feature_ppm.html#44",
+"de": "Bauten, Requisiten, Produkt-Checkliste, Objektplan fürs Bild"
+},
+{
+"key": "feature_ppm.html#45",
+"de": "Ausstattung"
+},
+{
+"key": "feature_ppm.html#46",
+"de": "DOPPELSEITE 04"
+},
+{
+"key": "feature_ppm.html#47",
+"de": "Kostüm · Styling"
+},
+{
+"key": "feature_ppm.html#48",
+"de": "Kostümoptionen, Vorgaben für Haare · Make-up"
+},
+{
+"key": "feature_ppm.html#49",
+"de": "Styling"
+},
+{
+"key": "feature_ppm.html#50",
+"de": "DOPPELSEITE 04"
+},
+{
+"key": "feature_ppm.html#51",
+"de": "Aufnahmeplanung"
+},
+{
+"key": "feature_ppm.html#52",
+"de": "Kamera, Objektive, Licht, Spezialtechnik"
+},
+{
+"key": "feature_ppm.html#53",
+"de": "DoP"
+},
+{
+"key": "feature_ppm.html#54",
+"de": "TEIL 3 · 4"
+},
+{
+"key": "feature_ppm.html#55",
+"de": "Tonplanung"
+},
+{
+"key": "feature_ppm.html#56",
+"de": "Musikoptionen, Sprecher, Soundeffekte"
+}
+]

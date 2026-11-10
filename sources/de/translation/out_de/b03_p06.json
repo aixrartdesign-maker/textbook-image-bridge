@@ -1,0 +1,622 @@
+[
+{
+"key": "part06.html#129",
+"de": "<b>02</b><span>Weißer Hut 10 Min. – nur Daten und Fakten teilen. Keine Meinungen.</span>"
+},
+{
+"key": "part06.html#130",
+"de": "<b>03</b><span>Grüner Hut 15 Min. – Ideen in Masse sammeln. Keine Kritik.</span>"
+},
+{
+"key": "part06.html#131",
+"de": "<b>04</b><span>Gelber Hut 10 Min. – nur die Stärken jeder Idee nennen.</span>"
+},
+{
+"key": "part06.html#132",
+"de": "<b>05</b><span>Schwarzer Hut 10 Min. – Risiken prüfen.</span>"
+},
+{
+"key": "part06.html#133",
+"de": "<b>06</b><span>Roter Hut 5 Min. – für die Option stimmen, die das Bauchgefühl wählt.</span>"
+},
+{
+"key": "part06.html#134",
+"de": "<b>07</b><span>Blauer Hut 5 Min. – Entscheidungen und nächste Schritte festhalten.</span>"
+},
+{
+"key": "part06.html#135",
+"de": "Ergänzende Kreativtechniken"
+},
+{
+"key": "part06.html#136",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part06.html#137",
+"de": "Nutzen Sie KI-Erweiterung nur, um das Ideenspektrum zu weiten: 20 erzeugen lassen, ein Mensch wählt 3 aus."
+},
+{
+"key": "part06.html#138",
+"de": "<small>Zwangsverknüpfung</small>Zwei sachfremde Wörter mit dem Produkt verknüpfen"
+},
+{
+"key": "part06.html#139",
+"de": "Zufällige Kombinationen brechen Konventionen"
+},
+{
+"key": "part06.html#140",
+"de": "<small>Umkehrung</small>Jede Konvention der Kategorie umdrehen"
+},
+{
+"key": "part06.html#141",
+"de": "Sofortige Differenzierung"
+},
+{
+"key": "part06.html#142",
+"de": "<small>Extreme Skalierung</small>Eine Szene, die den Nutzen 100-fach übertreibt"
+},
+{
+"key": "part06.html#143",
+"de": "Ausgangspunkt für Spots mit übertriebener Metapher"
+},
+{
+"key": "part06.html#144",
+"de": "<small>Ein Tag mit dem Nutzer</small>24 Stunden der Zielgruppe stündlich protokollieren"
+},
+{
+"key": "part06.html#145",
+"de": "Den Moment finden, in dem das Produkt einspringt"
+},
+{
+"key": "part06.html#146",
+"de": "<small>Problemliste</small>Von 20 Problempunkten jene, die das Produkt löst"
+},
+{
+"key": "part06.html#147",
+"de": "Die sicherste Methode"
+},
+{
+"key": "part06.html#148",
+"de": "<small>KI-Erweiterung</small>Bedingungen setzen, 20 erhalten → ein Mensch kürzt auf 3"
+},
+{
+"key": "part06.html#149",
+"de": "Nur für mehr Bandbreite"
+},
+{
+"key": "part06.html#150",
+"de": "<small>Übung</small>2.5"
+},
+{
+"key": "part06.html#151",
+"de": "Aufgabe"
+},
+{
+"key": "part06.html#152",
+"de": "Halten Sie ein Teammeeting mit den 6 Denkhüten ab und sammeln Sie mind. 30 Ideen."
+},
+{
+"key": "part06.html#153",
+"de": "Tipp"
+},
+{
+"key": "part06.html#154",
+"de": "Begrenzen Sie jeden Hut auf 5 Minuten."
+},
+{
+"key": "part06.html#155",
+"de": "Bewertung"
+},
+{
+"key": "part06.html#156",
+"de": "Menge und Vielfalt der Ideen, Auswahlkriterien"
+},
+{
+"key": "part06.html#157",
+"de": "Musterlösung"
+},
+{
+"key": "part06.html#158",
+"de": "Dreht eine unter dem schwarzen Hut genannte Schwäche mit dem grünen Hut zu einer neuen Idee um."
+},
+{
+"key": "part06.html#159",
+"de": "<b>TEIL 06</b>Planung und Vorproduktion"
+},
+{
+"key": "part06.html#160",
+"de": "Konzepttypen und Test"
+},
+{
+"key": "part06.html#161",
+"de": "Ein Konzept beruht auf einem von sechs Typen und wird mit fünf Fragen getestet."
+},
+{
+"key": "part06.html#162",
+"de": "<small>Problem zuerst</small>Erst der Schmerz, dann die Lösung"
+},
+{
+"key": "part06.html#163",
+"de": "Am sichersten, sofort verständlich"
+},
+{
+"key": "part06.html#164",
+"de": "<small>Übertriebene Metapher</small>Bläst den Nutzen zu einer irrealen Metapher auf"
+},
+{
+"key": "part06.html#165",
+"de": "Einprägsam, kann aber das Produkt verdecken"
+},
+{
+"key": "part06.html#166",
+"de": "<small>Demo-Test</small>Beweist die Leistung physisch"
+},
+{
+"key": "part06.html#167",
+"de": "Sehr glaubwürdig; verlangt Drehkönnen"
+},
+{
+"key": "part06.html#168",
+"de": "<small>Emotionale Geschichte</small>Eine kurze Geschichte, dann die Marke"
+},
+{
+"key": "part06.html#169",
+"de": "In 15 Sekunden am schwersten umzusetzen"
+},
+{
+"key": "part06.html#170",
+"de": "<small>Wendung</small>Fesselt mit einem unerwarteten Ende"
+},
+{
+"key": "part06.html#171",
+"de": "Am stärksten mit einem 3-Sekunden-Hook"
+},
+{
+"key": "part06.html#172",
+"de": "<small>Konventionsbruch</small>Bricht mit den Klischeebildern der Kategorie"
+},
+{
+"key": "part06.html#173",
+"de": "Sofortige Differenzierung"
+},
+{
+"key": "part06.html#174",
+"de": "Fragen für den Konzepttest"
+},
+{
+"key": "part06.html#175",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part06.html#176",
+"de": "Eine gute Testfrage fragt nach „der einen Sache, die hängen bleibt“."
+},
+{
+"key": "part06.html#177",
+"de": "Testfrage"
+},
+{
+"key": "part06.html#178",
+"de": "Kriterium"
+},
+{
+"key": "part06.html#179",
+"de": "Ohne Ton verständlich"
+},
+{
+"key": "part06.html#180",
+"de": "Pflicht für Kurzvideos und Social Media"
+},
+{
+"key": "part06.html#181",
+"de": "Funktioniert auch mit dem Logo der Konkurrenz"
+},
+{
+"key": "part06.html#182",
+"de": "Dann ist die Differenzierung gescheitert"
+},
+{
+"key": "part06.html#183",
+"de": "Marke allein an den letzten 3 Sekunden erkennbar"
+},
+{
+"key": "part06.html#184",
+"de": "Sonst den Logo-Auftritt neu gestalten"
+},
+{
+"key": "part06.html#185",
+"de": "In einem Satz erklärbar"
+},
+{
+"key": "part06.html#186",
+"de": "Ist die Erklärung lang, versteht das Publikum es nicht"
+},
+{
+"key": "part06.html#187",
+"de": "Im Rahmen von Budget und Zeitplan drehbar"
+},
+{
+"key": "part06.html#188",
+"de": "Sonst ist es ein Tagtraum, keine Idee"
+},
+{
+"key": "part06.html#189",
+"de": "<small>Übung</small>2.6"
+},
+{
+"key": "part06.html#190",
+"de": "Aufgabe"
+},
+{
+"key": "part06.html#191",
+"de": "Schreiben Sie für ein Produkt je ein einzeiliges informatives, emotionales, humorvolles und problemlösendes Konzept; testen Sie sie an 5 Personen der Zielgruppe."
+},
+{
+"key": "part06.html#192",
+"de": "Tipp"
+},
+{
+"key": "part06.html#193",
+"de": "Eine gute Testfrage fragt nach „der einen Sache, die hängen bleibt“."
+},
+{
+"key": "part06.html#194",
+"de": "Bewertung"
+},
+{
+"key": "part06.html#195",
+"de": "Eigenständigkeit der Konzepte, Nutzung der Testergebnisse"
+},
+{
+"key": "part06.html#196",
+"de": "Musterlösung"
+},
+{
+"key": "part06.html#197",
+"de": "Zeigt, wie das Konzept einmal anhand der Testergebnisse überarbeitet wurde."
+},
+{
+"key": "part06.html#198",
+"de": "<b>TEIL 06</b>Planung und Vorproduktion"
+},
+{
+"key": "part06.html#199",
+"de": "Synopsis, Treatment, Drehbuch"
+},
+{
+"key": "part06.html#200",
+"de": "Eine Geschichte nimmt in fünf Schritten Gestalt an – vom einen Satz bis zur Shotlist."
+},
+{
+"key": "part06.html#201",
+"de": "<span class=\"ph-id\">P06-SCRIPT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Eine Drehbuchseite – Notizen am Rand werden zu Regienotizen</b></span>"
+},
+{
+"key": "part06.html#202",
+"de": "<b>Hinweis</b>Eine Drehbuchseite – Notizen am Rand werden zu Regienotizen"
+},
+{
+"key": "part06.html#203",
+"de": "<b>01</b><i>Logline</i>Ein Gerüst in ein bis zwei Sätzen. Hauptfigur, Ziel, Hindernis"
+},
+{
+"key": "part06.html#204",
+"de": "<b>02</b><i>Synopsis</i>Die ganze Geschichte auf etwa einer Seite. Verrät das Ende"
+},
+{
+"key": "part06.html#205",
+"de": "<b>03</b><i>Treatment</i>Szene für Szene ausgebaute Prosa. Ablauf und Stimmung, kein Dialog"
+},
+{
+"key": "part06.html#206",
+"de": "<b>04</b><i>Drehbuch</i>Das formatierte Skript mit Szenennummern, Orten, Tageszeiten, Regieanweisungen und Dialog"
+},
+{
+"key": "part06.html#207",
+"de": "<b>05</b><i>Shotlist</i>Szenen in Einstellungen zerlegt. Größe, Winkel, Bewegung, Objektiv, gesch. Dauer"
+},
+{
+"key": "part06.html#208",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part06.html#209",
+"de": "Im Drehbuch entspricht 1 Seite etwa 1 Minute Laufzeit. Regieanweisungen beschreiben nur, was man sieht und hört."
+},
+{
+"key": "part06.html#210",
+"de": "Beispiel: Drehbuchformat für einen 15-Sekunden-Spot"
+},
+{
+"key": "part06.html#211",
+"de": "S#1. Küche am Morgen / INNEN / Morgen – Licht fällt durchs Fenster. Das Produkt steht auf dem Tisch. Minseo (24) kommt noch halb verschlafen herein und greift nach dem Produkt. N(V.O.) Ihr Tag beginnt anders. Minseo nimmt einen Schluck; die Augen schließen sich und öffnen sich wieder. SE Flasche wird geöffnet / M Klavier ein"
+},
+{
+"key": "part06.html#212",
+"de": "<small>Übung</small>2.7"
+},
+{
+"key": "part06.html#213",
+"de": "Aufgabe"
+},
+{
+"key": "part06.html#214",
+"de": "Schreiben Sie für einen 3-Minuten-Kurzfilm nacheinander Synopsis (5 Zeilen), Treatment (1 Seite) und Drehbuch (3 Seiten)."
+},
+{
+"key": "part06.html#215",
+"de": "Tipp"
+},
+{
+"key": "part06.html#216",
+"de": "Im Drehbuch entspricht 1 Seite etwa 1 Minute Laufzeit. Schreiben Sie in Regieanweisungen nur, was man sieht und hört."
+},
+{
+"key": "part06.html#217",
+"de": "Bewertung"
+},
+{
+"key": "part06.html#218",
+"de": "Formattreue, Entwicklung in jedem Schritt"
+},
+{
+"key": "part06.html#219",
+"de": "Musterlösung"
+},
+{
+"key": "part06.html#220",
+"de": "Schreibt so, dass sich das Verlangen der Figur auch ohne Dialog im Handeln zeigt."
+},
+{
+"key": "part06.html#221",
+"de": "<b>TEIL 06</b>Planung und Vorproduktion"
+},
+{
+"key": "part06.html#222",
+"de": "Konzeptpapier schreiben"
+},
+{
+"key": "part06.html#223",
+"de": "Ein Konzeptpapier ist ein Dokument, das überzeugen soll. Ziel ist, dass im Kopf der Leser ein Video abläuft, das es noch nicht gibt."
+},
+{
+"key": "part06.html#224",
+"de": "<span class=\"ph-id\">P06-PROPOSAL</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Konzeptpräsentation – was sich nicht auf einer Seite erklären lässt, ist noch kein Plan</b></span>"
+},
+{
+"key": "part06.html#225",
+"de": "<b>Hinweis</b>Konzeptpräsentation – was sich nicht auf einer Seite erklären lässt, ist noch kein Plan"
+},
+{
+"key": "part06.html#226",
+"de": "Aufbau eines Konzeptpapiers"
+},
+{
+"key": "part06.html#227",
+"de": "Nr."
+},
+{
+"key": "part06.html#228",
+"de": "Abschnitt"
+},
+{
+"key": "part06.html#229",
+"de": "Inhalt"
+},
+{
+"key": "part06.html#230",
+"de": "Umfang"
+},
+{
+"key": "part06.html#231",
+"de": "Deckblatt"
+},
+{
+"key": "part06.html#232",
+"de": "Titel, Untertitel, Team, Datum, 1 Key Visual"
+},
+{
+"key": "part06.html#233",
+"de": "1 Seite"
+},
+{
+"key": "part06.html#234",
+"de": "Hintergrund"
+},
+{
+"key": "part06.html#235",
+"de": "Warum dieses Video, warum jetzt. Markt und Lage der Zielgruppe"
+},
+{
+"key": "part06.html#236",
+"de": "1 Seite"
+},
+{
+"key": "part06.html#237",
+"de": "Ziel"
+},
+{
+"key": "part06.html#238",
+"de": "Bekanntheit, Conversion oder Markenaufbau, plus eine Kennzahl"
+},
+{
+"key": "part06.html#239",
+"de": "½ Seite"
+},
+{
+"key": "part06.html#240",
+"de": "Zielgruppe"
+},
+{
+"key": "part06.html#241",
+"de": "Eine einzige Persona. Tagesablauf und Mediennutzung"
+},
+{
+"key": "part06.html#242",
+"de": "1 Seite"
+},
+{
+"key": "part06.html#243",
+"de": "Kernbotschaft"
+},
+{
+"key": "part06.html#244",
+"de": "Konzept in einem Satz und Begründung"
+},
+{
+"key": "part06.html#245",
+"de": "½ Seite"
+},
+{
+"key": "part06.html#246",
+"de": "Tonalität"
+},
+{
+"key": "part06.html#247",
+"de": "Moodboard, Farbpalette, 3 Referenzen und warum sie gewählt wurden"
+},
+{
+"key": "part06.html#248",
+"de": "1–2 Seiten"
+},
+{
+"key": "part06.html#249",
+"de": "Inhaltsangabe"
+},
+{
+"key": "part06.html#250",
+"de": "Ganze Geschichte und Aufbau (Hook, Entwicklung, Schluss)"
+},
+{
+"key": "part06.html#251",
+"de": "1 Seite"
+},
+{
+"key": "part06.html#252",
+"de": "Storyboard-Entwurf"
+},
+{
+"key": "part06.html#253",
+"de": "Bild, Regieanweisungen und Ton je Einstellung"
+},
+{
+"key": "part06.html#254",
+"de": "1–3 Seiten"
+},
+{
+"key": "part06.html#255",
+"de": "Produktionsplan"
+},
+{
+"key": "part06.html#256",
+"de": "Zeitplan, Drehorte, Besetzung, Technik, Rollen im Team"
+},
+{
+"key": "part06.html#257",
+"de": "1 Seite"
+},
+{
+"key": "part06.html#258",
+"de": "Kostenplan"
+},
+{
+"key": "part06.html#259",
+"de": "Einzelkosten und Summe"
+},
+{
+"key": "part06.html#260",
+"de": "1 Seite"
+},
+{
+"key": "part06.html#261",
+"de": "Verbreitungsplan"
+},
+{
+"key": "part06.html#262",
+"de": "Versionen je Plattform, Posting-Plan, Hashtag-Strategie"
+},
+{
+"key": "part06.html#263",
+"de": "1 Seite"
+},
+{
+"key": "part06.html#264",
+"de": "Erwartete Wirkung und Risiken"
+},
+{
+"key": "part06.html#265",
+"de": "Prognostizierte Ergebnisse und Notfallpläne"
+},
+{
+"key": "part06.html#266",
+"de": "½ Seite"
+},
+{
+"key": "part06.html#267",
+"de": "Fünf Wege zum stärkeren Konzeptpapier"
+},
+{
+"key": "part06.html#268",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part06.html#269",
+"de": "Für die Tonalität sind drei Bilder präziser als zehn Adjektive."
+},
+{
+"key": "part06.html#270",
+"de": "<b>01</b><span>Beginnen Sie mit dem Fazit: Konzept in einem Satz und Schlüsselbild gehören auf die Seite direkt nach dem Deckblatt.</span>"
+},
+{
+"key": "part06.html#271",
+"de": "<b>02</b><span>Sprechen Sie in Bildern statt in Worten.</span>"
+},
+{
+"key": "part06.html#272",
+"de": "<b>03</b><span>Nennen Sie Zahlen. Konkrete Angaben wie 15 Sekunden, 6 Einstellungen, 1 Drehtag und 2 Darsteller schaffen Vertrauen.</span>"
+},
+{
+"key": "part06.html#273",
+"de": "<b>04</b><span>Schreiben Sie vorab auf, was unmöglich ist. Risiken samt Alternativen zu präsentieren stärkt sogar das Vertrauen.</span>"
+},
+{
+"key": "part06.html#274",
+"de": "<b>05</b><span>Bieten Sie zwei Optionen an. Drei oder mehr verzögern die Entscheidung; eine wirkt wie ein Ultimatum.</span>"
+},
+{
+"key": "part06.html#275",
+"de": "Beispiel: 1-minütiges Kurzvideo als Hochschulwerbung"
+},
+{
+"key": "part06.html#276",
+"de": "Abschnitt"
+},
+{
+"key": "part06.html#277",
+"de": "Beispiel"
+},
+{
+"key": "part06.html#278",
+"de": "Titel"
+},
+{
+"key": "part06.html#279",
+"de": "Was lernt man hier? – ein 1-Minuten-Vlog des Studiengangs"
+},
+{
+"key": "part06.html#280",
+"de": "Hintergrund"
+},
+{
+"key": "part06.html#281",
+"de": "Oberstufenschüler suchen Studieninfos in Kurzvideos, nicht auf Fachbereichsseiten. Bisherige Imagevideos zählen nur Einrichtungen auf – niemand schaut bis zum Ende."
+},
+{
+"key": "part06.html#282",
+"de": "Ziel"
+},
+{
+"key": "part06.html#283",
+"de": "Bekanntheit steigern. Kennzahl: durchschnittliche Wiedergabedauer (Retention) von mind. 60 %"
+}
+]

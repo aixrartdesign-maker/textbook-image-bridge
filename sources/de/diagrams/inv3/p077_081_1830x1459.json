@@ -1,0 +1,1048 @@
+{
+ "stem": "p077_081_1830x1459",
+ "size": [
+  2235,
+  1767
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Composition sets the eye's path in the frame",
+   "en": "Composition sets the eye's path in the frame",
+   "lines": [
+    [
+     523,
+     54,
+     1708,
+     112
+    ]
+   ],
+   "ocr": "Composition sets the eye's path in the frame",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    523,
+    54,
+    1708,
+    112
+   ],
+   "ltexts": [
+    "Composition sets the eye's path in the frame"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    27,
+    28,
+    30
+   ],
+   "weight": "Bold",
+   "size": 54.46,
+   "baselines": [
+    99
+   ],
+   "xs": [
+    520
+   ],
+   "inkboxes": [
+    [
+     523,
+     54,
+     1708,
+     111
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.55,
+   "align": "center",
+   "align_src": "page",
+   "room": {
+    "left": 523,
+    "right": 527,
+    "up": 54,
+    "down": 259,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Rule of thirds",
+   "en": "Rule of thirds",
+   "lines": [
+    [
+     272,
+     797,
+     535,
+     829
+    ]
+   ],
+   "ocr": "Rule of thirds",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    272,
+    797,
+    535,
+    829
+   ],
+   "ltexts": [
+    "Rule of thirds"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    26,
+    27,
+    30
+   ],
+   "weight": "Bold",
+   "size": 39.6,
+   "baselines": [
+    829
+   ],
+   "xs": [
+    268
+   ],
+   "inkboxes": [
+    [
+     272,
+     797,
+     535,
+     829
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.38,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 272,
+    "right": 1700,
+    "up": 35,
+    "down": 304,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Golden ratio",
+   "en": "Golden ratio",
+   "lines": [
+    [
+     998,
+     797,
+     1235,
+     829
+    ]
+   ],
+   "ocr": "Golden ratio",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    998,
+    797,
+    1235,
+    829
+   ],
+   "ltexts": [
+    "Golden ratio"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    28,
+    29,
+    31
+   ],
+   "weight": "Bold",
+   "size": 39.33,
+   "baselines": [
+    829
+   ],
+   "xs": [
+    996
+   ],
+   "inkboxes": [
+    [
+     998,
+     797,
+     1235,
+     829
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.77,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 998,
+    "right": 1000,
+    "up": 35,
+    "down": 304,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Symmetry",
+   "en": "Symmetry",
+   "lines": [
+    [
+     1729,
+     799,
+     1935,
+     838
+    ]
+   ],
+   "ocr": "Symmetry",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    1729,
+    799,
+    1935,
+    838
+   ],
+   "ltexts": [
+    "Symmetry"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    27,
+    28,
+    31
+   ],
+   "weight": "Bold",
+   "size": 40.04,
+   "baselines": [
+    829
+   ],
+   "xs": [
+    1727
+   ],
+   "inkboxes": [
+    [
+     1729,
+     799,
+     1934,
+     838
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.79,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1729,
+    "right": 300,
+    "up": 37,
+    "down": 295,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Eyes and subject on lines and intersections",
+   "en": "Eyes and subject on lines and intersections",
+   "lines": [
+    [
+     124,
+     868,
+     685,
+     896
+    ]
+   ],
+   "ocr": "Eyes and subject on lines and intersections",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    124,
+    868,
+    685,
+    896
+   ],
+   "ltexts": [
+    "Eyes and subject on lines and intersections"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    128,
+    132,
+    139
+   ],
+   "weight": "Regular",
+   "size": 28.16,
+   "baselines": [
+    889
+   ],
+   "xs": [
+    121
+   ],
+   "inkboxes": [
+    [
+     124,
+     867,
+     686,
+     896
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.19,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 124,
+    "right": 1550,
+    "up": 106,
+    "down": 237,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "1 : 1.618 — drawn to the spiral's center",
+   "en": "1 : 1.618 — drawn to the spiral's center",
+   "lines": [
+    [
+     861,
+     871,
+     1374,
+     898
+    ]
+   ],
+   "ocr": "1: 1.618 drawn to the spiral's center",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    861,
+    871,
+    1374,
+    898
+   ],
+   "ltexts": [
+    "1 : 1.618 — drawn to the spiral's center"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.1,
+   "color": [
+    125,
+    130,
+    137
+   ],
+   "weight": "Regular",
+   "size": 28.62,
+   "baselines": [
+    892
+   ],
+   "xs": [
+    859
+   ],
+   "inkboxes": [
+    [
+     861,
+     870,
+     1374,
+     899
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.25,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 861,
+    "right": 861,
+    "up": 109,
+    "down": 235,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Central vanishing point — order, tension, ritual",
+   "en": "Central vanishing point — order, tension, ritual",
+   "lines": [
+    [
+     1539,
+     872,
+     2126,
+     898
+    ]
+   ],
+   "ocr": "Central vanishing point order, tension, ritual",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    1539,
+    872,
+    2126,
+    898
+   ],
+   "ltexts": [
+    "Central vanishing point — order, tension, ritual"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    129,
+    132,
+    139
+   ],
+   "weight": "Regular",
+   "size": 26.98,
+   "baselines": [
+    892
+   ],
+   "xs": [
+    1537
+   ],
+   "inkboxes": [
+    [
+     1539,
+     871,
+     2126,
+     899
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1539,
+    "right": 109,
+    "up": 110,
+    "down": 235,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Rhythm · repetition",
+   "en": "Rhythm · repetition",
+   "lines": [
+    [
+     217,
+     1551,
+     591,
+     1591
+    ]
+   ],
+   "ocr": "Rhythm repetition",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    217,
+    1551,
+    591,
+    1591
+   ],
+   "ltexts": [
+    "Rhythm · repetition"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    26,
+    27,
+    30
+   ],
+   "weight": "Bold",
+   "size": 38.43,
+   "baselines": [
+    1582
+   ],
+   "xs": [
+    214
+   ],
+   "inkboxes": [
+    [
+     217,
+     1551,
+     591,
+     1591
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.58,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 217,
+    "right": 1644,
+    "up": 30,
+    "down": 176,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Leading lines",
+   "en": "Leading lines",
+   "lines": [
+    [
+     995,
+     1551,
+     1238,
+     1592
+    ]
+   ],
+   "ocr": "Leading lines",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    995,
+    1551,
+    1238,
+    1592
+   ],
+   "ltexts": [
+    "Leading lines"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    26,
+    28,
+    30
+   ],
+   "weight": "Bold",
+   "size": 38.13,
+   "baselines": [
+    1582
+   ],
+   "xs": [
+    992
+   ],
+   "inkboxes": [
+    [
+     995,
+     1551,
+     1237,
+     1591
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.83,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 995,
+    "right": 997,
+    "up": 30,
+    "down": 175,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Frame within a frame",
+   "en": "Frame within a frame",
+   "lines": [
+    [
+     1640,
+     1551,
+     2031,
+     1583
+    ]
+   ],
+   "ocr": "Frame within a frame",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    1640,
+    1551,
+    2031,
+    1583
+   ],
+   "ltexts": [
+    "Frame within a frame"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.5,
+   "color": [
+    26,
+    27,
+    30
+   ],
+   "weight": "Bold",
+   "size": 37.6,
+   "baselines": [
+    1582
+   ],
+   "xs": [
+    1637
+   ],
+   "inkboxes": [
+    [
+     1640,
+     1552,
+     2031,
+     1583
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.7,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1640,
+    "right": 204,
+    "up": 30,
+    "down": 184,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Repeated shapes, broken once",
+   "en": "Repeated shapes, broken once",
+   "lines": [
+    [
+     209,
+     1629,
+     600,
+     1657
+    ]
+   ],
+   "ocr": "Repeated shapes, broken once",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 10,
+   "box": [
+    209,
+    1629,
+    600,
+    1657
+   ],
+   "ltexts": [
+    "Repeated shapes, broken once"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    126,
+    131,
+    138
+   ],
+   "weight": "Regular",
+   "size": 27.53,
+   "baselines": [
+    1651
+   ],
+   "xs": [
+    205
+   ],
+   "inkboxes": [
+    [
+     208,
+     1629,
+     600,
+     1657
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.2,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 209,
+    "right": 1635,
+    "up": 108,
+    "down": 110,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Lines lead the eye to the subject",
+   "en": "Lines lead the eye to the subject",
+   "lines": [
+    [
+     922,
+     1629,
+     1310,
+     1655
+    ]
+   ],
+   "ocr": "Lines lead the eye to the subject",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 11,
+   "box": [
+    922,
+    1629,
+    1310,
+    1655
+   ],
+   "ltexts": [
+    "Lines lead the eye to the subject"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.3,
+   "color": [
+    130,
+    134,
+    140
+   ],
+   "weight": "Regular",
+   "size": 26.13,
+   "baselines": [
+    1650
+   ],
+   "xs": [
+    919
+   ],
+   "inkboxes": [
+    [
+     922,
+     1629,
+     1310,
+     1656
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.33,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 922,
+    "right": 925,
+    "up": 108,
+    "down": 112,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Doors · windows frame it again",
+   "en": "Doors · windows frame it again",
+   "lines": [
+    [
+     1652,
+     1629,
+     2022,
+     1656
+    ]
+   ],
+   "ocr": "Doors windows frame it again",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 12,
+   "box": [
+    1652,
+    1629,
+    2022,
+    1656
+   ],
+   "ltexts": [
+    "Doors · windows frame it again"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.0,
+   "color": [
+    132,
+    136,
+    142
+   ],
+   "weight": "Regular",
+   "size": 25.73,
+   "baselines": [
+    1650
+   ],
+   "xs": [
+    1649
+   ],
+   "inkboxes": [
+    [
+     1652,
+     1629,
+     2022,
+     1656
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.4,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1652,
+    "right": 213,
+    "up": 108,
+    "down": 111,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "The six are choices, not rules — decide what's seen first, then pick",
+   "en": "The six are choices, not rules — decide what's seen first, then pick",
+   "lines": [
+    [
+     681,
+     1705,
+     1550,
+     1733
+    ]
+   ],
+   "ocr": "The six are choices, not rules decide what's seen first, then pick",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 13,
+   "box": [
+    681,
+    1705,
+    1550,
+    1733
+   ],
+   "ltexts": [
+    "The six are choices, not rules — decide what's seen first, then pick"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.0,
+   "color": [
+    125,
+    130,
+    137
+   ],
+   "weight": "Regular",
+   "size": 28.45,
+   "baselines": [
+    1727
+   ],
+   "xs": [
+    679
+   ],
+   "inkboxes": [
+    [
+     680,
+     1705,
+     1550,
+     1734
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.26,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 681,
+    "right": 685,
+    "up": 184,
+    "down": 34,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": [
+  {
+   "text": "ge eos",
+   "box": [
+    66,
+    375,
+    732,
+    546
+   ],
+   "conf": 27.7
+  },
+  {
+   "text": "by",
+   "box": [
+    1204,
+    497,
+    1244,
+    529
+   ],
+   "conf": 33.2
+  },
+  {
+   "text": "eae",
+   "box": [
+    295,
+    504,
+    732,
+    628
+   ],
+   "conf": 3.2
+  },
+  {
+   "text": "WN",
+   "box": [
+    1841,
+    560,
+    1874,
+    580
+   ],
+   "conf": 56.3
+  },
+  {
+   "text": "\\y",
+   "box": [
+    1847,
+    1294,
+    1866,
+    1315
+   ],
+   "conf": 0.0
+  },
+  {
+   "text": "q",
+   "box": [
+    422,
+    1317,
+    459,
+    1426
+   ],
+   "conf": 73.1
+  },
+  {
+   "text": "A",
+   "box": [
+    1220,
+    1348,
+    1273,
+    1403
+   ],
+   "conf": 89.8
+  }
+ ]
+}

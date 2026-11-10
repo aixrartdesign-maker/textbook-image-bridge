@@ -1,0 +1,602 @@
+[
+{
+"key": "part08.html#807",
+"de": "<b>29 s</b><i>Kürzestfilm</i>Bei Wettbewerben für Filme unter 30 Sekunden wie dem 29-Second Film Festival entscheidet eine einzige Wendung alles. Aufbau in einer Einstellung, Wendung in den letzten 5 Sekunden."
+},
+{
+"key": "part08.html#808",
+"de": "<b>1 Min.</b><i>Kurzvideo</i>Der Standard für Werbe- und Imagevideos. Setzen Sie alle 8–10 Sekunden einen neuen Hook als frischen Grund, bis zum Ende zu schauen (siehe 7.17)."
+},
+{
+"key": "part08.html#809",
+"de": "Langformate"
+},
+{
+"key": "part08.html#810",
+"de": "<b>3 Min.</b><i>Markenfilm</i>Eine übliche Länge für Imagefilme von Institutionen. Eine Person, ein Konflikt, eine Lösung. Die Geschichten der Menschen kommen vor dem Produkt."
+},
+{
+"key": "part08.html#811",
+"de": "<b>10–30 s</b><i>Außen-LED-Loop</i>Läuft ohne Ton in Endlosschleife. Das Ende muss in den Anfang übergehen, und aus der Ferne muss alles in 3 Sekunden lesbar sein (siehe 7.19)."
+},
+{
+"key": "part08.html#812",
+"de": "<b>25 Min.</b><i>Kurzfilm</i>Die typische Länge für Festivalbeiträge. Ein Ereignis in 3 Akten, eine Veränderung der Hauptfigur. Am sichersten sind höchstens 3–4 Darsteller."
+},
+{
+"key": "part08.html#813",
+"de": "<b>90 Min.</b><i>Langfilm</i>Haupt- und Nebenhandlungen verflechten sich, innere Veränderung geht mit äußeren Ereignissen einher. Richtwert ist ein Drehbuch von ca. 90–110 Seiten."
+},
+{
+"key": "part08.html#814",
+"de": "<b>Referenzfotos 7.16A</b>Vom Fernsehen zu OTT – die Einheit des Zuschauens wandert vom Sendeplan zum Thumbnail, vom Wohnzimmer zum eigenen Bildschirm"
+},
+{
+"key": "part08.html#815",
+"de": "<span class=\"ph-id\">P08-CRT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Wohnzimmer mit Röhren-TV</b>Wohnzimmer der 1990er-Jahre, Familie vor dem Röhrenfernseher, warmes Lampenlicht</span>"
+},
+{
+"key": "part08.html#816",
+"de": "<b>Hinweis</b>Wohnzimmer mit Röhren-TV – als der Sendeplan die Länge bestimmte"
+},
+{
+"key": "part08.html#817",
+"de": "<span class=\"ph-id\">P08-OTT</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>OTT – vom Sendeplan zum Thumbnail</b>Kacheln von Streaming-Apps auf einem Wohnzimmerfernseher an der Wand, eine Hand hält die Fernbedienung</span>"
+},
+{
+"key": "part08.html#818",
+"de": "<b>Hinweis</b>OTT – vom Sendeplan zum Thumbnail. Die Einheit des Zuschauens hat sich verändert"
+},
+{
+"key": "part08.html#819",
+"de": "<span class=\"ph-id\">P08-BINGE</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Der eigene Bildschirm</b>Eine junge Frau schaut nachts im Bett auf dem Tablet eine Serie, bläulicher Schein des Bildschirms</span>"
+},
+{
+"key": "part08.html#820",
+"de": "<b>Hinweis</b>Der eigene Bildschirm – Zuschauen, bei dem die nächste Folge automatisch startet"
+},
+{
+"key": "part08.html#821",
+"de": "<b>G-24</b> Formate unterschiedlicher Länge – vom Bumper-Ad bis zum Spielfilm (GPT-generiertes Bild – nur zur Veranschaulichung)"
+},
+{
+"key": "part08.html#822",
+"de": "Ein Satz fürs Set"
+},
+{
+"key": "part08.html#823",
+"de": "Wenn Sie einen langen Hauptfilm drehen, planen Sie vorab, wo die Kurzfassungen herausgeschnitten werden. Der 3-Minuten-Film muss die Fassungen mit 1 Min. · 15 s · 6 s enthalten, damit ein Dreh mehrere Medien bedienen kann."
+},
+{
+"key": "part08.html#824",
+"de": "<small>Übung</small>7.16"
+},
+{
+"key": "part08.html#825",
+"de": "Aufgabe"
+},
+{
+"key": "part08.html#826",
+"de": "Planen Sie für dieselbe Marke Fassungen mit 6 s (Bumper), 15 s, 1 Min. und 3 Min. und erstellen Sie für jede ein Strukturdiagramm."
+},
+{
+"key": "part08.html#827",
+"de": "Tipp"
+},
+{
+"key": "part08.html#828",
+"de": "Je kürzer die Fassung, desto knapper die Botschaft; je länger, desto mehr Figuren und Geschichte."
+},
+{
+"key": "part08.html#829",
+"de": "Bewertung"
+},
+{
+"key": "part08.html#830",
+"de": "Passung von Struktur und Länge, Konsistenz zwischen den Fassungen"
+},
+{
+"key": "part08.html#831",
+"de": "Musterlösung"
+},
+{
+"key": "part08.html#832",
+"de": "Planen Sie vor dem Dreh, wo die 6- und die 15-Sekunden-Fassung aus dem 3-Minuten-Film geschnitten werden."
+},
+{
+"key": "part08.html#833",
+"de": "<b>TEIL 08</b>Werbeproduktion und Fallstudien"
+},
+{
+"key": "part08.html#834",
+"de": "Spots, die man zu Ende sieht"
+},
+{
+"key": "part08.html#835",
+"de": "Gestaltung eines 1-Minuten-Spots. Die Retention-Kurve fällt mit der Zeit. Setzen Sie kurz vor jedem Abfall einen Kniff, der die Zuschauer zurückholt, damit jeder Moment einen neuen „Grund zum Weiterschauen“ schafft."
+},
+{
+"key": "part08.html#836",
+"de": "<b>Abb. 82</b> Re-Hook-Design für einen 1-Minuten-Spot – kurz vor dem Absprung erneut packen"
+},
+{
+"key": "part08.html#837",
+"de": "<b>01</b><span><b>Offene Frage</b> In den ersten 3 Sekunden eine Frage stellen, die Antwort zurückhalten und erst in den letzten 10 Sekunden geben.</span>"
+},
+{
+"key": "part08.html#838",
+"de": "<b>02</b><span><b>Musterbruch</b> Alle 8–10 Sekunden eines davon ändern: Einstellungsgröße, Ort, Ton oder Tempo. Läuft derselbe Rhythmus länger als 20 Sekunden, steigen die Absprünge.</span>"
+},
+{
+"key": "part08.html#839",
+"de": "<b>03</b><span><b>Menschen und Gesichter</b> Gesichter und Reaktionen halten die Aufmerksamkeit länger als Produkte. Neugier auf die Entscheidung der Figur wecken.</span>"
+},
+{
+"key": "part08.html#840",
+"de": "<b>04</b><span><b>Beweise und Zahlen</b> In der Mitte eine Demo, Zahlen oder einen Vorher-nachher-Vergleich zeigen – das verspricht einen Lohn fürs Dranbleiben.</span>"
+},
+{
+"key": "part08.html#841",
+"de": "<b>05</b><span><b>Marke früh und oft</b> Einmal in den ersten 5 Sekunden zeigen, einmal natürlich in die Geschichte eingebettet und einmal am Ende.</span>"
+},
+{
+"key": "part08.html#842",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part08.html#843",
+"de": "Setzen Sie 3 Sekunden vor dem steilsten Abfall einen neuen Kniff."
+},
+{
+"key": "part08.html#844",
+"de": "GEICOs „Unskippable“ (2015) erklärte die Werbung für beendet und lief dann weiter: Die Familie verharrte reglos, während der Hund das Essen auf dem Tisch verschlang. So wurde der Skip-Button selbst zur Geschichte."
+},
+{
+"key": "part08.html#845",
+"de": "Wer die Regeln eines Formats kennt, macht die Regeln selbst zur Idee.<small>7.17 Spots, die man zu Ende sieht</small>"
+},
+{
+"key": "part08.html#846",
+"de": "<small>Übung</small>7.17"
+},
+{
+"key": "part08.html#847",
+"de": "Aufgabe"
+},
+{
+"key": "part08.html#848",
+"de": "Entwerfen Sie mindestens 5 Kniffe, die Zuschauer bis zum Ende eines 1-Minuten-Spots halten, und markieren Sie sie auf einer Timeline."
+},
+{
+"key": "part08.html#849",
+"de": "Tipp"
+},
+{
+"key": "part08.html#850",
+"de": "Setzen Sie alle 8–10 Sekunden eine Frage, eine Wendung, neue Informationen oder einen Tonwechsel."
+},
+{
+"key": "part08.html#851",
+"de": "Bewertung"
+},
+{
+"key": "part08.html#852",
+"de": "Abstände der Re-Hooks, Gestaltung von Gründen zum Weiterschauen"
+},
+{
+"key": "part08.html#853",
+"de": "Musterlösung"
+},
+{
+"key": "part08.html#854",
+"de": "GEICO, „Unskippable“ (2015). Der Spot macht den Skip-Button selbst zum Erzählstoff."
+},
+{
+"key": "part08.html#855",
+"de": "<b>TEIL 08</b>Werbeproduktion und Fallstudien"
+},
+{
+"key": "part08.html#856",
+"de": "Die Marke verankern"
+},
+{
+"key": "part08.html#857",
+"de": "So gestalten, dass Wirkung und Marke im Gedächtnis bleiben. Oft erinnern sich Zuschauer an einen Spot, wissen aber nicht mehr, für welche Marke er war. Die Gestaltung muss beides hinterlassen: „was gut war“ und „von wem es war“."
+},
+{
+"key": "part08.html#858",
+"de": "Prägnante Markenelemente"
+},
+{
+"key": "part08.html#859",
+"de": "Farbe"
+},
+{
+"key": "part08.html#860",
+"de": "Eine Farbe, lange und konsequent genutzt"
+},
+{
+"key": "part08.html#861",
+"de": "Die Farbe allein ruft die Marke auf, auch ohne Logo"
+},
+{
+"key": "part08.html#862",
+"de": "Klang"
+},
+{
+"key": "part08.html#863",
+"de": "Kurzes Soundlogo, wiederkehrendes Musikmotiv"
+},
+{
+"key": "part08.html#864",
+"de": "Erreicht auch Menschen, die nicht hinsehen"
+},
+{
+"key": "part08.html#865",
+"de": "Form und Figur"
+},
+{
+"key": "part08.html#866",
+"de": "Produktsilhouette, Maskottchen, typische Geste"
+},
+{
+"key": "part08.html#867",
+"de": "Bündelt viele Spots zu einer Erinnerung"
+},
+{
+"key": "part08.html#868",
+"de": "Worte"
+},
+{
+"key": "part08.html#869",
+"de": "Slogans kurz und rhythmisch"
+},
+{
+"key": "part08.html#870",
+"de": "Nicht mit jedem Spot ändern, sondern aufbauen"
+},
+{
+"key": "part08.html#871",
+"de": "Inszenierung, die Wirkung verankert"
+},
+{
+"key": "part08.html#872",
+"de": "<b>ABCD</b>"
+},
+{
+"key": "part08.html#873",
+"de": "Googles Prinzipien für YouTube-Werbung – Attract, Brand, Connect, Direct. Ein Raster zum Prüfen kurzer Spots."
+},
+{
+"key": "part08.html#874",
+"de": "Eine Szene beweist mehr als Worte"
+},
+{
+"key": "part08.html#875",
+"de": "Volvo Trucks, „The Epic Split“ (2013)"
+},
+{
+"key": "part08.html#876",
+"de": "Ein Spagat zwischen zwei Lkw in einer einzigen Einstellung beweist die Präzision der Lenkung"
+},
+{
+"key": "part08.html#877",
+"de": "Marke im Emotionshoch"
+},
+{
+"key": "part08.html#878",
+"de": "Die Marke muss im Moment der stärksten Emotion da sein, damit sich die Erinnerung mit ihr verknüpft"
+},
+{
+"key": "part08.html#879",
+"de": "Mit ABCD prüfen"
+},
+{
+"key": "part08.html#880",
+"de": "Attract · Brand · Connect · Direct"
+},
+{
+"key": "part08.html#881",
+"de": "Eine einfache Checkliste für kurze Spots"
+},
+{
+"key": "part08.html#882",
+"de": "Ein Satz fürs Set"
+},
+{
+"key": "part08.html#883",
+"de": "Decken Sie im Schnitt das Logo ab. Erkennen Sie die Marke trotzdem, sitzt das Branding."
+},
+{
+"key": "part08.html#884",
+"de": "<small>Übung</small>7.18"
+},
+{
+"key": "part08.html#885",
+"de": "Aufgabe"
+},
+{
+"key": "part08.html#886",
+"de": "Legen Sie für eine fiktive Marke 5 prägnante Markenelemente fest (Farbe, Klang, Form, Figur, Worte) und bringen Sie alle in einem 15-Sekunden-Spot unter."
+},
+{
+"key": "part08.html#887",
+"de": "Tipp"
+},
+{
+"key": "part08.html#888",
+"de": "Zeigen Sie die Marke grundsätzlich in den ersten 5 Sekunden und setzen Sie das Soundlogo ans Ende."
+},
+{
+"key": "part08.html#889",
+"de": "Bewertung"
+},
+{
+"key": "part08.html#890",
+"de": "Konsistenz der Markenelemente, Klarheit der Markenzuordnung"
+},
+{
+"key": "part08.html#891",
+"de": "Musterlösung"
+},
+{
+"key": "part08.html#892",
+"de": "Gestalten Sie einen Spot, dessen Marke auch bei abgedecktem Logo erkennbar ist."
+},
+{
+"key": "part08.html#893",
+"de": "<b>TEIL 08</b>Werbeproduktion und Fallstudien"
+},
+{
+"key": "part08.html#894",
+"de": "Außen-LED-Loops gestalten"
+},
+{
+"key": "part08.html#895",
+"de": "Außen-LED-Bildschirme sieht man ohne Ton, im Gehen oder Fahren, aus der Ferne und immer wieder. Sie brauchen eine völlig andere Gestaltung als Kino oder Smartphone."
+},
+{
+"key": "part08.html#896",
+"de": "<b>Abb. 83</b> Ein Außen-LED-Loop von 15 Sekunden – stumm, aus der Ferne, nahtlos wiederholt"
+},
+{
+"key": "part08.html#897",
+"de": "<span class=\"ph-id\">P08-LEDLOOP</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Außen-LED-Loop</b>Eine Kreuzung in der Innenstadt bei Nacht, abstrakte Animation in Endlosschleife auf einem riesigen LED-Bildschirm an einer Gebäudefront, Menschenmengen</span>"
+},
+{
+"key": "part08.html#898",
+"de": "<b>Hinweis</b>Außen-LED-Loop – gesehen im Gehen, ohne Ton, aus der Ferne und immer wieder"
+},
+{
+"key": "part08.html#899",
+"de": "<b>10–30<em>s</em></b>Loop-Einheit – das Ende geht in den Anfang über"
+},
+{
+"key": "part08.html#900",
+"de": "<b>3<em>s</em></b>Lesezeit für eine Textzeile"
+},
+{
+"key": "part08.html#901",
+"de": "<b>5–10<em>%</em></b>Min. Textgröße relativ zur Bildschirmhöhe"
+},
+{
+"key": "part08.html#902",
+"de": "<b>1–2<em>Min.</em></b>Maximale Verweildauer"
+},
+{
+"key": "part08.html#903",
+"de": "Fünf Checks"
+},
+{
+"key": "part08.html#904",
+"de": "<b>01</b><i>Wirkt es ohne Ton?</i>Die Botschaft muss ohne Ton ankommen. Text: ein Satz, in 3 Sekunden lesbar."
+},
+{
+"key": "part08.html#905",
+"de": "<b>02</b><i>Aus der Ferne sichtbar?</i>Text mind. 5–10 % der Bildschirmhöhe, hoher Kontrast, einfache Formen. Dünne Linien und kleine Schrift verschwinden."
+},
+{
+"key": "part08.html#906",
+"de": "<b>03</b><i>Jeder Moment ein Anfang?</i>Zuschauer steigen mitten im Loop ein. Die Marke alle paar Sekunden zeigen und das letzte Bild ins erste überleiten."
+},
+{
+"key": "part08.html#907",
+"de": "<b>04</b><i>Nutzt es die Bildschirmform?</i>Eckbildschirme: anamorphe Illusion; Hochformat: Auf-und-ab-Bewegung; Riesenbildschirme: langsame Bewegung für Größenwirkung (siehe 6.9)."
+},
+{
+"key": "part08.html#908",
+"de": "<b>05</b><i>Sicherheit und Regeln</i>Wiedergabestandards von Kommune und Medienbetreiber prüfen, damit Helligkeit und Flimmern keine Autofahrer ablenken. Plötzliche Blitze und schnelles Blinken vermeiden."
+},
+{
+"key": "part08.html#909",
+"de": "Ein Satz fürs Set"
+},
+{
+"key": "part08.html#910",
+"de": "Spielen Sie die finale Schnittfassung auf dem Handy mit ausgestrecktem Arm ab, ohne Ton und nur 3 Sekunden lang. Was dann hängen bleibt, ist alles, was auf einem Außenbildschirm hängen bleibt."
+},
+{
+"key": "part08.html#911",
+"de": "<small>Übung</small>7.19"
+},
+{
+"key": "part08.html#912",
+"de": "Aufgabe"
+},
+{
+"key": "part08.html#913",
+"de": "Erstellen Sie einen stummen 15-Sekunden-Loop für einen Außen-LED-Bildschirm und testen Sie ihn in der Größe, die er aus echter Straßenentfernung hat."
+},
+{
+"key": "part08.html#914",
+"de": "Tipp"
+},
+{
+"key": "part08.html#915",
+"de": "Verbinden Sie erstes und letztes Bild und verwenden Sie nur so viel Text, wie sich in 3 Sekunden lesen lässt."
+},
+{
+"key": "part08.html#916",
+"de": "Bewertung"
+},
+{
+"key": "part08.html#917",
+"de": "Verständlichkeit ohne Ton, Loop-Kontinuität, Lesbarkeit auf Distanz"
+},
+{
+"key": "part08.html#918",
+"de": "Musterlösung"
+},
+{
+"key": "part08.html#919",
+"de": "Untersuchen Sie die Sehsituation, etwa die Wartezeit an der Ampel, um Länge und Informationsmenge festzulegen."
+},
+{
+"key": "part09.html#0",
+"de": "TEIL"
+},
+{
+"key": "part09.html#1",
+"de": "<small>TEIL</small>09"
+},
+{
+"key": "part09.html#2",
+"de": "<b>Das erstellen Sie in diesem TEIL</b>"
+},
+{
+"key": "part09.html#3",
+"de": "Ein YouTube-Kanalkonzept (Beschreibung · Banner · Playlists · erste 3 Videos)"
+},
+{
+"key": "part09.html#4",
+"de": "Ein Redaktionsplan für einen Monat und ein Betriebsprotokoll über 2 Wochen"
+},
+{
+"key": "part09.html#5",
+"de": "Eine Produktionspipeline mit KI-Tools in jeder Phase und ein 1-Minuten-Video"
+},
+{
+"key": "part09.html#6",
+"de": "Plattformbetrieb und generative KI"
+},
+{
+"key": "part09.html#7",
+"de": "Ein gutes Video zu machen und dafür zu sorgen, dass es gefunden wird, sind zwei verschiedene Fähigkeiten. Jede Plattform belohnt anderes Verhalten, und Titel und Thumbnails gehören bereits zur Regie. Dieser TEIL beantwortet die Frage „Wie bekomme ich mehr Aufrufe?“ mit Plattformgrammatik, dem Lesen von Kennzahlen und dem Platz der generativen KI."
+},
+{
+"key": "part09.html#8",
+"de": "Foto P-09 Ein Arbeitsplatz mit Rig für Hochformat-Aufnahmen und Performance-Dashboard · generiertes Bild"
+},
+{
+"key": "part09.html#9",
+"de": "<b>P-09</b> Ein Arbeitsplatz mit Rig für Hochformat-Aufnahmen und Performance-Dashboard"
+},
+{
+"key": "part09.html#10",
+"de": "Dieses Kapitel im Unterricht"
+},
+{
+"key": "part09.html#11",
+"de": "Plattformgrammatiken unterscheiden und KI in der Pipeline verorten"
+},
+{
+"key": "part09.html#12",
+"de": "<b>Material</b>Eigenes Konto jedes Lernenden oder ein Übungskonto, Zugang zu einem Sprachmodell"
+},
+{
+"key": "part09.html#13",
+"de": "<b>10 Min.</b><i>Einstieg</i><span>CTR zweier Titel für dasselbe Video vorhersagen</span>"
+},
+{
+"key": "part09.html#14",
+"de": "<b>15 Min.</b><i>Grundlagen</i><span>Was jede Plattform belohnt, Reihenfolge beim Lesen der Kennzahlen</span>"
+},
+{
+"key": "part09.html#15",
+"de": "<b>10 Min.</b><i>Tafeln</i><span>Die 6-stufige KI-Pipeline und die Tool-Landschaft</span>"
+},
+{
+"key": "part09.html#16",
+"de": "<b>10 Min.</b><i>Übung</i><span>20 Ideen generieren, auf 3 eingrenzen, Gründe festhalten</span>"
+},
+{
+"key": "part09.html#17",
+"de": "<b>5 Min.</b><i>Abschluss</i><span>Vorlage für das KI-Protokoll vorstellen</span>"
+},
+{
+"key": "part09.html#18",
+"de": "<b>Kontrollpunkt</b>Erklärt, in welcher Phase KI eingesetzt wurde und warum"
+},
+{
+"key": "part09.html#19",
+"de": "TEIL 09"
+},
+{
+"key": "part09.html#20",
+"de": "Einführung"
+},
+{
+"key": "part09.html#21",
+"de": "Ein gutes Video zu machen und dafür zu sorgen, dass es gefunden wird, sind zwei verschiedene Fähigkeiten. Seit YouTube die Hürden der Verbreitung beseitigt hat, liegt der Ausgangspunkt der Planung nicht mehr bei der Idee, sondern bei der Auffindbarkeit. Deshalb sind Titel und Thumbnails Teil der Regie geworden."
+},
+{
+"key": "part09.html#22",
+"de": "Jede Plattform hat ihre eigene Grammatik. YouTube lebt von Suche und Wiedergabezeit, Instagram von Speichern und Teilen, TikTok von Mitmachen und abgeleiteten Werken. Wer dasselbe Video unverändert postet und sich dann über unterschiedliche Ergebnisse wundert, zeigt nur, dass er nicht weiß, was die jeweilige Plattform belohnt."
+},
+{
+"key": "part09.html#23",
+"de": "Dieser Teil reicht vom Formulieren von Titeln über Hashtags, Antworten auf Kommentare und das Deuten von Kennzahlen bis zu den Grundlagen der Werbeschaltung. Warum braucht man das als Videomacher? Weil auf dem heutigen Arbeitsmarkt am meisten gefragt ist, wer produziert, postet und die Zahlen liest."
+},
+{
+"key": "part09.html#24",
+"de": "Hintergrund 16"
+},
+{
+"key": "part09.html#25",
+"de": "Aufmerksamkeitsökonomie und algorithmisches Publikum"
+},
+{
+"key": "part09.html#26",
+"de": "Im Plattformzeitalter gelangt ein Video nicht direkt zum Publikum, sondern über Empfehlungsalgorithmen. Wer Aufrufe verstehen will, muss zuerst eine knappe Ressource verstehen: Aufmerksamkeit. In einem Vortrag von 1971 sagte Herbert Simon: „Ein Reichtum an Information erzeugt eine Armut an Aufmerksamkeit“, und Ende der 1990er-Jahre nannten Michael Goldhaber und andere diese Lage „Aufmerksamkeitsökonomie“. Heute konkurriert jedes Video auf demselben Bildschirm um ein paar Sekunden Lebenszeit."
+},
+{
+"key": "part09.html#27",
+"de": "Plattformen überlassen das Schiedsrichteramt in diesem Wettbewerb den Algorithmen. 2012 kündigte YouTube an, seine Empfehlungskriterien von Klicks auf Wiedergabezeit umzustellen, und seitdem gewichten viele Plattformen Verhaltenssignale wie Wiedergabedauer, Abschlussrate, erneutes Ansehen und Teilen. Die Funktionsweise ist nicht öffentlich und ändert sich oft, doch das Prinzip ist klar: Videos, die Menschen bis zum Ende ansehen, erneut ansehen und an andere weiterschicken, werden mehr Menschen gezeigt."
+},
+{
+"key": "part09.html#28",
+"de": "Für Videomacher ergeben sich daraus zwei Lehren. Erstens: Auch wenn Thumbnail und Titel den Klick gewinnen, sinken Wiedergabedauer und Empfehlungen, sobald der Inhalt das Versprechen bricht. Übertriebene Titel bringen kurzfristig Klicks und kosten langfristig Vertrauen. Zweitens kommt es auf den Kreislauf an: Absprungstellen am Anfang und in der Mitte in den Daten prüfen und das Gelernte auf das nächste Video anwenden. Das Lesen der Kennzahlen in Kapitel 9 ist ein Werkzeug für diesen Kreislauf."
+},
+{
+"key": "part09.html#29",
+"de": "Es gibt auch eine gemeinsame Struktur. Das System zeigt ein Video zunächst testweise einer kleinen Nutzergruppe und erweitert oder verringert dann je nach Reaktion seine Reichweite. Es liest dabei folgende Signale: wie lange und ob bis zum Ende geschaut wurde, ob das Video gespeichert oder geteilt wurde und ob die Leute wiederkamen. Aufrufe sind eine Folge, keine Ursache. Die Größen, mit denen Videomacher arbeiten können, sind nicht die Aufrufe, sondern Wiedergabedauer und Reaktionsraten."
+},
+{
+"key": "part09.html#30",
+"de": "Es gibt eine Falle. Die Beobachtung, dass eine Kennzahl unbrauchbar wird, sobald sie zum Ziel wird, ist als Goodharts Gesetz bekannt. Reißerische Thumbnails und übertriebene Titel steigern kurzfristig die CTR, erhöhen aber die Absprünge und untergraben das Vertrauen in den ganzen Kanal. Kennzahlen sind ein Fenster zur Reaktion des Publikums, nicht das Publikum selbst."
+},
+{
+"key": "part09.html#31",
+"de": "Im Zeitalter der Algorithmen wächst auch die Verantwortung der Videomacher. Desinformation, die Verletzung des Rechts am eigenen Bild anderer und das Ausgeben generativer KI-Bilder als echt sind keine noch so hohe Zahl kurzfristiger Aufrufe wert. Ein guter Kanal trickst den Algorithmus nicht aus, sondern bietet einem bestimmten Publikum beständig einen Mehrwert. Am Ende folgt der Algorithmus dem Verhalten der Menschen, die diesen Mehrwert finden."
+},
+{
+"key": "part09.html#32",
+"de": "Weiterführende Literatur – Tim Wu, The Attention Merchants · Michael Goldhaber, „The Attention Economy and the Net“"
+},
+{
+"key": "part09.html#33",
+"de": "<b>TEIL 09</b>Plattformbetrieb und generative KI"
+},
+{
+"key": "part09.html#34",
+"de": "Plattformkarte"
+},
+{
+"key": "part09.html#35",
+"de": "Ist der Zuschauer wegen dieses Videos gekommen – oder wegen etwas anderem und nur darauf gestoßen? Diese eine Einschätzung ändert Ihre Strategie für die ersten 3 Sekunden komplett."
+},
+{
+"key": "part09.html#36",
+"de": "<span class=\"ph-id\">P09-FEED</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Ein Daumen wischt durch den Feed</b>Großaufnahme eines Daumens, der durch einen vertikalen Kurzvideo-Feed scrollt, verschwommene bunte Bilder</span>"
+}
+]

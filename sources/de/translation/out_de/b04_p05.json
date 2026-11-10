@@ -1,0 +1,602 @@
+[
+{
+"key": "part03.html#283",
+"de": "<b>01</b><i>Verschluss fixieren</i>Doppelte Bildrate"
+},
+{
+"key": "part03.html#284",
+"de": "<b>02</b><i>ISO fixieren</i>Basis-ISO des Modells"
+},
+{
+"key": "part03.html#285",
+"de": "<b>03</b><i>Mit der Blende gestalten</i>Schärfentiefe festlegen"
+},
+{
+"key": "part03.html#286",
+"de": "<b>04</b><i>Resthelligkeit</i>Mit ND und Licht korrigieren"
+},
+{
+"key": "part03.html#287",
+"de": "Behandeln Sie den Verschluss beim Video als festen Wert.<small>3.5 Das Belichtungsdreieck</small>"
+},
+{
+"key": "part03.html#288",
+"de": "Werkzeuge zur Belichtungskontrolle"
+},
+{
+"key": "part03.html#289",
+"de": "Werkzeug"
+},
+{
+"key": "part03.html#290",
+"de": "Was es zeigt"
+},
+{
+"key": "part03.html#291",
+"de": "Richtwert"
+},
+{
+"key": "part03.html#292",
+"de": "Histogramm"
+},
+{
+"key": "part03.html#293",
+"de": "Helligkeitsverteilung"
+},
+{
+"key": "part03.html#294",
+"de": "An keinem Ende etwas abgeschnitten"
+},
+{
+"key": "part03.html#295",
+"de": "Wellenform"
+},
+{
+"key": "part03.html#296",
+"de": "Helligkeit nach horizontaler Position"
+},
+{
+"key": "part03.html#297",
+"de": "Hauttöne bei ca. 55–70 IRE halten"
+},
+{
+"key": "part03.html#298",
+"de": "Zebra"
+},
+{
+"key": "part03.html#299",
+"de": "Bereiche über einem Schwellwert"
+},
+{
+"key": "part03.html#300",
+"de": "Auf 95–100 %: zeigt ausgefressene Lichter"
+},
+{
+"key": "part03.html#301",
+"de": "Falschfarben"
+},
+{
+"key": "part03.html#302",
+"de": "Zeigt Helligkeit als Farbe"
+},
+{
+"key": "part03.html#303",
+"de": "Am genauesten, um Haut und Lichter zugleich zu prüfen"
+},
+{
+"key": "part03.html#304",
+"de": "Belichtungsmesser"
+},
+{
+"key": "part03.html#305",
+"de": "Einfallende Lichtmenge"
+},
+{
+"key": "part03.html#306",
+"de": "Beim Ausleuchten jede Lichtquelle einzeln messen"
+},
+{
+"key": "part03.html#307",
+"de": "<b>Referenzfotos 3.5A</b>KI-generiertes Bild – Regiereferenz"
+},
+{
+"key": "part03.html#308",
+"de": "<b>a</b>F1,4 – geringe Schärfentiefe"
+},
+{
+"key": "part03.html#309",
+"de": "<b>b</b>F8 – große Schärfentiefe"
+},
+{
+"key": "part03.html#310",
+"de": "<b>c</b>Hohe ISO – Rauschen"
+},
+{
+"key": "part03.html#311",
+"de": "<b>G-07</b> Das Belichtungsdreieck – Spuren von Blende · Verschluss · ISO"
+},
+{
+"key": "part03.html#312",
+"de": "<span class=\"ph-id\">P03-MONITOR</span><span class=\"ph-icon\"></span><span class=\"ph-desc\"><b>Belichtungswerkzeuge – Falschfarben · Wellenform · Zebra sind genauer als das Auge</b></span>"
+},
+{
+"key": "part03.html#313",
+"de": "<b>Hinweis</b>Belichtungswerkzeuge – Falschfarben · Wellenform · Zebra sind genauer als das Auge"
+},
+{
+"key": "part03.html#314",
+"de": "<small>Übung</small>3.5"
+},
+{
+"key": "part03.html#315",
+"de": "Aufgabe"
+},
+{
+"key": "part03.html#316",
+"de": "Drehen Sie bei gleicher Helligkeit mit drei verschiedenen Kombinationen aus Blende · Verschluss · ISO."
+},
+{
+"key": "part03.html#317",
+"de": "Tipp"
+},
+{
+"key": "part03.html#318",
+"de": "Erhöhen Sie einen Wert um eine Stufe, senken Sie einen anderen um eine."
+},
+{
+"key": "part03.html#319",
+"de": "Bewertung"
+},
+{
+"key": "part03.html#320",
+"de": "Korrekte Stufenrechnung; Nebenwirkungen jeder Kombination (Schärfentiefe, Unschärfe, Rauschen) beobachtet"
+},
+{
+"key": "part03.html#321",
+"de": "Musterlösung"
+},
+{
+"key": "part03.html#322",
+"de": "Belegt „gleiche Belichtung, anderes Bild“ mit einer Ergebnistabelle."
+},
+{
+"key": "part03.html#323",
+"de": "<b>TEIL 03</b>Kameraausrüstung und -technik"
+},
+{
+"key": "part03.html#324",
+"de": "Einheiten von Licht und Beleuchtung"
+},
+{
+"key": "part03.html#325",
+"de": "Beschreiben Sie Licht nur als hell oder dunkel, geht am Set etwas schief. Sprechen Sie in Zahlen, können Sie das Lichtsetup anderer nachbauen."
+},
+{
+"key": "part03.html#326",
+"de": "<b>100.000<em>Lux</em></b>Mittags im Freien bei Sonne – ND unverzichtbar"
+},
+{
+"key": "part03.html#327",
+"de": "<b>300–500<em>Lux</em></b>Typisches Büro – Aufhelllicht empfohlen"
+},
+{
+"key": "part03.html#328",
+"de": "<b>10<em>Lux</em></b>Bei Kerzenlicht – hohe ISO oder Zusatzlicht nötig"
+},
+{
+"key": "part03.html#329",
+"de": "Einheit"
+},
+{
+"key": "part03.html#330",
+"de": "Bedeutung"
+},
+{
+"key": "part03.html#331",
+"de": "Einsatz"
+},
+{
+"key": "part03.html#332",
+"de": "Richtwerte"
+},
+{
+"key": "part03.html#333",
+"de": "Lux (lx)"
+},
+{
+"key": "part03.html#334",
+"de": "Licht auf einer Fläche (Beleuchtungsstärke)"
+},
+{
+"key": "part03.html#335",
+"de": "Lichtmessung am Set"
+},
+{
+"key": "part03.html#336",
+"de": "Sonne im Freien 100.000, bewölkt 10.000"
+},
+{
+"key": "part03.html#337",
+"de": "Lumen (lm)"
+},
+{
+"key": "part03.html#338",
+"de": "Gesamter Lichtstrom einer Lichtquelle"
+},
+{
+"key": "part03.html#339",
+"de": "Lampendaten vergleichen"
+},
+{
+"key": "part03.html#340",
+"de": "Haushaltslampe ca. 800 lm"
+},
+{
+"key": "part03.html#341",
+"de": "Candela (cd)"
+},
+{
+"key": "part03.html#342",
+"de": "Lichtstärke in eine Richtung"
+},
+{
+"key": "part03.html#343",
+"de": "Scheinwerferdaten"
+},
+{
+"key": "part03.html#344",
+"de": "Nit (cd/m²)"
+},
+{
+"key": "part03.html#345",
+"de": "Leuchtdichte von Bildschirmen"
+},
+{
+"key": "part03.html#346",
+"de": "Monitore und LED-Displays"
+},
+{
+"key": "part03.html#347",
+"de": "Innen 500–1500, außen ab 5000"
+},
+{
+"key": "part03.html#348",
+"de": "Stufe (LW)"
+},
+{
+"key": "part03.html#349",
+"de": "Verdopplungsschritte des Lichts"
+},
+{
+"key": "part03.html#350",
+"de": "Gemeinsame Sprache der Belichtung"
+},
+{
+"key": "part03.html#351",
+"de": "1 Stufe = doppeltes Licht"
+},
+{
+"key": "part03.html#352",
+"de": "Kelvin (K)"
+},
+{
+"key": "part03.html#353",
+"de": "Farbtemperatur"
+},
+{
+"key": "part03.html#354",
+"de": "Weißabgleich"
+},
+{
+"key": "part03.html#355",
+"de": "Kerze 1800 K, Tageslicht 5600 K"
+},
+{
+"key": "part03.html#356",
+"de": "CRI / TLCI"
+},
+{
+"key": "part03.html#357",
+"de": "Farbwiedergabeindex"
+},
+{
+"key": "part03.html#358",
+"de": "Qualität der Leuchte"
+},
+{
+"key": "part03.html#359",
+"de": "Für Dreharbeiten ab 95"
+},
+{
+"key": "part03.html#360",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part03.html#361",
+"de": "Messen Sie immer auf Gesichtshöhe der Person."
+},
+{
+"key": "part03.html#362",
+"de": "Lichtsituation"
+},
+{
+"key": "part03.html#363",
+"de": "Beleuchtungsstärke ca."
+},
+{
+"key": "part03.html#364",
+"de": "Schwierigkeit"
+},
+{
+"key": "part03.html#365",
+"de": "Mittags im Freien, Sonne"
+},
+{
+"key": "part03.html#366",
+"de": "ca. 100.000 Lux"
+},
+{
+"key": "part03.html#367",
+"de": "ND unverzichtbar"
+},
+{
+"key": "part03.html#368",
+"de": "Im Freien, bewölkt"
+},
+{
+"key": "part03.html#369",
+"de": "ca. 10.000 Lux"
+},
+{
+"key": "part03.html#370",
+"de": "Leicht"
+},
+{
+"key": "part03.html#371",
+"de": "Am Fenster, tagsüber"
+},
+{
+"key": "part03.html#372",
+"de": "ca. 1.000 Lux"
+},
+{
+"key": "part03.html#373",
+"de": "Mittel"
+},
+{
+"key": "part03.html#374",
+"de": "Typisches Büro"
+},
+{
+"key": "part03.html#375",
+"de": "ca. 300–500 Lux"
+},
+{
+"key": "part03.html#376",
+"de": "Aufhelllicht empfohlen"
+},
+{
+"key": "part03.html#377",
+"de": "Wohnzimmer abends"
+},
+{
+"key": "part03.html#378",
+"de": "ca. 100–150 Lux"
+},
+{
+"key": "part03.html#379",
+"de": "Zusatzlicht nötig"
+},
+{
+"key": "part03.html#380",
+"de": "Bei Kerzenlicht"
+},
+{
+"key": "part03.html#381",
+"de": "ca. 10 Lux"
+},
+{
+"key": "part03.html#382",
+"de": "Hohe ISO oder Zusatzlicht nötig"
+},
+{
+"key": "part03.html#383",
+"de": "Vollmond, im Freien"
+},
+{
+"key": "part03.html#384",
+"de": "ca. 0,25 Lux"
+},
+{
+"key": "part03.html#385",
+"de": "Spezialtechnik nötig"
+},
+{
+"key": "part03.html#386",
+"de": "<small>Übung</small>3.6"
+},
+{
+"key": "part03.html#387",
+"de": "Aufgabe"
+},
+{
+"key": "part03.html#388",
+"de": "Messen Sie mit einer Belichtungsmesser-App die Luxwerte in Seminarraum, Flur, Außenschatten und direkter Sonne und erstellen Sie eine Tabelle."
+},
+{
+"key": "part03.html#389",
+"de": "Tipp"
+},
+{
+"key": "part03.html#390",
+"de": "Halten Sie die Messposition (Gesichtshöhe der Person) konstant."
+},
+{
+"key": "part03.html#391",
+"de": "Bewertung"
+},
+{
+"key": "part03.html#392",
+"de": "Einheitliche Messmethode, Bezug zu den Kameraeinstellungen"
+},
+{
+"key": "part03.html#393",
+"de": "Musterlösung"
+},
+{
+"key": "part03.html#394",
+"de": "Notiert zu jedem Messwert die empfohlene ISO und ob Zusatzlicht nötig ist."
+},
+{
+"key": "part03.html#395",
+"de": "<b>TEIL 03</b>Kameraausrüstung und -technik"
+},
+{
+"key": "part03.html#396",
+"de": "Auflösungsstandards und Seitenverhältnis"
+},
+{
+"key": "part03.html#397",
+"de": "Drehen Sie in 4K, auch wenn in FHD abgegeben wird. Überschüssige Pixel bedeuten Freiheit im Schnitt, und das Seitenverhältnis verändert die Stimmung, in der das Publikum eine Szene aufnimmt."
+},
+{
+"key": "part03.html#398",
+"de": "Auflösung = „mit wie vielen Punkten man zeichnet“"
+},
+{
+"key": "part03.html#399",
+"de": "<i class=\"fhd\"></i><em class=\"l4k\">Gesamtes in 4K gedrehtes Bild</em><em class=\"lfhd\">FHD-Abgabegröße – auch bei 2-fachem Zoom scharf</em>"
+},
+{
+"key": "part03.html#400",
+"de": "4K UHD 3840×2160"
+},
+{
+"key": "part03.html#401",
+"de": "FHD 1920×1080"
+},
+{
+"key": "part03.html#402",
+"de": "HD 1280×720"
+},
+{
+"key": "part03.html#403",
+"de": "<b>Auflösung = Punkte horizontal × vertikal</b><span>4K ist 4-mal FHD – 2× in der Breite × 2× in der Höhe</span><span>Auf demselben Monitor ist 4K dichter; bei gleicher Punktzahl wirkt das Bild umso gröber, je größer der Bildschirm ist</span><span>4K drehen, auch wenn FHD abgegeben wird – überschüssige Pixel werden im Schnitt zur Freiheit für Ausschnitt · Zoom · Stabilisierung</span>"
+},
+{
+"key": "part03.html#404",
+"de": "<b>Abb. 32</b> Auflösungsstandards – FHD in einem 4K-Bild. Der rote Rahmen entspricht einem FHD-Bild und lässt sich im 4K-Original beliebig verschieben."
+},
+{
+"key": "part03.html#405",
+"de": "Seitenverhältnis – Breite geteilt durch Höhe"
+},
+{
+"key": "part03.html#406",
+"de": "<b>4:3</b><span>1,33 · Retro-TV · Rückblenden</span>"
+},
+{
+"key": "part03.html#407",
+"de": "<b>16:9</b><span>1,78 · YouTube · TV · Standard</span>"
+},
+{
+"key": "part03.html#408",
+"de": "<b>21:9</b><span>2,39 · Kino · Letterbox</span>"
+},
+{
+"key": "part03.html#409",
+"de": "<b>1:1</b><span>Feeds · Thumbnails</span>"
+},
+{
+"key": "part03.html#410",
+"de": "<b>9:16</b><span>Kurzvideo · LED-Wand hochkant</span>"
+},
+{
+"key": "part03.html#411",
+"de": "Das Seitenverhältnis ist „Breite geteilt durch Höhe“. Ändert sich das Verhältnis, bekommt in derselben Szene die Person eine andere Größe und der Hintergrund einen anderen Anteil – drehen Sie von Anfang an im Abgabeformat."
+},
+{
+"key": "part03.html#412",
+"de": "<b>Abb. 33</b> Die wichtigsten Seitenverhältnisse – dieselbe Szene in fünf Formaten. Querformate zeigen Raum, Hochformate zeigen Menschen."
+},
+{
+"key": "part03.html#413",
+"de": "Format"
+},
+{
+"key": "part03.html#414",
+"de": "Pixel gesamt"
+},
+{
+"key": "part03.html#415",
+"de": "Praxiseinsatz"
+},
+{
+"key": "part03.html#416",
+"de": "Grenzen"
+},
+{
+"key": "part03.html#417",
+"de": "HD (720p)"
+},
+{
+"key": "part03.html#418",
+"de": "ca. 0,92 Mio."
+},
+{
+"key": "part03.html#419",
+"de": "Web mit wenig Bandbreite, alte Geräte"
+},
+{
+"key": "part03.html#420",
+"de": "Heute als Hauptformat ungeeignet"
+},
+{
+"key": "part03.html#421",
+"de": "FHD (1080p)"
+},
+{
+"key": "part03.html#422",
+"de": "ca. 2,07 Mio."
+},
+{
+"key": "part03.html#423",
+"de": "Web-Entwürfe, einfache Abgaben"
+},
+{
+"key": "part03.html#424",
+"de": "Kein Crop-Spielraum"
+},
+{
+"key": "part03.html#425",
+"de": "ca. 4,11 Mio."
+},
+{
+"key": "part03.html#426",
+"de": "Actioncams, B-Kameras"
+},
+{
+"key": "part03.html#427",
+"de": "Als Hauptkamera schwach"
+},
+{
+"key": "part03.html#428",
+"de": "UHD 4K"
+},
+{
+"key": "part03.html#429",
+"de": "ca. 8,29 Mio."
+},
+{
+"key": "part03.html#430",
+"de": "Drehstandard"
+},
+{
+"key": "part03.html#431",
+"de": "4× Speicher"
+},
+{
+"key": "part03.html#432",
+"de": "DCI 4K"
+}
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "key": "part03.html#1114",
+  "de": "<b>ENTHÜLLUNG</b><span>Hinter Grat · Gebäude aufsteigen und die Aussicht freigeben – für Eröffnungen</span>"
+ },
+ {
+  "key": "part03.html#1115",
+  "de": "<b>DRAUFSICHT</b><span>Senkrecht von oben, 90° – Muster und Grafik, Größenverhältnisse</span>"
+ },
+ {
+  "key": "part03.html#1116",
+  "de": "<b>DRONIE</b><span>Von einer Person weg zurück · nach oben – „Hier bin ich“</span>"
+ },
+ {
+  "key": "part03.html#1117",
+  "de": "<b>DURCHFLUG FPV</b><span>Durch Bögen · Fenster · Lücken fliegen – Tempo, Ich-Perspektive</span>"
+ },
+ {
+  "key": "part03.html#1118",
+  "de": "<b>VERFOLGUNG</b><span>Neben bewegtem Auto · Person mitfliegen – Jagd, Reise</span>"
+ },
+ {
+  "key": "part03.html#1119",
+  "de": "Eine Drohne ist kein „hohes Stativ“. Sie fliegen sie für die sechs Bewegungen, die eine Kamera am Boden nicht schafft. <b>Eine</b> Bewegung pro Einstellung, mit konstantem Tempo und je 2 s Stillstand am Anfang und Ende."
+ },
+ {
+  "key": "part03.html#1120",
+  "de": "<b>Abb. 29-1</b> Sechs Kamerabewegungen, die nur Drohnen können – Orbit · Enthüllung · Draufsicht · Dronie · Durchflug · Verfolgung."
+ },
+ {
+  "key": "part03.html#1121",
+  "de": "<small>Übung</small>3.14"
+ },
+ {
+  "key": "part03.html#1122",
+  "de": "Aufgabe"
+ },
+ {
+  "key": "part03.html#1123",
+  "de": "Planen Sie ein Gegenlichtporträt mit ND-Filter und eine Eröffnungseinstellung per Drohne (oder von einem erhöhten Standpunkt)."
+ },
+ {
+  "key": "part03.html#1124",
+  "de": "Tipp"
+ },
+ {
+  "key": "part03.html#1125",
+  "de": "Prüfen Sie bei Drohnen immer zuerst Flugverbotszonen und Genehmigungspflichten."
+ },
+ {
+  "key": "part03.html#1126",
+  "de": "Bewertung"
+ },
+ {
+  "key": "part03.html#1127",
+  "de": "Filterzweck; Protokoll zu Sicherheit · Recht"
+ },
+ {
+  "key": "part03.html#1128",
+  "de": "Musterlösung"
+ },
+ {
+  "key": "part03.html#1129",
+  "de": "Zeigen Sie per Drohne erst die Größe des Ortes, dann verengen Sie auf die Person."
+ },
+ {
+  "key": "part03.html#1130",
+  "de": "TEIL 03 – Abschluss"
+ },
+ {
+  "key": "part03.html#1131",
+  "de": "Übungen und Wiederholung"
+ },
+ {
+  "key": "part03.html#1132",
+  "de": "<b>F2,0 und F8</b>Dieselbe Szene mit beiden Blenden drehen, Hintergrundunschärfe vergleichen und notieren, was Sie für gleiche Belichtung angepasst haben."
+ },
+ {
+  "key": "part03.html#1133",
+  "de": "<b>Auto-WB und fixe 5600 K</b>Je 1 Minute an einem Fenster drinnen drehen und die Farbverschiebung beobachten."
+ },
+ {
+  "key": "part03.html#1134",
+  "de": "<b>24 · 60 · 120 fps</b>Dieselbe Aktion drehen, auf eine 24-fps-Timeline legen, Tempo vergleichen."
+ },
+ {
+  "key": "part03.html#1135",
+  "de": "<b>Basis-ISO Ihrer Kamera</b>Basis-ISO und duale Basis-ISO in den Herstellerunterlagen nachschlagen und notieren."
+ },
+ {
+  "key": "part03.html#1136",
+  "de": "Auf einen Blick"
+ },
+ {
+  "key": "part03.html#1137",
+  "de": "3.2 Kamerawahl"
+ },
+ {
+  "key": "part03.html#1138",
+  "de": "Bei Bewegung Stabilisierung, bei Dunkelheit ein großer Sensor, beim Beschneiden hohe Auflösung."
+ },
+ {
+  "key": "part03.html#1139",
+  "de": "3.3 Sensor und Bildwinkel"
+ },
+ {
+  "key": "part03.html#1140",
+  "de": "50 mm an APS-C entsprechen 75 mm an Vollformat. Je größer der Sensor, desto geringer die Schärfentiefe."
+ },
+ {
+  "key": "part03.html#1141",
+  "de": "3.4 Psychologie der Objektive"
+ },
+ {
+  "key": "part03.html#1142",
+  "de": "Die Perspektive ändert der Kamerastandpunkt, nicht das Objektiv."
+ },
+ {
+  "key": "part03.html#1143",
+  "de": "3.5 Das Belichtungsdreieck"
+ },
+ {
+  "key": "part03.html#1144",
+  "de": "Verschlusszeit fixieren, ISO auf Basis fixieren, mit der Blende gestalten und restliche Helligkeit über ND und Licht regeln."
+ },
+ {
+  "key": "part03.html#1145",
+  "de": "3.7 Auflösung"
+ },
+ {
+  "key": "part03.html#1146",
+  "de": "In 4K drehen, auch wenn das Ziel FHD ist. Reservepixel sind Freiheit im Schnitt."
+ },
+ {
+  "key": "part03.html#1147",
+  "de": "3.8 Shutterwinkel"
+ },
+ {
+  "key": "part03.html#1148",
+  "de": "Ein 180°-Shutter entspricht der doppelten Bildrate: 1/120 bei 60p, 1/240 bei 120p. Hohe Bildraten verlangen entsprechend mehr Licht."
+ },
+ {
+  "key": "part03.html#1149",
+  "de": "3.9 Weißabgleich"
+ },
+ {
+  "key": "part03.html#1150",
+  "de": "Auto-Belichtung und Auto-WB lassen Einstellungen nicht zusammenpassen. Immer manuell fixieren."
+ },
+ {
+  "key": "part03.html#1151",
+  "de": "3.10 Codecs und Log"
+ },
+ {
+  "key": "part03.html#1152",
+  "de": "Chroma-Key-Kanten halten ab 4:2:2. Dies ist der einzige Dreh, bei dem Log nicht zu empfehlen ist."
+ },
+ {
+  "key": "part03.html#1153",
+  "de": "3.11 Kamerahalterung"
+ },
+ {
+  "key": "part03.html#1154",
+  "de": "Stativ → Slider → Gimbal. Ein Stativ mit Licht schlägt einen Gimbal ohne."
+ },
+ {
+  "key": "part03.html#1155",
+  "de": "3.13 Smartphones"
+ },
+ {
+  "key": "part03.html#1156",
+  "de": "Stabilisieren, nah rangehen, Licht suchen, Objektiv abwischen, Ton separat aufnehmen."
+ },
+ {
+  "key": "part03.html#1157",
+  "de": "Denkanstöße"
+ },
+ {
+  "key": "part03.html#1158",
+  "de": "Warum steuert man bei Video die Belichtung nicht über die Verschlusszeit?"
+ },
+ {
+  "key": "part03.html#1159",
+  "de": "Die Verschlusszeit ist an die 180-Grad-Regel gebunden und bestimmt den Charakter der Bewegungsunschärfe – behandeln Sie sie als Festwert."
+ },
+ {
+  "key": "part03.html#1160",
+  "de": "Wie groß ist der Unterschied zwischen ND8 und ND64 in Blenden?"
+ },
+ {
+  "key": "part03.html#1161",
+  "de": "ND8 schluckt 3 Blenden, ND64 6 Blenden und ND1000 10 Blenden."
+ },
+ {
+  "key": "part03.html#1162",
+  "de": "Warum taugt ein 4:2:0-Codec nicht für Chroma-Key?"
+ },
+ {
+  "key": "part03.html#1163",
+  "de": "Mit nur 1/4 der Farbinformation werden die Kanten beim Keying gezackt."
+ },
+ {
+  "key": "part03.html#1164",
+  "de": "Warum Log etwas heller drehen?"
+ },
+ {
+  "key": "part03.html#1165",
+  "de": "Log ist anfällig für Unterbelichtung; heller drehen und in der Post absenken reduziert das Rauschen."
+ },
+ {
+  "key": "part03.html#1166",
+  "de": "Wann müssen Sie für ein FHD-Endprodukt in 4K drehen, und wann nicht?"
+ },
+ {
+  "key": "part03.html#1167",
+  "de": "Sind Reframing, Stabilisierung oder eine Hochformatversion absehbar, ist 4K Pflicht. Die Fälle, in denen es das nicht ist, erarbeiten Sie selbst."
+ },
+ {
+  "key": "part03.html#1168",
+  "de": "Praxistipps"
+ },
+ {
+  "key": "part03.html#1169",
+  "de": "Zählen Sie am Vortag Karten und Akkus und fotografieren Sie sie. Das ist Ihr Beweis, wenn am Set jemand sagt, dass etwas fehlt."
+ },
+ {
+  "key": "part03.html#1170",
+  "de": "Prüfen Sie den Fokus mit Vergrößerung, bevor die Regie das Bild abnimmt. Eine unscharfe Einstellung rettet nur ein Nachdreh."
+ },
+ {
+  "key": "part03.html#1171",
+  "de": "Fotografieren Sie Mietequipment bei der Rückgabe. 90 % der Schadensstreitfälle enden mit diesem einen Foto."
+ },
+ {
+  "key": "part04.html#0",
+  "de": "TEIL"
+ },
+ {
+  "key": "part04.html#1",
+  "de": "<small>TEIL</small>04"
+ },
+ {
+  "key": "part04.html#2",
+  "de": "<b>Das erstellen Sie in diesem TEIL</b>"
+ },
+ {
+  "key": "part04.html#3",
+  "de": "Ein Porträt mit nur einem Führungslicht"
+ },
+ {
+  "key": "part04.html#4",
+  "de": "2 Plakate: High-Key · Low-Key"
+ },
+ {
+  "key": "part04.html#5",
+  "de": "Eine saubere Aufnahme mit 30 s Raumton"
+ },
+ {
+  "key": "part04.html#6",
+  "de": "Licht und Ton"
+ },
+ {
+  "key": "part04.html#7",
+  "de": "Wie bewegen uns Licht und Ton? Licht und Ton sind die beiden am meisten unterschätzten Bereiche und prägen das Ergebnis doch mehr als alles andere. Ein Fenster, eine weiße Styroporplatte und ein Mikrofon höchstens 30 cm vor dem Mund lassen die Hälfte der Probleme verschwinden. Dieser TEIL zeigt nicht nur, wie man Licht setzt, sondern auch, wie man es wegnimmt."
+ },
+ {
+  "key": "part04.html#8",
+  "de": "Foto P-04 Ein Oberbeleuchter beim Lichtaufbau und ein Tonassistent mit Tonangel · generiertes Bild"
+ },
+ {
+  "key": "part04.html#9",
+  "de": "<b>P-04</b> Ein Oberbeleuchter beim Lichtaufbau und ein Tonassistent mit Tonangel"
+ },
+ {
+  "key": "part04.html#10",
+  "de": "Dieses Kapitel im Unterricht"
+ },
+ {
+  "key": "part04.html#11",
+  "de": "Eine Person mit einem Führungslicht ausleuchten, sauberen Ton aufnehmen"
+ },
+ {
+  "key": "part04.html#12",
+  "de": "<b>Material</b>Eine LED-Leuchte oder ein Fenster, Reflektor, schwarze Flagge, externes Mikrofon"
+ },
+ {
+  "key": "part04.html#13",
+  "de": "<b>10 Min.</b><i>Einstieg</i><span>Ohne Licht vs. mit einem Führungslicht vergleichen</span>"
+ },
+ {
+  "key": "part04.html#14",
+  "de": "<b>15 Min.</b><i>Begriffe</i><span>5 Eigenschaften des Lichts, 6 Führungslicht-Regeln, Lichtverhältnis</span>"
+ },
+ {
+  "key": "part04.html#15",
+  "de": "<b>10 Min.</b><i>Tafeln</i><span>Schattenformen in den 6 Porträtlicht-Diagrammen lesen</span>"
+ },
+ {
+  "key": "part04.html#16",
+  "de": "<b>10 Min.</b><i>Übung</i><span>Rembrandt- und Split-Licht mit einer Leuchte setzen; 30 s Raumton aufnehmen</span>"
+ },
+ {
+  "key": "part04.html#17",
+  "de": "<b>5 Min.</b><i>Abschluss</i><span>Sicherheitsregeln und Chroma-Key-Material für die nächste Sitzung</span>"
+ },
+ {
+  "key": "part04.html#18",
+  "de": "<b>Kontrollpunkt</b>Schattenrichtung und -dichte bewusst gesteuert"
+ },
+ {
+  "key": "part04.html#19",
+  "de": "TEIL 04"
+ },
+ {
+  "key": "part04.html#20",
+  "de": "Einführung"
+ },
+ {
+  "key": "part04.html#21",
+  "de": "Licht und Ton sind die beiden am meisten unterschätzten Bereiche und prägen das Ergebnis doch mehr als alles andere. Leicht unscharfe Bilder schauen Zuschauer bis zum Ende, ein Video mit dumpfem Ton verlassen sie nach 3 Sekunden. Ein Interview mit dunklem Gesicht wirkt amateurhaft, so gut der Inhalt auch ist."
+ },
+ {
+  "key": "part04.html#22",
+  "de": "Zum Glück zählt in beiden Bereichen Verständnis mehr als Geld. Ein Fenster und eine weiße Styroporplatte lösen die Hälfte der Porträtbeleuchtung, und ein Mikrofon höchstens 30 cm vor dem Mund beseitigt die meisten Tonprobleme. Günstige Technik aus der Nähe schlägt immer teure aus der Ferne."
+ },
+ {
+  "key": "part04.html#23",
+  "de": "Dieser Teil zeigt nicht nur, wie man Licht hinzufügt, sondern auch, wie man es wegnimmt. Low-Key-Licht besteht zur Hälfte darin, mit schwarzem Stoff Licht zu stehlen, gute Tonaufnahme zur Hälfte darin, Störquellen abzuschalten. Lichtgestaltung ist nicht die Kunst, etwas hell zu machen, sondern zu entscheiden, wo es dunkel bleibt."
+ },
+ {
+  "key": "part04.html#24",
+  "de": "Hintergrund 5"
+ },
+ {
+  "key": "part04.html#25",
+  "de": "Eine Ästhetikgeschichte des Lichts – vom Chiaroscuro zum natürlichen Licht"
+ },
+ {
+  "key": "part04.html#26",
+  "de": "Die Sprache des Filmlichts begann auf der Leinwand der Maler. Im Italien des späten 16. Jahrhunderts malte Caravaggio dramatische Szenen, indem er nur einen Teil einer Figur in starkem Licht vor Dunkelheit zeigte. Einen solchen starken Hell-Dunkel-Kontrast nennt man Chiaroscuro, seine extreme Form Tenebrismus. Im Holland des 17. Jahrhunderts liebte Rembrandt Porträts, in denen seitliches Licht ein kleines Dreieck auf der Schattenwange hinterlässt – an heutigen Sets trägt diese Beleuchtung seinen Namen."
+ },
+ {
+  "key": "part04.html#27",
+  "de": "Der expressionistische deutsche Film „Das Cabinet des Dr. Caligari“ (1920) behandelte Hell und Dunkel als Sprache der Psyche und malte Schatten sogar direkt auf die Kulissen. Mit der Emigration deutscher Filmschaffender in den 1930er- und 40er-Jahren gelangte diese Ästhetik nach Hollywood und lebte im Low-Key-Licht des Film noir fort, in Jalousieschatten, die wie Gitterstäbe fallen. 1949 beschrieb DoP John Alton in „Painting with Light“ das Licht als Ausdrucksmittel statt als Technik."
+ },
+ {
+  "key": "part04.html#28",
+  "de": "Zugleich setzte das Studiosystem den Maßstab dafür, Stars schön aussehen zu lassen. Die 3-Punkt-Beleuchtung – Führungs-, Aufhell- und Spitzlicht – wurde zur Formel, um eine Person vom Hintergrund zu lösen und das Gesicht zuverlässig zu modellieren, und ist bis heute die Basis von Interview- und Werbedrehs. Der italienische Neorealismus und die französische Nouvelle Vague trugen dagegen leichte Kameras und lichtempfindliches Filmmaterial auf die Straße, drehten bei natürlichem Licht und wählten Realismus statt künstlicher Schönheit."
+ },
+ {
+  "key": "part04.html#29",
+  "de": "Heutige DoPs entwickeln zwischen diesen beiden Traditionen ihre eigene Sprache. Vittorio Storaro gab Farbe und Licht symbolische Bedeutung, Roger Deakins ist für einen Naturalismus bekannt, der Licht von Quellen her gestaltet, die in der Szene plausibel existieren könnten, etwa Fenster oder Lampen. Digitale Sensoren und LED-Leuchten erlauben Drehs mit weniger Licht, doch die Prinzipien von Richtung, Qualität und Kontrast haben sich nicht geändert."
+ },
+ {
+  "key": "part04.html#30",
+  "de": "Denken Sie beim Lernen der Lichtgestaltung daran: Jedes Licht hat eine Motivation. Woher kommt dieses Licht? Warum aus dieser Richtung? Was empfindet das Publikum dabei? Die Lichtmuster und Geräte in Kapitel 4 sind Werkzeuge, um diese Fragen zu beantworten."
+ },
+ {
+  "key": "part04.html#31",
+  "de": "Weiterführende Literatur – John Alton, Painting with Light · Blain Brown, Motion Picture and Video Lighting · E. H. Gombrich, Die Geschichte der Kunst"
+ },
+ {
+  "key": "part04.html#32",
+  "de": "<b>TEIL 04</b>Licht und Ton"
+ },
+ {
+  "key": "part04.html#33",
+  "de": "Fünf Eigenschaften des Lichts"
+ },
+ {
+  "key": "part04.html#34",
+  "de": "Um mit Licht zu arbeiten, müssen Sie es zuerst in fünf Worten benennen können. Qualität · Richtung · Farbe · Intensität · Kontrast und Bewegung."
+ },
+ {
+  "key": "part04.html#35",
+  "de": "Doppelter Abstand – das Licht verteilt sich auf die vierfache Fläche"
+ },
+ {
+  "key": "part04.html#36",
+  "de": "<b>Bühne – unter dem Spot</b><span>Hell unter den Füßen, dunkel zwei Schritte weiter. Ein halber Schritt daneben – und das Gesicht ist dunkel</span>"
+ },
+ {
+  "key": "part04.html#37",
+  "de": "<b>Nachtstraße – Autoscheinwerfer</b><span>Die ersten 10 m sind hell, dann fällt das Licht schnell ab. Nahes Licht fällt steil ab</span>"
+ },
+ {
+  "key": "part04.html#38",
+  "de": "<b>Zimmer – Fensterlicht</b><span>Mehrere Blenden zwischen direkt am Fenster und tief im Raum. Person ans Fenster – und der Hintergrund wird dunkel</span>"
+ },
+ {
+  "key": "part04.html#39",
+  "de": "Quelle"
+ },
+ {
+  "key": "part04.html#40",
+  "de": "<b>Doppelter Abstand → 1/4 der Helligkeit</b><span>Denn dasselbe Licht bedeckt die vierfache Fläche</span><span>Nahe Lampen fallen steil ab, ferne sanft</span><b>Am Set nutzen</b><span>Dunkler Hintergrund: Lampe nah an die Person (der Hintergrund fällt schnell ab)</span><span>Person und Hintergrund gleich hell: Lampe weit weg, Leistung hoch</span><span>Bewegtes Motiv: Lampe weit weg – ein, zwei Schritte lassen die Helligkeit nicht springen</span>"
+ },
+ {
+  "key": "part04.html#41",
+  "de": "<b>Abb. 38</b> Das quadratische Abstandsgesetz – bei doppeltem Abstand verteilt sich das Licht auf die vierfache Fläche und sinkt auf 1/4. Dasselbe Gesetz sehen Sie auf Bühnen · Straßen · am Fenster."
+ },
+ {
+  "key": "part04.html#42",
+  "de": "<b>Begriff</b>"
+ },
+ {
+  "key": "part04.html#43",
+  "de": "Hartes Licht wirft scharfkantige Schatten, weiches Licht sanfte. Je größer und näher die Quelle, desto weicher das Licht."
+ },
+ {
+  "key": "part04.html#44",
+  "de": "<small>Quality</small>Qualität"
+ },
+ {
+  "key": "part04.html#45",
+  "de": "Hart: scharf und dramatisch"
+ },
+ {
+  "key": "part04.html#46",
+  "de": "Weich: sanft und gnädig"
+ },
+ {
+  "key": "part04.html#47",
+  "de": "Größere, nähere Quellen sind weicher"
+ },
+ {
+  "key": "part04.html#48",
+  "de": "<small>Direction</small>Richtung"
+ },
+ {
+  "key": "part04.html#49",
+  "de": "Vorne · seitlich · hinten · oben · unten"
+ },
+ {
+  "key": "part04.html#50",
+  "de": "Richtung schafft Form"
+ },
+ {
+  "key": "part04.html#51",
+  "de": "Seitenlicht zeigt Texturen am besten"
+ },
+ {
+  "key": "part04.html#52",
+  "de": "<small>Color</small>Farbe"
+ },
+ {
+  "key": "part04.html#53",
+  "de": "Farbtemperatur und Tönung"
+ },
+ {
+  "key": "part04.html#54",
+  "de": "Warm · kühl bestimmt Tageszeit und Stimmung"
+ },
+ {
+  "key": "part04.html#55",
+  "de": "Mischlicht stets angleichen"
+ },
+ {
+  "key": "part04.html#56",
+  "de": "<small>Intensity</small>Intensität"
+ },
+ {
+  "key": "part04.html#57",
+  "de": "Lichtmenge"
+ },
+ {
+  "key": "part04.html#58",
+  "de": "Umgekehrt proportional zum Quadrat des Abstands"
+ },
+ {
+  "key": "part04.html#59",
+  "de": "Doppelt so weit, 1/4 des Lichts"
+ },
+ {
+  "key": "part04.html#60",
+  "de": "<small>Contrast</small>Kontrast"
+ },
+ {
+  "key": "part04.html#61",
+  "de": "Verhältnis Hell zu Dunkel"
+ },
+ {
+  "key": "part04.html#62",
+  "de": "Das Lichtverhältnis bestimmt Genre und Emotion"
+ },
+ {
+  "key": "part04.html#63",
+  "de": "<small>Movement</small>Bewegung"
+ },
+ {
+  "key": "part04.html#64",
+  "de": "Ob sich das Licht verändert"
+ },
+ {
+  "key": "part04.html#65",
+  "de": "Flackern · Vorbeiziehen · Reflexbewegung beleben das Bild"
+ },
+ {
+  "key": "part04.html#66",
+  "de": "Das Abstandsgesetz in der Praxis"
+ },
+ {
+  "key": "part04.html#67",
+  "de": "Steht die Lampe nah an der Person, wird der Hintergrund deutlich dunkler; steht sie weit weg, sind Person und Hintergrund ähnlich hell. Um den Hintergrund ins Dunkel fallen zu lassen, kaufen Sie keine weiteren Lampen – rücken Sie die Quelle an die Person heran."
+ },
+ {
+  "key": "part04.html#68",
+  "de": "<small>Übung</small>4.1"
+ },
+ {
+  "key": "part04.html#69",
+  "de": "Aufgabe"
+ },
+ {
+  "key": "part04.html#70",
+  "de": "Drehen Sie dasselbe Gesicht mit hartem und weichem Licht sowie mit hohen und tiefen Quellen und vergleichen Sie die Eigenschaften des Lichts."
+ },
+ {
+  "key": "part04.html#71",
+  "de": "Tipp"
+ },
+ {
+  "key": "part04.html#72",
+  "de": "Die Größe der Quelle (relativ zum Motiv) bestimmt die Weichheit."
+ },
+ {
+  "key": "part04.html#73",
+  "de": "Bewertung"
+ },
+ {
+  "key": "part04.html#74",
+  "de": "Richtung · Qualität · Farbe · Intensität · Bewegung des Lichts unterscheiden und erklären"
+ },
+ {
+  "key": "part04.html#75",
+  "de": "Musterlösung"
+ },
+ {
+  "key": "part04.html#76",
+  "de": "Zeichnen Sie neben jedes Foto einen Lichtplan, um Ursache und Wirkung zu verknüpfen."
+ },
+ {
+  "key": "part04.html#77",
+  "de": "<b>TEIL 04</b>Licht und Ton"
+ },
+ {
+  "key": "part04.html#78",
+  "de": "3-Punkt-Beleuchtung und ihre Varianten"
+ },
+ {
+  "key": "part04.html#79",
+  "de": "Kennen Sie die Rollen der drei Lichter – Führungslicht · Aufhelllicht · Spitzlicht –, erschließt sich die Formel für das Licht auf Personen. Hintergrund- und Augenlicht erweitern sie."
+ },
+ {
+  "key": "part04.html#80",
+  "de": "Führung zuerst, Aufhellung zähmt Schatten, Spitze trennt"
+ },
+ {
+  "key": "part04.html#81",
+  "de": "Hintergrund"
+ },
+ {
+  "key": "part04.html#82",
+  "de": "Motiv"
+ },
+ {
+  "key": "part04.html#83",
+  "de": "Kamera"
+ },
+ {
+  "key": "part04.html#84",
+  "de": "FÜHRUNG"
+ },
+ {
+  "key": "part04.html#85",
+  "de": "45° · knapp über Augenhöhe"
+ },
+ {
+  "key": "part04.html#86",
+  "de": "AUFHELLUNG"
+ },
+ {
+  "key": "part04.html#87",
+  "de": "Gegenüber Führung · ½–¼ davon"
+ },
+ {
+  "key": "part04.html#88",
+  "de": "SPITZE"
+ },
+ {
+  "key": "part04.html#89",
+  "de": "Hinten hoch, säumt Kopf·Schultern"
+ },
+ {
+  "key": "part04.html#90",
+  "de": "<b>Draufsicht</b><span>Führung zuerst, Aufhellung zähmt den Schatten, Spitze trennt – Licht ist Reihenfolge, nicht Menge</span>"
+ },
+ {
+  "key": "part04.html#91",
+  "de": "<b>Am Set – gleicher Aufbau</b><span>Softbox links ist die Führung, kleine Lampe rechts die Aufhellung, hohe Lampe hinten die Spitze</span>"
+ }
+]

@@ -1,0 +1,602 @@
+[
+{
+"key": "part07.html#857",
+"de": "Wie viele Projektoren Sie brauchen, ergibt sich von selbst, sobald diese drei Zahlen feststehen. Stückzahl und Objektivdaten sind Ergebnisse, keine Ausgangspunkte."
+},
+{
+"key": "part07.html#858",
+"de": "Headsets und räumliches Video"
+},
+{
+"key": "part07.html#859",
+"de": "<b>Abb. 73</b> 4 XR-Geräte im Vergleich"
+},
+{
+"key": "part07.html#860",
+"de": "Apple machte räumliches Video mit der Vision Pro einem breiten Publikum zugänglich, Meta verbreitete mit der Quest-Reihe Mixed Reality per Passthrough, und Google setzt auf eine Android-basierte XR-Plattform und leichte AR-Brillen. Gemeinsam ist allen eines: Das Bild bricht aus dem rechteckigen Rahmen aus und weitet sich auf das gesamte Sichtfeld des Nutzers aus."
+},
+{
+"key": "part07.html#861",
+"de": "Räumliches Video zeichnet die Parallaxe beider Augen auf und erzeugt so Tiefe"
+},
+{
+"key": "part07.html#862",
+"de": "<b>Binokulare Parallaxe wird zu Tiefe</b><span>Unsere Augen liegen etwa 65 mm auseinander – jedes sieht dasselbe Objekt aus leicht anderem Winkel</span><span>Das Gehirn liest diesen Unterschied (Parallaxe) als Tiefe</span><span>Räumliches Video nimmt beide Ansichten mit zwei Objektiven auf, das Headset zeigt jedem Auge sein eigenes Bild</span><span>Mehr Parallaxe wirkt näher; zu viel schmerzt in den Augen</span>"
+},
+{
+"key": "part07.html#863",
+"de": "<b>Abb. 74</b> So nimmt räumliches Video stereoskopisch auf – es erfasst die beiden Ansichten der Augen und gibt sie den Augen zurück."
+},
+{
+"key": "part07.html#864",
+"de": "<small>Räumliches Video</small>Stereo und lange Einstellungen"
+},
+{
+"key": "part07.html#865",
+"de": "Zwei Objektive nehmen zugleich auf, etwa im Augenabstand. Eine breitere Basis gibt mehr Tiefe, strengt aus der Nähe aber die Augen an"
+},
+{
+"key": "part07.html#866",
+"de": "Häufige Schnitte stören, denn das Gehirn muss die Tiefe jedes Mal neu aufbauen. Lange Einstellungen sind die Regel"
+},
+{
+"key": "part07.html#867",
+"de": "Untertitel als Objekte mit Tiefenwert platzieren. Stimmt die Tiefe nicht, schwankt der Fokus"
+},
+{
+"key": "part07.html#868",
+"de": "<small>AR-Brillen · Passthrough</small>Schwarz und Markenfarben"
+},
+{
+"key": "part07.html#869",
+"de": "Optische Durchsicht kann kein Schwarz zeigen. Dunkle Töne werden einfach durchsichtig"
+},
+{
+"key": "part07.html#870",
+"de": "Passthrough zeigt die von Kameras gefilmte Realität; Farbe und Belichtung hängen vom Gerät ab. Exakte Markenfarben sind nicht garantiert"
+},
+{
+"key": "part07.html#871",
+"de": "<b>Referenzfotos 6.13A</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part07.html#872",
+"de": "<b>a</b>Medienfassade"
+},
+{
+"key": "part07.html#873",
+"de": "<b>b</b>Immersiver Ausstellungsraum"
+},
+{
+"key": "part07.html#874",
+"de": "<b>c</b>Mit AR-Brille"
+},
+{
+"key": "part07.html#875",
+"de": "<span class=\"ph-id\">P07-IMMERSIVE</span><span class=\"ph-icon\"></span>\n      <span class=\"ph-desc\"><b>Immersive Ausstellung</b>Besucher stehen in einem Video im Stil der Tuschmalerei, das über Wände und Boden fließt</span>"
+},
+{
+"key": "part07.html#876",
+"de": "<b>Hinweis</b>Ein Raum, in dem die vier Bildränder verschwinden – selbst die Schatten der Besucher werden Teil des Inhalts"
+},
+{
+"key": "part07.html#877",
+"de": "Was Profis jetzt vorbereiten sollten"
+},
+{
+"key": "part07.html#878",
+"de": "Auch ohne Headset-Projekt in Sicht erleichtert es spätere Erweiterungen enorm, aktuelle Arbeiten in 8K oder höher zu drehen und den Ton als Raumklang anzulegen. Auflösung und Ton lassen sich nicht nachträglich herstellen."
+},
+{
+"key": "part07.html#879",
+"de": "Immersive Räume – der Bildschirm wurde zum Gebäude"
+},
+{
+"key": "part07.html#880",
+"de": "<b>Kugelförmiges LED-Gebäude (Las Vegas Sphere, 2023)</b><span>Außen eine LED-Kugel von etwa 110 m Durchmesser, innen ein gekrümmter 16K-Bildschirm und haptische Sitze. Inhalte werden als „Haut des Gebäudes“ gestaltet, nicht als „Bildschirm“</span>"
+},
+{
+"key": "part07.html#881",
+"de": "<b>Kuppelvideo (Planetarium · Kuppelkino)</b><span>Eine Halbkugel, liegend betrachtet. Ohne Horizont stellt sich leicht Übelkeit ein – bewegen Sie die Kamera daher langsam und halten Sie Motive innerhalb von 60° um den Zenit</span>"
+},
+{
+"key": "part07.html#882",
+"de": "<b>Mehrstöckiges Erlebnismuseum</b><span>Auf 4 Etagen sind Wände · Böden · Decken allesamt Bildflächen. Sensoren erfassen die Position der Besucher, und das Video reagiert – „das Werk ist erst vollendet, wenn Besucher eintreten“</span>"
+},
+{
+"key": "part07.html#883",
+"de": "<b>360°-Rundum-Medienraum</b><span>Vier Wände und Boden bilden eine Leinwand (wie das koreanische ARTE MUSEUM). Selbst Klang und Duft sind gestaltet. Jede Szene läuft 3–5 Minuten im Loop; täglich kommen Tausende</span>"
+},
+{
+"key": "part07.html#884",
+"de": "<b>VR-Erlebnis im Museum</b><span>Durch rekonstruierte Paläste · Ruinen gehen. QR-Code am Exponat → AR auf dem Handy, Erlebniszone → Headset. Es bietet „Dabeisein“ statt Erläuterung</span>"
+},
+{
+"key": "part07.html#885",
+"de": "<b>XR-Studio</b><span>Dreh vor einer LED-Wand – der Hintergrund verschiebt sich mit der Kamerabewegung. Wird zum Standard-Set für Fernsehen · Werbung · Musikvideos</span>"
+},
+{
+"key": "part07.html#886",
+"de": "<b>Deckenmedien – ein Wal zieht über die Köpfe</b><span>Decken-LEDs in Flughäfen · öffentlichen Hallen. Das Publikum blickt im Stehen nach oben: ein Ein-Szenen-Loop, in 10 Sekunden verständlich, Ton aus Bodenlautsprechern</span>"
+},
+{
+"key": "part07.html#887",
+"de": "<b>Fassaden-Mapping im Freizeitpark</b><span>Ein ganzes schlossförmiges Gebäude als Leinwand – eine 10-minütige Show, abgestimmt auf Feuerwerk · Musik · Licht. Jeden Tag zur selben Zeit, jede Saison neu</span>"
+},
+{
+"key": "part07.html#888",
+"de": "<b>Hologramm-Show (schwebendes Bild)</b><span>Ein auf 45° geneigter transparenter Folie gespiegeltes Bild wirkt auf der Bühne plastisch – Auftritte verstorbener Sänger · virtuelle Idols. Helles Licht lässt es verschwinden, daher ist Verdunkelung alles</span>"
+},
+{
+"key": "part07.html#889",
+"de": "<b>OP-Roboterkonsole und VR-Simulator</b><span>Bei Robotern vom Typ da Vinci operiert der Chirurg mit Blick in den Stereo-Viewer der Konsole. Assistenzärzte üben an derselben Ansicht, in VR nachgebildet – Videotechnik wird zur medizinischen Ausbildung</span>"
+},
+{
+"key": "part07.html#890",
+"de": "VR im Einsatz – vier Felder abseits von Spielen, und Spiele"
+},
+{
+"key": "part07.html#891",
+"de": "<b>Medizin</b><span>OP-Simulation · Anatomieunterricht · Schmerzlinderung (VR beim Verbandswechsel nach Verbrennungen) · Expositionstherapie bei Phobien</span>"
+},
+{
+"key": "part07.html#892",
+"de": "<b>Militär · Sicherheitstraining</b><span>Schießen · Taktik · Brandevakuierung · schwere Maschinen – wiederholtes Üben gefährlicher, teurer Situationen</span>"
+},
+{
+"key": "part07.html#893",
+"de": "<b>Altenpflege · Reha</b><span>Erinnerungstherapie (360°-Heimatbilder) · Gleichgewichtsspiele zur Reha · Reisen für immobile Senioren</span>"
+},
+{
+"key": "part07.html#894",
+"de": "<b>Behinderung · Barrierefreiheit</b><span>Wandern · Reisen · Konzerte für Menschen mit eingeschränkter Mobilität, Sozialtraining im Autismus-Spektrum, Simulation von Sehbehinderung für die Aufklärung</span>"
+},
+{
+"key": "part07.html#895",
+"de": "<b>Rhythmusspiele (Typ Beat Saber)</b><span>Blöcke im Takt zerschlagen – die „Killer-App“ der VR. Ganzkörpertraining und Lektion in visuellem Rhythmus</span>"
+},
+{
+"key": "part07.html#896",
+"de": "<b>Weltraum · Flug (Typ Elite Dangerous · No Man's Sky VR)</b><span>Größe und Stille – ein Lehrstück darin, Spieler ohne Übelkeit in die Weite des Alls eintauchen zu lassen</span>"
+},
+{
+"key": "part07.html#897",
+"de": "<b>Sport (Typ VR-Golf)</b><span>Schwungbahn und Platz wie in echt – die Immersion ist am tiefsten, wenn sich reale Bewegung 1:1 überträgt</span>"
+},
+{
+"key": "part07.html#898",
+"de": "<b>3D-Druck – Requisiten · Sets · Figuren</b><span>Modelldaten werden greifbar. Werberequisiten · Miniatursets · sogar Austauschgesichter für Stop-Motion-Figuren. Ein Hin und Her zwischen Digitalem und Physischem</span>"
+},
+{
+"key": "part07.html#899",
+"de": "<b>Bildungsplattformen</b> – VR-Lernräume wie ENGAGE öffnen Hörsäle · Labore · historische Stätten für viele Nutzer gleichzeitig. Für Studierende im Fach Video beantworten sie die Frage, „wo man 360°-Inhalte veröffentlicht“."
+},
+{
+"key": "part07.html#900",
+"de": "<b>Abb. 85-4</b> Immersive Räume und VR-Anwendungen – der Bildschirm wird zum Gebäude, und VR dringt über Spiele hinaus in Medizin · Training · Altenpflege · Barrierefreiheit vor. Die Fotos sind generierte Stimmungsbilder, keine bestimmten Einrichtungen."
+},
+{
+"key": "part07.html#901",
+"de": "<small>Übung</small>6.13"
+},
+{
+"key": "part07.html#902",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#903",
+"de": "Entwickeln Sie für eine neue Displaytechnik eine Videoidee, die nur dort möglich ist."
+},
+{
+"key": "part07.html#904",
+"de": "Tipp"
+},
+{
+"key": "part07.html#905",
+"de": "Meiden Sie bloße Übertragungen bestehender Videos."
+},
+{
+"key": "part07.html#906",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#907",
+"de": "Nutzung der Medienmerkmale"
+},
+{
+"key": "part07.html#908",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#909",
+"de": "Macht technische Grenzen zu kreativen Vorgaben."
+},
+{
+"key": "part07.html#910",
+"de": "<b>TEIL 07</b>Medienspezifikationen und immersive Inhalte"
+},
+{
+"key": "part07.html#911",
+"de": "Dimensionen der Form"
+},
+{
+"key": "part07.html#912",
+"de": "Punkt · Linie · Fläche · Körper · Zeit. Immersive Inhalte gehen über den Bildschirm hinaus und behandeln den ganzen Raum als Gestaltungsmaterial. Vom Punkt bis zur Zeit fügt Bewegung jeweils eine Dimension hinzu."
+},
+{
+"key": "part07.html#913",
+"de": "Bewegung addiert je eine Dimension"
+},
+{
+"key": "part07.html#914",
+"de": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Punkt</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">0D</tspan>"
+},
+{
+"key": "part07.html#915",
+"de": "Nur Position"
+},
+{
+"key": "part07.html#916",
+"de": "Kandinsky, 1926"
+},
+{
+"key": "part07.html#917",
+"de": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Linie</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">1D</tspan>"
+},
+{
+"key": "part07.html#918",
+"de": "Spur eines bewegten Punkts"
+},
+{
+"key": "part07.html#919",
+"de": "Paul Klee, 1925"
+},
+{
+"key": "part07.html#920",
+"de": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Fläche</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">2D</tspan>"
+},
+{
+"key": "part07.html#921",
+"de": "Spur einer bewegten Linie"
+},
+{
+"key": "part07.html#922",
+"de": "Malewitsch, 1915"
+},
+{
+"key": "part07.html#923",
+"de": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Körper</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">3D</tspan>"
+},
+{
+"key": "part07.html#924",
+"de": "Spur einer bewegten Fläche"
+},
+{
+"key": "part07.html#925",
+"de": "Picasso · Braque, 1907"
+},
+{
+"key": "part07.html#926",
+"de": "<tspan font-size=\"17\" font-weight=\"600\" fill=\"#1B1B1D\">Zeit</tspan><tspan dx=\"4\" font-size=\"9\" fill=\"#7A1C2B\" font-weight=\"500\">4D</tspan>"
+},
+{
+"key": "part07.html#927",
+"de": "In der Zeit bewegter Körper"
+},
+{
+"key": "part07.html#928",
+"de": "Lumière, 1895"
+},
+{
+"key": "part07.html#929",
+"de": "Immersive Inhalte fügen „Bewegung durch den Ort“ hinzu – vom Bildschirm, den man ansieht, zum Raum, den man betritt"
+},
+{
+"key": "part07.html#930",
+"de": "<b>Abb. 75</b> Dimensionen der Form – Bewegung fügt jeweils eine Dimension hinzu. Ein bewegter Punkt wird zur Linie, eine Linie zur Fläche, eine Fläche zum Körper; ein Körper, der sich durch die Zeit bewegt, wird zu Video."
+},
+{
+"key": "part07.html#931",
+"de": "<b>Referenzfotos 6.14A · 6.14B</b>Generierte Bilder – Regiereferenz"
+},
+{
+"key": "part07.html#932",
+"de": "<b>a</b>Punkt – ein einzelnes Licht im Dunkeln"
+},
+{
+"key": "part07.html#933",
+"de": "<b>b</b>Linie – eine mit Licht gezogene Spur"
+},
+{
+"key": "part07.html#934",
+"de": "<b>c</b>Fläche – Leinwand, die Licht fängt"
+},
+{
+"key": "part07.html#935",
+"de": "<b>d</b>Körper – eine Form aus Licht"
+},
+{
+"key": "part07.html#936",
+"de": "<b>e</b>Zeit – die Spur der Bewegung"
+},
+{
+"key": "part07.html#937",
+"de": "<b>f</b>Bewegung durch den Raum – Szenen wechseln im Gehen"
+},
+{
+"key": "part07.html#938",
+"de": "<b>Dimensionen zählen</b>"
+},
+{
+"key": "part07.html#939",
+"de": "Der Punkt beginnt bei 0D, der Körper ist daher 3D, mit der Zeit wird es 4D. Merken Sie sich: Punkt, Linie, Fläche, Körper, Zeit – jede Stufe fügt eine Bewegung hinzu, dann geraten Sie nicht durcheinander."
+},
+{
+"key": "part07.html#940",
+"de": "In der Geometrie hat ein Punkt eine Lage, aber keine Ausdehnung und ist 0D; die Linie, Spur eines bewegten Punkts, ist 1D; die Fläche, Spur einer bewegten Linie, ist 2D; der Körper, Spur einer bewegten Fläche, ist 3D. Mit der Zeit wird es 4D, und betritt der Betrachter den Raum, kommt die Bewegung durch den Ort hinzu."
+},
+{
+"key": "part07.html#941",
+"de": "Wie immersive Inhalte jede Dimension nutzen"
+},
+{
+"key": "part07.html#942",
+"de": "<b>0</b><i>Punkt</i>Ein einzelnes Licht im Dunkeln, ein einzelnes Partikel. Das stärkste Mittel, um den Blick auf eine Stelle zu lenken"
+},
+{
+"key": "part07.html#943",
+"de": "<b>1</b><i>Linie</i>Lichtspuren, Laser, LED-Linien. Sie zeigen Richtung und Tempo und lenken die Bewegung"
+},
+{
+"key": "part07.html#944",
+"de": "<b>2</b><i>Fläche</i>Leinwände, Wände, Böden, halbtransparente Gazen. Projection Mapping macht die Flächen eines Gebäudes zu Leinwänden"
+},
+{
+"key": "part07.html#945",
+"de": "<b>3</b><i>Körper</i>Volumetrisches Licht, Hologrammeffekte, anamorphe Illusion. Körper auf einer Fläche erscheinen lassen oder in der Luft erzeugen"
+},
+{
+"key": "part07.html#946",
+"de": "<b>4</b><i>Zeit</i>Wandel und Bewegung. Derselbe Raum wird im Lauf der Zeit zu einer völlig anderen Szene"
+},
+{
+"key": "part07.html#947",
+"de": "<b>+</b><i>Bewegung durch den Ort</i>Die Szene wechselt, während Besucher gehen. Der Film wechselt den Ort per Schnitt, im immersiven Raum tut es der Körper des Besuchers"
+},
+{
+"key": "part07.html#948",
+"de": "Je mehr Video von der Fläche in den Raum wandert, desto mehr gestaltet, wer plant, den Standort des Betrachters statt den der Kamera.<small>6.14 Video ist bewegte Raumzeit</small>"
+},
+{
+"key": "part07.html#949",
+"de": "Video hält den 3D-Raum auf einem 2D-Bildschirm fest und setzt ihn durch Zeit in Bewegung. Der Schnitt zerlegt und verbindet diese Raumzeit (1.20); immersive Inhalte holen den Körper des Betrachters hinein."
+},
+{
+"key": "part07.html#950",
+"de": "Künstler und Theorie zum Weiterlesen"
+},
+{
+"key": "part07.html#951",
+"de": "Wassily Kandinsky, Punkt und Linie zu Fläche (1926) – beschreibt die Spannung zwischen Punkt · Linie · Fläche als Grundgrammatik der Form."
+},
+{
+"key": "part07.html#952",
+"de": "Paul Klee, Pädagogisches Skizzenbuch (1925) – beschreibt die Linie als Punkt, der spazieren geht: die Idee, dass Bewegung Dimension erzeugt."
+},
+{
+"key": "part07.html#953",
+"de": "Kasimir Malewitsch, Piet Mondrian – Schwarzes Quadrat (1915) und horizontale · vertikale Teilungen der Fläche: ein Bild allein aus Fläche und Farbe."
+},
+{
+"key": "part07.html#954",
+"de": "Der Kubismus von Picasso und Braque – viele Blickwinkel in einem Bild, um den Körper auf die Fläche zu bringen."
+},
+{
+"key": "part07.html#955",
+"de": "Marcel Duchamp, Étienne-Jules Marey – Akt, eine Treppe herabsteigend Nr. 2 (1912) und die Chronofotografie bringen Zeit und Bewegung in ein einziges Bild."
+},
+{
+"key": "part07.html#956",
+"de": "Nam June Paik – Videokunst, die Fernsehgeräte als skulpturales Material nutzte und den Bildschirm zum Objekt im Raum machte."
+},
+{
+"key": "part07.html#957",
+"de": "Yayoi Kusama, James Turrell, teamLab – Werke aus Punkten, Licht und Raum, die man betritt. Die ersten Referenzen für die Planung immersiver Ausstellungen."
+},
+{
+"key": "part07.html#958",
+"de": "Ein Satz fürs Set"
+},
+{
+"key": "part07.html#959",
+"de": "Schreiben Sie in einem Konzept für immersive Inhalte zuerst, wo Besucher stehen, wo sie gehen und woran sie vorbeikommen – erst dann, was Sie zeigen."
+},
+{
+"key": "part07.html#960",
+"de": "<small>Übung</small>6.14"
+},
+{
+"key": "part07.html#961",
+"de": "Aufgabe"
+},
+{
+"key": "part07.html#962",
+"de": "Stellen Sie jede der fünf Dimensionen – Punkt · Linie · Fläche · Körper · Zeit – in einem 5-Sekunden-Video dar."
+},
+{
+"key": "part07.html#963",
+"de": "Tipp"
+},
+{
+"key": "part07.html#964",
+"de": "Zeigen Sie ein Motiv (z. B. einen Ball) in allen fünf Dimensionen, dann werden die Unterschiede klar."
+},
+{
+"key": "part07.html#965",
+"de": "Bewertung"
+},
+{
+"key": "part07.html#966",
+"de": "Genaues Verständnis der Dimensionen, stimmiger Ausdruck"
+},
+{
+"key": "part07.html#967",
+"de": "Musterlösung"
+},
+{
+"key": "part07.html#968",
+"de": "Verbindet die fünf Videos zu einem Fluss, in dem sich die Dimensionen aufbauen."
+},
+{
+"key": "part07.html#969",
+"de": "TEIL 07 – Abschluss"
+},
+{
+"key": "part07.html#970",
+"de": "Übungen und Wiederholung"
+},
+{
+"key": "part07.html#971",
+"de": "<b>Drei Seitenverhältnisse</b>Erstellen Sie aus demselben Material Fassungen in 16:9, 9:16 und 1:1, jeweils mit anders platzierten Untertiteln."
+},
+{
+"key": "part07.html#972",
+"de": "<b>UI-Zonen vermessen</b>Messen Sie anhand echter Screenshots, welche Bereiche die UI Ihrer Kurzvideo-Plattformen verdeckt, und erstellen Sie eine Vorlage."
+},
+{
+"key": "part07.html#973",
+"de": "<b>Wegeplan und Verweildauer-Diagramm</b>Wählen Sie einen ausstellungstauglichen Raum auf oder nahe dem Campus und zeichnen Sie Wegeplan (auf dem Grundriss) und Verweildauer-Diagramm."
+},
+{
+"key": "part07.html#974",
+"de": "<b>Anamorphe Ecke finden</b>Suchen Sie eine Gebäudeecke, an der die Illusion funktionieren könnte, und skizzieren Sie Referenzstandpunkt und Inhaltsidee."
+},
+{
+"key": "part07.html#975",
+"de": "Auf einen Blick"
+},
+{
+"key": "part07.html#976",
+"de": "6.1 Produktionsspezifikationen je Medium"
+},
+{
+"key": "part07.html#977",
+"de": "Ein Projekt ohne festgelegte Plattform wird immer neu gemacht. Prüfen Sie vor dem Start die offiziellen Leitfäden."
+},
+{
+"key": "part07.html#978",
+"de": "6.2 Horizontal und vertikal"
+},
+{
+"key": "part07.html#979",
+"de": "Vertikal ist kein anderes Medium, sondern eine andere Sprache. Totalen funktionieren nicht."
+},
+{
+"key": "part07.html#980",
+"de": "6.3 Sicherheitsbereiche"
+},
+{
+"key": "part07.html#981",
+"de": "Prüfen Sie per echtem Upload, nicht mit den Hilfslinien der Software."
+},
+{
+"key": "part07.html#982",
+"de": "6.5 360° und VR"
+},
+{
+"key": "part07.html#983",
+"de": "Hat sich der Betrachter nie umgedreht, ist die Planung gescheitert. Vermeidung von Übelkeit geht vor Bildqualität."
+},
+{
+"key": "part07.html#984",
+"de": "6.7 XR-Ausstellungen"
+},
+{
+"key": "part07.html#985",
+"de": "Teilen Sie 3600 Sekunden durch die Erlebnisdauer, multiplizieren Sie mit der Kapazität pro Durchgang, und 70 % davon sind realistisch."
+},
+{
+"key": "part07.html#986",
+"de": "6.9 Außenwerbung"
+},
+{
+"key": "part07.html#987",
+"de": "Außenwerbung ist grundsätzlich stumm. Ein Konzept, das auf Ton setzt, ist bei der Medienwahl gescheitert."
+},
+{
+"key": "part07.html#988",
+"de": "6.10 LED-Displays"
+},
+{
+"key": "part07.html#989",
+"de": "Begriffe wie Pixel Pitch und Nits machen Angebote genauer. Auf transparenter LED ist Schwarz durchsichtig."
+},
+{
+"key": "part07.html#990",
+"de": "6.11 Sehsituationen"
+},
+{
+"key": "part07.html#991",
+"de": "Bespielen Sie mehrere Medien, beginnen Sie mit dem, das die engsten Grenzen hat. Erweitern ist leicht, Kürzen ist schwer."
+},
+{
+"key": "part07.html#992",
+"de": "6.14 Dimensionen der Form"
+},
+{
+"key": "part07.html#993",
+"de": "Schreiben Sie im Konzept erst, wo Besucher stehen und gehen – dann, was Sie zeigen."
+},
+{
+"key": "part07.html#994",
+"de": "Denkanstöße"
+},
+{
+"key": "part07.html#995",
+"de": "Wie groß ist der Bildschirm für mein Video, und wie weit ist das Publikum entfernt?"
+},
+{
+"key": "part07.html#996",
+"de": "Notieren Sie, wie das Ihre Einstellungsgrößen verändert."
+},
+{
+"key": "part07.html#997",
+"de": "Was bleibt, wenn ich mein Video ohne Ton ansehe?"
+},
+{
+"key": "part07.html#998",
+"de": "Machen Sie sich klar, warum Untertitel und Grafiken in standardmäßig stummen Medien zu den Hauptträgern der Botschaft werden."
+},
+{
+"key": "part07.html#999",
+"de": "Selbstkontrolle"
+},
+{
+"key": "part07.html#1000",
+"de": "Prüfen Sie, ob Sie erklären können: warum vertikales Video Totalen meidet · wie Pixel Pitch und Mindestabstand zusammenhängen · drei Wege gegen Übelkeit bei 360°-Video · wie man den stündlichen Durchsatz berechnet · wie sich Einstellungsgrößen je nach Sehsituation unterscheiden."
+},
+{
+"key": "part08.html#0",
+"de": "TEIL"
+},
+{
+"key": "part08.html#1",
+"de": "<small>TEIL</small>08"
+},
+{
+"key": "part08.html#2",
+"de": "<b>Das erstellen Sie in diesem TEIL</b>"
+},
+{
+"key": "part08.html#3",
+"de": "Strukturanalyse eines 15-Sekunden-Spots"
+},
+{
+"key": "part08.html#4",
+"de": "Ein Referenzboard (von 20 auf 5)"
+},
+{
+"key": "part08.html#5",
+"de": "Ein 15-Sekunden-Spot und ein stummer Außen-Loop"
+}
+]

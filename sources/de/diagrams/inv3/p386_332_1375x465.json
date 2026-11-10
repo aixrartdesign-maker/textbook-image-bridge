@@ -1,0 +1,1046 @@
+{
+ "stem": "p386_332_1375x465",
+ "size": [
+  3273,
+  1012
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Years 1–2",
+   "en": "Years 1–2",
+   "lines": [
+    [
+     871,
+     92,
+     1057,
+     124
+    ]
+   ],
+   "ocr": "Years 1-2",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    871,
+    92,
+    1057,
+    124
+   ],
+   "ltexts": [
+    "Years 1–2"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    29,
+    29,
+    31
+   ],
+   "weight": "Regular",
+   "size": 43.45,
+   "baselines": [
+    124
+   ],
+   "xs": [
+    871
+   ],
+   "inkboxes": [
+    [
+     871,
+     92,
+     1057,
+     124
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.52,
+   "align": "left",
+   "room": {
+    "left": 871,
+    "right": 2216,
+    "up": 92,
+    "down": 39,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Years 3–5",
+   "en": "Years 3–5",
+   "lines": [
+    [
+     1717,
+     92,
+     1909,
+     124
+    ]
+   ],
+   "ocr": "Years 3-5",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    1717,
+    92,
+    1909,
+    124
+   ],
+   "ltexts": [
+    "Years 3–5"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    29,
+    29,
+    31
+   ],
+   "weight": "Regular",
+   "size": 44.21,
+   "baselines": [
+    124
+   ],
+   "xs": [
+    1717
+   ],
+   "inkboxes": [
+    [
+     1717,
+     92,
+     1909,
+     124
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.45,
+   "align": "left",
+   "room": {
+    "left": 1717,
+    "right": 1364,
+    "up": 92,
+    "down": 39,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Years 6+",
+   "en": "Years 6+",
+   "lines": [
+    [
+     2587,
+     92,
+     2755,
+     124
+    ]
+   ],
+   "ocr": "Years 6+",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    2587,
+    92,
+    2755,
+    124
+   ],
+   "ltexts": [
+    "Years 6+"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    31,
+    31,
+    33
+   ],
+   "weight": "Regular",
+   "size": 44.08,
+   "baselines": [
+    124
+   ],
+   "xs": [
+    2587
+   ],
+   "inkboxes": [
+    [
+     2587,
+     92,
+     2755,
+     124
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.47,
+   "align": "left",
+   "room": {
+    "left": 2587,
+    "right": 518,
+    "up": 92,
+    "down": 39,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Editing",
+   "en": "Editing",
+   "lines": [
+    [
+     371,
+     229,
+     506,
+     270
+    ]
+   ],
+   "ocr": "Editing",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    371,
+    229,
+    506,
+    270
+   ],
+   "ltexts": [
+    "Editing"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.2,
+   "color": [
+    34,
+    34,
+    36
+   ],
+   "weight": "Bold",
+   "size": 38.84,
+   "baselines": [
+    261
+   ],
+   "xs": [
+    368
+   ],
+   "inkboxes": [
+    [
+     371,
+     230,
+     506,
+     270
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.55,
+   "align": "left",
+   "room": {
+    "left": 371,
+    "right": 64,
+    "up": 229,
+    "down": 742,
+    "lb": false,
+    "rb": true,
+    "ub": false,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Rough cut · captions",
+   "en": "Rough cut · captions",
+   "lines": [
+    [
+     792,
+     233,
+     1152,
+     269
+    ]
+   ],
+   "ocr": "Rough cut captions",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    792,
+    233,
+    1152,
+    269
+   ],
+   "ltexts": [
+    "Rough cut · captions"
+   ],
+   "bg": [
+    244,
+    242,
+    245
+   ],
+   "bgstd": 0.8,
+   "color": [
+    30,
+    30,
+    32
+   ],
+   "weight": "Regular",
+   "size": 37.4,
+   "baselines": [
+    261
+   ],
+   "xs": [
+    789
+   ],
+   "inkboxes": [
+    [
+     793,
+     233,
+     1152,
+     269
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.54,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 211,
+    "right": 204,
+    "up": 59,
+    "down": 57,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Story & pacing · color grading",
+   "en": "Story & pacing · color grading",
+   "lines": [
+    [
+     1568,
+     233,
+     2087,
+     269
+    ]
+   ],
+   "ocr": "Story pacing color grading",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 5,
+   "box": [
+    1568,
+    233,
+    2087,
+    269
+   ],
+   "ltexts": [
+    "Story & pacing · color grading"
+   ],
+   "bg": [
+    230,
+    229,
+    233
+   ],
+   "bgstd": 1.0,
+   "color": [
+    30,
+    30,
+    33
+   ],
+   "weight": "Regular",
+   "size": 37.53,
+   "baselines": [
+    261
+   ],
+   "xs": [
+    1566
+   ],
+   "inkboxes": [
+    [
+     1568,
+     233,
+     2087,
+     269
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.3,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 142,
+    "right": 137,
+    "up": 59,
+    "down": 57,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Lead editor · post supervisor",
+   "en": "Lead editor · post supervisor",
+   "lines": [
+    [
+     2432,
+     233,
+     2939,
+     269
+    ]
+   ],
+   "ocr": "Lead editor post supervisor",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 6,
+   "box": [
+    2432,
+    233,
+    2939,
+    269
+   ],
+   "ltexts": [
+    "Lead editor · post supervisor"
+   ],
+   "bg": [
+    199,
+    198,
+    203
+   ],
+   "bgstd": 1.0,
+   "color": [
+    32,
+    32,
+    34
+   ],
+   "weight": "Regular",
+   "size": 37.86,
+   "baselines": [
+    261
+   ],
+   "xs": [
+    2428
+   ],
+   "inkboxes": [
+    [
+     2432,
+     233,
+     2939,
+     268
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.34,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 136,
+    "right": 132,
+    "up": 59,
+    "down": 57,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Shooting",
+   "en": "Shooting",
+   "lines": [
+    [
+     344,
+     439,
+     521,
+     480
+    ]
+   ],
+   "ocr": "Shooting",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 7,
+   "box": [
+    344,
+    439,
+    521,
+    480
+   ],
+   "ltexts": [
+    "Shooting"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.5,
+   "color": [
+    34,
+    34,
+    35
+   ],
+   "weight": "Bold",
+   "size": 39.68,
+   "baselines": [
+    470
+   ],
+   "xs": [
+    342
+   ],
+   "inkboxes": [
+    [
+     344,
+     439,
+     521,
+     480
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.36,
+   "align": "left",
+   "room": {
+    "left": 344,
+    "right": 49,
+    "up": 439,
+    "down": 532,
+    "lb": false,
+    "rb": true,
+    "ub": false,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Gear handling · 2nd AC",
+   "en": "Gear handling · 2nd AC",
+   "lines": [
+    [
+     767,
+     443,
+     1174,
+     479
+    ]
+   ],
+   "ocr": "Gear handling 2nd AC",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 8,
+   "box": [
+    767,
+    443,
+    1174,
+    479
+   ],
+   "ltexts": [
+    "Gear handling · 2nd AC"
+   ],
+   "bg": [
+    244,
+    242,
+    245
+   ],
+   "bgstd": 0.7,
+   "color": [
+    30,
+    29,
+    31
+   ],
+   "weight": "Regular",
+   "size": 38.07,
+   "baselines": [
+    472
+   ],
+   "xs": [
+    765
+   ],
+   "inkboxes": [
+    [
+     767,
+     444,
+     1174,
+     479
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.3,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 186,
+    "right": 182,
+    "up": 57,
+    "down": 57,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Main camera · lighting liaison",
+   "en": "Main camera · lighting liaison",
+   "lines": [
+    [
+     1575,
+     443,
+     2082,
+     479
+    ]
+   ],
+   "ocr": "Main camera lighting liaison",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 9,
+   "box": [
+    1575,
+    443,
+    2082,
+    479
+   ],
+   "ltexts": [
+    "Main camera · lighting liaison"
+   ],
+   "bg": [
+    230,
+    228,
+    233
+   ],
+   "bgstd": 0.9,
+   "color": [
+    29,
+    29,
+    32
+   ],
+   "weight": "Regular",
+   "size": 37.17,
+   "baselines": [
+    471
+   ],
+   "xs": [
+    1571
+   ],
+   "inkboxes": [
+    [
+     1575,
+     443,
+     2082,
+     479
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.26,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 149,
+    "right": 142,
+    "up": 57,
+    "down": 57,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "DP · look design",
+   "en": "DP · look design",
+   "lines": [
+    [
+     2545,
+     443,
+     2831,
+     479
+    ]
+   ],
+   "ocr": "DP look design",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 10,
+   "box": [
+    2545,
+    443,
+    2831,
+    479
+   ],
+   "ltexts": [
+    "DP · look design"
+   ],
+   "bg": [
+    199,
+    197,
+    203
+   ],
+   "bgstd": 1.1,
+   "color": [
+    32,
+    32,
+    34
+   ],
+   "weight": "Regular",
+   "size": 37.95,
+   "baselines": [
+    472
+   ],
+   "xs": [
+    2541
+   ],
+   "inkboxes": [
+    [
+     2545,
+     443,
+     2830,
+     479
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.53,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 249,
+    "right": 240,
+    "up": 57,
+    "down": 57,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Directing",
+   "en": "Directing",
+   "lines": [
+    [
+     342,
+     649,
+     521,
+     690
+    ]
+   ],
+   "ocr": "Directing",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 11,
+   "box": [
+    342,
+    649,
+    521,
+    690
+   ],
+   "ltexts": [
+    "Directing"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.8,
+   "color": [
+    32,
+    32,
+    34
+   ],
+   "weight": "Bold",
+   "size": 39.91,
+   "baselines": [
+    681
+   ],
+   "xs": [
+    338
+   ],
+   "inkboxes": [
+    [
+     342,
+     649,
+     521,
+     690
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.38,
+   "align": "left",
+   "room": {
+    "left": 342,
+    "right": 49,
+    "up": 649,
+    "down": 322,
+    "lb": false,
+    "rb": true,
+    "ub": false,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "AD · running the set",
+   "en": "AD · running the set",
+   "lines": [
+    [
+     798,
+     653,
+     1148,
+     690
+    ]
+   ],
+   "ocr": "AD running the set",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 12,
+   "box": [
+    798,
+    653,
+    1148,
+    690
+   ],
+   "ltexts": [
+    "AD · running the set"
+   ],
+   "bg": [
+    244,
+    242,
+    245
+   ],
+   "bgstd": 0.8,
+   "color": [
+    29,
+    29,
+    31
+   ],
+   "weight": "Regular",
+   "size": 37.51,
+   "baselines": [
+    681
+   ],
+   "xs": [
+    798
+   ],
+   "inkboxes": [
+    [
+     798,
+     654,
+     1148,
+     689
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.44,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 217,
+    "right": 208,
+    "up": 57,
+    "down": 57,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Solo directing · planning lead",
+   "en": "Solo directing · planning lead",
+   "lines": [
+    [
+     1573,
+     653,
+     2081,
+     690
+    ]
+   ],
+   "ocr": "Solo directing planning lead",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 13,
+   "box": [
+    1573,
+    653,
+    2081,
+    690
+   ],
+   "ltexts": [
+    "Solo directing · planning lead"
+   ],
+   "bg": [
+    230,
+    228,
+    233
+   ],
+   "bgstd": 1.0,
+   "color": [
+    29,
+    29,
+    32
+   ],
+   "weight": "Regular",
+   "size": 37.01,
+   "baselines": [
+    681
+   ],
+   "xs": [
+    1572
+   ],
+   "inkboxes": [
+    [
+     1574,
+     654,
+     2081,
+     690
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.57,
+   "align": "center",
+   "room": {
+    "left": 147,
+    "right": 143,
+    "up": 57,
+    "down": 57,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   },
+   "align_src": "container"
+  },
+  {
+   "kind": "label",
+   "label": "Director · creative director",
+   "en": "Director · creative director",
+   "lines": [
+    [
+     2454,
+     653,
+     2916,
+     682
+    ]
+   ],
+   "ocr": "Director creative director",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 14,
+   "box": [
+    2454,
+    653,
+    2916,
+    682
+   ],
+   "ltexts": [
+    "Director · creative director"
+   ],
+   "bg": [
+    200,
+    198,
+    203
+   ],
+   "bgstd": 1.1,
+   "color": [
+    31,
+    31,
+    33
+   ],
+   "weight": "Regular",
+   "size": 37.68,
+   "baselines": [
+    681
+   ],
+   "xs": [
+    2450
+   ],
+   "inkboxes": [
+    [
+     2454,
+     654,
+     2916,
+     682
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.43,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 158,
+    "right": 155,
+    "up": 57,
+    "down": 65,
+    "lb": true,
+    "rb": true,
+    "ub": true,
+    "db": true
+   }
+  }
+ ],
+ "missing": [],
+ "noise": []
+}

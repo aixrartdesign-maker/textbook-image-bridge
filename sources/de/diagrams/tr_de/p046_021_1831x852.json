@@ -1,0 +1,16 @@
+{
+ "0": "RGB – addiert Licht",
+ "1": "CMY – zieht Licht ab",
+ "2": "Raster – Tonwert aus Punktgröße",
+ "3": "Hell",
+ "4": "Dunkel",
+ "5": "Monitor · Handy · Projektor",
+ "6": "Tinte · Druck · Fotoabzüge",
+ "7": "Vierfarbdruck",
+ "8": "Farbdruck",
+ "9": "K vertieft Schwarz, spart Tinte",
+ "10": "Y Gelb",
+ "11": "K Schwarz",
+ "12": "C Cyan",
+ "13": "M Magenta"
+}

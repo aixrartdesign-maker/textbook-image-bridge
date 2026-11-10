@@ -1,0 +1,602 @@
+[
+{
+"key": "part02.html#634",
+"de": "Unmittelbar"
+},
+{
+"key": "part02.html#635",
+"de": "Die meisten Anschlüsse"
+},
+{
+"key": "part02.html#636",
+"de": "Überblendung"
+},
+{
+"key": "part02.html#637",
+"de": "DIS"
+},
+{
+"key": "part02.html#638",
+"de": "Vergehende Zeit, Weichheit"
+},
+{
+"key": "part02.html#639",
+"de": "Rückblenden, Zeitsprünge"
+},
+{
+"key": "part02.html#640",
+"de": "Bei jedem Schnitt überstrapaziert"
+},
+{
+"key": "part02.html#641",
+"de": "Auf-/Abblende"
+},
+{
+"key": "part02.html#642",
+"de": "FI / FO"
+},
+{
+"key": "part02.html#643",
+"de": "Anfang und Ende"
+},
+{
+"key": "part02.html#644",
+"de": "Beginn und Schluss eines Films"
+},
+{
+"key": "part02.html#645",
+"de": "Als Einstieg ins Kurzvideo"
+},
+{
+"key": "part02.html#646",
+"de": "Wischblende"
+},
+{
+"key": "part02.html#647",
+"de": "WIPE"
+},
+{
+"key": "part02.html#648",
+"de": "Verspielt, retro"
+},
+{
+"key": "part02.html#649",
+"de": "Komödie, Kapitelwechsel"
+},
+{
+"key": "part02.html#650",
+"de": "In ernster Werbung"
+},
+{
+"key": "part02.html#651",
+"de": "Weißblende"
+},
+{
+"key": "part02.html#652",
+"de": "FLASH"
+},
+{
+"key": "part02.html#653",
+"de": "Schock, Umschwung"
+},
+{
+"key": "part02.html#654",
+"de": "Wucht betonen"
+},
+{
+"key": "part02.html#655",
+"de": "Ermüdet bei Wiederholung"
+},
+{
+"key": "part02.html#656",
+"de": "Reißschwenk-Blende"
+},
+{
+"key": "part02.html#657",
+"de": "WHIP"
+},
+{
+"key": "part02.html#658",
+"de": "Tempo, Verbindung"
+},
+{
+"key": "part02.html#659",
+"de": "Rhythmus im Kurzvideo"
+},
+{
+"key": "part02.html#660",
+"de": "Richtungen passen nicht"
+},
+{
+"key": "part02.html#661",
+"de": "Der häufigste Anfängerfehler"
+},
+{
+"key": "part02.html#662",
+"de": "Auf jeden Schnitt eine Überblendung oder einen auffälligen Übergang setzen. Professionelle Cutter arbeiten überwiegend mit harten Schnitten; Übergänge setzen sie nur ein, wenn sie etwas bedeuten."
+},
+{
+"key": "part02.html#663",
+"de": "Schnittrhythmus nach Emotion"
+},
+{
+"key": "part02.html#664",
+"de": "Gleiche Laufzeit, doch die Einstellungslänge bestimmt die Emotion"
+},
+{
+"key": "part02.html#665",
+"de": "Dieselben 18 s"
+},
+{
+"key": "part02.html#666",
+"de": "Dringlich"
+},
+{
+"key": "part02.html#667",
+"de": "36 Schnitte · Verfolgung · Unfall · Warnung"
+},
+{
+"key": "part02.html#668",
+"de": "Beschwingt"
+},
+{
+"key": "part02.html#669",
+"de": "15 Schnitte · Produktvorstellung · Vlog"
+},
+{
+"key": "part02.html#670",
+"de": "Empathie"
+},
+{
+"key": "part02.html#671",
+"de": "7 Schnitte · Interview · Doku"
+},
+{
+"key": "part02.html#672",
+"de": "Staunen"
+},
+{
+"key": "part02.html#673",
+"de": "4 Schnitte · Landschaft · Markenstimmung"
+},
+{
+"key": "part02.html#674",
+"de": "Kurze Einstellungen beschleunigen den Puls, lange lassen Raum zum Nachdenken."
+},
+{
+"key": "part02.html#675",
+"de": "<b>Abb. 23</b> Einstellungslänge nach Emotion – in denselben 18 Sekunden bestimmt die Zahl der Schnitte die Emotion."
+},
+{
+"key": "part02.html#676",
+"de": "Stimmung"
+},
+{
+"key": "part02.html#677",
+"de": "Ø Einstellungslänge"
+},
+{
+"key": "part02.html#678",
+"de": "Größenstrategie"
+},
+{
+"key": "part02.html#679",
+"de": "Anschlüsse"
+},
+{
+"key": "part02.html#680",
+"de": "Ton"
+},
+{
+"key": "part02.html#681",
+"de": "Dringlichkeit, Aufregung"
+},
+{
+"key": "part02.html#682",
+"de": "Rasche Wechsel, meist Großaufnahmen"
+},
+{
+"key": "part02.html#683",
+"de": "Jump Cuts, harte Schnitte"
+},
+{
+"key": "part02.html#684",
+"de": "Synchrone Schlageffekte"
+},
+{
+"key": "part02.html#685",
+"de": "Beschwingt, fröhlich"
+},
+{
+"key": "part02.html#686",
+"de": "Wechselnde Größen"
+},
+{
+"key": "part02.html#687",
+"de": "Bewegungsschnitte + Beat"
+},
+{
+"key": "part02.html#688",
+"de": "Schnitt auf den Beat"
+},
+{
+"key": "part02.html#689",
+"de": "Wärme, Empathie"
+},
+{
+"key": "part02.html#690",
+"de": "Meist Halbnahe"
+},
+{
+"key": "part02.html#691",
+"de": "L-Schnitte, Überblendungen"
+},
+{
+"key": "part02.html#692",
+"de": "Musik mit langem Hall"
+},
+{
+"key": "part02.html#693",
+"de": "Vertrauen, Kompetenz"
+},
+{
+"key": "part02.html#694",
+"de": "Ruhige Halbnahe und Inserts"
+},
+{
+"key": "part02.html#695",
+"de": "Bewegungsschnitte"
+},
+{
+"key": "part02.html#696",
+"de": "Sprechertext führt"
+},
+{
+"key": "part02.html#697",
+"de": "Staunen, Ehrfurcht"
+},
+{
+"key": "part02.html#698",
+"de": "Ab 3 s"
+},
+{
+"key": "part02.html#699",
+"de": "Totalen, langsame Bewegungen"
+},
+{
+"key": "part02.html#700",
+"de": "Überblendungen"
+},
+{
+"key": "part02.html#701",
+"de": "Nur Musik, kein Dialog"
+},
+{
+"key": "part02.html#702",
+"de": "Neugier wecken"
+},
+{
+"key": "part02.html#703",
+"de": "Detail-Insert, dann das Ganze"
+},
+{
+"key": "part02.html#704",
+"de": "Harter Schnitt, dann halten"
+},
+{
+"key": "part02.html#705",
+"de": "Stille nutzen"
+},
+{
+"key": "part02.html#706",
+"de": "<b>TIPP</b>"
+},
+{
+"key": "part02.html#707",
+"de": "Am sichersten: erst den Beat der Musik festlegen, dann die Einstellungslängen daran anpassen."
+},
+{
+"key": "part02.html#708",
+"de": "Menschen lernen einen regelmäßigen Rhythmus und werden aufmerksam, wenn er bricht. Sind alle Einstellungen gleich lang, kommt die Information an, bleibt aber nicht hängen."
+},
+{
+"key": "part02.html#709",
+"de": "<small>Übung</small>1.10"
+},
+{
+"key": "part02.html#710",
+"de": "Aufgabe"
+},
+{
+"key": "part02.html#711",
+"de": "Erstellen Sie ein 1-minütiges Video mit harten Schnitten, Match Cuts, Jump Cuts, J- und L-Schnitten sowie Überblendungen."
+},
+{
+"key": "part02.html#712",
+"de": "Tipp"
+},
+{
+"key": "part02.html#713",
+"de": "Ein Match Cut beginnt mit der Suche nach zwei Einstellungen, die eine Form oder Bewegungsrichtung teilen."
+},
+{
+"key": "part02.html#714",
+"de": "Bewertung"
+},
+{
+"key": "part02.html#715",
+"de": "Begründung jedes Übergangs; Rhythmus"
+},
+{
+"key": "part02.html#716",
+"de": "Musterlösung"
+},
+{
+"key": "part02.html#717",
+"de": "Der Match Cut vom Knochen zum Raumschiff in 2001: Odyssee im Weltraum. Planen Sie an jedem Übergang einen Sprung in Zeit · Raum."
+},
+{
+"key": "part02.html#718",
+"de": "<b>TEIL 02</b>Die Sprache des Videos"
+},
+{
+"key": "part02.html#719",
+"de": "Mise-en-scène und Montage"
+},
+{
+"key": "part02.html#720",
+"de": "Beide sind keine Gegensätze, sondern arbeiten Hand in Hand. Legen Sie zuerst fest, wohin Ihr Video tendiert – dann ändert sich die Dichte Ihres Drehplans grundlegend."
+},
+{
+"key": "part02.html#721",
+"de": "Mise-en-scène – Gestaltung innerhalb einer Einstellung"
+},
+{
+"key": "part02.html#722",
+"de": "Was ins Bild kommt"
+},
+{
+"key": "part02.html#723",
+"de": "Figurenpositionen, Requisiten, Farbe, Licht, Kostüm, Raum"
+},
+{
+"key": "part02.html#724",
+"de": "Passt zu ruhigem Tempo und langen Einstellungen"
+},
+{
+"key": "part02.html#725",
+"de": "Das Publikum erkundet das Bild selbst"
+},
+{
+"key": "part02.html#726",
+"de": "Informationsdicht; lädt zum erneuten Ansehen ein"
+},
+{
+"key": "part02.html#727",
+"de": "Beispiele: die Symmetrie bei Park Chan-wook, die Farbpaletten von Wes Anderson"
+},
+{
+"key": "part02.html#728",
+"de": "Montage – Kollision zwischen Einstellungen"
+},
+{
+"key": "part02.html#729",
+"de": "Was verbunden wird, in welcher Reihenfolge"
+},
+{
+"key": "part02.html#730",
+"de": "Einstellungslänge, Reihenfolge, Kontrast, Rhythmus"
+},
+{
+"key": "part02.html#731",
+"de": "Passt zu schnellem Tempo und Werbung"
+},
+{
+"key": "part02.html#732",
+"de": "Steuert die Wahrnehmung eng"
+},
+{
+"key": "part02.html#733",
+"de": "Informiert schnell, starker Eindruck"
+},
+{
+"key": "part02.html#734",
+"de": "Beispiele: Eisenstein, die meisten Werbespots"
+},
+{
+"key": "part02.html#735",
+"de": "<b>15<em>-Sekunden-Spots</em></b>Montage dominiert"
+},
+{
+"key": "part02.html#736",
+"de": "<b>Marken<em>filme</em></b>Mise-en-scène dominiert"
+},
+{
+"key": "part02.html#737",
+"de": "<small>Übung</small>1.11"
+},
+{
+"key": "part02.html#738",
+"de": "Aufgabe"
+},
+{
+"key": "part02.html#739",
+"de": "Drehen Sie eine Szene zweimal: als Mise-en-scène-Fassung in einer Plansequenz und als Montage-Fassung."
+},
+{
+"key": "part02.html#740",
+"de": "Tipp"
+},
+{
+"key": "part02.html#741",
+"de": "Planen Sie für die Plansequenz zuerst Positionen und Wege der Darsteller, für die Montage die Reihenfolge der Einstellungen."
+},
+{
+"key": "part02.html#742",
+"de": "Bewertung"
+},
+{
+"key": "part02.html#743",
+"de": "Haben Sie erklärt, wie sich beide emotional unterscheiden?"
+},
+{
+"key": "part02.html#744",
+"de": "Musterlösung"
+},
+{
+"key": "part02.html#745",
+"de": "Die Flurszene in Oldboy und Panzerkreuzer Potemkin. Setzen Sie beide Fassungen nach demselben Drehbuch um."
+},
+{
+"key": "part02.html#746",
+"de": "<b>TEIL 02</b>Die Sprache des Videos"
+},
+{
+"key": "part02.html#747",
+"de": "Farbe und Szenenbild"
+},
+{
+"key": "part02.html#748",
+"de": "Farbe im Bild ist Information, keine Dekoration. Ein Bild mit unkontrollierter Farbe wirkt amateurhaft, so gut die Komposition auch sein mag."
+},
+{
+"key": "part02.html#749",
+"de": "<b>Abb. 24</b> Helligkeitsstruktur von vier Farbschemata"
+},
+{
+"key": "part02.html#750",
+"de": "Farbe"
+},
+{
+"key": "part02.html#751",
+"de": "Typische Assoziationen"
+},
+{
+"key": "part02.html#752",
+"de": "Einsatz im Video"
+},
+{
+"key": "part02.html#753",
+"de": "Hinweis"
+},
+{
+"key": "part02.html#754",
+"de": "Rot"
+},
+{
+"key": "part02.html#755",
+"de": "Leidenschaft, Gefahr, Appetit"
+},
+{
+"key": "part02.html#756",
+"de": "Akzente, Markenbetonung, Spannung"
+},
+{
+"key": "part02.html#757",
+"de": "Max. 5 % der Bildfläche"
+},
+{
+"key": "part02.html#758",
+"de": "Orangetöne"
+},
+{
+"key": "part02.html#759",
+"de": "Wärme, Energie, Abend"
+},
+{
+"key": "part02.html#760",
+"de": "Hauttöne, Sonnenuntergänge, Freundlichkeit"
+},
+{
+"key": "part02.html#761",
+"de": "Stark in Kombination mit Petrol"
+},
+{
+"key": "part02.html#762",
+"de": "Gelb"
+},
+{
+"key": "part02.html#763",
+"de": "Warnung, Fröhlichkeit, Sonnenlicht"
+},
+{
+"key": "part02.html#764",
+"de": "Aufmerksamkeit wecken, Zielgruppe Kinder"
+},
+{
+"key": "part02.html#765",
+"de": "Großflächig ermüdend"
+},
+{
+"key": "part02.html#766",
+"de": "Grün"
+},
+{
+"key": "part02.html#767",
+"de": "Natur, Ruhe, Gesundheit"
+},
+{
+"key": "part02.html#768",
+"de": "Öko, Lebensmittel, Beruhigung"
+},
+{
+"key": "part02.html#769",
+"de": "Bei Chroma-Key-Drehs für Kostüme tabu"
+},
+{
+"key": "part02.html#770",
+"de": "Blau"
+},
+{
+"key": "part02.html#771",
+"de": "Vertrauen, Kühle, Technik"
+},
+{
+"key": "part02.html#772",
+"de": "Finanzen, IT, Nacht"
+},
+{
+"key": "part02.html#773",
+"de": "Zu kalt wirkt distanziert"
+},
+{
+"key": "part02.html#774",
+"de": "Violett"
+},
+{
+"key": "part02.html#775",
+"de": "Luxus, Geheimnis, Kreativität"
+},
+{
+"key": "part02.html#776",
+"de": "Kosmetik, Kunst, Premium"
+},
+{
+"key": "part02.html#777",
+"de": "Schwer reproduzierbar"
+},
+{
+"key": "part02.html#778",
+"de": "Neutraltöne"
+},
+{
+"key": "part02.html#779",
+"de": "Zurückhaltung, Raffinesse, Ernsthaftigkeit"
+},
+{
+"key": "part02.html#780",
+"de": "Luxusprodukte, Schwarz-Weiß-Looks"
+},
+{
+"key": "part02.html#781",
+"de": "Braucht eine Akzentfarbe"
+},
+{
+"key": "part02.html#782",
+"de": "Farbschema-Strategien"
+},
+{
+"key": "part02.html#783",
+"de": "<small>Werbestandard</small>Komplementärkontrast"
+}
+]

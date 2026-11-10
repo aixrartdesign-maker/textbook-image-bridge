@@ -1,0 +1,1253 @@
+{
+ "stem": "p032_005_1373x597",
+ "size": [
+  2689,
+  1086
+ ],
+ "elements": [
+  {
+   "kind": "label",
+   "label": "Birth of film",
+   "en": "Birth of film",
+   "lines": [
+    [
+     199,
+     171,
+     382,
+     196
+    ]
+   ],
+   "ocr": "Birth of film",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 0,
+   "box": [
+    199,
+    171,
+    382,
+    196
+   ],
+   "ltexts": [
+    "Birth of film"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.6,
+   "color": [
+    78,
+    80,
+    84
+   ],
+   "weight": "Regular",
+   "size": 34.46,
+   "baselines": [
+    197
+   ],
+   "xs": [
+    196
+   ],
+   "inkboxes": [
+    [
+     199,
+     171,
+     382,
+     196
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.6,
+   "align": "left",
+   "room": {
+    "left": 199,
+    "right": 2307,
+    "up": 171,
+    "down": 165,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Nonlinear editing",
+   "en": "Nonlinear editing",
+   "lines": [
+    [
+     1233,
+     173,
+     1500,
+     205
+    ]
+   ],
+   "ocr": "Nonlinear editing",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 1,
+   "box": [
+    1233,
+    173,
+    1500,
+    205
+   ],
+   "ltexts": [
+    "Nonlinear editing"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    76,
+    78,
+    82
+   ],
+   "weight": "Regular",
+   "size": 33.46,
+   "baselines": [
+    198
+   ],
+   "xs": [
+    1230
+   ],
+   "inkboxes": [
+    [
+     1233,
+     173,
+     1500,
+     205
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.59,
+   "align": "left",
+   "room": {
+    "left": 1233,
+    "right": 1189,
+    "up": 173,
+    "down": 158,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Generative AI",
+   "en": "Generative AI",
+   "lines": [
+    [
+     2303,
+     174,
+     2512,
+     199
+    ]
+   ],
+   "ocr": "Generative Al",
+   "ratio": 0.92,
+   "src": [
+    "page"
+   ],
+   "id": 2,
+   "box": [
+    2303,
+    174,
+    2512,
+    199
+   ],
+   "ltexts": [
+    "Generative AI"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    74,
+    77,
+    80
+   ],
+   "weight": "Regular",
+   "size": 34.83,
+   "baselines": [
+    200
+   ],
+   "xs": [
+    2301
+   ],
+   "inkboxes": [
+    [
+     2303,
+     174,
+     2512,
+     199
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.6,
+   "align": "left",
+   "room": {
+    "left": 2303,
+    "right": 177,
+    "up": 174,
+    "down": 164,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "DSLR video",
+   "en": "DSLR video",
+   "lines": [
+    [
+     1798,
+     175,
+     1972,
+     200
+    ]
+   ],
+   "ocr": "DSLR video",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 3,
+   "box": [
+    1798,
+    175,
+    1972,
+    200
+   ],
+   "ltexts": [
+    "DSLR video"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    78,
+    80,
+    84
+   ],
+   "weight": "Regular",
+   "size": 34.05,
+   "baselines": [
+    200
+   ],
+   "xs": [
+    1795
+   ],
+   "inkboxes": [
+    [
+     1798,
+     175,
+     1972,
+     200
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.64,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1798,
+    "right": 717,
+    "up": 175,
+    "down": 163,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Widescreen",
+   "en": "Widescreen",
+   "lines": [
+    [
+     727,
+     177,
+     904,
+     201
+    ]
+   ],
+   "ocr": "Widescreen",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 4,
+   "box": [
+    727,
+    177,
+    904,
+    201
+   ],
+   "ltexts": [
+    "Widescreen"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    78,
+    80,
+    85
+   ],
+   "weight": "Regular",
+   "size": 33.46,
+   "baselines": [
+    201
+   ],
+   "xs": [
+    726
+   ],
+   "inkboxes": [
+    [
+     727,
+     177,
+     904,
+     201
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.69,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 727,
+    "right": 1785,
+    "up": 177,
+    "down": 161,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "1895",
+   "lines": [
+    [
+     233,
+     268,
+     323,
+     297
+    ]
+   ],
+   "ocr": "1895",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.7,
+   "id": 5,
+   "box": [
+    233,
+    268,
+    323,
+    297
+   ],
+   "ltexts": [
+    "1895"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    23,
+    24,
+    26
+   ],
+   "weight": "Bold",
+   "size": 39.26,
+   "baselines": [
+    297
+   ],
+   "xs": [
+    230
+   ],
+   "inkboxes": [
+    [
+     233,
+     268,
+     323,
+     297
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.68,
+   "align": "left",
+   "room": {
+    "left": 233,
+    "right": 2366,
+    "up": 268,
+    "down": 64,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "1953",
+   "lines": [
+    [
+     769,
+     270,
+     858,
+     299
+    ]
+   ],
+   "ocr": "1953",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.3,
+   "id": 6,
+   "box": [
+    769,
+    270,
+    858,
+    299
+   ],
+   "ltexts": [
+    "1953"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 2.2,
+   "color": [
+    23,
+    24,
+    25
+   ],
+   "weight": "Bold",
+   "size": 39.12,
+   "baselines": [
+    299
+   ],
+   "xs": [
+    766
+   ],
+   "inkboxes": [
+    [
+     769,
+     270,
+     858,
+     299
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.8,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 769,
+    "right": 1831,
+    "up": 270,
+    "down": 63,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "2022",
+   "lines": [
+    [
+     2372,
+     271,
+     2463,
+     300
+    ]
+   ],
+   "ocr": "2022",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.8,
+   "id": 7,
+   "box": [
+    2372,
+    271,
+    2463,
+    300
+   ],
+   "ltexts": [
+    "2022"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 2.1,
+   "color": [
+    24,
+    25,
+    27
+   ],
+   "weight": "Bold",
+   "size": 39.12,
+   "baselines": [
+    300
+   ],
+   "xs": [
+    2370
+   ],
+   "inkboxes": [
+    [
+     2372,
+     271,
+     2463,
+     300
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.65,
+   "align": "left",
+   "room": {
+    "left": 2372,
+    "right": 226,
+    "up": 271,
+    "down": 63,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "1989",
+   "lines": [
+    [
+     1303,
+     272,
+     1393,
+     301
+    ]
+   ],
+   "ocr": "1989",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.9,
+   "id": 8,
+   "box": [
+    1303,
+    272,
+    1393,
+    301
+   ],
+   "ltexts": [
+    "1989"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.6,
+   "color": [
+    22,
+    23,
+    25
+   ],
+   "weight": "Bold",
+   "size": 39.26,
+   "baselines": [
+    301
+   ],
+   "xs": [
+    1300
+   ],
+   "inkboxes": [
+    [
+     1303,
+     272,
+     1393,
+     301
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.74,
+   "align": "left",
+   "room": {
+    "left": 1303,
+    "right": 1296,
+    "up": 272,
+    "down": 62,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "token",
+   "en": "2008",
+   "lines": [
+    [
+     1836,
+     272,
+     1929,
+     301
+    ]
+   ],
+   "ocr": "2008",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.7,
+   "id": 9,
+   "box": [
+    1836,
+    272,
+    1929,
+    301
+   ],
+   "ltexts": [
+    "2008"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.5,
+   "color": [
+    22,
+    23,
+    25
+   ],
+   "weight": "Bold",
+   "size": 40.97,
+   "baselines": [
+    301
+   ],
+   "xs": [
+    1834
+   ],
+   "inkboxes": [
+    [
+     1836,
+     272,
+     1929,
+     301
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.75,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1836,
+    "right": 760,
+    "up": 272,
+    "down": 62,
+    "lb": false,
+    "rb": false,
+    "ub": false,
+    "db": true
+   }
+  },
+  {
+   "kind": "token",
+   "en": "1927",
+   "lines": [
+    [
+     499,
+     835,
+     588,
+     864
+    ]
+   ],
+   "ocr": "1927",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.8,
+   "id": 10,
+   "box": [
+    499,
+    835,
+    588,
+    864
+   ],
+   "ltexts": [
+    "1927"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.3,
+   "color": [
+    23,
+    24,
+    26
+   ],
+   "weight": "Bold",
+   "size": 39.03,
+   "baselines": [
+    864
+   ],
+   "xs": [
+    496
+   ],
+   "inkboxes": [
+    [
+     499,
+     835,
+     588,
+     864
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.78,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 499,
+    "right": 2101,
+    "up": 54,
+    "down": 222,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "token",
+   "en": "1956",
+   "lines": [
+    [
+     1032,
+     835,
+     1122,
+     864
+    ]
+   ],
+   "ocr": "1956",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.7,
+   "id": 11,
+   "box": [
+    1032,
+    835,
+    1122,
+    864
+   ],
+   "ltexts": [
+    "1956"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.8,
+   "color": [
+    23,
+    24,
+    26
+   ],
+   "weight": "Bold",
+   "size": 39.17,
+   "baselines": [
+    864
+   ],
+   "xs": [
+    1029
+   ],
+   "inkboxes": [
+    [
+     1032,
+     835,
+     1122,
+     864
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.78,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1032,
+    "right": 1567,
+    "up": 54,
+    "down": 222,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "token",
+   "en": "2005",
+   "lines": [
+    [
+     1566,
+     836,
+     1657,
+     865
+    ]
+   ],
+   "ocr": "2005",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 96.2,
+   "id": 12,
+   "box": [
+    1566,
+    836,
+    1657,
+    865
+   ],
+   "ltexts": [
+    "2005"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 2.1,
+   "color": [
+    24,
+    25,
+    26
+   ],
+   "weight": "Bold",
+   "size": 40.09,
+   "baselines": [
+    865
+   ],
+   "xs": [
+    1564
+   ],
+   "inkboxes": [
+    [
+     1566,
+     836,
+     1657,
+     864
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.71,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1566,
+    "right": 1032,
+    "up": 55,
+    "down": 221,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "token",
+   "en": "2016",
+   "lines": [
+    [
+     2105,
+     836,
+     2196,
+     864
+    ]
+   ],
+   "ocr": "2016",
+   "ratio": null,
+   "src": [
+    "page"
+   ],
+   "conf": 97.0,
+   "id": 13,
+   "box": [
+    2105,
+    836,
+    2196,
+    864
+   ],
+   "ltexts": [
+    "2016"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.4,
+   "color": [
+    22,
+    23,
+    25
+   ],
+   "weight": "Bold",
+   "size": 39.91,
+   "baselines": [
+    865
+   ],
+   "xs": [
+    2103
+   ],
+   "inkboxes": [
+    [
+     2105,
+     836,
+     2196,
+     864
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.73,
+   "align": "left",
+   "room": {
+    "left": 2105,
+    "right": 493,
+    "up": 54,
+    "down": 222,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "Sound film",
+   "en": "Sound film",
+   "lines": [
+    [
+     461,
+     924,
+     627,
+     949
+    ]
+   ],
+   "ocr": "Sound film",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 14,
+   "box": [
+    461,
+    924,
+    627,
+    949
+   ],
+   "ltexts": [
+    "Sound film"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.7,
+   "color": [
+    78,
+    80,
+    84
+   ],
+   "weight": "Regular",
+   "size": 33.6,
+   "baselines": [
+    949
+   ],
+   "xs": [
+    459
+   ],
+   "inkboxes": [
+    [
+     461,
+     924,
+     627,
+     949
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.65,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 461,
+    "right": 2062,
+    "up": 143,
+    "down": 137,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Videotape",
+   "en": "Videotape",
+   "lines": [
+    [
+     999,
+     925,
+     1159,
+     956
+    ]
+   ],
+   "ocr": "Videotape",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 15,
+   "box": [
+    999,
+    925,
+    1159,
+    956
+   ],
+   "ltexts": [
+    "Videotape"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 0.9,
+   "color": [
+    78,
+    79,
+    84
+   ],
+   "weight": "Regular",
+   "size": 34.33,
+   "baselines": [
+    950
+   ],
+   "xs": [
+    999
+   ],
+   "inkboxes": [
+    [
+     999,
+     925,
+     1159,
+     956
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.75,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 999,
+    "right": 1530,
+    "up": 144,
+    "down": 130,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  },
+  {
+   "kind": "label",
+   "label": "Short-form",
+   "en": "Short-form",
+   "lines": [
+    [
+     2068,
+     927,
+     2246,
+     952
+    ]
+   ],
+   "ocr": "Short-form",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 16,
+   "box": [
+    2068,
+    927,
+    2246,
+    952
+   ],
+   "ltexts": [
+    "Short-form"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    77,
+    79,
+    83
+   ],
+   "weight": "Regular",
+   "size": 35.67,
+   "baselines": [
+    953
+   ],
+   "xs": [
+    2066
+   ],
+   "inkboxes": [
+    [
+     2068,
+     927,
+     2246,
+     952
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.41,
+   "align": "left",
+   "room": {
+    "left": 2068,
+    "right": 443,
+    "up": 145,
+    "down": 134,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   },
+   "align_src": "default"
+  },
+  {
+   "kind": "label",
+   "label": "YouTube",
+   "en": "YouTube",
+   "lines": [
+    [
+     1544,
+     928,
+     1678,
+     952
+    ]
+   ],
+   "ocr": "YouTube",
+   "ratio": 1.0,
+   "src": [
+    "page"
+   ],
+   "id": 17,
+   "box": [
+    1544,
+    928,
+    1678,
+    952
+   ],
+   "ltexts": [
+    "YouTube"
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ],
+   "bgstd": 1.1,
+   "color": [
+    77,
+    79,
+    83
+   ],
+   "weight": "Regular",
+   "size": 33.84,
+   "baselines": [
+    953
+   ],
+   "xs": [
+    1544
+   ],
+   "inkboxes": [
+    [
+     1544,
+     928,
+     1678,
+     952
+    ]
+   ],
+   "pitch": null,
+   "fitscore": 0.63,
+   "align": "center",
+   "align_src": "neighbours",
+   "room": {
+    "left": 1544,
+    "right": 1011,
+    "up": 147,
+    "down": 134,
+    "lb": false,
+    "rb": false,
+    "ub": true,
+    "db": false
+   }
+  }
+ ],
+ "missing": [],
+ "noise": []
+}

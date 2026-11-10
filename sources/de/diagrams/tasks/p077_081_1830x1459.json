@@ -1,0 +1,174 @@
+{
+ "stem": "p077_081_1830x1459",
+ "image": "/tmp/claude-0/-home-claude/0167432f-a877-5671-a0ae-ef5f130765fd/scratchpad/book_en/img_en/EN-p077_081_1830x1459.png",
+ "elements": [
+  {
+   "id": "0",
+   "en": "Composition sets the eye's path in the frame",
+   "role": "title",
+   "fits": {
+    "chars_per_line_now": 44,
+    "chars_per_line_max": 80,
+    "chars_per_line_if_shrunk": 98,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "1",
+   "en": "Rule of thirds",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 14,
+    "chars_per_line_max": 40,
+    "chars_per_line_if_shrunk": 49,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "2",
+   "en": "Golden ratio",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 12,
+    "chars_per_line_max": 56,
+    "chars_per_line_if_shrunk": 68,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "3",
+   "en": "Symmetry",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 8,
+    "chars_per_line_max": 29,
+    "chars_per_line_if_shrunk": 36,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "4",
+   "en": "Eyes and subject on lines and intersections",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 43,
+    "chars_per_line_max": 59,
+    "chars_per_line_if_shrunk": 72,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "5",
+   "en": "1 : 1.618 — drawn to the spiral's center",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 40,
+    "chars_per_line_max": 62,
+    "chars_per_line_if_shrunk": 76,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "6",
+   "en": "Central vanishing point — order, tension, ritual",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 48,
+    "chars_per_line_max": 63,
+    "chars_per_line_if_shrunk": 77,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "7",
+   "en": "Rhythm · repetition",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 19,
+    "chars_per_line_max": 38,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "8",
+   "en": "Leading lines",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 13,
+    "chars_per_line_max": 53,
+    "chars_per_line_if_shrunk": 65,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "9",
+   "en": "Frame within a frame",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 20,
+    "chars_per_line_max": 38,
+    "chars_per_line_if_shrunk": 47,
+    "lines_now": 1,
+    "lines_max": 1
+   }
+  },
+  {
+   "id": "10",
+   "en": "Repeated shapes, broken once",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 28,
+    "chars_per_line_max": 55,
+    "chars_per_line_if_shrunk": 67,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "11",
+   "en": "Lines lead the eye to the subject",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 33,
+    "chars_per_line_max": 84,
+    "chars_per_line_if_shrunk": 103,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  },
+  {
+   "id": "12",
+   "en": "Doors · windows frame it again",
+   "role": "label",
+   "fits": {
+    "chars_per_line_now": 30,
+    "chars_per_line_max": 62,
+    "chars_per_line_if_shrunk": 75,
+    "lines_now": 1,
+    "lines_max": 3
+   }
+  },
+  {
+   "id": "13",
+   "en": "The six are choices, not rules — decide what's seen first, then pick",
+   "role": "caption",
+   "fits": {
+    "chars_per_line_now": 68,
+    "chars_per_line_max": 171,
+    "chars_per_line_if_shrunk": 209,
+    "lines_now": 1,
+    "lines_max": 2
+   }
+  }
+ ]
+}
